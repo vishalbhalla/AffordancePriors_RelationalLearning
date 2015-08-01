@@ -65,3 +65,51 @@ for filePath in labelPath:
 text_file.close()
 
 
+## Stemming
+# Stemming is the process of reducing a word into its stem, i.e. its root form.
+# We are doing the stemming for comparison of our corpuses (train & test) nd it doesnt matter if we don't get a real world.
+
+## Lemmatisation
+# The purpose of Lemmatisation is to group together different inflected forms of a word, called lemma.
+# It maps several words into one common root.
+
+#stemmer = PorterStemmer()
+lemmatiser = WordNetLemmatizer()
+
+text_fileLemma = open('CAD120SVOTuplesLemmatized.txt', 'w')
+
+print 'Start the Lemmatization process to group together different words (lemma) to a common root for all grammar tuples'
+
+text_file = open('ParsedCAD120SVOTuples.txt', 'r')
+VerbNounTuples = text_file.read()
+text_file.close()
+
+SVOTuples = VerbNounTuples.split('\n')
+for pair in SVOTuples:
+    if 'nsubj' in pair or 'dobj' in pair:
+        str = pair.strip()
+        if 'nsubj' in pair:
+            formattedStr = str.replace('nsubj(', '')
+        elif 'dobj' in pair:
+            formattedStr = str.replace('dobj(', '')
+        formattedStr = formattedStr.replace(')', '')
+        formattedStr = formattedStr.translate(None, ' ')
+        lsVerbNoun = []
+        lsVerbNoun = formattedStr.split(',')
+        strVerb = lsVerbNoun[0]
+        strNoun = lsVerbNoun[1]
+
+        #strStemmedVerb = stemmer.stem(strVerb)
+        #strStemmedNoun = stemmer.stem(strNoun)
+
+        strLemmatizedVerb = lemmatiser.lemmatize(strVerb, pos="v")
+        strLemmatizedNoun = lemmatiser.lemmatize(strNoun, pos="n")
+
+        if 'nsubj' in pair:
+            lemmatizeSVOTuple = 'nsubj(' + strLemmatizedVerb + ',' + strLemmatizedNoun + ')'
+        elif 'dobj' in pair:
+            lemmatizeSVOTuple = 'dobj(' + strLemmatizedVerb + ',' + strLemmatizedNoun + ')'
+        text_fileLemma.write(lemmatizeSVOTuple + "\n")
+
+text_fileLemma.close()
+print 'Lemmatization process to group together different words (lemma) to a common root for all grammar tuples is completed'
