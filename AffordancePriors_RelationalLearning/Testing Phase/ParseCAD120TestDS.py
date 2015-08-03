@@ -71,6 +71,10 @@ for filePath in labelPath:
                         # Stem to find the root word.
                         strStemmedVerbS = stemmer.stem(strVerbNewS)
                         verbS = strStemmedVerbS
+
+                        # Remove numbers from the Subject
+                        nounS = nounS.translate(None, '-0123456789')
+
                         verbNounSVPair = 'nsubj(' + verbS + ', ' + nounS + ')' + '\n'
 
                         text_file.write(verbNounSVPair)    # + "\n"
@@ -94,6 +98,9 @@ for filePath in labelPath:
                                 # Stem to find the root word.
                                 strStemmedVerbO = stemmer.stem(strVerbNewO)
                                 verbO = strStemmedVerbO
+
+                                # Remove numbers from Object
+                                nounO = nounO.translate(None, '-0123456789')
 
                                 verbNounVOPair = 'dobj(' + verbO + ', ' + nounO + ')' + '\n'
                                 text_file.write(verbNounVOPair)    # + "\n"
