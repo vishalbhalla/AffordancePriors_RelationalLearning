@@ -6,7 +6,7 @@ from urllib2 import urlopen
 
 URLList = ["http://www.wikihow.com/Use-Citrus-Fruit-Peels-in-the-Home-and-Garden", "http://www.wikihow.com/Place-and-Finish-a-Concrete-Floor"]
 txtString = ''
-text_file = open('WebScrapingTrain.txt', 'w')
+text_file = open('WebScrapingTrainSentence.txt', 'w')
 
 for BASE_URL in URLList:
     html = urlopen(BASE_URL).read()
