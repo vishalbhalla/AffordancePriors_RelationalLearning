@@ -1,38 +1,2441 @@
-det(rain-3, The-1)
-amod(rain-3, strongest-2)
-nsubj(shut-8, rain-3)
-nsubj(snapped-16, rain-3)
-nsubj(closed-20, rain-3)
-nsubj(forced-23, rain-3)
-advmod(recorded-5, ever-4)
-partmod(rain-3, recorded-5)
-prep_in(recorded-5, India-7)
-ccomp(said-40, shut-8)
-prt(shut-8, down-9)
-det(hub-12, the-10)
-amod(hub-12, financial-11)
-dobj(shut-8, hub-12)
-prep_of(hub-12, Mumbai-14)
-conj_and(shut-8, snapped-16)
-ccomp(said-40, snapped-16)
-nn(lines-18, communication-17)
-dobj(snapped-16, lines-18)
-conj_and(shut-8, closed-20)
-ccomp(said-40, closed-20)
-dobj(closed-20, airports-21)
-conj_and(shut-8, forced-23)
-ccomp(said-40, forced-23)
-dobj(forced-23, thousands-24)
-prep_of(thousands-24, people-26)
-aux(sleep-28, to-27)
-xcomp(forced-23, sleep-28)
-poss(offices-31, their-30)
-prep_in(sleep-28, offices-31)
-xcomp(forced-23, walk-33)
-conj_or(sleep-28, walk-33)
-dobj(walk-33, home-34)
-det(night-37, the-36)
-prep_during(walk-33, night-37)
-nsubj(said-40, officials-39)
-root(ROOT-0, said-40)
-tmod(said-40, today-41)
+advmod(wash-2, Always-1)
+
+det(peel-4, the-3)
+
+dobj(wash-2, peel-4)
+
+advmod(well-6, extremely-5)
+
+advmod(wash-2, well-6)
+
+mark(use-8, before-7)
+
+dep(well-6, use-8)
+
+nsubj(wash-2, *NL*-10)
+prep_if(prefer-4, possible-2)
+
+amod(sources-6, organic-5)
+
+dobj(prefer-4, sources-6)
+
+dep(prefer-4, rather-7)
+
+prep_than(prefer-4, those-9)
+
+nsubjpass(sprayed-13, which-10)
+
+aux(sprayed-13, have-11)
+
+auxpass(sprayed-13, been-12)
+
+rcmod(those-9, sprayed-13)
+
+dep(prefer-4, especially-15)
+
+dep(prefer-4, for-16)
+
+det(food-18, any-17)
+
+pobj(for-16, food-18)
+
+amod(use-21, internal-20)
+
+conj_or(food-18, use-21)
+
+partmod(food-18, *NL*-23)
+mark(get-5, If-1)
+
+nsubj(get-5, you-2)
+
+aux(get-5, ca-3)
+
+neg(get-5, nt-4)
+
+amod(fruit-7, organic-6)
+
+dobj(get-5, fruit-7)
+
+conj_and(get-5, use-9)
+
+det(fruit-13, a-10)
+
+advmod(good-12, very-11)
+
+amod(fruit-13, good-12)
+
+dobj(use-9, fruit-13)
+
+advmod(get-5, vegetable-15)
+
+conj_and(get-5, scrub-16)
+
+aux(remove-18, to-17)
+
+xcomp(scrub-16, remove-18)
+
+nn(traces-20, chemical-19)
+
+dobj(remove-18, traces-20)
+
+dep(get-5, *NL*-22)
+dobj(See-1, Warnings-3)
+
+dep(See-1, below-5)
+
+det(possibility-8, the-7)
+
+prep_for(See-1, possibility-8)
+
+prep_of(possibility-8, dermatitis-10)
+
+amod(reactions-13, allergic-12)
+
+conj_and(possibility-8, reactions-13)
+
+nn(*NL*-18, citrus-15)
+
+nn(*NL*-18, peel-16)
+
+prep_to(reactions-13, *NL*-18)
+det(peel-3, the-2)
+
+dobj(Use-1, peel-3)
+
+det(*NL*-11, a-5)
+
+amod(*NL*-11, kumquat-6)
+
+aux(make-8, to-7)
+
+xcomp(kumquat-6, make-8)
+
+dep(make-8, marmalade-9)
+
+prep_of(peel-3, *NL*-11)
+advmod(cook-2, Just-1)
+
+det(peel-5, the-3)
+
+amod(peel-5, chopped-4)
+
+dobj(cook-2, peel-5)
+
+amod(*NL*-20, sugar-water-7)
+
+mark(s-10, until-8)
+
+nsubj(s-10, it-9)
+
+ccomp(sugar-water-7, s-10)
+
+mark(use-14, like-11)
+
+det(syrup-13, a-12)
+
+nsubj(use-14, syrup-13)
+
+advcl(s-10, use-14)
+
+poss(recipe-18, your-15)
+
+amod(recipe-18, favorite-16)
+
+nn(recipe-18, marmalade-17)
+
+dobj(use-14, recipe-18)
+
+prep_with(peel-5, *NL*-20)
+det(lemon-3, a-2)
+
+dobj(Peel-1, lemon-3)
+
+conj_and(Peel-1, use-5)
+
+nsubj(bathe-8, it-6)
+
+aux(bathe-8, to-7)
+
+xcomp(use-5, bathe-8)
+
+dobj(bathe-8, yourself-9)
+
+det(*NL*-14, the-11)
+
+nn(*NL*-14, shower-12)
+
+prep_in(bathe-8, *NL*-14)
+nsubj(leaves-2, It-1)
+
+poss(body-4, your-3)
+
+dobj(leaves-2, body-4)
+
+conj_and(body-4, hair-6)
+
+xcomp(leaves-2, smelling-7)
+
+nn(*NL*-12, fresh-8)
+
+conj_and(fresh-8, clean-10)
+
+dobj(smelling-7, *NL*-12)
+amod(peel-3, lemon-2)
+
+dobj(Infuse-1, peel-3)
+
+poss(tea-6, your-5)
+
+prep_in(Infuse-1, tea-6)
+
+aux(add-8, to-7)
+
+infmod(tea-6, add-8)
+
+det(taste-12, a-9)
+
+amod(taste-12, delicious-10)
+
+dep(delicious-10, lemony-11)
+
+dep(add-8, taste-12)
+
+nsubj(Infuse-1, *NL*-14)
+amod(peels-10, Prepare-1)
+
+amod(peels-10, fresh-2)
+
+amod(peels-10, lemon-3)
+
+amod(peels-10, peelMake-4)
+
+amod(peels-10, candied-5)
+
+amod(peels-10, lemon-6)
+
+amod(peels-10, peelMake-7)
+
+amod(peels-10, lemon-8)
+
+nn(peels-10, brandyCitrus-9)
+
+dep(.-21, peels-10)
+
+prep_such_as(peels-10, peel-13)
+
+amod(work-16, lemon-15)
+
+prep_of(peel-13, work-16)
+
+dep(peels-10, well-17)
+
+dep(well-17, for-18)
+
+amod(chicken-20, roasting-19)
+
+pobj(for-18, chicken-20)
+
+dep(.-21, *NL*-22)
+amod(*NL*-9, peel-2)
+
+det(chicken-5, the-4)
+
+prep_into(peel-2, chicken-5)
+
+conj_and(chicken-5, roast-7)
+
+dobj(Put-1, *NL*-9)
+nsubj(find-3, You-1)
+
+aux(find-3, will-2)
+
+det(smelling-6, a-4)
+
+amod(smelling-6, great-5)
+
+dobj(find-3, smelling-6)
+
+amod(*NL*-12, good-8)
+
+dep(good-8, tasting-9)
+
+nn(*NL*-12, chicken-10)
+
+conj_and(smelling-6, *NL*-12)
+nsubjpass(used-4, Lemon-1)
+
+auxpass(used-4, is-2)
+
+advmod(used-4, often-3)
+
+det(*NL*-10, a-6)
+
+nn(*NL*-10, cocktail-7)
+
+nn(*NL*-10, garnish-8)
+
+prep_as(used-4, *NL*-10)
+det(*NL*-21, the-2)
+
+amod(*NL*-21, peel-3)
+
+aux(keep-5, to-4)
+
+xcomp(peel-3, keep-5)
+
+poss(sugar-8, your-6)
+
+amod(sugar-8, brown-7)
+
+dobj(keep-5, sugar-8)
+
+dep(sugar-8, soft-9)
+
+prepc_by(soft-9, putting-11)
+
+dobj(putting-11, it-12)
+
+det(packaging-15, the-14)
+
+prep_in(putting-11, packaging-15)
+
+det(sugar-19, the-17)
+
+amod(sugar-19, brown-18)
+
+prep_with(packaging-15, sugar-19)
+
+dobj(Use-1, *NL*-21)
+acomp(Make-1, candied-2)
+
+nn(*NL*-6, orange-3)
+
+nn(*NL*-6, peel-4)
+
+nsubj(Make-1, *NL*-6)
+nn(*NL*-6, preserved-2)
+
+nn(*NL*-6, orange-3)
+
+nn(*NL*-6, peel-4)
+
+nsubj(Make-1, *NL*-6)
+dep(drinks-8, Use-1)
+
+det(garnish-4, a-3)
+
+prep_as(Use-1, garnish-4)
+
+prep_on(garnish-4, fruit-6)
+
+nn(drinks-8, juice-7)
+
+conj_and(drinks-8, cocktails-10)
+
+conj_and(drinks-8, salads-13)
+
+dep(drinks-8, *NL*-15)
+nn(peels-3, grapefruit-2)
+
+nsubj(cut-5, peels-3)
+
+aux(cut-5, to-4)
+
+xcomp(Use-1, cut-5)
+
+prep_into(cut-5, shapes-7)
+
+aux(brighten-9, to-8)
+
+xcomp(cut-5, brighten-9)
+
+prt(brighten-9, up-10)
+
+poss(*NL*-14, your-11)
+
+nn(*NL*-14, salad-12)
+
+dobj(brighten-9, *NL*-14)
+nsubj(sprinkle-7, All-1)
+
+nsubj(have-3, you-2)
+
+rcmod(All-1, have-3)
+
+aux(do-5, to-4)
+
+xcomp(have-3, do-5)
+
+aux(sprinkle-7, is-6)
+
+dobj(sprinkle-7, them-8)
+
+det(*NL*-13, the-10)
+
+nn(*NL*-13, salad-11)
+
+prep_over(sprinkle-7, *NL*-13)
+nsubj(make-3, It-1)
+
+aux(make-3, will-2)
+
+det(smell-6, the-4)
+
+nn(smell-6, salad-5)
+
+nsubj(*NL*-10, smell-6)
+
+dep(too-8, great-7)
+
+rcmod(smell-6, too-8)
+
+xcomp(make-3, *NL*-10)
+amod(marmalade-3, grapefruit-2)
+
+dobj(Make-1, marmalade-3)
+
+conj_or(marmalade-3, candy-5)
+
+dep(as-7, it-6)
+
+dep(Make-1, as-7)
+
+dep(as-7, with-8)
+
+amod(peels-10, other-9)
+
+pobj(with-8, peels-10)
+
+nsubj(Make-1, *NL*-12)
+det(oil-3, the-2)
+
+dobj(Use-1, oil-3)
+
+amod(oil-3, distilled-4)
+
+det(peel-7, the-6)
+
+prep_from(oil-3, peel-7)
+
+nn(*NL*-11, perfume-9)
+
+prep_for(peel-7, *NL*-11)
+dep(*NL*-4, 1-2)
+dep(water-4, Use-1)
+
+dep(Use-1, to-2)
+
+pobj(to-2, flavor-3)
+
+dep(water-4, *NL*-6)
+det(peels-4, any-2)
+
+amod(peels-4, citrus-3)
+
+dobj(Add-1, peels-4)
+
+det(pitcher-7, a-6)
+
+prep_to(Add-1, pitcher-7)
+
+prep_of(pitcher-7, water-9)
+
+conj_and(Add-1, put-11)
+
+det(*NL*-16, the-13)
+
+nn(*NL*-16, refrigerator-14)
+
+prep_in(put-11, *NL*-16)
+advmod(enjoy-4, Now-1)
+
+nsubj(enjoy-4, you-2)
+
+aux(enjoy-4, can-3)
+
+det(taste-6, the-5)
+
+dobj(enjoy-4, taste-6)
+
+prep_of(taste-6, water-8)
+
+rcmod(water-8, even-9)
+
+advmod(even-9, more-10)
+
+dep(even-9, *NL*-12)
+dep(peel-6, Use-1)
+
+det(type-3, any-2)
+
+dep(Use-1, type-3)
+
+prep_of(type-3, citrus-5)
+
+conj_and(peel-6, candy-8)
+
+dep(peel-6, it-9)
+
+dep(peel-6, *NL*-11)
+nsubj(sweet-4, It-1)
+
+cop(sweet-4, is-2)
+
+advmod(sweet-4, very-3)
+
+det(snack-8, a-6)
+
+amod(snack-8, great-7)
+
+conj_and(sweet-4, snack-8)
+
+det(kids-11, the-10)
+
+prep_for(snack-8, kids-11)
+
+partmod(snack-8, *NL*-13)
+dobj(Make-1, marmalade-2)
+
+conj_and(marmalade-2, chutney-4)
+
+conj_and(marmalade-2, jam-6)
+
+amod(sauces-10, savory-9)
+
+conj_and(marmalade-2, sauces-10)
+
+xcomp(Make-1, using-11)
+
+nn(*NL*-15, citrus-12)
+
+nn(*NL*-15, peel-13)
+
+nsubj(Make-1, *NL*-15)
+dep(*NL*-4, 2-2)
+det(slice-3, a-2)
+
+dobj(Add-1, slice-3)
+
+prep_of(slice-3, citrus-5)
+
+dep(citrus-5, peel-6)
+
+amod(sugar-9, brown-8)
+
+prep_to(peel-6, sugar-9)
+
+aux(stop-11, to-10)
+
+dep(peel-6, stop-11)
+
+det(sugar-13, the-12)
+
+dobj(stop-11, sugar-13)
+
+prepc_from(stop-11, going-15)
+
+advmod(going-15, hard-16)
+
+nsubj(Add-1, *NL*-18)
+amod(peels-3, citrus-2)
+
+dobj(Use-1, peels-3)
+
+det(kind-6, any-5)
+
+prep_of(peels-3, kind-6)
+
+aux(freshen-8, to-7)
+
+infmod(kind-6, freshen-8)
+
+prt(freshen-8, up-9)
+
+dep(freshen-8, that-10)
+
+dep(freshen-8, smelly-11)
+
+nn(disposal-13, garbage-12)
+
+dobj(smelly-11, disposal-13)
+
+dep(freshen-8, *NL*-15)
+nsubjpass(cut-7, All-1)
+
+nsubj(have-3, you-2)
+
+rcmod(All-1, have-3)
+
+aux(do-5, to-4)
+
+xcomp(have-3, do-5)
+
+auxpass(cut-7, is-6)
+
+prt(cut-7, up-8)
+
+det(peel-10, the-9)
+
+dobj(cut-7, peel-10)
+
+conj_and(cut-7, put-12)
+
+dobj(put-12, it-13)
+
+det(*NL*-18, the-15)
+
+nn(*NL*-18, disposal-16)
+
+prep_in(put-12, *NL*-18)
+det(skin-3, the-2)
+
+dep(Peel-1, skin-3)
+
+det(*NL*-8, the-5)
+
+nn(*NL*-8, mandarin-6)
+
+prep_off(skin-3, *NL*-8)
+dobj(Pour-1, 100C-2)
+
+appos(100C-2, 212F-4)
+
+amod(water-8, boiling-7)
+
+prep_of(100C-2, water-8)
+
+det(cup-11, a-10)
+
+prep_into(Pour-1, cup-11)
+
+mark(filled-18, until-12)
+
+nsubjpass(filled-18, 3\/4-13)
+
+det(cup-16, the-15)
+
+prep_of(3\/4-13, cup-16)
+
+auxpass(filled-18, is-17)
+
+advcl(Pour-1, filled-18)
+
+nsubj(Pour-1, *NL*-20)
+det(peels-5, the-3)
+
+nn(peels-5, mandarin-4)
+
+prep_in(Add-1, peels-5)
+
+conj_and(Add-1, enjoy-7)
+
+poss(*NL*-12, your-8)
+
+amod(*NL*-12, lovely-9)
+
+nn(*NL*-12, tea-10)
+
+dobj(enjoy-7, *NL*-12)
+nn(*NL*-5, kindling-3)
+
+prep_as(Use-1, *NL*-5)
+det(type-2, Any-1)
+
+dep(kindling-9, type-2)
+
+amod(makes-6, citrus-4)
+
+amod(makes-6, peel-5)
+
+prep_of(type-2, makes-6)
+
+det(kindling-9, a-7)
+
+amod(kindling-9, great-8)
+
+poss(fireplace-12, your-11)
+
+prep_for(kindling-9, fireplace-12)
+
+det(winter-15, the-14)
+
+prep_in(fireplace-12, winter-15)
+
+dep(kindling-9, *NL*-17)
+dep(*NL*-4, 3-2)
+nsubj(dried-2, Use-1)
+
+nsubj(peels-4, citrus-3)
+
+ccomp(dried-2, peels-4)
+
+aux(freshen-6, to-5)
+
+xcomp(peels-4, freshen-6)
+
+prt(freshen-6, up-7)
+
+det(sock-10, that-8)
+
+amod(sock-10, smelly-9)
+
+dobj(freshen-6, sock-10)
+
+nn(*NL*-15, underwear-12)
+
+nn(*NL*-15, drawer-13)
+
+conj_or(sock-10, *NL*-15)
+nsubj(best-3, It-1)
+
+cop(best-3, is-2)
+
+aux(place-5, to-4)
+
+xcomp(best-3, place-5)
+
+det(peels-7, the-6)
+
+dobj(place-5, peels-7)
+
+prep(place-5, inside-8)
+
+det(sachet-10, a-9)
+
+dep(first-11, sachet-10)
+
+dep(inside-8, first-11)
+
+advmod(place-5, *NL*-13)
+det(sachet-2, A-1)
+
+nsubj(bag-7, sachet-2)
+
+cop(bag-7, is-3)
+
+det(bag-7, a-4)
+
+amod(bag-7, small-5)
+
+amod(bag-7, perfumed-6)
+
+partmod(bag-7, used-8)
+
+amod(clothes-11, scent-10)
+
+prep_to(used-8, clothes-11)
+
+advmod(bag-7, *NL*-13)
+amod(peels-3, citrus-2)
+
+dobj(Use-1, peels-3)
+
+poss(*NL*-8, your-5)
+
+nn(*NL*-8, bath-6)
+
+prep_for(Use-1, *NL*-8)
+nsubj(create-3, It-1)
+
+aux(create-3, will-2)
+
+det(*NL*-8, a-4)
+
+amod(*NL*-8, beautiful-5)
+
+nn(*NL*-8, scent-6)
+
+dobj(create-3, *NL*-8)
+poss(*NL*-5, your-2)
+
+nn(*NL*-5, peels-3)
+
+dobj(Compost-1, *NL*-5)
+dep(addition-9, 4-2)
+
+nn(peel-5, Citrus-4)
+
+nsubj(addition-9, peel-5)
+
+cop(addition-9, is-6)
+
+det(addition-9, a-7)
+
+amod(addition-9, great-8)
+
+det(compost-12, the-11)
+
+prep_to(addition-9, compost-12)
+
+nsubj(*NL*-15, pile-13)
+
+dep(addition-9, *NL*-15)
+advmod(sure-3, Just-1)
+
+cop(sure-3, be-2)
+
+aux(chop-5, to-4)
+
+xcomp(sure-3, chop-5)
+
+nsubj(*NL*-16, them-6)
+
+det(*NL*-16, a-7)
+
+amod(*NL*-16, little-8)
+
+aux(help-10, to-9)
+
+xcomp(little-8, help-10)
+
+nsubj(degrade-13, them-11)
+
+aux(degrade-13, to-12)
+
+xcomp(help-10, degrade-13)
+
+dep(degrade-13, faster-14)
+
+xcomp(chop-5, *NL*-16)
+nsubj(use-3, You-1)
+
+aux(use-3, can-2)
+
+dobj(use-3, any-4)
+
+det(peels-7, the-6)
+
+prep_of(any-4, peels-7)
+
+aux(add-9, to-8)
+
+xcomp(use-3, add-9)
+
+det(*NL*-15, a-11)
+
+nn(*NL*-15, compost-12)
+
+nn(*NL*-15, pile-13)
+
+prep_to(add-9, *NL*-15)
+nsubj(make-3, It-1)
+
+aux(make-3, will-2)
+
+det(smell-7, the-4)
+
+amod(smell-7, compost-5)
+
+nn(smell-7, pile-6)
+
+nsubj(*NL*-13, smell-7)
+
+dep(too-11, fresh-8)
+
+conj_and(fresh-8, clean-10)
+
+rcmod(smell-7, too-11)
+
+xcomp(make-3, *NL*-13)
+advmod(aware-3, Just-1)
+
+cop(aware-3, be-2)
+
+complm(claim-7, that-4)
+
+det(people-6, some-5)
+
+nsubj(claim-7, people-6)
+
+ccomp(aware-3, claim-7)
+
+complm(slows-15, that-8)
+
+det(nature-11, the-9)
+
+amod(nature-11, anti-bacterial-10)
+
+nsubj(slows-15, nature-11)
+
+amod(oil-14, orange-13)
+
+prep_of(nature-11, oil-14)
+
+ccomp(claim-7, slows-15)
+
+prep_down(slows-15, decomposition-17)
+
+appos(decomposition-17, 5-20)
+
+mark(find-26, while-22)
+
+nsubj(find-26, others-23)
+
+aux(find-26, do-24)
+
+neg(find-26, nt-25)
+
+advcl(slows-15, find-26)
+
+nsubj(has-28, it-27)
+
+ccomp(find-26, has-28)
+
+det(impact-30, any-29)
+
+dobj(has-28, impact-30)
+
+prep_at(impact-30, all-32)
+
+conj_and(aware-3, call-34)
+
+nsubj(myth-39, this-35)
+
+det(myth-39, an-36)
+
+amod(myth-39, urban-38)
+
+xcomp(call-34, myth-39)
+
+dep(myth-39, *NL*-42)
+nsubj(judge-10, 6-2)
+
+appos(6-2, 7-5)
+
+cop(judge-10, Be-7)
+
+poss(judge-10, your-8)
+
+amod(judge-10, own-9)
+
+prep(judge-10, of-11)
+
+complm(is-16, whether-12)
+
+conj_or(is-16, not-14)
+
+expl(is-16, there-15)
+
+ccomp(judge-10, is-16)
+
+det(issue-18, an-17)
+
+nsubj(is-16, issue-18)
+
+nn(*NL*-22, observing-20)
+
+prep_by(issue-18, *NL*-22)
+nsubj(peels-6, any-2)
+
+det(citrus-5, the-4)
+
+prep_of(any-2, citrus-5)
+
+ccomp(Use-1, peels-6)
+
+aux(keep-8, to-7)
+
+xcomp(peels-6, keep-8)
+
+dobj(keep-8, cats-9)
+
+prepc_from(keep-8, digging-11)
+
+conj_or(digging-11, using-13)
+
+poss(garden-15, your-14)
+
+dobj(digging-11, garden-15)
+
+det(box-19, a-17)
+
+nn(box-19, litter-18)
+
+prep_as(digging-11, box-19)
+
+nsubj(Use-1, *NL*-21)
+advmod(peel-2, Just-1)
+
+det(citrus-4, the-3)
+
+dobj(peel-2, citrus-4)
+
+conj_and(peel-2, place-6)
+
+prt(place-6, around-7)
+
+det(garden-9, the-8)
+
+dobj(place-6, garden-9)
+
+aux(keep-11, to-10)
+
+infmod(garden-9, keep-11)
+
+dobj(keep-11, Fluffy-12)
+
+poss(*NL*-18, your-15)
+
+nn(*NL*-18, petunias-16)
+
+prep_away_from(keep-11, *NL*-18)
+dep(peel-3, Chew-1)
+
+det(peel-3, the-2)
+
+dep(peel-3, *NL*-5)
+nsubj(use-3, You-1)
+
+aux(use-3, can-2)
+
+advmod(orange-5, preferably-4)
+
+dobj(use-3, orange-5)
+
+amod(peels-8, lemon-7)
+
+conj_or(orange-5, peels-8)
+
+aux(make-10, to-9)
+
+infmod(orange-5, make-10)
+
+poss(smell-13, your-11)
+
+nn(smell-13, breath-12)
+
+dobj(make-10, smell-13)
+
+dep(make-10, great-14)
+
+dep(great-14, *NL*-16)
+det(peel-3, the-2)
+
+dobj(Chew-1, peel-3)
+
+det(bit-7, a-5)
+
+amod(bit-7, little-6)
+
+prep_for(peel-3, bit-7)
+
+nsubj(find-11, you-9)
+
+aux(find-11, ll-10)
+
+dep(peel-3, find-11)
+
+nsubj(substitute-16, it-12)
+
+cop(substitute-16, s-13)
+
+det(substitute-16, a-14)
+
+amod(substitute-16, good-15)
+
+ccomp(find-11, substitute-16)
+
+prep_for(substitute-16, mints-18)
+
+conj_and(mints-18, gum-20)
+
+nsubj(Chew-1, *NL*-22)
+det(peels-4, any-2)
+
+amod(peels-4, citrus-3)
+
+dobj(Place-1, peels-4)
+
+det(pan-7, a-6)
+
+prep_in(peels-4, pan-7)
+
+amod(*NL*-18, low-9)
+
+dep(low-9, simmering-10)
+
+dobj(simmering-10, water-11)
+
+aux(freshen-13, to-12)
+
+xcomp(simmering-10, freshen-13)
+
+prt(freshen-13, up-14)
+
+det(house-16, the-15)
+
+dep(freshen-13, house-16)
+
+prep_of(pan-7, *NL*-18)
+nn(peel-2, Orange-1)
+
+nsubj(ward-10, peel-2)
+
+partmod(peel-2, applied-3)
+
+poss(skin-6, your-5)
+
+prep_to(applied-3, skin-6)
+
+prep_at(applied-3, night-8)
+
+aux(ward-10, will-9)
+
+prt(ward-10, off-11)
+
+det(*NL*-15, the-12)
+
+nn(*NL*-15, insects-13)
+
+dobj(ward-10, *NL*-15)
+advmod(rub-2, Simply-1)
+
+det(peel-4, the-3)
+
+dobj(rub-2, peel-4)
+
+poss(skin-8, your-6)
+
+amod(skin-8, exposed-7)
+
+prep_over(peel-4, skin-8)
+
+amod(*NL*-19, repeat-10)
+
+advmod(start-14, whenever-11)
+
+det(insects-13, the-12)
+
+nsubj(start-14, insects-13)
+
+ccomp(repeat-10, start-14)
+
+xcomp(start-14, bothering-15)
+
+dobj(bothering-15, you-16)
+
+advmod(bothering-15, again-17)
+
+conj_and(skin-8, *NL*-19)
+dep(*NL*-4, 8-2)
+nn(orange-2, Place-1)
+
+dep(peel-6, orange-2)
+
+amod(citrus-5, other-4)
+
+conj_or(orange-2, citrus-5)
+
+num(oranges\/citrus-9, 2-3-8)
+
+prep_from(peel-6, oranges\/citrus-9)
+
+det(blender-12, a-11)
+
+prep_into(oranges\/citrus-9, blender-12)
+
+det(cup-15, a-14)
+
+prep_with(blender-12, cup-15)
+
+amod(water-18, warm-17)
+
+prep_of(cup-15, water-18)
+
+dep(peel-6, *NL*-20)
+det(mixture-4, a-3)
+
+prep_into(Blend-1, mixture-4)
+
+nsubjpass(poured-8, that-5)
+
+aux(poured-8, can-6)
+
+auxpass(poured-8, be-7)
+
+rcmod(mixture-4, poured-8)
+
+det(*NL*-18, an-10)
+
+amod(*NL*-18, anthill-11)
+
+nsubj(causing-14, that-12)
+
+aux(causing-14, is-13)
+
+ccomp(anthill-11, causing-14)
+
+nsubj(problems-16, you-15)
+
+xcomp(causing-14, problems-16)
+
+prep_into(poured-8, *NL*-18)
+dep(*NL*-4, 9-2)
+nsubj(citrus-2, Rub-1)
+
+dobj(citrus-2, peel-3)
+
+det(leaves-6, the-5)
+
+prep_over(citrus-2, leaves-6)
+
+prep_of(leaves-6, plants-8)
+
+advmod(keep-11, monthly-9)
+
+aux(keep-11, to-10)
+
+xcomp(citrus-2, keep-11)
+
+dobj(keep-11, cats-12)
+
+det(*NL*-18, the-15)
+
+nn(*NL*-18, leaves-16)
+
+prep_away_from(keep-11, *NL*-18)
+dep(*NL*-4, 10-2)
+nsubj(dried-2, Place-1)
+
+nn(peel-4, citron-3)
+
+dobj(dried-2, peel-4)
+
+prep_into(dried-2, closets-6)
+
+conj_and(closets-6, wardrobes-8)
+
+aux(ward-10, to-9)
+
+xcomp(dried-2, ward-10)
+
+prt(ward-10, off-11)
+
+det(*NL*-15, the-12)
+
+nn(*NL*-15, moths-13)
+
+dobj(ward-10, *NL*-15)
+dep(*NL*-4, 11-2)
+nsubj(peel-3, citrus-2)
+
+xcomp(Use-1, peel-3)
+
+det(fixative-6, a-5)
+
+prep_as(peel-3, fixative-6)
+
+nn(*NL*-10, potpourri-8)
+
+prep_for(fixative-6, *NL*-10)
+det(peel-3, the-2)
+
+dobj(Dry-1, peel-3)
+
+mark(turns-6, until-4)
+
+nsubj(turns-6, it-5)
+
+advcl(Dry-1, turns-6)
+
+dep(turns-6, crisp-7)
+
+advmod(turns-6, *NL*-9)
+advmod(dried-2, Once-1)
+
+dep(grind-4, dried-2)
+
+nsubj(coarsely-6, it-5)
+
+ccomp(grind-4, coarsely-6)
+
+conj_and(coarsely-6, add-8)
+
+prep_to(coarsely-6, potpourri-10)
+
+advmod(needed-12, as-11)
+
+amod(potpourri-10, needed-12)
+
+nsubj(grind-4, *NL*-14)
+nsubjpass(stored-7, It-4)
+
+aux(stored-7, should-5)
+
+auxpass(stored-7, be-6)
+
+dep(12-2, stored-7)
+
+det(jar-11, a-9)
+
+nn(jar-11, glass-10)
+
+prep_in(stored-7, jar-11)
+
+mark(needed-13, until-12)
+
+dep(jar-11, needed-13)
+
+advmod(stored-7, *NL*-15)
+nsubjpass(added-5, This-1)
+
+aux(added-5, can-2)
+
+advmod(added-5, also-3)
+
+auxpass(added-5, be-4)
+
+prep_to(added-5, sachets-7)
+
+aux(keep-9, to-8)
+
+ccomp(added-5, keep-9)
+
+prt(keep-9, away-10)
+
+dobj(keep-9, moths-11)
+
+aux(sweeten-14, to-13)
+
+conj_and(keep-9, sweeten-14)
+
+poss(*NL*-18, your-15)
+
+nn(*NL*-18, clothes-16)
+
+dobj(sweeten-14, *NL*-18)
+dep(Read-4, 13-2)
+
+advmod(make-7, How-5)
+
+aux(make-7, to-6)
+
+ccomp(Read-4, make-7)
+
+nsubj(potpourri-9, citrus-8)
+
+ccomp(make-7, potpourri-9)
+
+amod(details-12, specific-11)
+
+prep_for(potpourri-9, details-12)
+
+nsubj(Read-4, *NL*-14)
+det(powder-3, The-1)
+
+nn(powder-3, ground-2)
+
+nsubjpass(added-6, powder-3)
+
+aux(added-6, can-4)
+
+auxpass(added-6, be-5)
+
+det(bath-9, the-8)
+
+prep_to(added-6, bath-9)
+
+det(*NL*-15, a-11)
+
+amod(*NL*-15, scented-12)
+
+nn(*NL*-15, treat-13)
+
+prep_for(bath-9, *NL*-15)
+dep(*NL*-4, 14-2)
+amod(oil-3, Extract-1)
+
+det(oil-3, the-2)
+
+dep(peels-6, oil-3)
+
+prep_from(oil-3, citrus-5)
+
+prep_for(peels-6, use-8)
+
+amod(perfume-11, home-made-10)
+
+prep_in(use-8, perfume-11)
+
+dep(peels-6, *NL*-13)
+nn(*NL*-5, citrus-2)
+
+nn(*NL*-5, perfume-3)
+
+nsubj(Make-1, *NL*-5)
+tmod(Make-1, summer-2)
+
+nn(*NL*-6, citrus-3)
+
+nn(*NL*-6, soap-4)
+
+nsubj(Make-1, *NL*-6)
+det(site-3, the-2)
+
+dobj(Have-1, site-3)
+
+dep(Have-1, surveyed-4)
+
+conj_or(surveyed-4, layout-6)
+
+det(lines-9, the-7)
+
+nn(lines-9, building-8)
+
+nsubj(Have-1, lines-9)
+
+nn(*NL*-12, yourself-10)
+
+dep(lines-9, *NL*-12)
+nsubjpass(used-4, Batterboards-1)
+
+aux(used-4, may-2)
+
+auxpass(used-4, be-3)
+
+nn(stakes-8, corner-7)
+
+nsubjpass(set-11, stakes-8)
+
+aux(set-11, can-9)
+
+auxpass(set-11, be-10)
+
+conj_or(used-4, set-11)
+
+aux(allow-13, to-12)
+
+purpcl(set-11, allow-13)
+
+nn(lines-15, building-14)
+
+nsubj(be-17, lines-15)
+
+aux(be-17, to-16)
+
+xcomp(allow-13, be-17)
+
+dep(be-17, pulled-18)
+
+conj_and(pulled-18, grades-20)
+
+aux(established-23, to-21)
+
+auxpass(established-23, be-22)
+
+xcomp(grades-20, established-23)
+
+prepc_for(established-23, clearing-25)
+
+conj_and(clearing-25, grading-27)
+
+advmod(allow-13, *NL*-29)
+prt(Grub-1, out-2)
+
+nsubj(Grub-1, trees-3)
+
+appos(trees-3, bushes-5)
+
+amod(plants-9, other-8)
+
+conj_and(bushes-5, plants-9)
+
+poss(roots-13, their-12)
+
+prep_including(Grub-1, roots-13)
+
+mark(leave-18, so-14)
+
+nsubj(leave-18, they-15)
+
+aux(leave-18, will-16)
+
+neg(leave-18, not-17)
+
+dep(roots-13, leave-18)
+
+dobj(leave-18, voids-19)
+
+det(subgrade-22, the-21)
+
+prep_in(leave-18, subgrade-22)
+
+advmod(*NL*-27, when-23)
+
+dep(*NL*-27, they-24)
+
+nn(*NL*-27, decay-25)
+
+dep(subgrade-22, *NL*-27)
+det(mucky-3, any-2)
+
+dobj(Remove-1, mucky-3)
+
+advmod(Remove-1, otherwise-5)
+
+conj_or(Remove-1, unsuitable-6)
+
+dobj(unsuitable-6, material-7)
+
+det(subgrade-10, the-9)
+
+prep_from(unsuitable-6, subgrade-10)
+
+dep(Remove-1, *NL*-12)
+nn(roll-2, Proof-1)
+
+dep(method-6, roll-2)
+
+conj_or(roll-2, use-4)
+
+det(method-6, another-5)
+
+amod(material-13, compact-8)
+
+det(material-13, the-9)
+
+amod(material-13, disturbed-10)
+
+dep(disturbed-10, subgrade-11)
+
+nn(material-13, soil-12)
+
+prep_to(method-6, material-13)
+
+dep(method-6, *NL*-15)
+advmod(fill-2, Capillary-1)
+
+auxpass(used-4, is-3)
+
+ccomp(fill-2, used-4)
+
+advmod(create-8, where-5)
+
+nsubj(create-8, moisture-6)
+
+aux(create-8, may-7)
+
+ccomp(used-4, create-8)
+
+det(problem-10, a-9)
+
+dobj(create-8, problem-10)
+
+nsubj(fill-2, *NL*-12)
+nn(materials-7, limestone-2)
+
+conj_or(limestone-2, other-4)
+
+amod(materials-7, aggregate-5)
+
+nn(materials-7, base-6)
+
+nsubjpass(used-10, materials-7)
+
+aux(used-10, can-8)
+
+auxpass(used-10, be-9)
+
+ccomp(Crushed-1, used-10)
+
+prep_for(used-10, slabs-12)
+
+amod(loads-15, heavy-14)
+
+prep_with(slabs-12, loads-15)
+
+nn(floors-18, warehouse-17)
+
+prep_like(used-10, floors-18)
+
+nn(hangars-21, aircraft-20)
+
+conj_and(floors-18, hangars-21)
+
+nsubj(Crushed-1, *NL*-23)
+amod(materials-2, Cohesive-1)
+
+dep(used-7, materials-2)
+
+prep_like(materials-2, clay-4)
+
+auxpass(used-7, are-5)
+
+advmod(used-7, sometimes-6)
+
+advmod(stabilized-15, where-8)
+
+det(subgrade-10, the-9)
+
+nsubj(stabilized-15, subgrade-10)
+
+aux(stabilized-15, can-11)
+
+neg(stabilized-15, not-12)
+
+cop(stabilized-15, be-13)
+
+advmod(stabilized-15, sufficiently-14)
+
+ccomp(used-7, stabilized-15)
+
+xcomp(stabilized-15, using-16)
+
+amod(methods-18, conventional-17)
+
+dobj(using-16, methods-18)
+
+nsubjpass(used-7, *NL*-20)
+amod(pumps-2, Aerial-1)
+
+nsubj(place-4, pumps-2)
+
+aux(place-4, can-3)
+
+dobj(place-4, concrete-5)
+
+amod(areas-8, specific-7)
+
+prep_to(place-4, areas-8)
+
+det(slab-11, the-10)
+
+prep_of(areas-8, slab-11)
+
+det(boom-15, an-13)
+
+amod(boom-15, articulated-14)
+
+prep_via(slab-11, boom-15)
+
+num(assembly-18, hose-17)
+
+dep(up-19, assembly-18)
+
+dep(place-4, up-19)
+
+num(feet-22, 120-21)
+
+conj_and(areas-8, feet-22)
+
+nn(*NL*-26, 36-24)
+
+dep(place-4, *NL*-26)
+prep(concrete-5, from-3)
+
+det(concrete-5, the-4)
+
+dobj(6m-1, concrete-5)
+
+dep(concrete-5, truck-6)
+
+tmod(6m-1, *NL*-8)
+nsubjpass(used-4, They-1)
+
+auxpass(used-4, are-2)
+
+advmod(used-4, often-3)
+
+prepc_for(used-4, placing-6)
+
+amod(*NL*-16, concrete-7)
+
+amod(decks-10, elevated-9)
+
+prep_on(concrete-7, decks-10)
+
+conj_or(concrete-7, in-12)
+
+amod(locations-14, inaccessible-13)
+
+pobj(in-12, locations-14)
+
+dobj(placing-6, *NL*-16)
+nn(pumps-2, Line-1)
+
+nsubj(use-4, pumps-2)
+
+advmod(use-4, also-3)
+
+dobj(use-4, pipes-5)
+
+conj_and(pipes-5, hoses-7)
+
+aux(move-9, to-8)
+
+xcomp(use-4, move-9)
+
+det(concrete-11, the-10)
+
+dobj(move-9, concrete-11)
+
+det(truck-14, the-13)
+
+prep_from(move-9, truck-14)
+
+det(location-18, the-16)
+
+nn(location-18, placement-17)
+
+prep_to(truck-14, location-18)
+
+conj_but(move-9, require-21)
+
+det(lot-23, a-22)
+
+dobj(require-21, lot-23)
+
+prep_of(lot-23, labor-25)
+
+aux(move-27, to-26)
+
+xcomp(require-21, move-27)
+
+det(hoses-29, the-28)
+
+dobj(move-27, hoses-29)
+
+prep_around(move-27, while-31)
+
+prep_in(while-31, use-33)
+
+dep(move-9, *NL*-35)
+amod(buckets-2, Concrete-1)
+
+nsubjpass(used-5, buckets-2)
+
+aux(used-5, can-3)
+
+auxpass(used-5, be-4)
+
+prepc_for(used-5, placing-7)
+
+det(areas-15, the-8)
+
+amod(areas-15, concrete-9)
+
+amod(locations-12, high-11)
+
+prep_in(concrete-9, locations-12)
+
+conj_or(concrete-9, inaccessible-14)
+
+dobj(placing-7, areas-15)
+
+partmod(areas-15, using-16)
+
+det(crane-18, a-17)
+
+nn(*NL*-22, crane-18)
+
+conj_or(crane-18, forklift-20)
+
+dobj(using-16, *NL*-22)
+nn(buckets-2, Georgia-1)
+
+nsubj(wagons-5, buckets-2)
+
+cop(wagons-5, are-3)
+
+amod(wagons-5, self-propelled-4)
+
+nsubj(maneuver-8, that-6)
+
+aux(maneuver-8, can-7)
+
+rcmod(wagons-5, maneuver-8)
+
+amod(locations-11, tight-10)
+
+prep_in(maneuver-8, locations-11)
+
+nn(*NL*-16, place-13)
+
+nn(*NL*-16, concrete-14)
+
+prep_to(maneuver-8, *NL*-16)
+nsubj(discharging-5, Chuting-1)
+
+conj_or(Chuting-1, tailgating-3)
+
+aux(discharging-5, is-4)
+
+det(*NL*-16, the-6)
+
+amod(*NL*-16, concrete-7)
+
+dep(*NL*-16, directly-8)
+
+dep(directly-8, from-9)
+
+det(truck-11, the-10)
+
+pobj(from-9, truck-11)
+
+det(form-14, the-13)
+
+prep_into(truck-11, form-14)
+
+dobj(discharging-5, *NL*-16)
+dep(Slump-1, *NL*-3)
+det(test-2, This-1)
+
+nsubj(determines-3, test-2)
+
+det(plasticity-5, the-4)
+
+dobj(determines-3, plasticity-5)
+
+det(material-9, the-7)
+
+amod(material-9, concrete-8)
+
+prep_of(plasticity-5, material-9)
+
+partmod(plasticity-5, *NL*-11)
+det(mold-5, A-1)
+
+amod(mold-5, vertical-2)
+
+nn(mold-5, cone-3)
+
+nn(mold-5, shaped-4)
+
+nsubjpass(filled-7, mold-5)
+
+auxpass(filled-7, is-6)
+
+prep_with(filled-7, concrete-9)
+
+det(amount-12, the-11)
+
+conj_and(concrete-9, amount-12)
+
+det(slumps-15, the-13)
+
+amod(slumps-15, concrete-14)
+
+nsubjpass(measured-17, slumps-15)
+
+auxpass(measured-17, is-16)
+
+dep(filled-7, measured-17)
+
+aux(make-20, to-19)
+
+xcomp(measured-17, make-20)
+
+acomp(make-20, sure-21)
+
+nsubj(wet-26, it-22)
+
+cop(wet-26, is-23)
+
+neg(wet-26, not-24)
+
+advmod(wet-26, too-25)
+
+ccomp(sure-21, wet-26)
+
+aux(meet-28, to-27)
+
+xcomp(wet-26, meet-28)
+
+dobj(meet-28, specification-29)
+
+det(job-32, the-31)
+
+prep_for(meet-28, job-32)
+
+advmod(make-20, *NL*-34)
+dep(Temperature-1, *NL*-3)
+advmod(suffers-2, Concrete-1)
+
+amod(effects-4, detrimental-3)
+
+dobj(suffers-2, effects-4)
+
+advmod(hot-9, when-5)
+
+nsubj(hot-9, it-6)
+
+cop(hot-9, becomes-7)
+
+advmod(hot-9, too-8)
+
+dep(suffers-2, hot-9)
+
+mark(monitored-18, so-11)
+
+det(temperature-13, the-12)
+
+nsubjpass(monitored-18, temperature-13)
+
+det(product-16, the-15)
+
+prep_of(temperature-13, product-16)
+
+auxpass(monitored-18, is-17)
+
+advcl(hot-9, monitored-18)
+
+nn(*NL*-22, placement-20)
+
+prep_during(monitored-18, *NL*-22)
+nn(*NL*-4, Air-1)
+
+nn(*NL*-4, entrainment-2)
+nsubjpass(added-3, Chemicals-1)
+
+auxpass(added-3, are-2)
+
+det(*NL*-16, the-5)
+
+amod(*NL*-16, concrete-6)
+
+aux(ensure-8, to-7)
+
+xcomp(concrete-6, ensure-8)
+
+nsubjpass(entrained-11, air-9)
+
+auxpass(entrained-11, is-10)
+
+ccomp(ensure-8, entrained-11)
+
+det(mixture-14, the-13)
+
+prep_in(entrained-11, mixture-14)
+
+prep_to(added-3, *NL*-16)
+det(voids-3, These-1)
+
+amod(voids-3, tiny-2)
+
+nsubj(allow-5, voids-3)
+
+aux(allow-5, will-4)
+
+det(*NL*-29, the-6)
+
+amod(*NL*-29, concrete-7)
+
+aux(expand-9, to-8)
+
+xcomp(concrete-7, expand-9)
+
+conj_and(expand-9, contract-11)
+
+dobj(expand-9, more-12)
+
+prepc_before(expand-9, cracking-14)
+
+advmod(expected-18, when-15)
+
+nsubjpass(expected-18, concrete-16)
+
+auxpass(expected-18, is-17)
+
+advcl(cracking-14, expected-18)
+
+aux(subjected-21, to-19)
+
+auxpass(subjected-21, be-20)
+
+xcomp(expected-18, subjected-21)
+
+amod(variations-25, large-23)
+
+nn(variations-25, temperature-24)
+
+prep_to(subjected-21, variations-25)
+
+prep_over(subjected-21, time-27)
+
+dobj(allow-5, *NL*-29)
+nsubj(*NL*-10, A-1)
+
+amod(requirement-5, typical-2)
+
+nn(requirement-5, air-3)
+
+nn(requirement-5, entrainment-4)
+
+nsubj(%-8, requirement-5)
+
+cop(%-8, is-6)
+
+num(%-8, 3-5-7)
+
+dep(A-1, %-8)
+nn(*NL*-4, Compressive-1)
+
+nn(*NL*-4, strength-2)
+amod(strength-2, Concrete-1)
+
+nsubjpass(measured-4, strength-2)
+
+auxpass(measured-4, is-3)
+
+prep_in(measured-4, PSI-6)
+
+dep(PSI-6, pounds-8)
+
+amod(inch-11, square-10)
+
+prep_per(pounds-8, inch-11)
+
+amod(molds-17, special-15)
+
+amod(molds-17, plastic-16)
+
+nsubjpass(used-19, molds-17)
+
+auxpass(used-19, are-18)
+
+conj_and(measured-4, used-19)
+
+aux(collect-21, to-20)
+
+xcomp(used-19, collect-21)
+
+dobj(collect-21, samples-22)
+
+det(*NL*-43, the-24)
+
+amod(*NL*-43, material-25)
+
+nsubjpass(used-29, which-26)
+
+auxpass(used-29, are-27)
+
+advmod(used-29, later-28)
+
+ccomp(material-25, used-29)
+
+det(lab-33, the-31)
+
+nn(lab-33, testing-32)
+
+poss(laboratory-35, lab-33)
+
+prep_in(used-29, laboratory-35)
+
+aux(determine-37, to-36)
+
+infmod(laboratory-35, determine-37)
+
+det(concrete-39, the-38)
+
+poss(strength-41, concrete-39)
+
+dobj(determine-37, strength-41)
+
+prep_of(samples-22, *NL*-43)
+acomp(Make-1, sure-2)
+
+nsubj(have-4, you-3)
+
+ccomp(sure-2, have-4)
+
+amod(manpower-6, sufficient-5)
+
+dobj(have-4, manpower-6)
+
+aux(perform-8, to-7)
+
+infmod(manpower-6, perform-8)
+
+det(job-10, the-9)
+
+dobj(perform-8, job-10)
+
+nsubj(Make-1, *NL*-12)
+dep(conditions-4, Check-1)
+
+det(weather-3, the-2)
+
+dep(Check-1, weather-3)
+
+dep(conditions-4, *NL*-6)
+det(factors-2, These-1)
+
+nsubj(contribute-4, factors-2)
+
+aux(contribute-4, can-3)
+
+amod(times-8, concrete-6)
+
+nn(times-8, setting-7)
+
+prep_to(contribute-4, times-8)
+
+advmod(contribute-4, *NL*-10)
+dep(Temperature-1, *NL*-3)
+dep(higher-2, The-1)
+
+dep(temperature-4, higher-2)
+
+det(temperature-4, the-3)
+
+dep(set-11, temperature-4)
+
+dep(faster-7, the-6)
+
+dep(set-11, faster-7)
+
+det(concrete-9, the-8)
+
+nsubj(set-11, concrete-9)
+
+aux(set-11, will-10)
+
+advmod(hot-15, very-14)
+
+amod(conditions-16, hot-15)
+
+nsubj(affect-18, conditions-16)
+
+aux(affect-18, will-17)
+
+conj_and(set-11, affect-18)
+
+det(ability-20, the-19)
+
+dobj(affect-18, ability-20)
+
+det(workers-23, the-22)
+
+prep_of(ability-20, workers-23)
+
+nn(*NL*-27, perform-25)
+
+prep_to(affect-18, *NL*-27)
+dep(Humidity-1, *NL*-3)
+advmod(low-2, Very-1)
+
+amod(humidity-3, low-2)
+
+nsubj(allow-5, humidity-3)
+
+aux(allow-5, will-4)
+
+det(water-8, the-7)
+
+prep_for(allow-5, water-8)
+
+det(*NL*-17, the-10)
+
+amod(*NL*-17, concrete-11)
+
+aux(evaporate-13, to-12)
+
+xcomp(concrete-11, evaporate-13)
+
+advmod(quickly-15, more-14)
+
+dep(evaporate-13, quickly-15)
+
+prep_in(water-8, *NL*-17)
+dep(.-2, Wind-1)
+
+dep(.-2, *NL*-3)
+dep(increase-3, Wind-1)
+
+aux(increase-3, can-2)
+
+det(speed-5, the-4)
+
+dobj(increase-3, speed-5)
+
+det(surface-7, the-6)
+
+nsubj(dry-12, surface-7)
+
+det(concrete-10, the-9)
+
+prep_of(surface-7, concrete-10)
+
+aux(dry-12, will-11)
+
+dep(speed-5, dry-12)
+
+nsubj(increase-3, *NL*-14)
+nn(weather-2, Cold-1)
+
+nsubj(increase-5, weather-2)
+
+aux(increase-5, can-3)
+
+advmod(increase-5, greatly-4)
+
+det(time-8, the-6)
+
+nn(time-8, setting-7)
+
+dobj(increase-5, time-8)
+
+nn(*NL*-12, concrete-10)
+
+prep_for(increase-5, *NL*-12)
+dobj(Placing-1, concrete-2)
+
+dep(*NL*-22, near-4)
+
+amod(temperatures-6, freezing-5)
+
+pobj(near-4, temperatures-6)
+
+advmod(expected-12, when-8)
+
+amod(conditions-10, freezing-9)
+
+nsubjpass(expected-12, conditions-10)
+
+auxpass(expected-12, are-11)
+
+conj_or(near-4, expected-12)
+
+det(hours-17, the-14)
+
+amod(hours-17, next-15)
+
+num(hours-17, 48-16)
+
+prep_during(expected-12, hours-17)
+
+auxpass(recommended-20, is-18)
+
+neg(recommended-20, not-19)
+
+rcmod(hours-17, recommended-20)
+
+prep_at(Placing-1, *NL*-22)
+dep(.-2, Sunshine-1)
+
+dep(.-2, *NL*-3)
+advmod(set-3, Concrete-1)
+
+aux(set-3, will-2)
+
+advmod(quickly-5, more-4)
+
+advmod(set-3, quickly-5)
+
+dep(quickly-5, in-6)
+
+amod(conditions-9, bright-7)
+
+amod(conditions-9, sunny-8)
+
+pobj(in-6, conditions-9)
+
+mark(will-12, than-10)
+
+nsubj(will-12, it-11)
+
+dep(quickly-5, will-12)
+
+amod(conditions-15, cloudy-14)
+
+prep_in(will-12, conditions-15)
+
+nsubj(set-3, *NL*-17)
+mark(is-6, If-1)
+
+det(truck-5, a-2)
+
+amod(truck-5, concrete-3)
+
+nn(truck-5, pump-4)
+
+nsubj(is-6, truck-5)
+
+aux(used-9, to-7)
+
+auxpass(used-9, be-8)
+
+xcomp(is-6, used-9)
+
+dep(used-9, have-11)
+
+nsubj(arrive-13, it-12)
+
+ccomp(have-11, arrive-13)
+
+det(hour-15, an-14)
+
+dobj(arrive-13, hour-15)
+
+advmod(early-18, so-17)
+
+advmod(have-11, early-18)
+
+aux(allow-20, to-19)
+
+dep(early-18, allow-20)
+
+nsubjpass(set-24, it-21)
+
+aux(set-24, to-22)
+
+auxpass(set-24, be-23)
+
+ccomp(allow-20, set-24)
+
+prt(set-24, up-25)
+
+dep(up-25, and-26)
+
+dep(up-25, in-27)
+
+dobj(set-24, position-28)
+
+aux(let-32, to-31)
+
+conj_and(set-24, let-32)
+
+det(operator-35, the-33)
+
+nn(operator-35, pump-34)
+
+dobj(let-32, operator-35)
+
+conj_or(have-11, get-36)
+
+det(idea-38, an-37)
+
+dobj(get-36, idea-38)
+
+det(plan-42, the-40)
+
+nn(plan-42, placement-41)
+
+prep_of(idea-38, plan-42)
+
+dep(have-11, *NL*-44)
+nsubj(*NL*-25, Service-1)
+
+partmod(Service-1, troweling-2)
+
+dobj(troweling-2, machines-3)
+
+prepc_including(machines-3, checking-6)
+
+det(controls-8, the-7)
+
+dobj(checking-6, controls-8)
+
+det(blades-11, the-10)
+
+appos(controls-8, blades-11)
+
+conj_and(checking-6, making-14)
+
+dep(troweling-2, sure-15)
+
+nsubj(full-18, they-16)
+
+cop(full-18, are-17)
+
+dep(sure-15, full-18)
+
+nn(oil-21, engine-20)
+
+prep_of(full-18, oil-21)
+
+conj_and(oil-21, gasoline-23)
+amod(edges-3, Check-1)
+
+amod(edges-3, straight-2)
+
+dep(floats-13, edges-3)
+
+nn(boards-6, screed-5)
+
+conj_and(edges-3, boards-6)
+
+nn(screeds-9, power-8)
+
+conj_and(edges-3, screeds-9)
+
+conj_and(edges-3, bull-12)
+
+aux(make-15, to-14)
+
+xcomp(floats-13, make-15)
+
+acomp(make-15, sure-16)
+
+nsubj(are-18, they-17)
+
+ccomp(sure-16, are-18)
+
+amod(condition-21, good-20)
+
+prep_in(are-18, condition-21)
+
+nsubj(floats-13, *NL*-23)
+amod(vibrators-4, sure-2)
+
+amod(vibrators-4, concrete-3)
+
+nsubj(are-5, vibrators-4)
+
+ccomp(Make-1, are-5)
+
+amod(condition-8, good-7)
+
+prep_in(are-5, condition-8)
+
+mark(requires-12, if-9)
+
+det(slab-11, the-10)
+
+nsubj(requires-12, slab-11)
+
+advcl(are-5, requires-12)
+
+poss(use-14, their-13)
+
+dobj(requires-12, use-14)
+
+nsubj(Make-1, *NL*-16)
+amod(equipment-4, Check-1)
+
+amod(equipment-4, personal-2)
+
+nn(equipment-4, safety-3)
+
+dep(*NL*-17, equipment-4)
+
+prep_such_as(equipment-4, gloves-8)
+
+nn(boots-11, rubber-10)
+
+conj_and(gloves-8, boots-11)
+
+nn(protection-15, eye-14)
+
+conj_and(gloves-8, protection-15)
+conj_and(Clean-1, check-3)
+
+det(tools-6, all-4)
+
+nn(tools-6, hand-5)
+
+dobj(check-3, tools-6)
+
+mark(are-9, so-7)
+
+nsubj(are-9, they-8)
+
+advcl(check-3, are-9)
+
+amod(*NL*-15, good-11)
+
+nn(*NL*-15, working-12)
+
+nn(*NL*-15, condition-13)
+
+prep_in(are-9, *NL*-15)
