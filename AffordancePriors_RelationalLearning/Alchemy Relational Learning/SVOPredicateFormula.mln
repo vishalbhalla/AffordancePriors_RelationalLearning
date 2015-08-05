@@ -1,0 +1,5 @@
+nsubj(verb,subject)
+dobj(verb,object)
+// Learn weight for each verb noun pair
+nsubj(v, +s)
+dobj(v, +o)

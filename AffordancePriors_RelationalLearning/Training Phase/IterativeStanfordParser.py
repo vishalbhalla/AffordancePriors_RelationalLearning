@@ -1,50 +1,66 @@
 __author__ = 'vishal'
 
 
+
+from src.stanford_parser.parser import Parser
+#from jpype.java.io import CharArrayReader
+from jpype import *
+import subprocess
+import shutil
+
+
 # Initialize reuseable variables
-pcfg_model_fname = "englishPCFG.ser.gz"
+#pcfg_model_fname = "englishPCFG.ser.gz"
 self = Parser(None)
 lp = self.parser
 tlp = self.package.trees.PennTreebankLanguagePack()
+gsf = tlp.grammaticalStructureFactory()
+parse = 'null'
+tdl = 'null'
+strGrammarTuples = ''
 text_file = open('ParsedGrammarTuples.txt', 'w')
 
 for sentence in open( 'WebScrapingTrain.txt', 'r' ).readlines():
     dependencies = self.parseToStanfordDependencies(sentence)
-    tupleResult = [(rel, gov.text, dep.text) for rel, gov, dep in dependencies.dependencies]
+    #tupleResult = [(rel, gov.text, dep.text) for rel, gov, dep in dependencies.dependencies]
 
-    token, trees = self.parse(sentence)
+    #token, trees = self.parse(sentence)
 
     parse = lp.getBestParse()
 
-    gsf = tlp.grammaticalStructureFactory()
     gs = gsf.newGrammaticalStructure(parse)
     tdl = gs.typedDependenciesCollapsed()
 
-    print tdl
-    lsGrammarTuples=[]
+    #print tdl
     strGrammarTuples = str(tdl) #making data as string to avoid buffer error
 
     #Append to new lines
     strGrammarTuples.replace('), ', ')\n')
 
     strGrammarTuples = strGrammarTuples.replace('), ', ')\n')
+    
+    strGrammarTuples = strGrammarTuples.replace(')', ')\n')
+    strGrammarTuples = strGrammarTuples.replace('\'', '')
     strGrammarTuples = strGrammarTuples.translate(None, '[]')
 
     text_file.write(strGrammarTuples)
 
 text_file.close()
 
+# End of Iteratively parsing each line into its Stanford Typed Dependencies.
 
-print 'Start the Filtering process to retain only nusbj and dobj SD pairs from all grammar tuples'
-lsGrammarTuples=[]
-for line in open( 'ParsedGrammarTuples.txt', 'r' ).readlines():
-    lsGrammarTuples.append( line )
-    text_file = open('FilteredSVOTuples.txt', 'w')
 
-    for pair in lsGrammarTuples:
-        if 'nsubj(' in pair or 'dobj(' in pair:
-            text_file.write(pair)    # + "\n"
+# Filter out only nusbj and dobj Stanford Dependency pairs from all grammar tuples.
 
-    text_file.close()
-print 'Filtering to retain only nusbj and dobj SD pairs from all grammar tuples is completed'
+#inputFileName = 'ParsedGrammarTuples.txt'
+#outputFileName = 'FilteredSVOTuples.txt'
+
+execfile('FilterSVOTuples.py')
+
+# Filter the positions numbers from each verb-noun grammar tuple.
+
+#inputFileName = 'FilteredSVOTuples.txt'
+#outputFileName = 'FormattedTuples.txt'
+
+execfile('FilterPositions.py')
 
