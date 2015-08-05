@@ -1,6 +1,11 @@
 
 __author__ = 'vishal'
 
+
+import shutil
+
+'''
+
 import os
 import os.path
 from nltk.stem import PorterStemmer, WordNetLemmatizer
@@ -148,3 +153,33 @@ for pair in SVOTuples:
 text_fileLemma.close()
 print 'Lemmatization process to group together different words (lemma) to a common root for all grammar tuples is completed'
 
+'''
+
+text_file = open('CAD120SVOTuples.txt', 'w')
+
+print 'Start the Formatting of verb-noun grammar tuples to be represented in the Alchemy MLN format for Relational Learning'
+for line in open( 'CAD120SVOTuplesStemmedLemmatized.txt', 'r' ).readlines():
+    #Capitalize first letter of each word 
+    formattedStr = line.title()
+    formattedStr = formattedStr.replace('Nsubj', 'nsubj')
+    formattedStr = formattedStr.replace('Dobj', 'dobj')
+    
+    # Group Animate subjects higher up in the hierarchy for comparison.
+    formattedStr = formattedStr.replace('Subject', 'Person')
+    
+    # Check for empty strings in Verb Noun tuple format
+    SVOTuples = formattedStr.strip()
+    SVOTuples = SVOTuples.replace('nsubj(', '')
+    SVOTuples = SVOTuples.replace('dobj(', '')
+    SVOTuples = SVOTuples.replace(')', '')
+    SVOTuplesPairs = SVOTuples.split(',')
+    if SVOTuplesPairs[0] and SVOTuplesPairs[1] :
+        text_file.write(formattedStr)    # + "\n"
+
+text_file.close()
+print 'Formatting of verb-noun grammar tuples to be represented in the Alchemy MLN format for Relational Learning is completed'
+
+
+# Copy the file for MLN Weight Learning and Inference using Alchemy.
+shutil.copy('CAD120SVOTuples.txt', '../Alchemy Relational Learning/')
+print 'Copied CAD120SVOTuples.txt file for MLN Weight Learning and Inference using Alchemy.'
