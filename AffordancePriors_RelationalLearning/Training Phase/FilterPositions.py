@@ -12,6 +12,19 @@ for line in open( 'FilteredSVOTuples.txt', 'r' ).readlines():
     formattedStr = formattedStr.title()
     formattedStr = formattedStr.replace('Nsubj', 'nsubj')
     formattedStr = formattedStr.replace('Dobj', 'dobj')
+    
+    #Group Animate subjects higher up in the hierarchy for comparison.
+    formattedStr = formattedStr.replace('I)', 'Person)')
+    formattedStr = formattedStr.replace('You)', 'Person)')    
+    formattedStr = formattedStr.replace('He)', 'Person)')
+    formattedStr = formattedStr.replace('She)', 'Person)')
+    formattedStr = formattedStr.replace('Man)', 'Person)')
+    formattedStr = formattedStr.replace('Woman)', 'Person)')
+    formattedStr = formattedStr.replace('Men)', 'Person)')
+    formattedStr = formattedStr.replace('Women)', 'Person)')
+    formattedStr = formattedStr.replace('Child)', 'Person)')
+    formattedStr = formattedStr.replace('Children)', 'Person)')    
+    formattedStr = formattedStr.replace('They)', 'Person)')
 
     text_file.write(formattedStr)    # + "\n"
 

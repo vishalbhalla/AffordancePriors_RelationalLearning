@@ -45,6 +45,13 @@ for sentence in open( 'WebScrapingTrain.txt', 'r' ).readlines():
 
     text_file.write(strGrammarTuples)
 
+    # Dispose off objects by assigning it to null.
+    dependencies = 'null'
+    parse = 'null'
+    gs = 'null'
+    tdl = 'null'
+    strGrammarTuples = ''
+    
 text_file.close()
 
 # End of Iteratively parsing each line into its Stanford Typed Dependencies.
