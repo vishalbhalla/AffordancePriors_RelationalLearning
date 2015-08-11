@@ -5,12 +5,15 @@ import subprocess
 import shutil
 # Build the vocabulary set for Subject, Verb and Object to be appended in the Alchemy Learned Weights file.
 
+#DBfileName = 'FormattedTuples.txt'
+DBfileName = 'CAD120SVOTuples.txt'
+
 print 'Start building the vocabulary set for Subject, Verb and Object to be appended in the Alchemy Learned Weights file.'
 vocabSubject=[]
 vocabVerb=[]
 vocabObject=[]
 verbNounPair=[]
-for line in open( 'FormattedTuples.txt', 'r' ).readlines():
+for line in open(DBfileName, 'r' ).readlines():
     str = line
     if 'nsubj' in str:
         formattedStr = str.replace('nsubj(', '')
