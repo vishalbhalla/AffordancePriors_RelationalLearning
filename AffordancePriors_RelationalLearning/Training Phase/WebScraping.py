@@ -39,7 +39,6 @@ for BASE_URL in URLList:
 # Handle special characters like apostrophe
 #txtString = txtString.replace("\'", '')
 txtString = txtString.replace('"', '')
-txtString = txtString.replace('n\'t', ' not')
 #txtString = txtString.replace('(', '')
 #txtString = txtString.replace(')', '')
 
