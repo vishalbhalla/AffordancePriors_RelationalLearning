@@ -36,10 +36,12 @@ for BASE_URL in URLList:
                     txtString += grandchildTag.string.encode('ascii', 'ignore').encode('utf-8')
     txtString += "\n"+ "\n"+ "\n"
 
-# Remove double quotes and brackets
+# Handle special characters like apostrophe
+#txtString = txtString.replace("\'", '')
 txtString = txtString.replace('"', '')
-txtString = txtString.replace('(', '')
-txtString = txtString.replace(')', '')
+txtString = txtString.replace('n\'t', ' not')
+#txtString = txtString.replace('(', '')
+#txtString = txtString.replace(')', '')
 
 text_file.write(txtString)    # + "\n"
 text_file.close()
