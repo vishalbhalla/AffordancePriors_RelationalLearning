@@ -2,8 +2,10 @@ __author__ = 'vishal'
 
 import numpy as np
 import pylab as plt
+import numpy
 
-text_file = open('InferenceWebScrapedSVOTuples.txt', 'r')
+# text_file = open('InferenceWebScrapedSVOTuples.txt', 'r')
+text_file = open('inference1.mln', 'r')
 VerbNounTuplesTrain = text_file.read()
 text_file.close()
 SVOTuplesTrain = VerbNounTuplesTrain.split('\n')
@@ -86,12 +88,36 @@ for tupleTrain in newSVOTupleTrain:
             newProbSVOTuplesTest.append(probSVOTupleTest)
 
 
+print newProbSVOTuplesTrain
+print newProbSVOTuplesTest
+
+# Calculate the probabilities relative to maximum value of the Train & Test datasets.
+arrNewProbSVOTuplesTrain = numpy.array(newProbSVOTuplesTrain)
+arrNewProbSVOTuplesTest = numpy.array(newProbSVOTuplesTest)
+
+relDiffTrain = arrNewProbSVOTuplesTrain/max(arrNewProbSVOTuplesTrain)
+relDiffTest = arrNewProbSVOTuplesTest/max(arrNewProbSVOTuplesTest)
+
+
+'''
+# Calculate the average difference between the Train & Test datasets.
+arrDiffTrainTest = abs(arrNewProbSVOTuplesTrain - arrNewProbSVOTuplesTest)
+avgDiff = numpy.average(arrDiffTrainTest)
+
+relDiffTrain1 = arrDiffTrainTest/arrNewProbSVOTuplesTrain
+relDiffTest1 = arrDiffTrainTest/arrNewProbSVOTuplesTest
+'''
+
 # Plot the graph for the common tuples and their probabilities.
 # Scatter Plot
 SVOTupleNo = range(len(newSVOTuples))
 plt.xticks(SVOTupleNo, newSVOTuples)
-train = plt.scatter(SVOTupleNo,newProbSVOTuplesTrain,color='k')
-test = plt.scatter(SVOTupleNo,newProbSVOTuplesTest,color='g')
+
+#train = plt.scatter(SVOTupleNo,newProbSVOTuplesTrain,color='k')
+#test = plt.scatter(SVOTupleNo,newProbSVOTuplesTest,color='g')
+
+train = plt.scatter(SVOTupleNo,relDiffTrain,color='r')
+test = plt.scatter(SVOTupleNo,relDiffTest,color='b')
 
 plt.title("Scatter Plot for Inferred SVO Tuple Probabilities of WikiHow Training Dataset vs Ground Truth of CAD 120 Test Dataset")
 plt.xlabel("SVO Tuples - Verb-Noun Pairs")
