@@ -4,8 +4,6 @@ __author__ = 'vishal'
 
 import shutil
 
-'''
-
 import os
 import os.path
 from nltk.stem import PorterStemmer, WordNetLemmatizer
@@ -153,7 +151,6 @@ for pair in SVOTuples:
 text_fileLemma.close()
 print 'Lemmatization process to group together different words (lemma) to a common root for all grammar tuples is completed'
 
-'''
 
 text_file = open('CAD120SVOTuples.txt', 'w')
 
@@ -165,7 +162,7 @@ for line in open( 'CAD120SVOTuplesStemmedLemmatized.txt', 'r' ).readlines():
     formattedStr = formattedStr.replace('Dobj', 'dobj')
     
     # Group Animate subjects higher up in the hierarchy for comparison.
-    formattedStr = formattedStr.replace('Subject', 'Person')
+    formattedStr = formattedStr.replace('Subject)', 'Person)')
     
     # Check for empty strings in Verb Noun tuple format
     SVOTuples = formattedStr.strip()

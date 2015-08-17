@@ -5,8 +5,8 @@ import subprocess
 import shutil
 # Build the vocabulary set for Subject, Verb and Object to be appended in the Alchemy Learned Weights file.
 
-#DBfileName = 'FormattedTuples.txt'
-DBfileName = 'CAD120SVOTuples.txt'
+DBfileName = 'FormattedTuples.txt'
+#DBfileName = 'CAD120SVOTuples.txt'
 
 print 'Start building the vocabulary set for Subject, Verb and Object to be appended in the Alchemy Learned Weights file.'
 vocabSubject=[]
@@ -82,6 +82,8 @@ command = 'cd ' + '~/' + 'Downloads/alchemy-2/bin'
 
 #command = command + '\n' + './learnwts -i ../exdata/vishal-test/SVOPredicateFormula.mln -o ../exdata/vishal-test/learnwts.mln -t ../exdata/vishal-test/empty.db -ne nsubj, dobj -noAddUnitClauses'
 #command = command + '\n' + './learnwts -i ../exdata/vishal-test/SVOPredicateFormula.mln -o ../exdata/vishal-test/learnwts.mln -t ../exdata/vishal-test/SVOTuples.db -ne nsubj, dobj -noAddUnitClauses'
+
+# Use Generative Learning to learn weights
 command = command + '\n' + './learnwts -g -i ../exdata/vishal-test/SVOPredicateFormula.mln -o ../exdata/vishal-test/learnwts.mln -t ../exdata/vishal-test/SVOTuples.db -noAddUnitClauses'
 
 # Add the constants i.e. vocabulary set for verbs in the learnwts.mln file.
@@ -89,7 +91,11 @@ command = command + '\n' + 'echo ' + strConstantVerbs + ' >> ../exdata/vishal-te
 
 # Use Alchemy MLN for Inference.
 #command = command + '\n' + './infer -i ../exdata/vishal-test/learnwts.mln -r ../exdata/vishal-test/inference.mln -e ../exdata/vishal-test/empty.db -q nsubj, dobj'
-command = command + '\n' + './infer -p -i ../exdata/vishal-test/learnwts.mln -r ../exdata/vishal-test/inference.mln -e ../exdata/vishal-test/empty.db -q nsubj,dobj'
+#command = command + '\n' + './infer -p -i ../exdata/vishal-test/learnwts.mln -r ../exdata/vishal-test/inference.mln -e ../exdata/vishal-test/empty.db -q nsubj,dobj'
+
+# Use MC-SAT Inference
+command = command + '\n' + './infer -ms -i ../exdata/vishal-test/learnwts.mln -r ../exdata/vishal-test/inference.mln -e ../exdata/vishal-test/empty.db -q nsubj,dobj'
+
 
 text_file = open('executeAlchemyMLN.sh', 'w')
 text_file.write(command)
