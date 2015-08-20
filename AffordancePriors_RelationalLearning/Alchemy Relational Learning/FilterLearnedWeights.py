@@ -21,7 +21,7 @@ weightedSVTuples.sort(key=lambda x: x[0])
 weightedVOTuples.sort(key=lambda x: x[0])
 
 # Filter percentage of the tuples
-p = 0.4
+p = 0.9
 
 lenSV = len(weightedSVTuples)
 filteredSV = int(math.ceil(p*lenSV))
