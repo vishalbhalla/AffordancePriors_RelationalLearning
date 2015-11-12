@@ -4,8 +4,12 @@ __author__ = 'vishal'
 from bs4 import BeautifulSoup, NavigableString
 from urllib2 import urlopen
 
-#URLList = ["http://www.wikihow.com/Open-a-Bottle-of-Water", "http://www.wikihow.com/Install-a-Ceiling-Fan", "http://www.wikihow.com/Shut-a-Door-Quietly", "http://www.wikihow.com/Open-and-Care-for-a-Book", "http://www.wikihow.com/Move-a-Refrigerator"]
-URLList = ["http://www.wikihow.com/Open-a-Bottle-of-Water", "http://www.wikihow.com/Install-a-Ceiling-Fan",
+'''
+URLList = [
+           'http://www.wikihow.com/Floss','http://www.wikihow.com/Walk-10,000-Steps-a-Day','http://www.wikihow.com/Do-a-Split','http://www.wikihow.com/Play-the-Piano','http://www.wikihow.com/Meditate','http://www.wikihow.com/Control-Food-Portions','http://www.wikihow.com/Feel-Like-Eating-Breakfast-First-Thing-in-the-Morning','http://www.wikihow.com/Avoid-Weight-Gain-While-Working-a-Desk-Job', # nsubj(Reach,Person)
+           'http://www.wikihow.com/Do-the-Cup-and-Balls-Magic-Trick','http://www.wikihow.com/Make-a-Beer-Pong-Table','http://www.wikihow.com/Put-Up-Christmas-Lights-Inside','http://www.wikihow.com/Arrange-Dishes-in-Kitchen-Cabinets','http://www.wikihow.com/Use-Measuring-Spoons-and-Cups','http://www.wikihow.com/Make-Liquid-Soap','http://www.wikihow.com/Make-a-Flea-Trap','http://www.wikihow.com/Sleep-Nicely','http://www.wikihow.com/Remove-the-Mildew-Smell-from-Books','http://www.wikihow.com/Make-Your-Bedroom-Smell-Good','http://www.wikihow.com/Encourage-Your-Cat-to-Drink-More-Water','http://www.wikihow.com/Germinate-Cannabis-Seeds','http://www.wikihow.com/Make-a-Starbucks-Mocha-Frappuccino', # dobj(Place,Cup)
+           'http://www.wikihow.com/Make-Cottage-Cheese','http://www.wikihow.com/Dry-Milk','http://www.wikihow.com/Make-Ricotta-Cheese','http://www.wikihow.com/Make-Yogurt-Without-Special-Equipment','http://www.wikihow.com/Make-a-Dark-and-Milk-Chocolate-Fridge-Cake','http://www.wikihow.com/Make-Chocolate-Popsicles','http://www.wikihow.com/Thaw-Frozen-Breast-Milk','http://www.wikihow.com/Recycle-Milk-Containers', # dobj(Place,Milk)
+           "http://www.wikihow.com/Open-a-Bottle-of-Water", "http://www.wikihow.com/Install-a-Ceiling-Fan",
            "http://www.wikihow.com/Shut-a-Door-Quietly", "http://www.wikihow.com/Open-and-Care-for-a-Book",
            "http://www.wikihow.com/Move-a-Refrigerator", "http://www.wikihow.com/Open-a-Sealed-Envelope",
            "http://www.wikihow.com/Open-a-Stuck-Window", "http://www.wikihow.com/Dust-Your-Entire-House",
@@ -52,7 +56,128 @@ URLList = ["http://www.wikihow.com/Open-a-Bottle-of-Water", "http://www.wikihow.
            'http://www.wikihow.com/Extinguish-an-Oil-Fire','http://www.wikihow.com/Protect-Valuables-on-the-Beach','http://www.wikihow.com/Wash-Dishes','http://www.wikihow.com/Make-a-Warm-Compress','http://www.wikihow.com/Wax','http://www.wikihow.com/Foundation-Piece-a-Quilt-Block','http://www.wikihow.com/Make-a-Mask','http://www.wikihow.com/Make-a-Ninja-Mask','http://www.wikihow.com/Polish-Stainless-Steel','http://www.wikihow.com/Make-Makeup','http://www.wikihow.com/Make-Cream-Cheese','http://www.wikihow.com/Drain-Sinuses', # dobj(Place,Cloth) 
            'http://www.wikihow.com/Play-Solitaire','http://www.wikihow.com/Bet-on-Soccer','http://www.wikihow.com/Make-Your-Bed','http://www.wikihow.com/Play-Craps','http://www.wikihow.com/Bid-on-eBay','http://www.wikihow.com/Place-Your-Fingers-Properly-on-Piano-Keys','http://www.wikihow.com/Shoot-Dice','http://www.wikihow.com/Play-Scrabble','http://www.wikihow.com/Play-Go','http://www.wikihow.com/Hug' # nsubj(Place,Person)   
         ]
+'''
 
+# Reducing the number of web page links to 180 from 283
+
+'''
+URLList = [
+           'http://www.wikihow.com/Floss','http://www.wikihow.com/Walk-10,000-Steps-a-Day','http://www.wikihow.com/Meditate','http://www.wikihow.com/Control-Food-Portions','http://www.wikihow.com/Feel-Like-Eating-Breakfast-First-Thing-in-the-Morning', # nsubj(Reach,Person)
+           'http://www.wikihow.com/Do-the-Cup-and-Balls-Magic-Trick','http://www.wikihow.com/Make-a-Beer-Pong-Table','http://www.wikihow.com/Put-Up-Christmas-Lights-Inside','http://www.wikihow.com/Arrange-Dishes-in-Kitchen-Cabinets','http://www.wikihow.com/Use-Measuring-Spoons-and-Cups', # dobj(Place,Cup)
+           'http://www.wikihow.com/Make-Cottage-Cheese','http://www.wikihow.com/Dry-Milk','http://www.wikihow.com/Make-Ricotta-Cheese','http://www.wikihow.com/Make-Yogurt-Without-Special-Equipment','http://www.wikihow.com/Make-a-Dark-and-Milk-Chocolate-Fridge-Cake', # dobj(Place,Milk)
+           "http://www.wikihow.com/Open-a-Bottle-of-Water", "http://www.wikihow.com/Install-a-Ceiling-Fan",
+           "http://www.wikihow.com/Shut-a-Door-Quietly", "http://www.wikihow.com/Open-and-Care-for-a-Book",
+           "http://www.wikihow.com/Move-a-Refrigerator", "http://www.wikihow.com/Open-a-Sealed-Envelope",
+           "http://www.wikihow.com/Open-a-Stuck-Window", "http://www.wikihow.com/Dust-Your-Entire-House",
+           "http://www.wikihow.com/Clean-Gold-Plated-Watches", "http://www.wikihow.com/Clean-a-Clothes-Dryer-Vent",
+           "http://www.wikihow.com/Clean-Windows", "http://www.wikihow.com/Bet-on-the-World-Cup",
+           "http://www.wikihow.com/Set-a-Table", "http://www.wikihow.com/Make-Spring-Roll-Wrappers",
+           "http://www.wikihow.com/Choose-Microwave-Safe-Containers", "http://www.wikihow.com/Use-a-Microwave",
+           "http://www.wikihow.com/Clean-a-Sponge", "http://www.wikihow.com/Make-Condensed-Milk",
+           "http://www.wikihow.com/Make-Kefir", "http://www.wikihow.com/Make-Vegan-Condensed-Milk",
+           "http://www.wikihow.com/Access-Another-Computer-from-Your-Computer", "http://www.wikihow.com/Repair-a-Remote-Control",
+           "http://www.wikihow.com/Test-if-a-Dish-Is-Microwave-Safe", "http://www.wikihow.com/Install-a-Microwave",
+           'http://www.wikihow.com/Build-a-Torsion-Box-Workbench-Top','http://www.wikihow.com/Make-Popcorn-Boxes', # dobj(Reach,Box)
+           'http://www.wikihow.com/Clean-a-Toilet','http://www.wikihow.com/Clean-a-Betta-Fish-Bowl','http://www.wikihow.com/Clean-a-Toilet-With-Coke','http://www.wikihow.com/Load-a-Dishwasher', # dobj(Reach,Bowl)
+           'http://www.wikihow.com/Prepare-Cereal','http://www.wikihow.com/Clean-a-Fish-Bowl','http://www.wikihow.com/Eat-a-Bowl-of-Cereal','http://www.wikihow.com/Make-Vodka-Gummy-Bear-Popsicles','http://www.wikihow.com/Unclog-a-Toilet', # dobj(Pour,Bowl)
+           'http://www.wikihow.com/Clean-a-Microwave-With-a-Lemon','http://www.wikihow.com/Get-Bad-Smells-out-of-a-Microwave','http://www.wikihow.com/Clean-Your-Microwave-with-Lemon-and-Vinegar','http://www.wikihow.com/Clean-a-Microwave', # dobj(Clean,Microwave)
+           'http://www.wikihow.com/Organize-a-Bookshelf','http://www.wikihow.com/Read-a-Book','http://www.wikihow.com/Rebind-a-Book', #dobj(Place,Book)
+           'http://www.wikihow.com/Use-the-Wii-Controller','http://www.wikihow.com/Play-Games-Well', 'http://www.wikihow.com/Bowl-an-Easy-Bowling-Strike-in-Wii-Sports', # dobj(Move,Remote)
+           'http://www.wikihow.com/Microwave-Pizza-Without-the-Crust-Going-Soggy','http://www.wikihow.com/Fry-Bacon','http://www.wikihow.com/Make-a-Cake-Using-a-Pressure-Cooker','http://www.wikihow.com/Dewax-Lemons','http://www.wikihow.com/Serve-at-a-Dinner-Party','http://www.wikihow.com/Set-a-Table', #dobj(Place,Plate)
+           'http://www.wikihow.com/Clean-a-House','http://www.wikihow.com/Clean-Your-Room','http://www.wikihow.com/Clean-a-Living-Room','http://www.wikihow.com/Clean-a-Kitchen', # nsubj(Clean,Person)
+           'http://www.wikihow.com/Play-PangYa','http://www.wikihow.com/Detect-a-Liar', # dobj(Reach,Cup)
+           'http://www.wikihow.com/Make-a-Gift-Box','http://www.wikihow.com/Make-a-Magic-Box','http://www.wikihow.com/Measure-a-Box','http://www.wikihow.com/Flatten-a-Box','http://www.wikihow.com/Wrap-a-Gift-Expertly', # dobj(Place,Box)
+           'http://www.wikihow.com/Use-Good-Table-Manners','http://www.wikihow.com/Throw-Wiffle-Ball-Pitches','http://www.wikihow.com/Have-Good-Manners','http://www.wikihow.com/Make-a-Hologram', # dobj(Reach,Plate)
+           'http://www.wikihow.com/Clean-a-Bowl-or-Chillum','http://www.wikihow.com/Melt-Chocolate','http://www.wikihow.com/Remove-a-Plate-Stuck-Inside-a-Glass-Bowl','http://www.wikihow.com/Cook-Rice','http://www.wikihow.com/Activate-Fresh-Yeast','http://www.wikihow.com/Temper-Chocolate', # dobj(Place,Bowl)
+           'http://www.wikihow.com/Shut-a-Door-Quietly','http://www.wikihow.com/Deal-With-the-Pain-of-a-Door-Being-Shut-on-Your-Finger','http://www.wikihow.com/Swim-Faster','http://www.wikihow.com/Close-a-Bank-Account', # nsubj(Close,Person)'
+           'http://www.wikihow.com/Pack-Clothes-for-Moving','http://www.wikihow.com/Wash-Clothes-by-Hand','http://www.wikihow.com/Do-a-Simple-Coin-Magic-Trick','http://www.wikihow.com/Clean-a-Game-Disc','http://www.wikihow.com/Clean-Brass-Jewelry','http://www.wikihow.com/Wash-Your-Clothes', # dobj(Move,Cloth)
+           'http://www.wikihow.com/Open-a-Pomegranate','http://www.wikihow.com/Open-Your-Locker','http://www.wikihow.com/Give-Your-Kitchen-a-Spring-Clean','http://www.wikihow.com/Organize-Kitchen-Cabinets','http://www.wikihow.com/Cook-for-Just-Yourself','http://www.wikihow.com/Bake','http://www.wikihow.com/Cook-with-Just-a-Kettle', # nsubj(Open,Person)
+           'http://www.wikihow.com/Stop-Bottle-Feeding-Toddlers','http://www.wikihow.com/Sample/King\'s-Cup-Terms','http://www.wikihow.com/Take-Communion-in-the-Catholic-Church','http://www.wikihow.com/Cool-a-Hot-Drink-Quickly', # dobj(Drink,Cup)
+           'http://www.wikihow.com/Check-a-Microwave-for-Leaks','http://www.wikihow.com/Poach-an-Egg-Using-a-Microwave','http://www.wikihow.com/Melt-Cheese-Sticks','http://www.wikihow.com/Make-Ramen-Noodles-in-the-Microwave','http://www.wikihow.com/Microwave-a-CD', # dobj(Close,Microwave)
+           'http://www.wikihow.com/Lose-Weight','http://www.wikihow.com/Serve-and-Drink-Sake','http://www.wikihow.com/Make-Green-Tea','http://www.wikihow.com/Drink-Tea-to-Lose-Weight','http://www.wikihow.com/Drink-More-Water-Every-Day', # nsubj(Drink,Person)
+           'http://www.wikihow.com/Do-the-Cup-Song','http://www.wikihow.com/Make-a-Coffee-Cup-Using-Blender','http://www.wikihow.com/Do-the-Cup-Song-Without-a-Cup', # dobj(Move,Cup)
+           'http://www.wikihow.com/Make-Coffee-without-a-Coffee-Maker','http://www.wikihow.com/Make-Cake-in-a-Mug','http://www.wikihow.com/Make-a-Cup-of-Tea-Using-the-Microwave','http://www.wikihow.com/Cook-Bacon-in-the-Microwave','http://www.wikihow.com/Replace-a-Microwave-Lightbulb','http://www.wikihow.com/Microwave-Pizza-Rolls', # dobj(Open,Microwave)
+           'http://www.wikihow.com/Move-an-Upright-Piano','http://www.wikihow.com/Arrange-Your-Furniture','http://www.wikihow.com/Move-a-Piano','http://www.wikihow.com/Use-SketchUp','http://www.wikihow.com/Decorate-a-Kitchen','http://www.wikihow.com/Make-Shawarma', # nsubj(Move,Person)
+           'http://www.wikihow.com/Catalogue-Your-Books-with-Goodreads','http://www.wikihow.com/Remove-a-Collection-from-a-Kindle-2','http://www.wikihow.com/Tell-if-You-Need-Glasses','http://www.wikihow.com/Build-Your-Own-Book-Truck', # dobj(Move,Book)
+           'http://www.wikihow.com/Buy-Milk','http://www.wikihow.com/Find-a-Friendly-Kitty','http://www.wikihow.com/Make-a-Thick-Strawberry-Banana-Smoothie','http://www.wikihow.com/Store-Milk', # dobj(Open,Milk)
+           'http://www.wikihow.com/Pour-Beer','http://www.wikihow.com/Drink-Beer','http://www.wikihow.com/Pour-a-Drink','http://www.wikihow.com/Dispose-of-Cooking-Oil','http://www.wikihow.com/Drink-Port','http://www.wikihow.com/Make-Marshmallows','http://www.wikihow.com/Curdle-Milk','http://www.wikihow.com/Make-Chocolate-Fudge', #nsubj(Pour,Person)
+           'http://www.wikihow.com/Make-Latte-Art','http://www.wikihow.com/Pasteurize-Milk', # dobj(Move,Milk)
+           'http://www.wikihow.com/Install-a-Toilet','http://www.wikihow.com/Keep-Ants-Away-From-Cat-Food','http://www.wikihow.com/Make-a-Glass-Bowl-with-a-Napkin-in-Blender','http://www.wikihow.com/Make-a-Pot-of-Lavender-Potpourri', # dobj(Move,Bowl)
+           'http://www.wikihow.com/Tame-a-Feral-Kitten','http://www.wikihow.com/Keep-a-Cat-from-Joining-You-in-Eating-a-Meal','http://www.wikihow.com/Measure-Salinity', # dobj(Move,Plate)
+           'http://www.wikihow.com/Wrap-a-Box-With-a-Square-End','http://www.wikihow.com/Litter-Train-a-Cat','http://www.wikihow.com/Create-a-Gravatar','http://www.wikihow.com/Pack-Boxes','http://www.wikihow.com/Move-out-Quickly', # dobj(Move,Box)
+           'http://www.wikihow.com/Clean-a-Litter-Box','http://www.wikihow.com/Make-Molds-for-Plaster-Statues','http://www.wikihow.com/Clean-Your-Kitty-Litter-Box', # dobj(Pour,Box)
+           'http://www.wikihow.com/Keep-Air-Out-of-Your-Baby\'s-Bottle', # dobj(Reach,Milk)
+           'http://www.wikihow.com/Eat-Properly','http://www.wikihow.com/Eat-Healthy','http://www.wikihow.com/Eat-Like-a-Body-Builder','http://www.wikihow.com/Eat-and-Lose-Weight','http://www.wikihow.com/Identify-Trigger-Foods', # nsubj(Eat,Person)
+           'http://www.wikihow.com/Extinguish-an-Oil-Fire','http://www.wikihow.com/Wash-Dishes','http://www.wikihow.com/Polish-Stainless-Steel','http://www.wikihow.com/Make-Cream-Cheese','http://www.wikihow.com/Drain-Sinuses', # dobj(Place,Cloth)
+           'http://www.wikihow.com/Make-Your-Bed','http://www.wikihow.com/Place-Your-Fingers-Properly-on-Piano-Keys','http://www.wikihow.com/Shoot-Dice','http://www.wikihow.com/Play-Scrabble','http://www.wikihow.com/Hug' # nsubj(Place,Person)
+        ]
+
+
+
+
+URLList = [
+           #'http://www.wikihow.com/Floss','http://www.wikihow.com/Walk-10,000-Steps-a-Day','http://www.wikihow.com/Meditate','http://www.wikihow.com/Control-Food-Portions','http://www.wikihow.com/Feel-Like-Eating-Breakfast-First-Thing-in-the-Morning', 'http://www.wikihow.com/Do-the-Cup-and-Balls-Magic-Trick','http://www.wikihow.com/Make-a-Beer-Pong-Table','http://www.wikihow.com/Put-Up-Christmas-Lights-Inside','http://www.wikihow.com/Arrange-Dishes-in-Kitchen-Cabinets','http://www.wikihow.com/Use-Measuring-Spoons-and-Cups', # dobj(Place,Cup)
+           #'http://www.wikihow.com/Make-Cottage-Cheese','http://www.wikihow.com/Dry-Milk','http://www.wikihow.com/Make-Ricotta-Cheese','http://www.wikihow.com/Make-Yogurt-Without-Special-Equipment','http://www.wikihow.com/Make-a-Dark-and-Milk-Chocolate-Fridge-Cake', "http://www.wikihow.com/Open-a-Bottle-of-Water", "http://www.wikihow.com/Install-a-Ceiling-Fan","http://www.wikihow.com/Shut-a-Door-Quietly", "http://www.wikihow.com/Open-and-Care-for-a-Book","http://www.wikihow.com/Move-a-Refrigerator"
+           #"http://www.wikihow.com/Open-a-Sealed-Envelope","http://www.wikihow.com/Open-a-Stuck-Window", "http://www.wikihow.com/Dust-Your-Entire-House","http://www.wikihow.com/Clean-Gold-Plated-Watches", "http://www.wikihow.com/Clean-a-Clothes-Dryer-Vent","http://www.wikihow.com/Clean-Windows", "http://www.wikihow.com/Bet-on-the-World-Cup","http://www.wikihow.com/Set-a-Table", "http://www.wikihow.com/Make-Spring-Roll-Wrappers","http://www.wikihow.com/Choose-Microwave-Safe-Containers"
+           "http://www.wikihow.com/Use-a-Microwave","http://www.wikihow.com/Clean-a-Sponge", "http://www.wikihow.com/Make-Condensed-Milk","http://www.wikihow.com/Make-Kefir", "http://www.wikihow.com/Make-Vegan-Condensed-Milk","http://www.wikihow.com/Access-Another-Computer-from-Your-Computer", "http://www.wikihow.com/Repair-a-Remote-Control","http://www.wikihow.com/Test-if-a-Dish-Is-Microwave-Safe", "http://www.wikihow.com/Install-a-Microwave",'http://www.wikihow.com/Make-Popcorn-Boxes'
+          ]
+
+'''
+
+
+URLList = [
+           'http://www.wikihow.com/Control-Food-Portions', # nsubj(Reach,Person)
+           'http://www.wikihow.com/Arrange-Dishes-in-Kitchen-Cabinets', # dobj(Place,Cup)
+           'http://www.wikihow.com/Dry-Milk', # dobj(Place,Milk)
+            # "http://www.wikihow.com/Open-a-Bottle-of-Water",
+            # "http://www.wikihow.com/Open-and-Care-for-a-Book",
+            # "http://www.wikihow.com/Move-a-Refrigerator",
+            # "http://www.wikihow.com/Dust-Your-Entire-House",
+            # "http://www.wikihow.com/Clean-a-Clothes-Dryer-Vent",
+            # "http://www.wikihow.com/Clean-Windows",
+            # "http://www.wikihow.com/Set-a-Table",
+           "http://www.wikihow.com/Use-a-Microwave",
+            # "http://www.wikihow.com/Make-Condensed-Milk",
+           "http://www.wikihow.com/Repair-a-Remote-Control",
+            #  "http://www.wikihow.com/Install-a-Microwave",
+           'http://www.wikihow.com/Make-Popcorn-Boxes', # dobj(Reach,Box)
+           'http://www.wikihow.com/Load-a-Dishwasher', # dobj(Reach,Bowl)
+           'http://www.wikihow.com/Prepare-Cereal', # dobj(Pour,Bowl)
+           'http://www.wikihow.com/Clean-a-Microwave', # dobj(Clean,Microwave)
+            # 'http://www.wikihow.com/Organize-a-Bookshelf', #dobj(Place,Book)
+            # 'http://www.wikihow.com/Use-the-Wii-Controller', # dobj(Move,Remote)
+           'http://www.wikihow.com/Set-a-Table', #dobj(Place,Plate)
+           'http://www.wikihow.com/Clean-a-Kitchen', # nsubj(Clean,Person)
+            # 'http://www.wikihow.com/Play-PangYa', # dobj(Reach,Cup)
+            # 'http://www.wikihow.com/Make-a-Gift-Box', # dobj(Place,Box)
+            # 'http://www.wikihow.com/Use-Good-Table-Manners', # dobj(Reach,Plate)
+           'http://www.wikihow.com/Cook-Rice', # dobj(Place,Bowl)
+            # 'http://www.wikihow.com/Close-a-Bank-Account', # nsubj(Close,Person)'
+           'http://www.wikihow.com/Pack-Clothes-for-Moving', # dobj(Move,Cloth)
+           'http://www.wikihow.com/Open-a-Pomegranate', # nsubj(Open,Person)
+           'http://www.wikihow.com/Cool-a-Hot-Drink-Quickly', # dobj(Drink,Cup)
+           'http://www.wikihow.com/Check-a-Microwave-for-Leaks', # dobj(Close,Microwave)
+            # 'http://www.wikihow.com/Serve-and-Drink-Sake', # nsubj(Drink,Person)
+           'http://www.wikihow.com/Make-a-Coffee-Cup-Using-Blender', # dobj(Move,Cup)
+           'http://www.wikihow.com/Make-a-Cup-of-Tea-Using-the-Microwave', # dobj(Open,Microwave)
+            # 'http://www.wikihow.com/Decorate-a-Kitchen', # nsubj(Move,Person)
+            # 'http://www.wikihow.com/Catalogue-Your-Books-with-Goodreads', # dobj(Move,Book)
+           'http://www.wikihow.com/Store-Milk', # dobj(Open,Milk)
+            # 'http://www.wikihow.com/Curdle-Milk', #nsubj(Pour,Person)
+           'http://www.wikihow.com/Pasteurize-Milk', # dobj(Move,Milk)
+           'http://www.wikihow.com/Make-a-Pot-of-Lavender-Potpourri', # dobj(Move,Bowl)
+            # 'http://www.wikihow.com/Measure-Salinity', # dobj(Move,Plate)
+           'http://www.wikihow.com/Pack-Boxes', # dobj(Move,Box)
+            # 'http://www.wikihow.com/Clean-a-Litter-Box', # dobj(Pour,Box)
+           'http://www.wikihow.com/Keep-Air-Out-of-Your-Baby\'s-Bottle', # dobj(Reach,Milk)
+            # 'http://www.wikihow.com/Eat-Healthy', # nsubj(Eat,Person)
+           'http://www.wikihow.com/Make-Cream-Cheese', # dobj(Place,Cloth)
+            # 'http://www.wikihow.com/Make-Your-Bed' # nsubj(Place,Person)
+        ]
+
+
+# Remove duplicates fom the URL List
+URLList = list(set(URLList))
 
 #print len(URLList)
 
