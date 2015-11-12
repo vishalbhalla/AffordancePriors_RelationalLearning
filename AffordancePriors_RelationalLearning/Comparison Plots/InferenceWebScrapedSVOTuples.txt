@@ -1,6 +1,0 @@
-nsubj(Reach,Person) 0.48856
-nsubj(Open,Person) 0.652596
-nsubj(Move,Person) 0.88886
-dobj(Reach,Remote) 0.40193
-dobj(Reach,Milk) 0.45992
-dobj(Reach,Cloth) 0.30742

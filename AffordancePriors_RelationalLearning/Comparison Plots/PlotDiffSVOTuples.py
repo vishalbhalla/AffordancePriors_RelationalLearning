@@ -5,7 +5,7 @@ import pylab as plt
 import numpy
 
 # text_file = open('InferenceWebScrapedSVOTuples.txt', 'r')
-text_file = open('inference1.mln', 'r')
+text_file = open('inferenceTrain.txt', 'r')
 VerbNounTuplesTrain = text_file.read()
 text_file.close()
 SVOTuplesTrain = VerbNounTuplesTrain.split('\n')
@@ -13,11 +13,11 @@ SVOTuplesTrain = VerbNounTuplesTrain.split('\n')
 
 newSVOTupleTrain = []
 for pair in SVOTuplesTrain:
-    tupleTrain = pair.split(' ')
-    if 'nsubj' in pair or 'dobj' in tupleTrain[0]:
-        str = tupleTrain[0].strip()
+    tupleTrain = pair.split('\t')
+    if 'nsubj' in pair or 'dobj' in tupleTrain[1]:
+        str = tupleTrain[1].strip()
         formattedSVOTupleTrain = str.translate(None, ' ')
-        probSVOTupleTrain = float(tupleTrain[1])
+        probSVOTupleTrain = float(tupleTrain[0])
         newSVOTupleTrain.append((formattedSVOTupleTrain,probSVOTupleTrain))
 
 
@@ -49,7 +49,7 @@ CAD120SVOTuplesTest = list(set(SVOTuplesTest))
 # Remove empty strings
 CAD120SVOTuplesTest = filter(None, CAD120SVOTuplesTest)
 
-text_file = open('InferenceCAD120SVOTuples.txt', 'r')
+text_file = open('inferenceCAD120Test.txt', 'r')
 VerbNounTuplesTrain = text_file.read()
 text_file.close()
 SVOTupleTestInf = VerbNounTuplesTrain.split('\n')
@@ -58,13 +58,13 @@ SVOTupleTestInf = VerbNounTuplesTrain.split('\n')
 newSVOTupleTestInf = []
 listExists = []
 for pair in SVOTupleTestInf:
-    TupleTestInf = pair.split(' ')
-    if 'nsubj' in pair or 'dobj' in TupleTestInf[0]:
-        str = TupleTestInf[0].strip()
+    TupleTestInf = pair.split('\t')
+    if 'nsubj' in pair or 'dobj' in TupleTestInf[1]:
+        str = TupleTestInf[1].strip()
         formattedSVOTupleTestInf = str.translate(None, ' ')
         listExists = [formattedSVOTupleTestInf in [item for item in CAD120SVOTuplesTest]]
         if listExists[0]:
-            probSVOTupleTestInf = float(TupleTestInf[1])
+            probSVOTupleTestInf = float(TupleTestInf[0])
             newSVOTupleTestInf.append((formattedSVOTupleTestInf,probSVOTupleTestInf))
 
 # End of extracting only ground truth tuples from test data for comparison or evaluation
@@ -107,6 +107,8 @@ avgDiff = numpy.average(arrDiffTrainTest)
 relDiffTrain1 = arrDiffTrainTest/arrNewProbSVOTuplesTrain
 relDiffTest1 = arrDiffTrainTest/arrNewProbSVOTuplesTest
 '''
+
+print newSVOTuples
 
 # Plot the graph for the common tuples and their probabilities.
 # Scatter Plot
