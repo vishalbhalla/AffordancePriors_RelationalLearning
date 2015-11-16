@@ -91,13 +91,14 @@ for tupleTrain in newSVOTupleTrain:
 print newProbSVOTuplesTrain
 print newProbSVOTuplesTest
 
+
+
 # Calculate the probabilities relative to maximum value of the Train & Test datasets.
 arrNewProbSVOTuplesTrain = numpy.array(newProbSVOTuplesTrain)
 arrNewProbSVOTuplesTest = numpy.array(newProbSVOTuplesTest)
 
 relDiffTrain = arrNewProbSVOTuplesTrain/max(arrNewProbSVOTuplesTrain)
 relDiffTest = arrNewProbSVOTuplesTest/max(arrNewProbSVOTuplesTest)
-
 
 '''
 # Calculate the average difference between the Train & Test datasets.
@@ -170,3 +171,28 @@ fig = Figure(data=data, layout=layout)
 plot_url = py.plot(fig, filename='overlaid-histogram')
 
 '''
+
+
+# Calculate the L1 and L2 norm of the difference in probabilities of the Train & Test datasets.
+arrNewProbSVOTuplesTrain = numpy.array(newProbSVOTuplesTrain)
+arrNewProbSVOTuplesTest = numpy.array(newProbSVOTuplesTest)
+
+# Calculate the difference between the Train & Test datasets.
+arrDiffTrainTest = abs(arrNewProbSVOTuplesTrain - arrNewProbSVOTuplesTest)
+
+'''
+l1norm = sum(arrDiffTrainTest)
+l2norm = arrDiffTrainTest * numpy.transpose(arrDiffTrainTest)
+
+print 'l1norm is  ', l1norm
+print 'l2norm is  ', l2norm
+'''
+
+
+l1norm = numpy.linalg.norm(arrDiffTrainTest, ord=1)
+l2norm = numpy.linalg.norm(arrDiffTrainTest, ord=2)
+
+print 'l1norm is  ', l1norm
+print 'l2norm is  ', l2norm
+
+
