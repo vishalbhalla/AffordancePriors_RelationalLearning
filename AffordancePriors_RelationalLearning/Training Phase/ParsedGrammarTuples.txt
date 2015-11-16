@@ -1,3468 +1,3020 @@
-acomp(Make-1, sure-2)
+det(type-2, The-1)
 
-nsubj(window-6, it-3)
+nsubj(determines-5, type-2)
 
-cop(window-6, is-4)
+prep_of(type-2, grate-4)
 
-det(window-6, a-5)
+advmod(wash-8, how-6)
 
-ccomp(sure-2, window-6)
+nsubj(wash-8, you-7)
 
-nsubjpass(meant-9, that-7)
+ccomp(determines-5, wash-8)
 
-auxpass(meant-9, is-8)
+poss(*NL*-12, your-9)
 
-rcmod(window-6, meant-9)
+nn(*NL*-12, burners-10)
 
-aux(opened-12, to-10)
-
-auxpass(opened-12, be-11)
-
-xcomp(meant-9, opened-12)
-
-nsubj(Make-1, *NL*-14)
-nsubj(*NL*-14, Some-1)
-
-amod(office-3, new-2)
-
-nsubjpass(meant-9, office-3)
-
-nn(windows-6, home-5)
-
-conj_and(office-3, windows-6)
-
-auxpass(meant-9, are-7)
-
-neg(meant-9, not-8)
-
-dep(Some-1, meant-9)
-
-aux(opened-12, to-10)
-
-auxpass(opened-12, be-11)
-
-xcomp(meant-9, opened-12)
-acomp(Make-1, sure-2)
-
-complm(nailed-8, that-3)
-
-det(window-5, the-4)
-
-nsubjpass(nailed-8, window-5)
-
-auxpass(nailed-8, is-6)
-
-neg(nailed-8, not-7)
-
-ccomp(Make-1, nailed-8)
-
-conj_or(nailed-8, screwed-10)
-
-ccomp(nailed-8, shut-11)
-
-nn(reasons-17, security-13)
-
-conj_or(security-13, energy-15)
-
-nn(reasons-17, conservation-16)
-
-prep_for(shut-11, reasons-17)
-
-nsubj(Make-1, *NL*-19)
-acomp(Make-1, sure-2)
-
-det(locks-4, any-3)
-
-nsubjpass(disengaged-6, locks-4)
-
-auxpass(disengaged-6, are-5)
-
-ccomp(sure-2, disengaged-6)
-
-nsubj(Make-1, *NL*-8)
-aux(see-3, to-2)
-
-xcomp(Look-1, see-3)
-
-mark(painted-11, if-4)
-
-det(frame-7, the-5)
-
-nn(frame-7, window-6)
-
-nsubjpass(painted-11, frame-7)
-
-aux(painted-11, has-8)
-
-auxpass(painted-11, been-9)
-
-advmod(painted-11, recently-10)
-
-advcl(see-3, painted-11)
-
-nsubj(Look-1, *NL*-13)
-dobj(supposed-7, which-2)
-
-nsubjpass(supposed-7, direction-3)
-
-det(window-5, the-4)
-
-dep(direction-3, window-5)
-
-auxpass(supposed-7, is-6)
-
-ccomp(Decide-1, supposed-7)
-
-aux(open-9, to-8)
-
-xcomp(supposed-7, open-9)
-
-dep(outward-13, up-11)
-
-dep(supposed-7, outward-13)
-
-conj_or(outward-13, sideways-15)
-
-dep(outward-13, *NL*-17)
-det(scrap-3, a-2)
-
-dobj(Use-1, scrap-3)
-
-prep_of(scrap-3, wood-5)
-
-det(bar-9, the-7)
-
-nn(bar-9, pry-8)
-
-prep_between(wood-5, bar-9)
-
-det(windowsill-12, the-11)
-
-conj_and(bar-9, windowsill-12)
-
-aux(avoid-14, to-13)
-
-xcomp(Use-1, avoid-14)
-
-xcomp(avoid-14, damaging-15)
-
-det(*NL*-19, the-16)
-
-nn(*NL*-19, sill-17)
-
-dobj(damaging-15, *NL*-19)
-dep(Start-1, at-2)
-
-num(corner-4, one-3)
-
-pobj(at-2, corner-4)
-
-nn(*NL*-22, push-6)
-
-dep(*NL*-22, downward-7)
-
-dep(downward-7, on-8)
-
-det(bar-11, the-9)
-
-nn(bar-11, pry-10)
-
-pobj(on-8, bar-11)
-
-partmod(bar-11, trying-13)
-
-aux(lift-15, to-14)
-
-xcomp(trying-13, lift-15)
-
-det(window-17, the-16)
-
-iobj(lift-15, window-17)
-
-quantmod(bit-20, just-18)
-
-quantmod(bit-20, a-19)
-
-dobj(lift-15, bit-20)
-
-conj_and(corner-4, *NL*-22)
-advmod(move-2, Then-1)
-
-det(corner-6, the-4)
-
-amod(corner-6, opposite-5)
-
-prep_to(move-2, corner-6)
-
-det(middle-9, the-8)
-
-conj_and(corner-6, middle-9)
-
-conj_and(move-2, do-11)
-
-det(thing-14, the-12)
-
-amod(thing-14, same-13)
-
-dep(do-11, thing-14)
-
-dobj(move-2, *NL*-16)
-mark(moving-5, If-1)
-
-det(window-3, the-2)
-
-nsubj(moving-5, window-3)
-
-aux(moving-5, is-4)
-
-advcl(move-14, moving-5)
-
-prt(moving-5, up-6)
-
-aux(moving-12, is-8)
-
-advmod(moving-12, still-9)
-
-neg(moving-12, not-10)
-
-advmod(not-10, free-11)
-
-conj_but(moving-5, moving-12)
-
-nsubj(upwards-16, it-15)
-
-ccomp(move-14, upwards-16)
-
-amod(steps-19, small-18)
-
-prep_in(upwards-16, steps-19)
-
-xcomp(upwards-16, going-21)
-
-prep_from(going-21, corner-23)
-
-amod(*NL*-43, middle-25)
-
-amod(corner-28, opposite-27)
-
-prep_to(middle-25, corner-28)
-
-advmod(move-35, so-29)
-
-dep(move-35, that-30)
-
-num(side-32, one-31)
-
-nsubj(move-35, side-32)
-
-aux(move-35, does-33)
-
-neg(move-35, not-34)
-
-ccomp(middle-25, move-35)
-
-advmod(up-38, much-36)
-
-advmod(up-38, farther-37)
-
-advmod(move-35, up-38)
-
-det(other-41, the-40)
-
-prep_than(move-35, other-41)
-
-prep_to(going-21, *NL*-43)
-amod(pieces-3, small-2)
-
-dobj(Use-1, pieces-3)
-
-nn(props-8, wood-5)
-
-conj_or(wood-5, other-7)
-
-prep_of(pieces-3, props-8)
-
-aux(keep-10, to-9)
-
-xcomp(Use-1, keep-10)
-
-det(window-12, the-11)
-
-dobj(keep-10, window-12)
-
-prepc_from(keep-10, sliding-14)
-
-dep(sliding-14, downward-15)
-
-dep(downward-15, *NL*-17)
-nsubj(have-3, You-1)
-
-aux(have-3, may-2)
-
-aux(repeat-5, to-4)
-
-xcomp(have-3, repeat-5)
-
-det(steps-7, these-6)
-
-dobj(repeat-5, steps-7)
-
-det(side-11, the-9)
-
-amod(side-11, other-10)
-
-prep_on(repeat-5, side-11)
-
-det(*NL*-16, the-13)
-
-nn(*NL*-16, window-14)
-
-prep_of(side-11, *NL*-16)
-det(manual-6, an-3)
-
-amod(manual-6, old-4)
-
-nn(manual-6, CIA-5)
-
-prep_according_to(have-11, manual-6)
-
-det(tool-9, the-8)
-
-nsubj(have-11, tool-9)
-
-aux(have-11, should-10)
-
-det(edge-14, a-12)
-
-amod(edge-14, smooth-13)
-
-dobj(have-11, edge-14)
-
-rcmod(edge-14, preferably-16)
-
-dep(preferably-16, with-17)
-
-det(tip-22, a-18)
-
-amod(tip-22, curved-19)
-
-amod(tip-22, blunt-21)
-
-pobj(with-17, tip-22)
-
-advmod(have-11, *NL*-24)
-dep(made-8, 2-2)
-
-det(tools-5, These-4)
-
-nsubjpass(made-8, tools-5)
-
-aux(made-8, can-6)
-
-auxpass(made-8, be-7)
-
-agent(made-8, filing-10)
-
-prt(filing-10, down-11)
-
-det(piece-13, a-12)
-
-dobj(filing-10, piece-13)
-
-prep_of(piece-13, wood-15)
-
-det(key-20, an-17)
-
-amod(key-20, ivory-18)
-
-nn(key-20, piano-19)
-
-conj_or(wood-15, key-20)
-
-dep(*NL*-34, blank-21)
-
-prep(described-30, but-23)
-
-det(tool-26, any-24)
-
-amod(tool-26, flat-25)
-
-dep(but-23, tool-26)
-
-det(shape-29, the-28)
-
-prep_with(tool-26, shape-29)
-
-parataxis(*NL*-34, described-30)
-
-aux(work-32, should-31)
-
-ccomp(described-30, work-32)
-
-dep(made-8, *NL*-34)
-mark(opened-4, If-1)
-
-nsubj(opened-4, you-2)
-
-aux(opened-4, have-3)
-
-advcl(fold-11, opened-4)
-
-det(envelope-6, the-5)
-
-dobj(opened-4, envelope-6)
-
-advmod(opened-4, partway-7)
-
-nsubj(fold-11, you-9)
-
-aux(fold-11, can-10)
-
-det(piece-13, a-12)
-
-dobj(fold-11, piece-13)
-
-amod(paper-16, blotting-15)
-
-prep_of(piece-13, paper-16)
-
-conj_and(fold-11, stick-18)
-
-dobj(stick-18, it-19)
-
-det(flap-22, the-21)
-
-prep_under(stick-18, flap-22)
-
-aux(absorb-24, to-23)
-
-infmod(flap-22, absorb-24)
-
-det(excess-26, any-25)
-
-nsubj(*NL*-29, excess-26)
-
-nn(*NL*-29, water-27)
-
-xcomp(absorb-24, *NL*-29)
-dep(*NL*-4, 3-2)
-neg(apply-2, Never-1)
-
-dobj(apply-2, water-3)
-
-det(area-6, an-5)
-
-prep_to(apply-2, area-6)
-
-prep_with(area-6, ink-8)
-
-det(stamp-11, a-10)
-
-conj_or(area-6, stamp-11)
-
-prep_over(stamp-11, it-13)
-
-advmod(area-6, *NL*-15)
-nsubj(*NL*-10, Some-1)
-
-nsubj(water-soluble-8, types-2)
-
-nn(adhesive-5, envelope-4)
-
-prep_of(types-2, adhesive-5)
-
-cop(water-soluble-8, are-6)
-
-neg(water-soluble-8, not-7)
-
-dep(Some-1, water-soluble-8)
-mark(notice-3, If-1)
-
-nsubj(notice-3, you-2)
-
-det(results-5, no-4)
-
-dobj(notice-3, results-5)
-
-advmod(notice-3, at-6)
-
-dep(at-6, all-7)
-
-dep(notice-3, try-9)
-
-det(method-12, the-10)
-
-nn(method-12, cutting-11)
-
-dep(instead-13, method-12)
-
-dep(try-9, instead-13)
-
-dobj(notice-3, *NL*-15)
-mark(notice-3, If-1)
-
-nsubj(notice-3, you-2)
-
-advcl(try-15, notice-3)
-
-amod(results-5, minor-4)
-
-dobj(notice-3, results-5)
-
-conj_negcc(results-5, enough-8)
-
-aux(get-10, to-9)
-
-xcomp(notice-3, get-10)
-
-det(envelope-12, the-11)
-
-nsubj(open-13, envelope-12)
-
-xcomp(get-10, open-13)
-
-nsubj(*NL*-18, steaming-16)
-
-xcomp(try-15, *NL*-18)
-nn(method-2, Whichever-1)
-
-nsubj(choose-4, you-3)
-
-dep(method-2, choose-4)
-
-det(flap-7, the-6)
-
-nsubjpass(sealed-10, flap-7)
-
-aux(sealed-10, can-8)
-
-auxpass(sealed-10, be-9)
-
-parataxis(choose-4, sealed-10)
-
-advmod(sealed-10, again-11)
-
-purpcl(sealed-10, using-12)
-
-amod(dabs-14, tiny-13)
-
-dobj(using-12, dabs-14)
-
-prep_of(dabs-14, glue-16)
-
-dobj(choose-4, spread-18)
-
-det(flap-21, the-20)
-
-prep_over(choose-4, flap-21)
-
-det(*NL*-26, a-23)
-
-nn(*NL*-26, toothpick-24)
-
-prep_with(flap-21, *NL*-26)
-det(envelopes-2, Some-1)
-
-nsubj(sticky-5, envelopes-2)
-
-aux(sticky-5, will-3)
-
-cop(sticky-5, become-4)
-
-advmod(sticky-5, again-6)
-
-advmod(dampened-12, when-7)
-
-det(glue-9, the-8)
-
-nsubj(dampened-12, glue-9)
-
-cop(dampened-12, is-10)
-
-advmod(dampened-12, slightly-11)
-
-advcl(sticky-5, dampened-12)
-
-partmod(dampened-12, *NL*-14)
-mark(looks-5, If-1)
-
-det(ink-4, the-2)
-
-nn(ink-4, envelope-3)
-
-nsubj(looks-5, ink-4)
-
-acomp(looks-5, wet-6)
-
-conj_or(looks-5, starts-8)
-
-aux(run-10, to-9)
-
-xcomp(starts-8, run-10)
-
-conj_and(run-10, remove-12)
-
-det(steam-15, the-14)
-
-prep_from(remove-12, steam-15)
-
-conj_and(run-10, try-17)
-
-det(*NL*-21, another-18)
-
-nn(*NL*-21, method-19)
-
-dobj(try-17, *NL*-21)
-det(motion-5, A-1)
-
-amod(motion-5, smooth-2)
-
-amod(motion-5, continuous-4)
-
-nsubj(likely-8, motion-5)
-
-cop(likely-8, is-6)
-
-advmod(likely-8, less-7)
-
-aux(leave-10, to-9)
-
-xcomp(likely-8, leave-10)
-
-dobj(leave-10, wrinkles-11)
-
-conj_but(leave-10, involves-14)
-
-det(risk-17, a-15)
-
-amod(risk-17, higher-16)
-
-dobj(involves-14, risk-17)
-
-prep_of(risk-17, damage-19)
-
-mark(experienced-24, if-20)
-
-nsubjpass(experienced-24, you-21)
-
-auxpass(experienced-24, are-22)
-
-neg(experienced-24, not-23)
-
-advcl(involves-14, experienced-24)
-
-det(task-27, this-26)
-
-prep_at(experienced-24, task-27)
-
-dep(leave-10, *NL*-29)
-det(oven-3, an-2)
-
-dobj(Wear-1, oven-3)
-
-dep(oven-3, mitt-4)
-
-aux(protect-6, to-5)
-
-dep(mitt-4, protect-6)
-
-poss(hands-8, your-7)
-
-dobj(protect-6, hands-8)
-
-nsubj(Wear-1, *NL*-10)
-mark(produce-6, If-1)
-
-poss(kettle-3, your-2)
-
-nsubj(produce-6, kettle-3)
-
-aux(produce-6, does-4)
-
-neg(produce-6, nt-5)
-
-det(jet-9, a-7)
-
-amod(jet-9, focused-8)
-
-dobj(produce-6, jet-9)
-
-conj_or(produce-6, stick-11)
-
-det(spoon-13, a-12)
-
-dobj(stick-11, spoon-13)
-
-advmod(produce-6, other-15)
-
-conj_or(produce-6, heat-safe-16)
-
-dobj(heat-safe-16, object-17)
-
-det(spout-20, the-19)
-
-prep_into(heat-safe-16, spout-20)
-
-aux(narrow-22, to-21)
-
-infmod(spout-20, narrow-22)
-
-det(opening-24, the-23)
-
-dobj(narrow-22, opening-24)
-
-dep(produce-6, *NL*-26)
-dep(*NL*-4, 7-2)
-det(paste-4, the-2)
-
-amod(paste-4, flour-water-3)
-
-nsubj(make-6, paste-4)
-
-aux(make-6, will-5)
-
-ccomp(Boiling-1, make-6)
-
-det(mixture-8, the-7)
-
-nsubj(dry-9, mixture-8)
-
-ccomp(make-6, dry-9)
-
-acomp(dry-9, clear-10)
-
-prep_instead_of(clear-10, white-13)
-
-conj_or(white-13, off-white-15)
-
-aux(make-20, will-18)
-
-advmod(make-20, also-19)
-
-conj_but(make-6, make-20)
-
-nsubj(*NL*-24, it-21)
-
-nn(*NL*-24, weaker-22)
-
-xcomp(make-20, *NL*-24)
-nsubj(*NL*-17, 8-2)
-
-nsubj(crucial-6, Boiling-4)
-
-cop(crucial-6, is-5)
-
-rcmod(8-2, crucial-6)
-
-amod(envelopes-9, dark-colored-8)
-
-prep_for(crucial-6, envelopes-9)
-
-aux(make-11, to-10)
-
-xcomp(crucial-6, make-11)
-
-det(papier-mch-13, the-12)
-
-dobj(make-11, papier-mch-13)
-
-advmod(obvious-15, less-14)
-
-dep(make-11, obvious-15)
-dep(bar-13, Type-1)
-
-dep(Type-1, in-2)
-
-det(router-4, the-3)
-
-poss(address-6, router-4)
-
-pobj(in-2, address-6)
-
-dep(in-2, into-7)
-
-poss(browser-10, your-8)
-
-nn(browser-10, web-9)
-
-poss(address-12, browser-10)
-
-pobj(into-7, address-12)
-
-dep(bar-13, *NL*-15)
-det(address-2, The-1)
-
-nsubj(192-5, address-2)
-
-cop(192-5, is-3)
-
-advmod(192-5, typically-4)
-
-partmod(192-5, *NL*-7)
-nsubj(*NL*-3, 168-1)
-nsubj(*NL*-3, 1-1)
-dep(*NL*-5, 1-1)
-
-conj_or(1-1, 192-3)
-nsubj(*NL*-3, 168-1)
-nsubj(*NL*-3, 0-1)
-nsubj(*NL*-3, 1-1)
-nsubj(find-3, You-1)
-
-aux(find-3, can-2)
-
-poss(router-6, your-4)
-
-amod(router-6, specific-5)
-
-poss(address-8, router-6)
-
-dobj(find-3, address-8)
-
-prepc_by(find-3, opening-10)
-
-det(command-12, the-11)
-
-nsubj(prompt-13, command-12)
-
-xcomp(opening-10, prompt-13)
-
-conj_and(opening-10, typing-15)
-
-xcomp(typing-15, ipconfig-16)
-
-conj_and(opening-10, looking-18)
-
-det(*NL*-24, the-20)
-
-nn(*NL*-24, Default-21)
-
-nn(*NL*-24, Gateway-22)
-
-prep_for(looking-18, *NL*-24)
-nsubjpass(asked-4, You-1)
-
-aux(asked-4, will-2)
-
-auxpass(asked-4, be-3)
-
-det(username-7, a-6)
-
-nn(*NL*-11, username-7)
-
-conj_and(username-7, password-9)
-
-prep_for(asked-4, *NL*-11)
-nsubj(*NL*-22, The-1)
-
-nn(username-3, default-2)
-
-nsubj(admin-7, username-3)
-
-cop(admin-7, is-4)
-
-advmod(admin-7, typically-5)
-
-dep(The-1, admin-7)
-
-det(password-11, the-10)
-
-nsubj(password-15, password-11)
-
-cop(password-15, is-12)
-
-advmod(password-15, usually-13)
-
-conj_and(admin-7, password-15)
-
-conj_or(password-15, admin-19)
-nsubj(find-3, You-1)
-
-aux(find-3, can-2)
-
-det(information-6, the-4)
-
-nn(information-6, login-5)
-
-dobj(find-3, information-6)
-
-poss(router-10, your-8)
-
-amod(router-10, specific-9)
-
-prep_for(information-6, router-10)
-
-prepc_by(find-3, searching-12)
-
-det(*NL*-17, the-13)
-
-amod(*NL*-17, model-14)
-
-nn(*NL*-17, online-15)
-
-dobj(searching-12, *NL*-17)
-mark(having-4, If-1)
-
-nsubj(having-4, you-2)
-
-aux(having-4, are-3)
-
-advcl(press-10, having-4)
-
-dobj(having-4, difficulty-5)
-
-xcomp(having-4, accessing-6)
-
-det(router-8, the-7)
-
-dobj(accessing-6, router-8)
-
-det(button-13, the-11)
-
-amod(button-13, reset-12)
-
-dobj(press-10, button-13)
-
-det(back-16, the-15)
-
-prep_on(press-10, back-16)
-
-det(router-19, the-18)
-
-prep_of(back-16, router-19)
-
-conj_and(press-10, wait-21)
-
-num(seconds-23, 30-22)
-
-dobj(wait-21, seconds-23)
-
-advmod(wait-21, then-25)
-
-dep(wait-21, turn-26)
-
-dobj(turn-26, it-27)
-
-advmod(on-29, back-28)
-
-advmod(turn-26, on-29)
-
-dep(wait-21, *NL*-31)
-nsubj(reset-3, This-1)
-
-aux(reset-3, will-2)
-
-det(settings-5, the-4)
-
-dobj(reset-3, settings-5)
-
-nn(*NL*-9, default-7)
-
-prep_to(reset-3, *NL*-9)
-nsubj(use-4, You-1)
-
-aux(use-4, can-2)
-
-advmod(use-4, then-3)
-
-det(information-7, the-5)
-
-nn(information-7, login-6)
-
-dobj(use-4, information-7)
-
-partmod(information-7, printed-8)
-
-det(router-11, the-10)
-
-prep_on(printed-8, router-11)
-
-advmod(router-11, itself-12)
-
-conj_or(use-4, look-14)
-
-prt(look-14, up-15)
-
-det(*NL*-20, the-16)
-
-nn(*NL*-20, defaults-17)
-
-nn(*NL*-20, online-18)
-
-dobj(look-14, *NL*-20)
-nn(Address-2, IP-1)
-
-nsubj(*NL*-20, Address-2)
-
-nsubj(address-8, This-4)
-
-cop(address-8, is-5)
-
-det(address-8, the-6)
-
-nn(address-8, IP-7)
-
-dep(Address-2, address-8)
-
-det(device-11, the-10)
-
-prep_of(address-8, device-11)
-
-complm(want-14, that-12)
-
-nsubj(want-14, you-13)
-
-ccomp(address-8, want-14)
-
-amod(ports-17, forward-16)
-
-prep_to(want-14, ports-17)
-
-prep(want-14, for-18)
-prep_for(need-16, example-2)
-
-mark(want-6, if-4)
-
-nsubj(want-6, you-5)
-
-advcl(need-16, want-6)
-
-amod(ports-9, forward-8)
-
-prep_to(want-6, ports-9)
-
-poss(laptop-12, your-11)
-
-prep_for(ports-9, laptop-12)
-
-nsubj(need-16, you-14)
-
-aux(need-16, will-15)
-
-poss(*NL*-20, its-17)
-
-nn(*NL*-20, IP-18)
-
-dobj(need-16, *NL*-20)
-det(guide-3, this-2)
-
-dobj(See-1, guide-3)
-
-prep_for(guide-3, instructions-5)
-
-prepc_on(instructions-5, finding-7)
-
-poss(IP-9, your-8)
-
-dobj(finding-7, IP-9)
-
-det(PC-12, a-11)
-
-prep_for(finding-7, PC-12)
-
-det(guide-16, this-15)
-
-conj_and(guide-3, guide-16)
-
-prepc_for(guide-16, finding-18)
-
-det(address-21, the-19)
-
-nn(address-21, IP-20)
-
-dobj(finding-18, address-21)
-
-det(*NL*-26, a-23)
-
-nn(*NL*-26, Mac-24)
-
-prep_for(finding-18, *NL*-26)
-dobj(Starting-1, port-2)
-
-conj_and(Starting-1, ending-4)
-
-dobj(ending-4, port-5)
-
-nsubj(range-10, This-7)
-
-cop(range-10, is-8)
-
-det(range-10, the-9)
-
-dep(port-5, range-10)
-
-prep_of(range-10, ports-12)
-
-nsubj(opening-15, you-13)
-
-aux(opening-15, are-14)
-
-rcmod(ports-12, opening-15)
-
-dobj(Starting-1, *NL*-17)
-det(programs-2, Some-1)
-
-nsubj(require-4, programs-2)
-
-aux(require-4, will-3)
-
-det(range-6, a-5)
-
-dobj(require-4, range-6)
-
-prep_of(range-6, ports-8)
-
-mark(require-13, while-10)
-
-nsubj(require-13, other-11)
-
-aux(require-13, will-12)
-
-advcl(require-4, require-13)
-
-det(*NL*-18, a-14)
-
-amod(*NL*-18, single-15)
-
-nn(*NL*-18, port-16)
-
-dobj(require-13, *NL*-18)
-mark(opening-5, If-1)
-
-nsubj(opening-5, you-2)
-
-aux(opening-5, are-3)
-
-advmod(opening-5, only-4)
-
-advcl(enter-9, opening-5)
-
-num(port-7, one-6)
-
-dobj(opening-5, port-7)
-
-det(number-12, the-10)
-
-amod(number-12, same-11)
-
-dobj(enter-9, number-12)
-
-det(Starting-15, the-14)
-
-prep_for(enter-9, Starting-15)
-
-nn(*NL*-20, Ending-17)
-
-nn(*NL*-20, ports-18)
-
-conj_and(Starting-15, *NL*-20)
+dobj(wash-8, *NL*-12)
 mark(have-3, If-1)
 
 nsubj(have-3, you-2)
 
-advcl(use-13, have-3)
+advcl(use-8, have-3)
 
-det(option-5, the-4)
+det(grate-6, an-4)
 
-dobj(have-3, option-5)
+amod(grate-6, uncoated-5)
 
-aux(set-7, to-6)
+dobj(have-3, grate-6)
 
-infmod(option-5, set-7)
+det(pad-11, a-9)
 
-det(range-11, the-8)
+amod(pad-11, scouring-10)
 
-nn(range-11, Internal-9)
+dobj(use-8, pad-11)
 
-nn(range-11, Port-10)
+aux(clean-13, to-12)
 
-dobj(set-7, range-11)
+infmod(pad-11, clean-13)
 
-det(*NL*-18, the-14)
+det(*NL*-17, the-14)
 
-amod(*NL*-18, same-15)
+nn(*NL*-17, grate-15)
 
-nn(*NL*-18, numbers-16)
+dobj(clean-13, *NL*-17)
+mark(have-3, If-1)
 
-dobj(use-13, *NL*-18)
-dep(have-4, Protocol-1)
+nsubj(have-3, you-2)
 
-nsubj(have-4, You-3)
+advcl(use-8, have-3)
 
-det(choice-6, a-5)
+det(grate-6, a-4)
 
-dobj(have-4, choice-6)
+amod(grate-6, coated-5)
 
-prep_between(choice-6, TCP-8)
+dobj(have-3, grate-6)
 
-nn(*NL*-12, UDP-10)
+det(*NL*-13, a-9)
 
-conj_and(TCP-8, *NL*-12)
-det(one-2, The-1)
+amod(*NL*-13, soft-10)
 
-nsubj(choose-25, one-2)
+nn(*NL*-13, sponge-11)
 
-partmod(one-2, required-3)
+dobj(use-8, *NL*-13)
+mark(have-3, If-1)
 
-aux(given-7, will-4)
+nsubj(have-3, you-2)
 
-advmod(given-7, typically-5)
+advcl(use-9, have-3)
 
-auxpass(given-7, be-6)
+det(hood-7, a-4)
 
-dep(required-3, given-7)
+amod(hood-7, stainless-5)
 
-prep_to(given-7, you-9)
+nn(hood-7, steel-6)
 
-det(program-12, the-11)
+dobj(have-3, hood-7)
 
-agent(given-7, program-12)
+det(product-12, a-10)
 
-complm(unblocking-16, that-13)
+nn(product-12, cleaning-11)
 
-nsubj(unblocking-16, you-14)
+nsubj(*NL*-21, product-12)
 
-aux(unblocking-16, are-15)
+partmod(product-12, meant-13)
 
-ccomp(given-7, unblocking-16)
+aux(used-16, to-14)
 
-dobj(unblocking-16, ports-17)
+auxpass(used-16, be-15)
 
-prep(unblocking-16, for-18)
+xcomp(meant-13, used-16)
 
-mark(unsure-24, if-21)
+amod(steel-19, stainless-18)
 
-nsubj(unsure-24, you-22)
+prep_on(used-16, steel-19)
 
-cop(unsure-24, are-23)
+xcomp(use-9, *NL*-21)
+mark(have-3, If-1)
 
-conj_but(given-7, unsure-24)
+nsubj(have-3, you-2)
 
-det(Both-28, the-26)
+advcl(remove-8, have-3)
 
-nsubj(*NL*-36, Both-28)
+det(stove-6, an-4)
 
-conj_or(Both-28, TCP\/UDP-32)
+amod(stove-6, electric-5)
 
-nn(*NL*-36, option-34)
+dobj(have-3, stove-6)
 
-xcomp(choose-25, *NL*-36)
-nn(Vista\/7-3, Windows-2)
+det(racks-10, the-9)
 
-prep_in(click-5, Vista\/7-3)
+dobj(remove-8, racks-10)
 
-det(menu-8, the-6)
+conj_and(remove-8, put-12)
 
-nn(menu-8, Start-7)
+det(oven-14, the-13)
 
-dobj(click-5, menu-8)
+dobj(put-12, oven-14)
 
-amod(*NL*-14, select-10)
+prepc_on(put-12, cleaning-16)
 
-nn(*NL*-14, Control-11)
+nn(*NL*-19, mode-17)
 
-nn(*NL*-14, Panel-12)
+dep(cleaning-16, *NL*-19)
+advmod(ended-5, When-1)
 
-conj_and(menu-8, *NL*-14)
-pobj(In-1, Windows-2)
+det(cycle-3, the-2)
 
-num(Windows-2, 8-3)
+nsubj(ended-5, cycle-3)
 
-conj_and(Windows-2, press-5)
+aux(ended-5, has-4)
 
-amod(*NL*-11, select-7)
+dep(use-7, ended-5)
 
-nn(*NL*-11, Control-8)
+det(cloth-10, a-8)
 
-nn(*NL*-11, Panel-9)
+amod(cloth-10, damp-9)
 
-conj_and(Windows-2, *NL*-11)
-dep(*NL*-41, Padding-1)
+dobj(use-7, cloth-10)
 
-amod(sheetsNewspapers-4, suppliesBubble-2)
+aux(remove-12, to-11)
 
-nn(sheetsNewspapers-4, wrapsWrapping-3)
+xcomp(use-7, remove-12)
 
-dobj(Padding-1, sheetsNewspapers-4)
+det(residue-14, any-13)
 
-amod(packaging-10, blank-6)
+dobj(remove-12, residue-14)
 
-nn(packaging-10, newsprint-7)
+partmod(residue-14, left-15)
 
-nn(packaging-10, paperScissorsHeavy-8)
+det(cycle-19, the-17)
 
-nn(packaging-10, duty-9)
+nn(cycle-19, cleaning-18)
 
-nsubj(*NL*-41, packaging-10)
+agent(left-15, cycle-19)
 
-partmod(packaging-10, tapeLabeling-11)
+nsubj(use-7, *NL*-21)
+dep(soda-5, Combine-1)
 
-xcomp(tapeLabeling-11, stickersMarking-12)
+num(tablespoons-3, two-2)
 
-amod(file-15, pensKeep-13)
+dep(Combine-1, tablespoons-3)
 
-det(file-15, this-14)
+amod(soda-5, baking-4)
 
-dobj(stickersMarking-12, file-15)
+num(water-9, one-7)
 
-det(place-19, a-17)
+nn(water-9, quart-8)
 
-amod(place-19, safe-18)
+conj_and(soda-5, water-9)
 
-prep_in(stickersMarking-12, place-19)
+dep(soda-5, *NL*-11)
+det(sponge-3, a-2)
 
-prep(stickersMarking-12, such-21)
+dobj(Dip-1, sponge-3)
 
-dep(in-23, as-22)
+det(solution-6, the-5)
 
-dep(such-21, in-23)
+prep_in(sponge-3, solution-6)
 
-poss(purse-25, your-24)
+advmod(Dip-1, then-8)
 
-pobj(in-23, purse-25)
+dep(Dip-1, wipe-9)
 
-amod(bag-28, personal-27)
-
-conj_or(purse-25, bag-28)
-
-advmod(pack-35, where-30)
-
-nsubj(pack-35, you-31)
-
-aux(pack-35, will-32)
-
-neg(pack-35, not-33)
-
-advmod(pack-35, accidentally-34)
-
-rcmod(purse-25, pack-35)
-
-dobj(pack-35, it-36)
-
-det(box-39, a-38)
-
-prep_in(pack-35, box-39)
-nsubj(be-4, It-1)
-
-aux(be-4, should-2)
-
-advmod(be-4, also-3)
-
-det(place-7, a-6)
-
-prep_in(be-4, place-7)
-
-advmod(buried-13, where-8)
-
-nsubjpass(buried-13, it-9)
-
-aux(buried-13, wo-10)
-
-neg(buried-13, nt-11)
-
-auxpass(buried-13, get-12)
-
-advcl(be-4, buried-13)
-
-det(*NL*-22, the-15)
-
-amod(*NL*-22, mess-16)
-
-nsubj(develop-20, that-17)
-
-aux(develop-20, will-18)
-
-advmod(develop-20, inevitably-19)
-
-ccomp(mess-16, develop-20)
-
-prep_in(buried-13, *NL*-22)
-det(boxes-3, these-2)
-
-dobj(Keep-1, boxes-3)
-
-conj_or(boxes-3, suitcases-5)
-
-det(place-9, a-7)
-
-amod(place-9, safe-8)
-
-prep_in(boxes-3, place-9)
-
-advmod(mixed-15, where-10)
-
-nsubj(mixed-15, they-11)
-
-aux(mixed-15, will-12)
-
-neg(mixed-15, not-13)
-
-cop(mixed-15, be-14)
-
-advcl(Keep-1, mixed-15)
-
-prep(mixed-15, in-16)
-
-dep(in-16, with-17)
-
-pobj(with-17, everything-18)
-
-advmod(everything-18, else-19)
-
-advmod(everything-18, perhaps-21)
-
-dep(perhaps-21, in-22)
-
-det(car-24, the-23)
-
-pobj(in-22, car-24)
-
-advmod(away-28, even-26)
-
-advmod(away-28, farther-27)
-
-conj_or(perhaps-21, away-28)
-
-dep(house-35, work-30)
-
-det(neighbor-33, a-32)
-
-conj_or(work-30, neighbor-33)
-
-parataxis(mixed-15, house-35)
-
-nsubj(Keep-1, *NL*-38)
-dobj(Bring-1, them-2)
-
-nn(*NL*-14, you-4)
-
-det(car-7, the-6)
-
-prep_in(you-4, car-7)
-
-advmod(traveling-12, however-9)
-
-nsubj(traveling-12, you-10)
-
-aux(traveling-12, are-11)
-
-conj_or(you-4, traveling-12)
-
-prep_with(Bring-1, *NL*-14)
-prep_as_for(wrap-7, things-3)
-
-prep_like(things-3, glassware-5)
-
-det(one-9, each-8)
-
-dep(wrap-7, one-9)
-
-det(sock-12, a-11)
-
-prep_in(one-9, sock-12)
-
-dep(wrap-7, *NL*-14)
-poss(thats-4, Its-1)
-
-advmod(thats-4, almost-2)
-
-amod(thats-4, like-3)
-
-nsubj(*NL*-13, thats-4)
-
-rel(meant-10, what-5)
-
-det(socks-7, the-6)
-
-nsubjpass(meant-10, socks-7)
-
-auxpass(meant-10, were-8)
-
-advmod(meant-10, truly-9)
-
-rcmod(thats-4, meant-10)
-
-prep(meant-10, for-11)
-mark(clink-3, If-1)
-
-nsubj(clink-3, they-2)
-
-advcl(be-10, clink-3)
-
-det(other-6, each-5)
-
-prep_against(clink-3, other-6)
-
-nsubj(be-10, they-8)
-
-aux(be-10, ll-9)
-
-dep(*NL*-13, fine-11)
-
-advmod(be-10, *NL*-13)
-nsubj(want-4, You-1)
-
-aux(want-4, may-2)
-
-advmod(want-4, also-3)
-
-aux(snap-6, to-5)
-
-xcomp(want-4, snap-6)
-
-det(photo-8, a-7)
-
-dobj(snap-6, photo-8)
-
-nn(arrangements-11, frame-10)
-
-prep_for(photo-8, arrangements-11)
-
-amod(set-ups-14, decorative-13)
-
-conj_and(arrangements-11, set-ups-14)
-
-advmod(*NL*-18, too-16)
-
-rcmod(photo-8, *NL*-18)
-dep(Not-1, to-2)
-
-dep(to-2, mention-3)
-
-det(nostalgia-5, the-4)
-
-dobj(mention-3, nostalgia-5)
-
-conj_and(nostalgia-5, memories-7)
-
-conj_and(nostalgia-5, of-9)
-
-pobj(of-9, course-10)
-
-amod(nostalgia-5, *NL*-12)
-mark(pack-3, As-1)
-
-nsubj(pack-3, you-2)
-
-det(box-5, each-4)
-
-dobj(pack-3, box-5)
-
-conj_and(pack-3, seal-7)
-
-dobj(seal-7, it-8)
-
-prt(seal-7, up-9)
-
-conj_and(pack-3, put-11)
-
-det(number-13, a-12)
-
-dobj(put-11, number-13)
-
-prep_on(number-13, it-15)
-
-det(label-22, the-20)
-
-nn(label-22, room-21)
-
-conj_and(number-13, label-22)
-
-nn(*NL*-26, contents-24)
-
-conj_and(label-22, *NL*-26)
-det(way-2, This-1)
-
-nsubj(know-13, way-2)
-
-mark(have-6, if-4)
-
-nsubj(have-6, you-5)
-
-advcl(know-13, have-6)
-
-nn(number-8, X-7)
-
-dobj(have-6, number-8)
-
-prep_of(number-8, boxes-10)
-
-nsubj(know-13, youll-12)
-
-advmod(missing-17, when-14)
-
-nsubj(missing-17, one-15)
-
-aux(missing-17, is-16)
-
-advcl(know-13, missing-17)
-
-prep_in(missing-17, addition-20)
-
-cop(able-23, being-22)
-
-prepc_to(missing-17, able-23)
-
-aux(tell-25, to-24)
-
-xcomp(able-23, tell-25)
-
-det(*NL*-35, the-26)
-
-amod(*NL*-35, movers-27)
-
-advmod(many-30, just-28)
-
-advmod(many-30, how-29)
-
-dep(have-33, many-30)
-
-nsubj(have-33, boxes-31)
-
-dep(boxes-31, you-32)
-
-ccomp(movers-27, have-33)
-
-dobj(tell-25, *NL*-35)
-amod(items-3, heavy-2)
-
-nsubj(*NL*-11, items-3)
-
-prep_such_as(items-3, books-6)
-
-appos(books-6, toys-8)
-
-dep(books-6, etc.-10)
-
-xcomp(Pack-1, *NL*-11)
-amod(boxes-3, small-2)
-
-pobj(in-1, boxes-3)
-
-dep(in-1, *NL*-5)
-advmod(conscious-4, However-1)
-
-cop(conscious-4, be-3)
-
-prep(conscious-4, of-5)
-
-dep(over-7, not-6)
-
-dep(of-5, over-7)
-
-nn(boxes-9, packing-8)
-
-pobj(over-7, boxes-9)
-
-mark(bulky-13, until-10)
-
-nsubj(bulky-13, they-11)
-
-cop(bulky-13, are-12)
-
-ccomp(conscious-4, bulky-13)
-
-aux(break-16, may-15)
-
-conj_and(bulky-13, break-16)
-
-nsubj(conscious-4, *NL*-18)
-amod(items-5, fragile-2)
-
-conj_or(fragile-2, breakable-4)
-
-dobj(Pack-1, items-5)
-
-amod(care-8, extra-7)
-
-prep_with(items-5, care-8)
-
-conj_and(care-8, attention-10)
-
-amod(items-5, *NL*-12)
-mark(required-2, If-1)
-
-advcl(*NL*-18, required-2)
-
-nsubj(*NL*-18, use-4)
-
-amod(layers-6, more-5)
-
-dep(use-4, layers-6)
-
-nn(sheets-9, wrapping-8)
-
-prep_of(layers-6, sheets-9)
-
-nsubj(wraps-12, bubble-11)
-
-conj_or(layers-6, wraps-12)
-
-aux(wrap-14, to-13)
-
-xcomp(wraps-12, wrap-14)
-
-amod(items-16, such-15)
-
-dobj(wrap-14, items-16)
-nn(wrap-3, saran-2)
-
-dobj(Place-1, wrap-3)
-
-prep_between(wrap-3, bottles-5)
-
-conj_and(bottles-5, caps-7)
-
-aux(prevent-9, to-8)
-
-xcomp(Place-1, prevent-9)
-
-dobj(prevent-9, leaking-10)
-
-partmod(leaking-10, *NL*-12)
-xcomp(Consider-1, putting-2)
-
-dobj(putting-2, cotton-3)
-
-amod(cosmetics-6, fragile-5)
-
-prep_between(cotton-3, cosmetics-6)
-
-advmod(*NL*-10, too-8)
-
-rcmod(cotton-3, *NL*-10)
-amod(newspapers-3, wadded-2)
-
-nsubj(fill-8, newspapers-3)
-
-amod(papers-6, crushed-5)
-
-conj_or(newspapers-3, papers-6)
-
-aux(fill-8, to-7)
-
-xcomp(Use-1, fill-8)
-
-amod(spaces-10, empty-9)
-
-dobj(fill-8, spaces-10)
-
-prep_of(spaces-10, boxes-12)
-
-conj_or(boxes-12, cartons-14)
-
-amod(spaces-10, *NL*-16)
-nsubj(makes-2, This-1)
-
-nsubj(easier-4, it-3)
-
-xcomp(makes-2, easier-4)
-
-det(movers-7, the-6)
-
-prep_for(easier-4, movers-7)
-
-rcmod(movers-7, too-9)
-
-dep(too-9, *NL*-11)
-mark(courteous-4, If-1)
-
-nsubj(courteous-4, they-2)
-
-cop(courteous-4, re-3)
-
-advcl(take-15, courteous-4)
-
-conj_and(courteous-4, not-6)
-
-det(crunch-10, a-8)
-
-nn(crunch-10, time-9)
-
-prep_on(courteous-4, crunch-10)
-
-nsubj(take-15, they-12)
-
-aux(take-15, ll-13)
-
-advmod(take-15, likely-14)
-
-det(box-18, each-16)
-
-amod(box-18, labeled-17)
-
-dobj(take-15, box-18)
-
-conj_and(take-15, put-20)
-
-dobj(put-20, it-21)
-
-poss(*NL*-27, its-23)
-
-amod(*NL*-27, corresponding-24)
-
-nn(*NL*-27, room-25)
-
-prep_in(put-20, *NL*-27)
-acomp(Make-1, sure-2)
-
-nsubj(keep-4, you-3)
-
-ccomp(sure-2, keep-4)
-
-det(box-6, the-5)
-
-dobj(keep-4, box-6)
-
-prep_of(box-6, hardware-8)
-
-conj_and(hardware-8, tools-10)
-
-det(place-14, a-12)
-
-amod(place-14, central-13)
-
-prep_in(keep-4, place-14)
-
-advmod(find-18, where-15)
-
-nsubj(find-18, everyone-16)
-
-aux(find-18, can-17)
-
-ccomp(sure-2, find-18)
-
-dobj(find-18, it-19)
-
-nsubj(Make-1, *NL*-21)
-nsubj(make-3, This-1)
-
-aux(make-3, will-2)
-
-dobj(make-3, re-assembling-4)
-
-dep(make-3, much-5)
-
-advmod(much-5, easier-6)
-
-dep(much-5, *NL*-8)
-prep_in(Place-1, it-3)
-
-det(things-6, the-4)
-
-amod(things-6, small-5)
-
-dobj(Place-1, things-6)
-
-amod(plugs-10, video-8)
-
-nn(plugs-10, ear-9)
-
-prep_like(things-6, plugs-10)
-
-amod(controls-13, remote-12)
-
-appos(plugs-10, controls-13)
-
-appos(controls-13, boxes-15)
-
-prep(boxes-15, of-16)
-
-dep(of-16, nails-17)
-
-conj_and(nails-17, things-19)
-
-nsubj(need-22, you-20)
-
-aux(need-22, will-21)
-
-rcmod(nails-17, need-22)
-
-advmod(need-22, immediately-23)
-
-prepc_after(need-22, moving-25)
-
-prt(moving-25, in-26)
-
-nsubj(Place-1, *NL*-28)
-nsubjpass(stacked-4, Plates-1)
-
-aux(stacked-4, should-2)
-
-auxpass(stacked-4, be-3)
-
-advmod(stacked-4, vertically-5)
-
-nn(*NL*-10, records-8)
-
-prep_like(stacked-4, *NL*-10)
-nn(forget-2, Dont-1)
-
-aux(look-4, to-3)
-
-infmod(forget-2, look-4)
-
-prt(look-4, in-5)
-
-dep(dishwasher-7, the-6)
-
-dep(Try-28, dishwasher-7)
-
-aux(need-11, Do-9)
-
-nsubj(need-11, you-10)
-
-dep(Try-28, need-11)
-
-dobj(need-11, anything-12)
-
-aux(intact-15, to-13)
-
-cop(intact-15, stay-14)
-
-xcomp(need-11, intact-15)
-
-prep_like(need-11, necklaces-18)
-
-mark(tangled-25, so-20)
-
-nsubj(tangled-25, they-21)
-
-aux(tangled-25, do-22)
-
-neg(tangled-25, nt-23)
-
-dep(tangled-25, get-24)
-
-dep(necklaces-18, tangled-25)
-
-dep(forget-2, Try-28)
-
-nn(wrap-30, saran-29)
-
-dobj(Try-28, wrap-30)
-
-nn(wrap-33, stretch-32)
-
-conj_or(wrap-30, wrap-33)
-
-prep_over(wrap-30, them-35)
-
-mark(is-37, as-36)
-
-advcl(Try-28, is-37)
-
-advmod(Try-28, then-39)
-
-conj_and(Try-28, pack-40)
-
-dobj(pack-40, them-41)
-
-dep(Try-28, *NL*-43)
-prep_in(Keep-1, mind-3)
-
-complm(need-7, that-4)
-
-nsubj(need-7, people-5)
-
-aux(need-7, will-6)
-
-ccomp(Keep-1, need-7)
-
-aux(wash-9, to-8)
-
-xcomp(need-7, wash-9)
-
-poss(hands-11, their-10)
-
-dobj(wash-9, hands-11)
-
-conj_and(wash-9, eat-13)
-
-conj_and(wash-9, shower-16)
-
-advmod(done-21, long-17)
-
-dep(done-21, before-18)
-
-nsubjpass(done-21, you-19)
-
-auxpass(done-21, are-20)
-
-ccomp(shower-16, done-21)
-
-xcomp(done-21, unpacking-22)
-
-det(end-26, the-24)
-
-amod(end-26, other-25)
-
-prep_on(unpacking-22, end-26)
-
-det(move-29, the-28)
-
-prep_of(end-26, move-29)
-
-nsubj(Keep-1, *NL*-31)
-det(box-3, this-2)
-
-nsubj(make-5, box-3)
-
-aux(make-5, will-4)
-
-ccomp(Having-1, make-5)
-
-det(*NL*-9, that-6)
-
-nn(*NL*-9, simple-7)
-
-dobj(make-5, *NL*-9)
-advmod(*NL*-27, Also-1)
-
-nsubj(*NL*-27, toss-3)
-
-det(treat-7, a-5)
-
-amod(treat-7, sugary-6)
-
-prep_in(toss-3, treat-7)
-
-prep_such_as(treat-7, Lifesavers-10)
-
-amod(candies-13, hard-12)
-
-nsubj(gets-17, candies-13)
-
-nn(anyone-16, case-15)
-
-prep_in(candies-13, anyone-16)
-
-conj_or(Lifesavers-10, gets-17)
-
-amod(sugar-22, hungry-18)
-
-conj_or(hungry-18, low-20)
-
-nn(sugar-22, blood-21)
-
-dobj(gets-17, sugar-22)
-
-amod(day-25, move-in-24)
-
-prep_on(gets-17, day-25)
-nsubj(way-5, This-1)
-
-cop(way-5, is-2)
-
-det(way-5, a-3)
-
-amod(way-5, good-4)
-
-aux(keep-7, to-6)
-
-infmod(way-5, keep-7)
-
-det(moods-10, the-8)
-
-amod(moods-10, bad-9)
-
-dobj(keep-7, moods-10)
-
-nn(*NL*-14, bay-12)
-
-prep_at(keep-7, *NL*-14)
-advmod(label-2, Clearly-1)
-
-det(box-5, the-3)
-
-nn(box-5, hardware-4)
-
-dobj(label-2, box-5)
-
-det(extension-8, the-7)
-
-conj_and(box-5, extension-8)
-
-nn(*NL*-12, cord-9)
-
-nn(*NL*-12, box-10)
-
-nsubj(label-2, *NL*-12)
-amod(*NL*-10, spray-painting-2)
-
-det(yellow-6, both-3)
-
-amod(yellow-6, boxes-4)
-
-amod(yellow-6, bright-5)
-
-nn(*NL*-10, yellow-6)
-
-conj_or(yellow-6, red-8)
-
-dobj(Consider-1, *NL*-10)
-dep(screws-4, all-2)
-
-det(screws-4, the-3)
-
-dobj(Place-1, screws-4)
-
-conj_or(screws-4, bolts-6)
-
-advmod(Place-1, back-7)
-
-dep(back-7, into-8)
-
-det(item-10, an-9)
-
-pobj(into-8, item-10)
-
-mark(taken-15, after-11)
-
-nsubjpass(taken-15, it-12)
-
-aux(taken-15, has-13)
-
-auxpass(taken-15, been-14)
-
-dep(back-7, taken-15)
-
-advmod(taken-15, apart-16)
-
-nsubj(Place-1, *NL*-18)
-dep(way-2, This-1)
-
-advmod(connect-6, way-2)
-
-nsubj(connect-6, you-4)
-
-aux(connect-6, can-5)
-
-det(bed-8, the-7)
-
-dobj(connect-6, bed-8)
-
-conj_or(connect-6, put-10)
-
-det(lampshade-12, the-11)
-
-dobj(put-10, lampshade-12)
-
-advmod(put-10, back-13)
-
-dep(back-13, on-14)
-
-dep(on-14, immediately-15)
-
-conj_negcc(put-10, searching-18)
-
-prep_for(searching-18, them-20)
-
-dep(put-10, *NL*-22)
-det(ones-2, Which-1)
-
-nsubj(fragile-4, ones-2)
-
-cop(fragile-4, are-3)
-
-dep(Are-11, fragile-4)
-
-det(ones-7, which-6)
-
-attr(are-8, ones-7)
-
-conj_and(fragile-4, are-8)
-
-nsubj(are-8, sturdy-9)
-
-advmod(any-13, there-12)
-
-advmod(Are-11, any-13)
-
-dep(want-16, that-14)
-
-nsubj(want-16, you-15)
-
-dep(any-13, want-16)
-
-aux(handle-18, to-17)
-
-xcomp(want-16, handle-18)
-
-dobj(handle-18, yourself-19)
-
-advmod(wish-27, just-21)
-
-dep(wish-27, in-22)
-
-dep(wish-27, case-23)
-
-nsubj(wish-27, You-25)
-
-aux(wish-27, may-26)
-
-dep(want-16, wish-27)
-
-aux(set-29, to-28)
-
-xcomp(wish-27, set-29)
-
-det(few-31, a-30)
-
-dobj(set-29, few-31)
-
-advmod(set-29, aside-32)
-
-dep(wish-27, so-33)
-
-nsubj(know-35, you-34)
-
-dep(wish-27, know-35)
-
-advmod(re-38, where-36)
-
-nsubj(re-38, they-37)
-
-advcl(know-35, re-38)
-
-prep(re-38, at-39)
-
-dep(at-39, at-40)
-
-det(times-42, all-41)
-
-pobj(at-40, times-42)
-
-nsubj(Are-11, *NL*-44)
-amod(lines-4, diagonal-2)
-
-nn(lines-4, chalk-3)
-
-dobj(Snap-1, lines-4)
-
-amod(corners-7, opposite-6)
-
-prep_from(Snap-1, corners-7)
-
-det(room-10, the-9)
-
-prep_of(corners-7, room-10)
-
-partmod(corners-7, *NL*-12)
-det(lines-2, The-1)
-
-nsubj(cross-4, lines-2)
-
-aux(cross-4, will-3)
-
-det(center-8, the-6)
-
-amod(center-8, exact-7)
-
-prep_in(cross-4, center-8)
-
-det(*NL*-13, the-10)
-
-nn(*NL*-13, room-11)
-
-prep_of(center-8, *NL*-13)
-nn(easier-3, Much-2)
-
-nsubj(*NL*-5, easier-3)
-det(measure-5, a-3)
-
-nn(measure-5, tape-4)
-
-nsubj(measure-7, measure-5)
-
-aux(measure-7, to-6)
-
-xcomp(Use-2, measure-7)
-
-det(walls-9, the-8)
-
-dobj(measure-7, walls-9)
-
-conj_and(measure-7, find-12)
-
-det(points-15, the-13)
-
-amod(points-15, halfway-14)
-
-dobj(find-12, points-15)
-
-nsubj(Use-2, *NL*-17)
-mark(get-7, If-2)
-
-nsubj(get-7, you-3)
-
-advmod(get-7, really-4)
-
-aux(get-7, ca-5)
-
-neg(get-7, nt-6)
-
-dobj(get-7, hold-8)
-
-det(line-12, a-10)
-
-nn(line-12, chalk-11)
-
-prep_of(hold-8, line-12)
-
-punct(get-7, *NL*-14)
-partmod(-RRB--1, Fasten-2)
-
-det(blade-4, each-3)
-
-dobj(Fasten-2, blade-4)
-
-det(ring-8, the-6)
-
-nn(ring-8, speed-7)
-
-prep_to(blade-4, ring-8)
-
-advmod(attach-11, then-10)
-
-dep(Fasten-2, attach-11)
-
-det(ring-14, the-12)
-
-amod(ring-14, assembled-13)
-
-dobj(attach-11, ring-14)
-
-det(unit-18, the-16)
-
-nn(unit-18, motor-17)
-
-prep_to(attach-11, unit-18)
-
-dep(unit-18, using-19)
-
-nn(grommets-21, rubber-20)
-
-dobj(using-19, grommets-21)
-
-conj_and(using-19, fastening-23)
-
-dep(*NL*-26, screws-24)
-
-dep(-RRB--1, *NL*-26)
-det(cover-3, the-2)
-
-dobj(Attach-1, cover-3)
-
-det(ring-7, the-5)
-
-nn(ring-7, speed-6)
-
-prep_over(cover-3, ring-7)
-
-conj_and(Attach-1, install-9)
-
-det(cover-12, the-10)
-
-amod(cover-12, decorative-11)
-
-nsubj(*NL*-15, cover-12)
-
-nn(*NL*-15, plate-13)
-
-xcomp(install-9, *NL*-15)
-mark(are-3, If-1)
-
-expl(are-3, there-2)
-
-advcl(finish-10, are-3)
-
-amod(items-5, perishable-4)
-
-nsubj(are-3, items-5)
-
-det(refrigerator-8, the-7)
-
-prep_in(items-5, refrigerator-8)
-
-dobj(finish-10, them-11)
-
-conj_or(finish-10, give-13)
-
-iobj(give-13, them-14)
-
-dep(*NL*-17, away-15)
-
-dobj(give-13, *NL*-17)
-mark(re-3, If-1)
-
-nsubj(re-3, you-2)
-
-advcl(easier-15, re-3)
-
-det(middle-6, the-5)
-
-prep_in(re-3, middle-6)
-
-det(move-10, a-8)
-
-amod(move-10, big-9)
-
-prep_of(middle-6, move-10)
-
-nsubj(easier-15, it-12)
-
-cop(easier-15, s-13)
-
-advmod(easier-15, probably-14)
-
-prep(easier-15, to-16)
-
-dep(to-16, just-17)
-
-aux(toss-19, to-18)
-
-xcomp(easier-15, toss-19)
-
-det(things-21, the-20)
-
-dobj(toss-19, things-21)
-
-nsubj(finish-25, you-22)
-
-aux(finish-25, ca-23)
-
-neg(finish-25, nt-24)
-
-dep(things-21, finish-25)
-
-advmod(finish-25, now-26)
-
-advmod(things-21, *NL*-28)
-mark(want-3, If-1)
-
-nsubj(want-3, you-2)
-
-aux(move-5, to-4)
-
-xcomp(want-3, move-5)
-
-det(fridge-7, the-6)
-
-iobj(move-5, fridge-7)
-
-det(distance-10, a-8)
-
-amod(distance-10, short-9)
-
-dobj(move-5, distance-10)
-
-det(room-14, the-12)
-
-amod(room-14, same-13)
-
-prep_in(move-5, room-14)
-
-aux(clean-17, to-16)
-
-xcomp(move-5, clean-17)
-
-prt(clean-17, behind-18)
-
-dobj(clean-17, it-19)
-
-conj_or(clean-17, reorganize-21)
-
-det(kitchen-23, the-22)
-
-dobj(reorganize-21, kitchen-23)
-
-conj_or(clean-17, remove-25)
-
-det(items-27, the-26)
-
-dobj(remove-25, items-27)
-
-advmod(remove-25, anyway-28)
-
-conj_and(clean-17, place-31)
-
-dobj(place-31, them-32)
-
-det(*NL*-37, the-34)
-
-nn(*NL*-37, counters-35)
-
-prep_on(place-31, *NL*-37)
-nsubj(make-3, It-1)
-
-aux(make-3, ll-2)
-
-nsubj(safer-5, it-4)
-
-xcomp(make-3, safer-5)
-
-prep_to(safer-5, move-7)
-
-nsubj(risk-12, you-9)
-
-aux(risk-12, wo-10)
-
-neg(risk-12, nt-11)
-
-conj_and(move-7, risk-12)
-
-xcomp(risk-12, tipping-13)
-
-det(fridge-16, the-15)
-
-prep_over(tipping-13, fridge-16)
-
-advmod(make-3, *NL*-18)
-amod(rollers-3, moving-2)
-
-dobj(Use-1, rollers-3)
-
-conj_and(Use-1, place-6)
-
-dobj(place-6, them-7)
-
-det(feet-10, the-9)
-
-prep_under(place-6, feet-10)
-
-det(*NL*-18, the-12)
-
-amod(*NL*-18, fridge-13)
-
-aux(do-15, to-14)
-
-xcomp(fridge-13, do-15)
-
-dep(do-15, this-16)
-
-prep_of(feet-10, *NL*-18)
-nsubj(unplug-6, it-2)
-
-dep(enough-4, out-3)
-
-dep(unplug-6, enough-4)
-
-aux(unplug-6, to-5)
-
-xcomp(Slide-1, unplug-6)
-
-dobj(unplug-6, it-7)
-
-advmod(unplug-6, then-9)
-
-advmod(slide-11, simply-10)
-
-dep(unplug-6, slide-11)
-
-dobj(slide-11, it-12)
-
-advmod(want-15, where-13)
-
-nsubj(want-15, you-14)
-
-advcl(slide-11, want-15)
-
-nsubj(go-18, it-16)
-
-aux(go-18, to-17)
-
-xcomp(want-15, go-18)
-
-dep(unplug-6, *NL*-20)
-nsubj(opt-4, You-1)
-
-aux(opt-4, may-2)
-
-advmod(opt-4, also-3)
-
-aux(secure-6, to-5)
-
-xcomp(opt-4, secure-6)
-
-ccomp(secure-6, shelving-7)
-
-prep_in(shelving-7, place-9)
-
-prep_with(shelving-7, tape-11)
-
-conj_negcc(shelving-7, removing-14)
-
-nsubjpass(recommended-19, it-17)
-
-auxpass(recommended-19, is-18)
-
-conj_but(opt-4, recommended-19)
-
-aux(remove-21, to-20)
-
-xcomp(recommended-19, remove-21)
-
-dobj(remove-21, them-22)
-
-advmod(remove-21, altogether-23)
-
-conj_and(remove-21, pack-25)
-
-dobj(pack-25, them-26)
-
-dep(pack-25, separately-27)
-
-dep(separately-27, *NL*-29)
-poss(fridge-4, your-3)
-
-prep_depending_on(*NL*-15, fridge-4)
-
-advmod(*NL*-15, though-6)
-
-nsubj(*NL*-15, this-8)
-
-aux(*NL*-15, might-9)
-
-cop(*NL*-15, be-10)
-
-det(*NL*-15, a-11)
-
-amod(*NL*-15, fine-12)
-
-nn(*NL*-15, option-13)
-mark(secure-5, If-1)
-
-nsubj(secure-5, they-2)
-
-cop(secure-5, re-3)
-
-advmod(secure-5, fairly-4)
-
-advcl(consider-7, secure-5)
-
-dep(consider-7, taping-8)
-
-dobj(taping-8, them-9)
-
-prep_into(taping-8, place-11)
-
-conj_and(taping-8, creating-13)
-
-amod(mess-15, less-14)
-
-dobj(creating-13, mess-15)
-
-det(move-18, the-17)
-
-prep_with(mess-15, move-18)
-
-amod(mess-15, *NL*-20)
-aux(waste-3, Do-1)
-
-neg(waste-3, nt-2)
-
-det(bunch-5, a-4)
-
-dobj(waste-3, bunch-5)
-
-prep_of(bunch-5, valuable-7)
-
-partmod(valuable-7, moving-8)
-
-dobj(moving-8, time-9)
-
-partmod(time-9, scrubbing-10)
-
-det(fridge-12, the-11)
-
-dep(opportunity-20, fridge-12)
-
-dep(opportunity-20, but-14)
-
-nsubj(opportunity-20, this-15)
-
-cop(opportunity-20, is-16)
-
-advmod(opportunity-20, also-17)
-
-det(opportunity-20, a-18)
-
-amod(opportunity-20, good-19)
-
-dep(moving-8, opportunity-20)
-
-aux(give-22, to-21)
-
-infmod(opportunity-20, give-22)
-
-iobj(give-22, it-23)
-
-det(cleaning-27, a-24)
-
-advmod(thorough-26, reasonably-25)
-
-amod(cleaning-27, thorough-26)
-
-dobj(give-22, cleaning-27)
-
-mark(take-31, before-29)
-
-nsubj(take-31, you-30)
-
-dep(cleaning-27, take-31)
-
-dobj(take-31, it-32)
-
-poss(place-36, your-34)
-
-amod(place-36, new-35)
-
-prep_to(take-31, place-36)
-
-nsubj(waste-3, *NL*-38)
-mark(defrosts-4, While-1)
-
-det(freezer-3, the-2)
-
-nsubj(defrosts-4, freezer-3)
-
-advcl(wipe-6, defrosts-4)
-
-det(drawers-9, the-8)
-
-prep_down(wipe-6, drawers-9)
+prt(wipe-9, down-10)
 
 det(surfaces-13, the-11)
 
-amod(surfaces-13, interior-12)
+amod(surfaces-13, entire-12)
 
-conj_and(drawers-9, surfaces-13)
+dobj(wipe-9, surfaces-13)
 
-nn(*NL*-17, disinfectant-15)
+det(fridge-16, the-15)
 
-prep_with(wipe-6, *NL*-17)
-mark(scheduled-5, If-1)
+prep_of(surfaces-13, fridge-16)
 
-det(move-3, the-2)
+xcomp(wipe-9, making-18)
 
-nsubjpass(scheduled-5, move-3)
+acomp(making-18, sure-19)
 
-auxpass(scheduled-5, is-4)
+aux(scrub-21, to-20)
 
-advcl(recommended-15, scheduled-5)
+xcomp(sure-19, scrub-21)
 
-aux(take-7, to-6)
+prt(scrub-21, out-22)
 
-xcomp(scheduled-5, take-7)
+amod(stains-24, sticky-23)
 
-advmod(take-7, longer-8)
+dobj(scrub-21, stains-24)
 
-dep(longer-8, than-9)
+dep(Dip-1, *NL*-26)
+dep(*NL*-4, 4-2)
+amod(*NL*-17, Wipe-1)
 
-det(day-11, a-10)
+det(drawer-4, every-3)
 
-tmod(take-7, day-11)
+prep_down(Wipe-1, drawer-4)
 
-nsubjpass(recommended-15, it-13)
+conj_and(drawer-4, shelf-6)
 
-auxpass(recommended-15, is-14)
+dep(just-9, not-8)
 
-aux(keep-17, to-16)
+dep(drawer-4, just-9)
 
-xcomp(recommended-15, keep-17)
+det(part-12, the-10)
 
-det(doors-19, the-18)
+amod(part-12, main-11)
 
-nsubj(allow-23, doors-19)
+conj_and(drawer-4, part-12)
 
-advmod(open-21, slightly-20)
+det(fridge-15, the-14)
 
-dep(allow-23, open-21)
+prep_of(part-12, fridge-15)
+mark(have-3, If-1)
 
-aux(allow-23, to-22)
+nsubj(have-3, you-2)
 
-xcomp(keep-17, allow-23)
+advcl(consider-7, have-3)
 
-nn(flow-26, air-25)
+amod(cabinets-5, wooden-4)
 
-prep_for(allow-23, flow-26)
+dobj(have-3, cabinets-5)
 
-conj_and(allow-23, prevent-29)
+xcomp(consider-7, using-8)
 
-det(mold-31, any-30)
+det(supply-11, a-9)
 
-dobj(prevent-29, mold-31)
+nn(supply-11, cleaning-10)
 
-conj_or(mold-31, mildew-33)
+dobj(using-8, supply-11)
 
-prepc_from(prevent-29, growing-35)
+advmod(made-13, specifically-12)
+
+partmod(supply-11, made-13)
+
+nn(*NL*-17, wood-15)
+
+prep_for(made-13, *NL*-17)
+nsubj(buy-4, You-1)
+
+aux(buy-4, could-2)
+
+advmod(buy-4, also-3)
+
+det(supplies-7, some-5)
+
+nn(supplies-7, cleaning-6)
+
+nsubj(wipe-9, supplies-7)
+
+aux(wipe-9, to-8)
+
+xcomp(buy-4, wipe-9)
+
+poss(counters-11, your-10)
+
+dobj(wipe-9, counters-11)
+
+dep(wipe-9, down-12)
+
+dep(down-12, with-13)
+
+advmod(buy-4, *NL*-15)
+expl(are-2, There-1)
+
+amod(sprays-5, many-3)
+
+amod(sprays-5, anti-bacterial-4)
+
+nsubj(are-2, sprays-5)
+
+amod(wipes-8, disposable-7)
+
+appos(sprays-5, wipes-8)
+
+amod(products-11, de-greasing-10)
+
+conj_and(wipes-8, products-11)
+
+advmod(are-2, *NL*-13)
+mark(made-5, If-1)
+
+poss(counters-3, your-2)
+
+nsubjpass(made-5, counters-3)
+
+auxpass(made-5, are-4)
+
+advcl(use-13, made-5)
+
+prep_with(made-5, granite-7)
+
+conj_or(granite-7, stone-9)
+
+nsubj(use-13, you-11)
+
+aux(use-13, should-12)
+
+xcomp(use-13, cleaning-14)
+
+dobj(cleaning-14, supplies-15)
+
+advmod(made-17, specifically-16)
+
+partmod(supplies-15, made-17)
+
+det(kind-20, that-19)
+
+prep_for(made-17, kind-20)
+
+nn(*NL*-24, countertop-22)
+
+prep_of(kind-20, *NL*-24)
+poss(toaster-2, your-1)
+
+dep(blender-9, toaster-2)
+
+poss(maker-6, your-4)
+
+nn(maker-6, coffee-5)
+
+appos(toaster-2, maker-6)
+
+poss(blender-9, your-8)
+
+poss(grinder-13, your-11)
+
+nn(grinder-13, coffee-12)
+
+conj_and(blender-9, grinder-13)
+
+dep(blender-9, *NL*-15)
+det(setting-6, a-2)
+
+amod(setting-6, true-3)
+
+amod(setting-6, formal-4)
+
+nn(setting-6, dinner-5)
+
+prep_for(have-10, setting-6)
+
+nsubj(have-10, you-8)
+
+aux(have-10, should-9)
+
+amod(placemats-13, enough-11)
+
+amod(placemats-13, matching-12)
+
+dobj(have-10, placemats-13)
+
+prep_for(placemats-13, all-15)
+
+det(guests-18, the-17)
+
+prep_of(all-15, guests-18)
+
+det(placemats-22, the-21)
+
+nsubj(match-25, placemats-22)
+
+aux(match-25, should-23)
+
+advmod(match-25, also-24)
+
+conj_and(have-10, match-25)
+
+det(*NL*-29, the-26)
+
+nn(*NL*-29, tablecloth-27)
+
+dobj(match-25, *NL*-29)
+nsubj(fold-4, You-1)
+
+aux(fold-4, can-2)
+
+advmod(fold-4, also-3)
+
+poss(napkin-6, your-5)
+
+dobj(fold-4, napkin-6)
+
+det(left-9, the-8)
+
+prep_to(fold-4, left-9)
+
+det(*NL*-19, the-11)
+
+amod(*NL*-19, forks-12)
+
+mark(put-15, after-13)
+
+nsubj(put-15, you-14)
+
+ccomp(forks-12, put-15)
+
+dobj(put-15, them-16)
+
+advmod(put-15, down-17)
+
+prep_of(left-9, *NL*-19)
+mark(forget-3, If-1)
+
+nsubj(forget-3, you-2)
+
+advmod(go-8, where-4)
+
+det(fork-6, each-5)
+
+nsubj(go-8, fork-6)
+
+aux(go-8, should-7)
+
+advcl(forget-3, go-8)
+
+advmod(go-8, just-10)
+
+dep(go-8, think-11)
+
+det(order-14, the-13)
+
+prep_of(think-11, order-14)
+
+rel(eat-19, which-16)
+
+nsubj(eat-19, you-17)
+
+aux(eat-19, would-18)
+
+rcmod(order-14, eat-19)
+
+poss(meals-21, your-20)
+
+dobj(eat-19, meals-21)
+
+dep(go-8, *NL*-23)
+nsubj(have-3, You-1)
+
+aux(have-3, would-2)
+
+poss(salad-5, your-4)
+
+dobj(have-3, salad-5)
+
+poss(dinner-8, your-7)
+
+prep_before(have-3, dinner-8)
+
+nsubj(eat-13, you-11)
+
+aux(eat-13, should-12)
+
+conj_and(have-3, eat-13)
+
+det(outside-16, the-15)
+
+prep_from(eat-13, outside-16)
+
+prep(eat-13, in-17)
+
+xcomp(eat-13, using-19)
+
+det(utensils-21, the-20)
+
+dobj(using-19, utensils-21)
+
+amod(*NL*-41, left-23)
+
+prep_to(left-23, right-25)
+
+mark(go-32, so-27)
+
+det(fork-30, the-28)
+
+nn(fork-30, salad-29)
+
+nsubj(go-32, fork-30)
+
+aux(go-32, would-31)
+
+dep(right-25, go-32)
+
+det(left-35, the-34)
+
+prep_to(go-32, left-35)
+
+det(fork-39, the-37)
+
+nn(fork-39, dinner-38)
+
+prep_of(left-35, fork-39)
+
+prep_from(using-19, *NL*-41)
+complm(eating-6, that-2)
+
+nsubj(eating-6, you-3)
+
+aux(eating-6, should-4)
+
+aux(eating-6, be-5)
+
+ccomp(Remember-1, eating-6)
+
+det(utensils-9, the-8)
+
+prep_with(eating-6, utensils-9)
+
+det(outside-12, the-11)
+
+prep_from(utensils-9, outside-12)
+
+prep(eating-6, in-13)
+
+conj_and(eating-6, starting-15)
+
+det(ones-18, the-17)
+
+prep_with(starting-15, ones-18)
+
+det(outside-21, the-20)
+
+prep_on(ones-18, outside-21)
+
+det(plate-24, the-23)
+
+prep_of(outside-21, plate-24)
+
+conj_and(eating-6, working-26)
+
+poss(way-28, your-27)
+
+dobj(working-26, way-28)
+
+advmod(working-26, closer-29)
+
+dep(closer-29, to-30)
+
+det(plate-32, the-31)
+
+pobj(to-30, plate-32)
+
+det(end-35, the-34)
+
+prep_until(working-26, end-35)
 
 det(*NL*-40, the-37)
 
-nn(*NL*-40, refrigerator-38)
+nn(*NL*-40, meal-38)
 
-prep_inside(growing-35, *NL*-40)
+prep_of(end-35, *NL*-40)
+mark(mix-3, If-1)
+
+nsubj(mix-3, you-2)
+
+prt(mix-3, up-4)
+
+advmod(go-11, where-5)
+
+det(forks-7, the-6)
+
+nsubj(go-11, forks-7)
+
+conj_and(forks-7, knife-9)
+
+aux(go-11, should-10)
+
+advcl(mix-3, go-11)
+
+advmod(go-11, just-13)
+
+dep(go-11, think-14)
+
+advmod(use-21, how-16)
+
+det(person-19, a-17)
+
+amod(person-19, right-handed-18)
+
+nsubj(use-21, person-19)
+
+aux(use-21, would-20)
+
+prepc_of(think-14, use-21)
+
+det(fork-23, a-22)
+
+dobj(use-21, fork-23)
+
+conj_and(fork-23, knife-25)
+
+aux(cut-27, to-26)
+
+xcomp(use-21, cut-27)
+
+dobj(cut-27, something-28)
+
+dep(go-11, *NL*-30)
+mark(sit-3, If-1)
+
+nsubj(sit-3, you-2)
+
+advcl(see-12, sit-3)
+
+advmod(sit-3, down-4)
+
+conj_and(sit-3, mimic-6)
+
+det(gesture-8, the-7)
+
+dobj(mimic-6, gesture-8)
+
+nsubj(see-12, you-10)
+
+aux(see-12, ll-11)
+
+complm(pick-16, that-13)
+
+nsubj(pick-16, you-14)
+
+aux(pick-16, would-15)
+
+ccomp(see-12, pick-16)
+
+prt(pick-16, up-17)
+
+det(fork-19, the-18)
+
+dobj(pick-16, fork-19)
+
+poss(hand-23, your-21)
+
+amod(hand-23, left-22)
+
+prep_with(fork-19, hand-23)
+
+det(knife-26, the-25)
+
+conj_and(hand-23, knife-26)
+
+poss(right-29, your-28)
+
+prep_with(pick-16, right-29)
+
+nsubj(s-33, that-32)
+
+conj_so(pick-16, s-33)
+
+advmod(go-38, where-34)
+
+det(utensil-36, each-35)
+
+nsubj(go-38, utensil-36)
+
+aux(go-38, should-37)
+
+advcl(s-33, go-38)
+
+advmod(see-12, *NL*-40)
+complm(larger-13, that-2)
+
+det(settings-6, some-4)
+
+amod(settings-6, traditional-5)
+
+prep_in(larger-13, settings-6)
+
+det(spoon-10, the-8)
+
+nn(spoon-10, soup-9)
+
+nsubj(larger-13, spoon-10)
+
+cop(larger-13, is-11)
+
+advmod(larger-13, actually-12)
+
+ccomp(Note-1, larger-13)
+
+det(*NL*-18, the-15)
+
+nn(*NL*-18, teaspoon-16)
+
+prep_than(larger-13, *NL*-18)
+det(plate-5, A-1)
+
+nn(plate-5, bread-2)
+
+conj_and(bread-2, butter-4)
+
+dep(*NL*-9, plate-5)
+
+conj_and(plate-5, knife-7)
+dep(inches-8, Place-1)
+
+det(plate-5, this-2)
+
+amod(plate-5, small-3)
+
+nn(plate-5, round-4)
+
+dep(Place-1, plate-5)
+
+quantmod(five-7, about-6)
+
+num(inches-8, five-7)
+
+det(forks-11, the-10)
+
+prep_above(inches-8, forks-11)
+
+dep(inches-8, *NL*-13)
+det(knife-4, a-2)
+
+amod(knife-4, small-3)
+
+dobj(Place-1, knife-4)
+
+dep(over-6, horizontally-5)
+
+dep(with-10, over-6)
+
+det(plate-8, the-7)
+
+pobj(over-6, plate-8)
+
+rcmod(knife-4, with-10)
+
+det(blade-12, the-11)
+
+pobj(with-10, blade-12)
+
+partmod(blade-12, facing-13)
+
+det(left-16, the-15)
+
+prep_to(facing-13, left-16)
+
+nsubj(Place-1, *NL*-18)
+det(fork-3, A-1)
+
+nn(fork-3, dessert-2)
+
+dep(*NL*-7, fork-3)
+
+conj_and(fork-3, spoon-5)
+det(fork-5, the-2)
+
+amod(fork-5, small-3)
+
+nn(fork-5, dessert-4)
+
+dobj(Place-1, fork-5)
+
+conj_and(Place-1, spoon-7)
+
+advmod(spoon-7, horizontally-8)
+
+det(inches-11, a-9)
+
+amod(inches-11, few-10)
+
+dobj(spoon-7, inches-11)
+
+det(plate-14, the-13)
+
+prep_above(inches-11, plate-14)
+
+det(spoon-18, the-17)
+
+prep_with(spoon-7, spoon-18)
+
+det(fork-23, the-22)
+
+prep_on_top_of(spoon-18, fork-23)
+
+partmod(fork-23, facing-24)
+
+acomp(facing-24, left-25)
+
+det(fork-29, the-28)
+
+conj_and(spoon-18, fork-29)
+
+partmod(fork-29, facing-30)
+
+dep(*NL*-33, right-31)
+
+dobj(facing-30, *NL*-33)
+det(coffee-2, A-1)
+
+dep(coffee-2, cup-3)
+
+dep(coffee-2, *NL*-5)
+dep(inches-11, Place-1)
+
+det(cup-4, the-2)
+
+nn(cup-4, coffee-3)
+
+dep(Place-1, cup-4)
+
+det(saucer-8, a-6)
+
+amod(saucer-8, small-7)
+
+prep_over(cup-4, saucer-8)
+
+det(inches-11, a-9)
+
+amod(inches-11, few-10)
+
+det(utensil-15, the-13)
+
+amod(utensil-15, outermost-14)
+
+prep_above(inches-11, utensil-15)
+
+det(left-18, the-17)
+
+prep_on(utensil-15, left-18)
+
+det(inches-22, a-20)
+
+amod(inches-22, few-21)
+
+conj_and(inches-11, inches-22)
+
+det(left-25, the-24)
+
+prep_to(inches-22, left-25)
+
+prep_of(left-25, it-27)
+
+dep(inches-11, *NL*-29)
+det(wine-5, A-1)
+
+amod(wine-5, red-2)
+
+conj_and(red-2, white-4)
+
+dep(wine-5, glass-6)
+
+dep(wine-5, *NL*-8)
+mark(have-3, If-1)
+
+nsubj(have-3, you-2)
+
+advcl(be-14, have-3)
+
+num(glasses-6, two-4)
+
+amod(glasses-6, different-5)
+
+dobj(have-3, glasses-6)
+
+advmod(be-14, then-8)
+
+det(glass-12, the-9)
+
+amod(glass-12, white-10)
+
+nn(glass-12, wine-11)
+
+nsubj(be-14, glass-12)
+
+aux(be-14, will-13)
+
+det(one-16, the-15)
+
+dep(closer-17, one-16)
+
+dep(be-14, closer-17)
+
+det(guest-20, the-19)
+
+prep_to(be-14, guest-20)
+
+det(glass-26, the-23)
+
+amod(glass-26, red-24)
+
+nn(glass-26, wine-25)
+
+nsubj(*NL*-41, glass-26)
+
+aux(*NL*-41, will-27)
+
+cop(*NL*-41, be-28)
+
+advmod(above-30, slightly-29)
+
+amod(*NL*-41, above-30)
+
+conj_and(above-30, to-32)
+
+det(left-34, the-33)
+
+pobj(to-32, left-34)
+
+det(glass-39, the-36)
+
+amod(glass-39, white-37)
+
+nn(glass-39, wine-38)
+
+prep_of(left-34, glass-39)
+
+conj_and(be-14, *NL*-41)
+nsubj(remember-3, You-1)
+
+aux(remember-3, can-2)
+
+dobj(remember-3, this-4)
+
+mark(move-8, because-5)
+
+nsubj(move-8, guests-6)
+
+aux(move-8, should-7)
+
+advcl(remember-3, move-8)
+
+prep(move-8, from-9)
+
+dep(from-9, white-10)
+
+amod(wine-13, red-12)
+
+prep_to(white-10, wine-13)
+
+advmod(move-8, *NL*-15)
+mark(sharp-9, If-1)
+
+det(ridges-3, the-2)
+
+nsubj(sharp-9, ridges-3)
+
+det(cap-6, the-5)
+
+prep_on(ridges-3, cap-6)
+
+cop(sharp-9, are-7)
+
+advmod(sharp-9, too-8)
+
+dep(*NL*-23, sharp-9)
+
+dep(buffer-16, use-11)
+
+poss(shirt-13, your-12)
+
+dep(use-11, shirt-13)
+
+advmod(buffer-16, as-14)
+
+det(buffer-16, a-15)
+
+dep(*NL*-23, buffer-16)
+
+poss(hand-19, your-18)
+
+prep_between(buffer-16, hand-19)
+
+conj_and(hand-19, cap-21)
+dep(position-5, Careful-1)
+
+dep(angle-3, what-2)
+
+dep(Careful-1, angle-3)
+
+dep(position-5, you-4)
+
+poss(bottle-7, your-6)
+
+dep(position-5, bottle-7)
+
+dep(position-5, *NL*-9)
+nsubj(want-4, You-1)
+
+aux(want-4, do-2)
+
+neg(want-4, nt-3)
+
+aux(mopping-7, to-5)
+
+aux(mopping-7, be-6)
+
+xcomp(want-4, mopping-7)
+
+prt(mopping-7, up-8)
+
+det(water-10, the-9)
+
+xcomp(mopping-7, water-10)
+
+dep(water-10, *NL*-12)
+det(towel-3, a-2)
+
+dobj(Use-1, towel-3)
+
+mark(hot-9, if-4)
+
+det(cap-6, the-5)
+
+nsubj(hot-9, cap-6)
+
+cop(hot-9, is-7)
+
+advmod(hot-9, too-8)
+
+advcl(Use-1, hot-9)
+
+nn(*NL*-13, grip-11)
+
+prep_to(hot-9, *NL*-13)
+aux(make-3, Do-1)
+
+neg(make-3, not-2)
+
+det(water-5, the-4)
+
+nsubj(hot-7, water-5)
+
+advmod(hot-7, too-6)
+
+xcomp(make-3, hot-7)
+
+conj_and(make-3, run-9)
+
+dobj(run-9, it-10)
+
+det(cap-13, the-12)
+
+prep_over(run-9, cap-13)
+
+advmod(long-16, too-15)
+
+dep(*NL*-18, long-16)
+
+prep_for(cap-13, *NL*-18)
+nsubj(melt-4, This-1)
+
+aux(melt-4, could-2)
+
+advmod(melt-4, potentially-3)
+
+det(cap-6, the-5)
+
+dobj(melt-4, cap-6)
+
+conj_or(melt-4, damage-8)
+
+det(*NL*-12, the-9)
+
+nn(*NL*-12, bottle-10)
+
+dobj(damage-8, *NL*-12)
+mark(curdle-11, While-1)
+
+det(acid-3, the-2)
+
+nsubj(curdle-11, acid-3)
+
+nsubj(use-6, you-4)
+
+aux(use-6, will-5)
+
+rcmod(acid-3, use-6)
+
+det(method-9, this-8)
+
+prep_in(use-6, method-9)
+
+aux(curdle-11, may-10)
+
+advcl(accelerates-26, curdle-11)
+
+det(milk-13, the-12)
+
+dobj(curdle-11, milk-13)
+
+poss(own-16, its-15)
+
+prep_on(curdle-11, own-16)
+
+advmod(used-18, when-17)
+
+advcl(curdle-11, used-18)
+
+amod(quantities-22, large-20)
+
+amod(quantities-22, enough-21)
+
+prep_in(used-18, quantities-22)
+
+nsubj(accelerates-26, heat-24)
+
+advmod(accelerates-26, dramatically-25)
+
+det(process-28, the-27)
+
+dobj(accelerates-26, process-28)
+
+xcomp(accelerates-26, making-30)
+
+det(curdle-33, the-31)
+
+nn(curdle-33, milk-32)
+
+nsubj(faster-34, curdle-33)
+
+xcomp(making-30, faster-34)
+
+conj_and(faster-34, more-36)
+
+tmod(making-30, noticeably-37)
+
+advmod(noticeably-37, *NL*-39)
+nsubj(important-4, This-1)
+
+cop(important-4, is-2)
+
+advmod(important-4, especially-3)
+
+mark(plan-7, if-5)
+
+nsubj(plan-7, you-6)
+
+advcl(important-4, plan-7)
+
+aux(separate-9, to-8)
+
+xcomp(plan-7, separate-9)
+
+det(curds-12, the-10)
+
+amod(curds-12, solid-11)
+
+dobj(separate-9, curds-12)
+
+det(whey-16, the-14)
+
+amod(whey-16, liquid-15)
+
+prep_from(separate-9, whey-16)
+
+mark(do-21, as-18)
+
+nsubj(do-21, you-19)
+
+aux(do-21, would-20)
+
+advcl(separate-9, do-21)
+
+advmod(making-23, when-22)
+
+advcl(do-21, making-23)
+
+nn(*NL*-26, cheese-24)
+
+dep(making-23, *NL*-26)
+complm(curdle-6, that-2)
+
+nsubj(curdle-6, you-3)
+
+aux(curdle-6, can-4)
+
+advmod(curdle-6, also-5)
+
+ccomp(Note-1, curdle-6)
+
+dobj(curdle-6, milk-7)
+
+partmod(milk-7, using-8)
+
+dobj(using-8, nothing-9)
+
+dep(nothing-9, but-10)
+
+dep(but-10, heat-11)
+
+advmod(outlined-14, as-13)
+
+partmod(heat-11, outlined-14)
+
+det(method-17, another-16)
+
+prep_in(outlined-14, method-17)
+
+det(article-20, this-19)
+
+prep_of(method-17, article-20)
+
+nsubj(Note-1, *NL*-22)
+advmod(so-2, Doing-1)
+
+advmod(produce-4, so-2)
+
+aux(produce-4, will-3)
+
+amod(curds-6, smaller-5)
+
+dobj(produce-4, curds-6)
+
+advmod(produce-4, though-8)
+
+mark(recommended-14, so-10)
+
+det(method-12, this-11)
+
+nsubjpass(recommended-14, method-12)
+
+auxpass(recommended-14, is-13)
+
+advcl(produce-4, recommended-14)
+
+mark(need-17, if-15)
+
+nsubj(need-17, you-16)
+
+advcl(recommended-14, need-17)
+
+amod(curds-19, larger-18)
+
+dobj(need-17, curds-19)
+
+nsubj(produce-4, *NL*-21)
+nsubj(contains-2, Milk-1)
+
+det(protein-4, a-3)
+
+dobj(contains-2, protein-4)
+
+partmod(protein-4, called-5)
+
+nn(*NL*-8, casein-6)
+
+dep(called-5, *NL*-8)
+nn(groupings-2, Casein-1)
+
+nsubjpass(spread-5, groupings-2)
+
+auxpass(spread-5, are-3)
+
+advmod(spread-5, usually-4)
+
+nn(*NL*-27, milk-7)
+
+num(milk-7, evenly-8)
+
+advmod(becomes-13, when-11)
+
+nsubj(becomes-13, milk-12)
+
+conj_but(milk-7, becomes-13)
+
+nsubjpass(neutralized-25, acidic-14)
+
+det(charge-18, the-16)
+
+amod(charge-18, negative-17)
+
+appos(acidic-14, charge-18)
+
+partmod(charge-18, keeping-19)
+
+det(groupings-22, the-20)
+
+nn(groupings-22, casein-21)
+
+nsubj(separate-23, groupings-22)
+
+xcomp(keeping-19, separate-23)
+
+auxpass(neutralized-25, is-24)
+
+ccomp(becomes-13, neutralized-25)
+
+prep_throughout(spread-5, *NL*-27)
+det(result-3, a-2)
+
+prep_as(clump-8, result-3)
+
+det(proteins-7, the-5)
+
+nn(proteins-7, casein-6)
+
+nsubj(clump-8, proteins-7)
+
+advmod(clump-8, together-9)
+
+xcomp(clump-8, causing-11)
+
+det(milk-13, the-12)
+
+dobj(causing-11, milk-13)
+
+aux(*NL*-20, to-14)
+
+cop(*NL*-20, become-15)
+
+dep(*NL*-20, grainy-16)
+
+conj_and(grainy-16, curdle-18)
+
+infmod(milk-13, *NL*-20)
 dep(*NL*-4, 1-2)
-det(dolly-2, Any-1)
+nn(juice-2, Lemon-1)
 
-nsubj(do-6, dolly-2)
+nsubj(acid-7, juice-2)
 
-prep_with(dolly-2, straps-4)
+cop(acid-7, is-3)
 
-aux(do-6, will-5)
+advmod(acid-7, generally-4)
 
-conj_but(do-6, make-9)
+det(acid-7, the-5)
 
-acomp(make-9, sure-10)
+amod(acid-7, preferred-6)
 
-complm(big-15, that-11)
+prep_of(acid-7, choice-9)
 
-det(base-13, the-12)
+partmod(choice-9, followed-11)
 
-nsubj(big-15, base-13)
+nn(*NL*-15, vinegar-13)
 
-cop(big-15, is-14)
+agent(followed-11, *NL*-15)
+nsubj(acidic-4, Both-1)
 
-ccomp(make-9, big-15)
+cop(acidic-4, are-2)
 
-advmod(big-15, enough-16)
+advmod(acidic-4, more-3)
 
-aux(seat-18, to-17)
+amod(juice-7, orange-6)
 
-xcomp(big-15, seat-18)
+prep_than(acidic-4, juice-7)
 
-det(bottom-20, the-19)
+amod(acids-12, other-9)
 
-dobj(seat-18, bottom-20)
+amod(acids-12, common-10)
 
-det(fridge-23, the-22)
+nn(acids-12, kitchen-11)
 
-prep_of(bottom-20, fridge-23)
+conj_or(juice-7, acids-12)
 
-prep(seat-18, on-24)
+partmod(juice-7, *NL*-14)
+det(acid-3, The-1)
 
-dep(on-24, securely-25)
+amod(acid-3, more-2)
 
-complm(big-30, that-27)
+nsubj(add-5, you-4)
 
-nsubj(big-30, straps-28)
+ccomp(be-12, add-5)
 
-cop(big-30, are-29)
+dep(larger-8, the-7)
 
-conj_and(big-15, big-30)
+dep(be-12, larger-8)
 
-advmod(big-30, enough-31)
+poss(curds-10, your-9)
 
-aux(secure-33, to-32)
+nsubj(be-12, curds-10)
 
-xcomp(big-30, secure-33)
+aux(be-12, will-11)
 
-det(refrigerator-35, the-34)
+dep(acid-3, be-12)
 
-dobj(secure-33, refrigerator-35)
+dep(faster-15, the-14)
 
-advmod(secure-33, safely-36)
+advmod(be-12, faster-15)
 
-dep(do-6, *NL*-38)
-nsubj(important-4, It-1)
+nsubj(will-17, they-16)
 
-cop(important-4, s-2)
+dep(faster-15, will-17)
 
-advmod(important-4, very-3)
+conj_and(be-12, form-18)
 
-complm(big-9, that-5)
+dep(be-12, *NL*-20)
+amod(grains-3, smaller-2)
 
-det(base-7, the-6)
+prep_for(use-7, grains-3)
 
-nsubj(big-9, base-7)
+prep_of(grains-3, curds-5)
 
-cop(big-9, is-8)
+det(amount-10, a-8)
 
-ccomp(important-4, big-9)
+amod(amount-10, smaller-9)
 
-advmod(big-9, enough-10)
+dobj(use-7, amount-10)
 
-mark(need-13, because-11)
+nn(*NL*-14, acid-12)
 
-nsubj(need-13, you-12)
+prep_of(amount-10, *NL*-14)
+mark(curdled-6, If-1)
 
-ccomp(big-9, need-13)
+det(milk-3, the-2)
 
-aux(keep-15, to-14)
+nsubj(curdled-6, milk-3)
 
-xcomp(need-13, keep-15)
+aux(curdled-6, has-4)
 
-det(upright-18, the-16)
+neg(curdled-6, not-5)
 
-amod(upright-18, fridge-17)
+advcl(let-15, curdled-6)
 
-dobj(keep-15, upright-18)
+advmod(enough-8, sufficiently-7)
 
-aux(avoid-20, to-19)
+advmod(curdled-6, enough-8)
 
-xcomp(keep-15, avoid-20)
+poss(recipe-11, your-10)
 
-xcomp(avoid-20, leaking-21)
+prep_for(curdled-6, recipe-11)
 
-dobj(leaking-21, coolant-22)
+nsubj(let-15, you-13)
 
-advmod(big-9, *NL*-24)
-mark(have-5, If-1)
+aux(let-15, can-14)
 
-nsubj(have-5, you-2)
+nsubj(stand-17, it-16)
 
-aux(have-5, do-3)
+ccomp(let-15, stand-17)
 
-neg(have-5, nt-4)
+advmod(stand-17, longer-18)
 
-advcl(need-11, have-5)
+conj_or(stand-17, return-20)
 
-det(dolly-8, a-6)
+dobj(return-20, it-21)
 
-amod(dolly-8, moving-7)
+det(stove-24, the-23)
 
-dobj(have-5, dolly-8)
+prep_to(return-20, stove-24)
 
-nsubj(need-11, you-10)
+conj_and(stand-17, heat-26)
 
-aux(rent-13, to-12)
+dobj(heat-26, it-27)
 
-xcomp(need-11, rent-13)
+det(period-31, a-29)
 
-nsubj(*NL*-16, one-14)
+amod(period-31, longer-30)
 
-xcomp(rent-13, *NL*-16)
-mark(available-5, While-1)
+prep_for(heat-26, period-31)
 
-amod(straps-3, moving-2)
+prep_of(period-31, time-33)
 
-nsubj(available-5, straps-3)
+partmod(period-31, *NL*-35)
+advmod(is-8, how-3)
 
-cop(available-5, are-4)
+amod(milk-7, watery-4)
 
-advcl(expensive-25, available-5)
+det(milk-7, the-5)
 
-nsubjpass(used-10, that-6)
+amod(milk-7, curdled-6)
 
-aux(used-10, could-7)
+nsubj(is-8, milk-7)
 
-advmod(used-10, theoretically-8)
+prepc_depending_on(need-12, is-8)
 
-auxpass(used-10, be-9)
+nsubj(need-12, you-10)
 
-ccomp(available-5, used-10)
+aux(need-12, might-11)
 
-aux(strap-12, to-11)
+aux(let-14, to-13)
 
-purpcl(used-10, strap-12)
+xcomp(need-12, let-14)
 
-det(fridge-14, a-13)
+nsubj(drain-16, it-15)
 
-dobj(strap-12, fridge-14)
+ccomp(let-14, drain-16)
 
-poss(back-17, your-16)
+amod(hours-19, several-18)
 
-prep_to(strap-12, back-17)
+prep_for(drain-16, hours-19)
 
-nsubj(expensive-25, buying-19)
+det(day-22, a-21)
 
-partmod(buying-19, moving-20)
+prep_to(drain-16, day-22)
 
-dobj(moving-20, straps-21)
+mark(separates-27, before-23)
 
-aux(expensive-25, would-22)
+predet(whey-26, all-24)
 
-cop(expensive-25, be-23)
+det(whey-26, the-25)
 
-advmod(expensive-25, more-24)
+nsubj(separates-27, whey-26)
 
-advmod(dangerous-29, much-27)
+advcl(need-12, separates-27)
 
-advmod(dangerous-29, more-28)
+det(*NL*-32, the-29)
 
-conj_and(expensive-25, dangerous-29)
+nn(*NL*-32, curds-30)
 
-prepc_than(dangerous-29, borrowing-31)
+prep_from(separates-27, *NL*-32)
+mark(need-5, If-1)
 
-det(*NL*-35, a-32)
+nsubj(need-5, you-2)
 
-nn(*NL*-35, dolly-33)
+aux(need-5, do-3)
 
-dobj(borrowing-31, *NL*-35)
-aux(attempt-3, Do-1)
+neg(need-5, not-4)
 
-neg(attempt-3, nt-2)
+advcl(use-14, need-5)
 
-aux(move-5, to-4)
+aux(strain-7, to-6)
 
-xcomp(attempt-3, move-5)
+xcomp(need-5, strain-7)
 
-dobj(move-5, one-6)
+det(milk-10, the-8)
 
-dep(move-5, without-7)
+amod(milk-10, curdled-9)
 
-pobj(without-7, it-8)
+dobj(strain-7, milk-10)
 
-nsubj(attempt-3, *NL*-10)
-neg(move-2, Never-1)
+nsubj(use-14, you-12)
 
-det(refrigerator-4, the-3)
+aux(use-14, can-13)
 
-nn(*NL*-14, refrigerator-4)
+dobj(use-14, it-15)
 
-poss(side-7, its-6)
+mark(is-17, as-16)
 
-prep_on(refrigerator-4, side-7)
+dep(it-15, is-17)
 
-conj_or(refrigerator-4, back-9)
+advmod(use-14, *NL*-19)
+complm(boiled-12, that-2)
 
-dep(back-9, for-10)
+amod(products-5, high-fat-3)
 
-det(reason-12, any-11)
+nn(products-5, dairy-4)
 
-pobj(for-10, reason-12)
+nsubjpass(boiled-12, products-5)
 
-dobj(move-2, *NL*-14)
-det(oil-2, The-1)
+prep_like(boiled-12, cream-8)
 
-nsubj(flow-7, oil-2)
+aux(boiled-12, can-10)
 
-det(compressor-5, the-4)
+auxpass(boiled-12, be-11)
 
-prep_in(oil-2, compressor-5)
+ccomp(Note-1, boiled-12)
 
-aux(flow-7, may-6)
+prep(boiled-12, with-13)
 
-det(*NL*-13, the-9)
+pobj(with-13, little-14)
 
-amod(*NL*-13, cooling-10)
+det(problem-17, no-16)
 
-nn(*NL*-13, tubes-11)
+prep_to(boiled-12, problem-17)
 
-prep_into(flow-7, *NL*-13)
-advmod(returned-5, When-1)
+nsubj(Note-1, *NL*-19)
+det(result-3, a-2)
 
-det(refrigerator-3, the-2)
+prep_as(find-7, result-3)
 
-nsubjpass(returned-5, refrigerator-3)
+nsubj(find-7, you-5)
 
-auxpass(returned-5, is-4)
+aux(find-7, may-6)
 
-dep(drain-16, returned-5)
+complm(takes-11, that-8)
 
-det(position-9, an-7)
+amod(milk-10, low-fat-9)
 
-amod(position-9, upright-8)
+nsubj(takes-11, milk-10)
 
-prep_to(returned-5, position-9)
+ccomp(find-7, takes-11)
 
-det(oil-12, the-11)
+advmod(little-13, very-12)
 
-nsubj(drain-16, oil-12)
+amod(time-14, little-13)
 
-aux(drain-16, may-13)
+dobj(takes-11, time-14)
 
-neg(drain-16, not-14)
+prep_to(takes-11, boil-16)
 
-advmod(drain-16, completely-15)
+conj_and(boil-16, curdle-18)
 
-det(tubes-20, the-18)
+mark(take-23, while-19)
 
-amod(tubes-20, cooling-19)
+amod(milk-21, whole-20)
 
-prep_from(drain-16, tubes-20)
+nsubj(take-23, milk-21)
 
-det(refrigerator-24, the-23)
+aux(take-23, will-22)
 
-nsubj(cool-27, refrigerator-24)
+advcl(takes-11, take-23)
 
-aux(cool-27, will-25)
+dep(take-23, longer-24)
 
-neg(cool-27, not-26)
+dep(longer-24, *NL*-26)
+nsubj(begin-4, Milk-1)
 
-conj_and(drain-16, cool-27)
+aux(begin-4, will-2)
 
-dobj(cool-27, properly-28)
+neg(begin-4, not-3)
 
-partmod(properly-28, *NL*-30)
-mark(unavoidable-4, If-1)
+aux(curdle-6, to-5)
 
-nsubj(unavoidable-4, it-2)
+xcomp(begin-4, curdle-6)
 
-cop(unavoidable-4, is-3)
+mark(reaches-9, until-7)
 
-advcl(make-13, unavoidable-4)
+nsubj(reaches-9, it-8)
 
-aux(lay-6, to-5)
+advcl(curdle-6, reaches-9)
 
-xcomp(unavoidable-4, lay-6)
+det(temperature-11, a-10)
 
-det(refrigerator-8, the-7)
+dobj(reaches-9, temperature-11)
 
-dobj(lay-6, refrigerator-8)
+number(degrees-14, 180-13)
 
-poss(side-11, its-10)
+num(Fahrenheit-15, degrees-14)
 
-prep_on(lay-6, side-11)
+prep_of(temperature-11, Fahrenheit-15)
 
-acomp(make-13, sure-14)
+num(degrees-18, 82-17)
 
-aux(do-16, to-15)
+measure(Celsius-19, degrees-18)
 
-xcomp(sure-14, do-16)
+dep(Fahrenheit-15, Celsius-19)
 
-dobj(do-16, it-17)
+partmod(temperature-11, *NL*-22)
+aux(maximize-2, To-1)
 
-det(angle-21, an-19)
+dep(let-10, maximize-2)
 
-amod(angle-21, upright-20)
+conj_and(maximize-2, speed-4)
 
-prep_at(do-16, angle-21)
+prt(speed-4, up-5)
 
-mark(possible-23, if-22)
+det(effect-8, the-6)
 
-dep(angle-21, possible-23)
+amod(effect-8, curdling-7)
 
-advmod(do-16, *NL*-25)
-det(box-3, a-2)
+dobj(speed-4, effect-8)
 
-dep(Place-1, box-3)
+det(*NL*-17, the-11)
 
-det(piece-7, a-5)
+nn(climb-13, temperature-12)
 
-amod(piece-7, big-6)
+dep(*NL*-17, climb-13)
 
-conj_or(Place-1, piece-7)
+dep(climb-13, even-14)
 
-prep_of(piece-7, furniture-9)
+advmod(even-14, higher-15)
 
-dep(Place-1, under-10)
+nsubj(let-10, *NL*-17)
+nsubj(monitor-3, You-1)
 
-det(top-12, the-11)
+aux(monitor-3, can-2)
 
-pobj(under-10, top-12)
+det(temperature-5, the-4)
 
-det(*NL*-23, the-14)
+dobj(monitor-3, temperature-5)
 
-amod(*NL*-23, fridge-15)
+xcomp(monitor-3, using-6)
 
-aux(help-17, to-16)
+det(food-10, a-7)
 
-xcomp(fridge-15, help-17)
+amod(food-10, clip-on-8)
 
-xcomp(help-17, keep-18)
+amod(food-10, instant-9)
 
-dobj(keep-18, it-19)
+nsubj(*NL*-13, food-10)
 
-advmod(upright-21, relatively-20)
+nn(*NL*-13, thermometer-11)
 
-dep(keep-18, upright-21)
+xcomp(using-6, *NL*-13)
+det(milk-3, the-2)
 
-prep_of(top-12, *NL*-23)
-aux(move-2, To-1)
+dobj(Stir-1, milk-3)
 
-det(refrigerator-4, the-3)
+advmod(Stir-1, occasionally-4)
 
-dobj(move-2, refrigerator-4)
+dep(frequently-7, not-6)
 
-det(flight-7, a-6)
+conj_but(Stir-1, frequently-7)
 
-prep_down(move-2, flight-7)
+conj_but(Stir-1, *NL*-9)
+nsubj(spread-3, Stirring-1)
 
-prep_of(flight-7, stairs-9)
+aux(spread-3, will-2)
 
-dep(move-2, move-11)
+det(heat-5, the-4)
 
-dobj(move-11, it-12)
+dobj(spread-3, heat-5)
 
-advmod(move-11, down-13)
+det(liquid-8, the-7)
 
-num(step-15, one-14)
+prep_throughout(spread-3, liquid-8)
 
-dep(down-13, step-15)
+nsubj(cause-14, it-11)
 
-dep(down-13, at-16)
+aux(cause-14, will-12)
 
-det(time-18, a-17)
+advmod(cause-14, also-13)
 
-pobj(at-16, time-18)
+conj_but(spread-3, cause-14)
 
-poss(assistant-21, your-20)
+det(milk-16, the-15)
 
-dobj(move-2, assistant-21)
+dobj(cause-14, milk-16)
 
-dep(assistant-21, easing-22)
+aux(take-18, to-17)
 
-dobj(easing-22, it-23)
+infmod(milk-16, take-18)
 
-dep(move-2, down-24)
+advmod(take-18, longer-19)
 
-dep(move-2, onto-25)
+aux(reach-21, to-20)
 
-det(step-28, each-26)
+xcomp(take-18, reach-21)
 
-amod(step-28, successive-27)
+det(*NL*-25, a-22)
 
-dobj(onto-25, step-28)
+nn(*NL*-25, boil-23)
 
-dep(move-2, *NL*-30)
-nsubj(ideal-4, It-1)
+dobj(reach-21, *NL*-25)
+det(*NL*-6, the-2)
 
-aux(ideal-4, would-2)
+amod(*NL*-6, saucepan-3)
 
-cop(ideal-4, be-3)
+nn(*NL*-6, uncovered-4)
 
-aux(have-6, to-5)
+dobj(Leave-1, *NL*-6)
+mark(like-4, If-1)
 
-xcomp(ideal-4, have-6)
+nsubj(like-4, you-2)
 
-num(people-8, two-7)
+aux(like-4, would-3)
 
-dobj(have-6, people-8)
+advcl(let-13, like-4)
 
-det(dolly-13, the-12)
+det(milk-6, the-5)
 
-prep_in_front_of(people-8, dolly-13)
+dobj(like-4, milk-6)
 
-conj_and(dolly-13, another-15)
+aux(curdle-8, to-7)
 
-det(back-18, the-17)
+infmod(milk-6, curdle-8)
 
-prep_at(have-6, back-18)
+dobj(curdle-8, more-9)
 
-ccomp(ideal-4, holding-20)
+nsubj(let-13, you-11)
 
-det(handles-22, the-21)
+aux(let-13, can-12)
 
-dobj(holding-20, handles-22)
+nsubj(stand-15, it-14)
 
-conj_and(holding-20, letting-24)
+ccomp(let-13, stand-15)
 
-dobj(letting-24, it-25)
+det(period-19, a-17)
 
-dep(*NL*-29, slowly-27)
+amod(period-19, longer-18)
 
-prep_down(letting-24, *NL*-29)
-nsubj(loudly-2, Communicate-1)
+prep_for(stand-15, period-19)
 
-aux(go-6, do-4)
+prep_of(period-19, time-21)
 
-neg(go-6, nt-5)
+conj_or(stand-15, return-23)
 
-conj_and(loudly-2, go-6)
+dobj(return-23, it-24)
 
-dep(*NL*-10, fast-8)
+det(heat-27, the-26)
 
-prep_to(go-6, *NL*-10)
-aux(lift-2, To-1)
+prep_to(return-23, heat-27)
 
-dep(need-15, lift-2)
+conj_and(stand-15, continue-29)
 
-det(fridge-4, a-3)
+dep(continue-29, boiling-30)
 
-dobj(lift-2, fridge-4)
+dobj(boiling-30, it-31)
 
-advmod(lift-2, straight-5)
+mark(*NL*-37, until-32)
 
-prt(lift-2, up-6)
+amod(curds-34, larger-33)
 
-det(bed-9, the-8)
+dep(*NL*-37, curds-34)
 
-prep_into(lift-2, bed-9)
+nn(*NL*-37, form-35)
 
-det(truck-12, a-11)
+advcl(continue-29, *NL*-37)
+complm(using-3, that-2)
 
-prep_of(bed-9, truck-12)
+dep(Understand-1, using-3)
 
-nsubj(need-15, you-14)
+dobj(using-3, heat-4)
 
-aux(get-17, to-16)
+dep(using-3, only-5)
 
-xcomp(need-15, get-17)
+prepc_without(using-3, using-7)
 
-prt(get-17, up-18)
+dobj(using-7, acid-8)
 
-det(bed-21, the-20)
+aux(produce-10, will-9)
 
-prep_into(get-17, bed-21)
+dep(using-3, produce-10)
 
-aux(*NL*-33, have-23)
+nsubj(using-3, softer-11)
 
-quantmod(two-26, at-24)
+amod(curds-14, less-formed-13)
 
-dep(at-24, least-25)
+appos(softer-11, curds-14)
 
-num(people-27, two-26)
+nsubj(Understand-1, *NL*-16)
+det(method-2, This-1)
 
-measure(down-28, people-27)
+nsubj(used-5, method-2)
 
-advmod(*NL*-33, down-28)
+cop(used-5, is-3)
 
-dep(down-28, on-29)
+advmod(used-5, best-4)
 
-det(ground-31, the-30)
+mark(need-8, if-6)
 
-dep(on-29, ground-31)
+nsubj(need-8, you-7)
 
-conj_and(get-17, *NL*-33)
-conj_and(Coordinate-1, lift-3)
+ccomp(used-5, need-8)
 
-advmod(lift-3, simultaneously-4)
+advmod(need-8, grainy-9)
 
-xcomp(lift-3, pulling-6)
+conj_or(need-8, soured-11)
 
-advmod(pulling-6, straight-7)
+dobj(soured-11, milk-12)
 
-advmod(pulling-6, up-8)
+amod(curds-16, actual-15)
 
-dep(up-8, with-9)
+conj_negcc(milk-12, curds-16)
 
-det(handles-11, the-10)
+advmod(used-5, *NL*-18)
+mark(need-5, If-1)
 
-pobj(with-9, handles-11)
+nsubj(need-5, you-2)
 
-det(dolly-14, the-13)
+aux(need-5, do-3)
 
-prep_of(handles-11, dolly-14)
+neg(need-5, not-4)
 
-mark(lift-21, while-15)
+advcl(skip-14, need-5)
 
-det(helpers-17, the-16)
+aux(strain-7, to-6)
 
-nsubj(lift-21, helpers-17)
+xcomp(need-5, strain-7)
 
-det(ground-20, the-19)
+det(milk-10, the-8)
 
-prep_on(helpers-17, ground-20)
+amod(milk-10, curdled-9)
 
-advcl(pulling-6, lift-21)
+dobj(strain-7, milk-10)
 
-det(base-24, the-23)
+nsubj(skip-14, you-12)
 
-prep_from(lift-21, base-24)
+aux(skip-14, can-13)
 
-conj_and(Coordinate-1, push-26)
+det(step-16, this-15)
 
-nsubj(back-28, it-27)
+dobj(skip-14, step-16)
 
-ccomp(push-26, back-28)
+conj_and(skip-14, use-18)
 
-det(bed-31, the-30)
+dobj(use-18, it-19)
 
-prep_into(back-28, bed-31)
+mark(is-21, as-20)
 
-advmod(push-26, *NL*-33)
-nsubj(ideal-3, It-1)
+dep(it-19, is-21)
 
-aux(ideal-3, would-2)
+dobj(skip-14, *NL*-23)
+nn(curdles-3, milk-2)
 
-aux(have-5, to-4)
+dobj(Soy-1, curdles-3)
 
-xcomp(ideal-3, have-5)
+advmod(easily-5, more-4)
 
-det(helper-7, another-6)
+advmod(Soy-1, easily-5)
 
-dobj(have-5, helper-7)
+mark(smaller-32, than-6)
 
-mark(make-14, with-8)
+nn(milk-10, standard-7)
 
-nsubj(make-14, you-9)
+nn(milk-10, whole-8)
 
-advmod(make-14, too-11)
+nn(milk-10, dairy-9)
 
-aux(make-14, to-13)
+dep(smaller-32, milk-10)
 
-advcl(have-5, make-14)
+dep(smaller-32, but-12)
 
-acomp(make-14, sure-15)
+mark(add-15, if-13)
 
-det(fridge-17, the-16)
+nsubj(add-15, you-14)
 
-nsubj(fall-20, fridge-17)
+advcl(smaller-32, add-15)
 
-aux(fall-20, does-18)
+det(acid-17, an-16)
 
-neg(fall-20, nt-19)
+dobj(add-15, acid-17)
 
-ccomp(sure-15, fall-20)
+det(milk-21, the-19)
 
-advmod(fall-20, backward-21)
+nn(milk-21, soy-20)
 
-prep_onto(fall-20, you-23)
+prep_to(acid-17, milk-21)
 
-advmod(make-14, *NL*-25)
-dep(upright-4, Secure-1)
+prepc_without(add-15, heating-23)
 
-det(fridge-3, the-2)
+dobj(heating-23, it-24)
 
-dep(Secure-1, fridge-3)
+advmod(heating-23, first-25)
 
-det(truck-7, the-6)
+det(curds-29, the-27)
 
-prep_in(upright-4, truck-7)
+amod(curds-29, resulting-28)
 
-dep(upright-4, *NL*-9)
-mark(leave-4, If-1)
+nsubj(smaller-32, curds-29)
 
-nsubj(leave-4, you-2)
+aux(smaller-32, will-30)
 
-aux(leave-4, can-3)
+cop(smaller-32, be-31)
 
-nsubj(hooked-6, it-5)
+advcl(Soy-1, smaller-32)
 
-dep(leave-4, hooked-6)
+advmod(firm-35, less-34)
 
-prt(hooked-6, up-7)
+conj_and(smaller-32, firm-35)
 
-det(dolly-10, the-9)
+nsubj(Soy-1, *NL*-37)
+advmod(take-6, Moreover-1)
 
-prep_to(hooked-6, dolly-10)
+nsubj(take-6, they-3)
 
-nsubj(add-14, that-12)
+aux(take-6, will-4)
 
-aux(add-14, would-13)
+advmod(take-6, also-5)
 
-rcmod(dolly-10, add-14)
+dobj(take-6, longer-7)
 
-dobj(add-14, security-15)
+prep_to(longer-7, form-9)
 
-conj_and(security-15, stability-17)
+amod(longer-7, *NL*-11)
+mark(need-4, If-1)
 
-det(fridge-20, the-19)
+nsubj(need-4, you-2)
 
-prep_to(add-14, fridge-20)
+advmod(need-4, only-3)
 
-mark(brace-28, if-23)
+advcl(skip-22, need-4)
 
-nsubj(brace-28, you-24)
+det(milk-7, the-5)
 
-aux(brace-28, ca-25)
+nn(milk-7, soy-6)
 
-neg(brace-28, nt-26)
+dobj(need-4, milk-7)
 
-conj_but(hooked-6, brace-28)
+aux(sour-9, to-8)
 
-dobj(brace-28, it-29)
+xcomp(need-4, sour-9)
 
-amod(furniture-32, other-31)
+conj_or(sour-9, become-11)
 
-prep_with(brace-28, furniture-32)
+advmod(sour-9, grainy-12)
 
-amod(supplies-35, moving-34)
+aux(need-16, do-14)
 
-conj_or(furniture-32, supplies-35)
+neg(need-16, not-15)
 
-conj_or(leave-4, strap-38)
+conj_and(need-4, need-16)
 
-dobj(strap-38, it-39)
+amod(curds-18, actual-17)
 
-prep_into(strap-38, place-41)
+dobj(need-16, curds-18)
 
-partmod(place-41, using-42)
+nsubj(skip-22, you-20)
 
-det(*NL*-46, the-43)
+aux(skip-22, can-21)
 
-nn(*NL*-46, bungees-44)
+det(portion-25, the-23)
 
-dobj(using-42, *NL*-46)
+nn(portion-25, heating-24)
+
+dobj(skip-22, portion-25)
+
+det(method-28, this-27)
+
+prep_of(portion-25, method-28)
+
+advmod(method-28, though-30)
+
+amod(portion-25, *NL*-32)
+nn(juice-2, Lemon-1)
+
+nsubj(acid-6, juice-2)
+
+cop(acid-6, is-3)
+
+det(acid-6, the-4)
+
+amod(acid-6, recommended-5)
+
+prep_of(acid-6, choice-8)
+
+amod(*NL*-14, curdling-10)
+
+nn(*NL*-14, soy-11)
+
+nn(*NL*-14, milk-12)
+
+prep_for(choice-8, *NL*-14)
+prep_on(need-6, average-2)
+
+nsubj(need-6, you-4)
+
+aux(need-6, will-5)
+
+quantmod(1-8, about-7)
+
+num(*NL*-29, 1-8)
+
+nn(*NL*-29, Tbsp-9)
+
+number(ml-12, 15-11)
+
+dep(*NL*-29, ml-12)
+
+dep(ml-12, of-14)
+
+amod(juice-16, lemon-15)
+
+pobj(of-14, juice-16)
+
+det(cup-20, every-18)
+
+num(cup-20, 1-19)
+
+prep_for(juice-16, cup-20)
+
+number(ml-23, 250-22)
+
+dep(cup-20, ml-23)
+
+nn(milk-27, soy-26)
+
+prep_of(cup-20, milk-27)
+
+dobj(need-6, *NL*-29)
+dep(Note-4, 2-2)
+
+dobj(Note-4, that-5)
+
+xcomp(Note-4, adding-6)
+
+amod(acid-8, more-7)
+
+nsubj(cause-10, acid-8)
+
+aux(cause-10, will-9)
+
+ccomp(adding-6, cause-10)
+
+amod(curds-13, more-11)
+
+amod(curds-13, prominent-12)
+
+dobj(cause-10, curds-13)
+
+aux(form-15, to-14)
+
+xcomp(cause-10, form-15)
+
+dep(adding-17, while-16)
+
+advcl(form-15, adding-17)
+
+amod(acid-19, less-18)
+
+dobj(adding-17, acid-19)
+
+aux(cause-21, will-20)
+
+dep(adding-17, cause-21)
+
+amod(curds-23, smaller-22)
+
+nsubj(adding-17, curds-23)
+
+conj_or(curds-23, grains-25)
+
+prep_to(curds-23, form-27)
+
+nsubj(Note-4, *NL*-29)
+mark(heated-3, If-1)
+
+nsubj(heated-3, you-2)
+
+advcl(notice-14, heated-3)
+
+det(milk-6, the-4)
+
+nn(milk-6, soy-5)
+
+dobj(heated-3, milk-6)
+
+prepc_before(heated-3, adding-8)
+
+det(vinegar-10, the-9)
+
+dobj(adding-8, vinegar-10)
+
+nsubj(notice-14, you-12)
+
+aux(notice-14, should-13)
+
+dobj(notice-14, curds-15)
+
+dep(curds-15, beginning-16)
+
+dep(beginning-16, to-17)
+
+pobj(to-17, form-18)
+
+advmod(notice-14, *NL*-20)
+mark(reached-6, If-1)
+
+det(curds-3, the-2)
+
+nsubj(reached-6, curds-3)
+
+aux(reached-6, have-4)
+
+neg(reached-6, not-5)
+
+advcl(let-16, reached-6)
+
+det(size-9, the-7)
+
+amod(size-9, desired-8)
+
+dobj(reached-6, size-9)
+
+conj_or(size-9, consistency-11)
+
+advmod(reached-6, yet-12)
+
+nsubj(let-16, you-14)
+
+aux(let-16, can-15)
+
+det(milk-18, the-17)
+
+nsubj(sit-19, milk-18)
+
+ccomp(let-16, sit-19)
+
+advmod(sit-19, longer-20)
+
+conj_or(let-16, return-22)
+
+dobj(return-22, it-23)
+
+det(heat-26, the-25)
+
+prep_to(return-22, heat-26)
+
+det(minutes-30, a-28)
+
+amod(minutes-30, few-29)
+
+prep_for(heat-26, minutes-30)
+
+advmod(heat-26, *NL*-32)
+complm(need-5, that-2)
+
+nsubj(need-5, you-3)
+
+aux(need-5, may-4)
+
+ccomp(Note-1, need-5)
+
+aux(let-7, to-6)
+
+xcomp(need-5, let-7)
+
+det(drain-10, the-8)
+
+amod(drain-10, whey-9)
+
+dobj(let-7, drain-10)
+
+amod(hours-13, several-12)
+
+prep_for(drain-10, hours-13)
+
+det(day-16, a-15)
+
+prep_to(let-7, day-16)
+
+advmod(runny-21, how-20)
+
+advmod(is-25, runny-21)
+
+poss(milk-24, your-22)
+
+amod(milk-24, curdled-23)
+
+nsubj(is-25, milk-24)
+
+prepc_depending_on(let-7, is-25)
+
+advmod(done-27, when-26)
+
+advcl(is-25, done-27)
+
+nsubj(Note-1, *NL*-29)
+mark(need-5, If-1)
+
+nsubj(need-5, you-2)
+
+aux(need-5, do-3)
+
+neg(need-5, not-4)
+
+advcl(use-16, need-5)
+
+aux(separate-7, to-6)
+
+xcomp(need-5, separate-7)
+
+det(curds-9, the-8)
+
+dobj(separate-7, curds-9)
+
+det(whey-12, the-11)
+
+prep_from(separate-7, whey-12)
+
+nsubj(use-16, you-14)
+
+aux(use-16, can-15)
+
+det(curdled-18, the-17)
+
+dobj(use-16, curdled-18)
+
+nn(milk-20, soy-19)
+
+dep(*NL*-25, milk-20)
+
+prepc_without(milk-20, straining-22)
+
+dobj(straining-22, it-23)
+
+rcmod(curdled-18, *NL*-25)
+nsubjpass(preferred-4, Cornstarch-1)
+
+auxpass(preferred-4, is-2)
+
+advmod(preferred-4, generally-3)
+
+nn(*NL*-8, flour-6)
+
+prep_over(preferred-4, *NL*-8)
+nsubj(need-3, You-1)
+
+aux(need-3, will-2)
+
+aux(add-5, to-4)
+
+xcomp(need-3, add-5)
+
+quantmod(1-7, about-6)
+
+num(tsp-8, 1-7)
+
+dobj(add-5, tsp-8)
+
+number(ml-11, 5-10)
+
+dep(tsp-8, ml-11)
+
+nn(*NL*-45, cornstarch-14)
+
+conj_or(cornstarch-14, flour-16)
+
+det(milk-25, every-18)
+
+num(cup-20, 1\/2-19)
+
+nn(milk-25, cup-20)
+
+number(ml-23, 125-22)
+
+dep(cup-20, ml-23)
+
+prep_for(flour-16, milk-25)
+
+aux(ensure-27, to-26)
+
+xcomp(flour-16, ensure-27)
+
+complm(curdle-33, that-28)
+
+det(milk-30, the-29)
+
+nsubj(curdle-33, milk-30)
+
+aux(curdle-33, will-31)
+
+neg(curdle-33, not-32)
+
+ccomp(flour-16, curdle-33)
+
+det(presence-36, the-35)
+
+prep_in(curdle-33, presence-36)
+
+det(ingredient-40, an-38)
+
+amod(ingredient-40, acidic-39)
+
+prep_of(presence-36, ingredient-40)
+
+amod(heat-43, high-42)
+
+conj_or(ingredient-40, heat-43)
+
+prep_of(tsp-8, *NL*-45)
+dep(*NL*-4, 3-2)
+amod(results-3, best-2)
+
+pobj(For-1, results-3)
+
+nn(cornstarch-6, whisk-5)
+
+dep(*NL*-17, cornstarch-6)
+
+det(milk-9, the-8)
+
+prep_into(cornstarch-6, milk-9)
+
+mark(cold-15, while-10)
+
+det(milk-12, the-11)
+
+nsubj(cold-15, milk-12)
+
+cop(cold-15, is-13)
+
+advmod(cold-15, still-14)
+
+dep(milk-9, cold-15)
+
+rcmod(results-3, *NL*-17)
+det(milk-3, the-2)
+
+dobj(Heat-1, milk-3)
+
+prt(Heat-1, up-4)
+
+conj_and(Heat-1, add-6)
+
+poss(ingredients-9, your-7)
+
+amod(ingredients-9, other-8)
+
+dobj(add-6, ingredients-9)
+
+dep(add-6, afterward-10)
+
+dep(afterward-10, *NL*-12)
+amod(milk-2, Dairy-1)
+
+nsubjpass(cooked-9, milk-2)
+
+nn(milk-5, soy-4)
+
+conj_and(milk-2, milk-5)
+
+aux(cooked-9, should-6)
+
+neg(cooked-9, not-7)
+
+auxpass(cooked-9, be-8)
+
+det(temperature-12, a-11)
+
+prep_above(cooked-9, temperature-12)
+
+num(degrees-15, 180-14)
+
+measure(Fahrenheit-16, degrees-15)
+
+amod(*NL*-32, Fahrenheit-16)
+
+num(degrees-19, 82-18)
+
+measure(Celsius-20, degrees-19)
+
+dep(Fahrenheit-16, Celsius-20)
+
+mark(want-26, if-22)
+
+nsubj(want-26, you-23)
+
+aux(want-26, do-24)
+
+neg(want-26, not-25)
+
+ccomp(Fahrenheit-16, want-26)
+
+det(milk-28, the-27)
+
+dobj(want-26, milk-28)
+
+aux(curdle-30, to-29)
+
+infmod(milk-28, curdle-30)
+
+prep_of(temperature-12, *NL*-32)
+dep(*NL*-4, 4-2)
+det(temperature-3, the-2)
+
+nsubj(using-4, temperature-3)
+
+dep(Monitor-1, using-4)
+
+det(food-8, a-5)
+
+amod(food-8, clip-on-6)
+
+amod(food-8, instant-7)
+
+nsubj(*NL*-11, food-8)
+
+nn(*NL*-11, thermometer-9)
+
+xcomp(using-4, *NL*-11)
+det(thermometer-3, the-2)
+
+dobj(Attach-1, thermometer-3)
+
+det(side-6, the-5)
+
+prep_to(Attach-1, side-6)
+
+det(*NL*-11, the-8)
+
+nn(*NL*-11, pan-9)
+
+prep_of(side-6, *NL*-11)
+acomp(Make-1, sure-2)
+
+complm(touches-6, that-3)
+
+det(bulb-5, the-4)
+
+nsubj(touches-6, bulb-5)
+
+ccomp(Make-1, touches-6)
+
+det(milk-8, the-7)
+
+dobj(touches-6, milk-8)
+
+dep(milk-8, but-9)
+
+neg(but-9, not-10)
+
+det(bottom-12, the-11)
+
+dep(but-9, bottom-12)
+
+det(pan-15, the-14)
+
+prep_of(bottom-12, pan-15)
+
+mark(hotter-31, since-17)
+
+det(temperature-19, the-18)
+
+nsubj(hotter-31, temperature-19)
+
+det(metal-22, the-21)
+
+prep_of(temperature-19, metal-22)
+
+det(bottom-25, the-24)
+
+prep_at(metal-22, bottom-25)
+
+det(pan-28, the-27)
+
+prep_of(bottom-25, pan-28)
+
+aux(hotter-31, will-29)
+
+cop(hotter-31, be-30)
+
+dep(pan-15, hotter-31)
+
+det(temperature-34, the-33)
+
+prep_than(hotter-31, temperature-34)
+
+det(milk-37, the-36)
+
+prep_of(temperature-34, milk-37)
+
+nsubj(Make-1, *NL*-39)
+det(case-3, the-2)
+
+prep_in(idea-12, case-3)
+
+prep_of(case-3, coffee-5)
+
+nsubj(idea-12, it-7)
+
+cop(idea-12, is-8)
+
+advmod(idea-12, also-9)
+
+det(idea-12, a-10)
+
+amod(idea-12, good-11)
+
+aux(let-14, to-13)
+
+infmod(idea-12, let-14)
+
+det(coffee-16, the-15)
+
+nsubj(cool-17, coffee-16)
+
+ccomp(let-14, cool-17)
+
+dep(cool-17, slightly-18)
+
+dep(slightly-18, before-19)
+
+pcomp(before-19, adding-20)
+
+dobj(adding-20, it-21)
+
+det(milk-25, the-23)
+
+nn(milk-25, soy-24)
+
+prep_to(adding-20, milk-25)
+
+advmod(let-14, *NL*-27)
+advmod(so-2, Doing-1)
+
+advmod(make-4, so-2)
+
+aux(make-4, will-3)
+
+nsubj(likely-8, it-5)
+
+advmod(likely-8, even-6)
+
+advmod(likely-8, less-7)
+
+xcomp(make-4, likely-8)
+
+complm(curdle-13, that-9)
+
+det(coffee-11, the-10)
+
+nsubj(curdle-13, coffee-11)
+
+aux(curdle-13, will-12)
+
+ccomp(likely-8, curdle-13)
+
+det(milk-15, the-14)
+
+dobj(curdle-13, milk-15)
+
+nsubj(make-4, *NL*-17)
+complm(acidic-12, that-2)
+
+mark(acidic-7, while-4)
+
+nsubj(acidic-7, coffee-5)
+
+cop(acidic-7, is-6)
+
+advcl(acidic-12, acidic-7)
+
+nsubj(acidic-12, it-9)
+
+cop(acidic-12, is-10)
+
+advmod(acidic-12, less-11)
+
+ccomp(Note-1, acidic-12)
+
+prep_than(acidic-12, vinegar-14)
+
+nn(*NL*-19, lemon-16)
+
+nn(*NL*-19, juice-17)
+
+conj_or(vinegar-14, *NL*-19)
+det(result-3, a-2)
+
+prep_as(likely-11, result-3)
+
+nsubj(likely-11, cool-5)
+
+amod(coffee-8, lukewarm-7)
+
+prep_to(cool-5, coffee-8)
+
+cop(likely-11, is-9)
+
+neg(likely-11, not-10)
+
+aux(cause-13, to-12)
+
+xcomp(likely-11, cause-13)
+
+nn(milk-15, dairy-14)
+
+dobj(cause-13, milk-15)
+
+nn(milk-18, soy-17)
+
+conj_or(milk-15, milk-18)
+
+nn(*NL*-22, curdle-20)
+
+prep_to(milk-15, *NL*-22)
+mark(likely-6, While-1)
+
+nn(milk-3, dairy-2)
+
+nsubj(likely-6, milk-3)
+
+cop(likely-6, is-4)
+
+advmod(likely-6, less-5)
+
+advcl(use-29, likely-6)
+
+aux(curdle-8, to-7)
+
+xcomp(likely-6, curdle-8)
+
+advmod(poured-10, when-9)
+
+advcl(curdle-8, poured-10)
+
+prep_into(poured-10, coffee-12)
+
+mark(have-17, if-14)
+
+nsubj(have-17, you-15)
+
+aux(have-17, do-16)
+
+advcl(likely-6, have-17)
+
+dobj(have-17, problems-18)
+
+nn(milk-21, dairy-20)
+
+prep_with(problems-18, milk-21)
+
+partmod(milk-21, curdling-22)
+
+poss(coffee-25, your-24)
+
+prep_in(curdling-22, coffee-25)
+
+nsubj(use-29, you-27)
+
+aux(use-29, can-28)
+
+det(practice-32, this-30)
+
+amod(practice-32, same-31)
+
+dobj(use-29, practice-32)
+
+nn(*NL*-37, dairy-34)
+
+nn(*NL*-37, milk-35)
+
+prep_with(use-29, *NL*-37)
+det(pot-6, a-2)
+
+amod(pot-6, large-3)
+
+amod(pot-6, stainless-4)
+
+nn(pot-6, steel-5)
+
+dobj(Fill-1, pot-6)
+
+quantmod(4-11, about-8)
+
+number(4-11, 3-9)
+
+dep(4-11, to-10)
+
+num(inches-12, 4-11)
+
+prep_with(pot-6, inches-12)
+
+nsubj(*NL*-16, 7-14)
+
+rcmod(pot-6, *NL*-16)
+num(10-3, 62-1)
+
+dep(10-3, to-2)
+
+dep(10-3, *NL*-5)
+dep(of-4, 16-1)
+
+prep(16-1, cm-2)
+
+dep(of-4, water-5)
+
+dep(of-4, *NL*-7)
+det(steel-6, a-2)
+
+advmod(smaller-4, slightly-3)
+
+amod(steel-6, smaller-4)
+
+amod(steel-6, stainless-5)
+
+nsubj(pan-7, steel-6)
+
+ccomp(Place-1, pan-7)
+
+det(water-10, the-9)
+
+prep_into(pan-7, water-10)
+
+det(pan-14, the-12)
+
+amod(pan-14, first-13)
+
+prep_of(water-10, pan-14)
+
+nsubj(Place-1, *NL*-16)
+det(pans-3, the-2)
+
+dobj(Set-1, pans-3)
+
+det(*NL*-8, the-5)
+
+nn(*NL*-8, stove-6)
+
+prep_onto(Set-1, *NL*-8)
+poss(milk-4, your-2)
+
+amod(milk-4, raw-3)
+
+dobj(Pour-1, milk-4)
+
+det(*NL*-10, the-6)
+
+amod(*NL*-10, second-7)
+
+nn(*NL*-10, pan-8)
+
+prep_into(Pour-1, *NL*-10)
+det(thermometer-3, a-2)
+
+dep(Clip-1, thermometer-3)
+
+det(side-6, the-5)
+
+prep_to(thermometer-3, side-6)
+
+det(*NL*-15, the-8)
+
+amod(*NL*-15, second-9)
+
+dep(*NL*-15, pan-10)
+
+det(milk-13, the-12)
+
+prep_into(pan-10, milk-13)
+
+prep_of(side-6, *NL*-15)
+det(stopper-3, a-2)
+
+dobj(Put-1, stopper-3)
+
+det(drain-6, the-5)
+
+prep_in(Put-1, drain-6)
+
+poss(*NL*-11, your-8)
+
+nn(*NL*-11, sink-9)
+
+prep_of(drain-6, *NL*-11)
+det(sink-3, the-2)
+
+dep(Fill-1, sink-3)
+
+amod(water-6, cold-5)
+
+prep_with(sink-3, water-6)
+
+conj_and(water-6, ice-8)
+
+dep(sink-3, *NL*-10)
+mark(*NL*-24, Because-1)
+
+det(process-3, the-2)
+
+nsubj(*NL*-24, process-3)
+
+prepc_of(process-3, heating-5)
+
+det(milk-7, the-6)
+
+nsubj(quick-10, milk-7)
+
+cop(quick-10, is-8)
+
+advmod(quick-10, fairly-9)
+
+ccomp(heating-5, quick-10)
+
+dep(heating-5, preparing-12)
+
+det(procedure-15, the-13)
+
+amod(procedure-15, cooling-14)
+
+dobj(preparing-12, procedure-15)
+
+advmod(preparing-12, ahead-16)
+
+dep(ahead-16, of-17)
+
+dep(of-17, time-18)
+
+rcmod(time-18, prevents-19)
+
+xcomp(prevents-19, overheating-20)
+
+det(milk-22, the-21)
+
+dobj(overheating-20, milk-22)
+det(heat-3, the-2)
+
+dobj(Crank-1, heat-3)
+
+dep(*NL*-7, high-5)
+
+prep_to(Crank-1, *NL*-7)
+advmod(Stir-1, repeatedly-2)
+
+aux(prevent-4, to-3)
+
+xcomp(Stir-1, prevent-4)
+
+xcomp(prevent-4, burning-5)
+
+det(*NL*-9, the-6)
+
+nn(*NL*-9, milk-7)
+
+dobj(burning-5, *NL*-9)
+nsubj(*NL*-12, Milk-1)
+
+nsubj(reaches-3, that-2)
+
+rcmod(Milk-1, reaches-3)
+
+nsubj(cause-9, boiling-4)
+
+amod(temperatures-7, higher-6)
+
+conj_or(boiling-4, temperatures-7)
+
+aux(cause-9, can-8)
+
+ccomp(reaches-3, cause-9)
+
+dobj(cause-9, scorching-10)
+det(milk-3, the-2)
+
+dobj(Keep-1, milk-3)
+
+num(*NL*-11, 161-5)
+
+nn(*NL*-11, degrees-6)
+
+nn(*NL*-11, Fahrenheit-7)
+
+nn(*NL*-11, 71-9)
+
+prep_at(Keep-1, *NL*-11)
+num(Celsius-3, 66-1)
+
+nn(Celsius-3, degrees-2)
+
+num(seconds-7, 30-6)
+
+prep_for(Celsius-3, seconds-7)
+
+partmod(Celsius-3, *NL*-9)
+nsubj(need-3, You-1)
+
+aux(need-3, might-2)
+
+aux(decrease-5, to-4)
+
+xcomp(need-3, decrease-5)
+
+conj_or(decrease-5, increase-7)
+
+det(burner-9, the-8)
+
+dobj(decrease-5, burner-9)
+
+prep_in(burner-9, order-11)
+
+aux(keep-13, to-12)
+
+xcomp(decrease-5, keep-13)
+
+det(temperature-16, a-14)
+
+amod(temperature-16, steady-15)
+
+dobj(keep-13, temperature-16)
+
+num(degrees-19, 161-18)
+
+prep_of(temperature-16, degrees-19)
+
+nn(*NL*-24, 71-22)
+
+prep_fahrenheit(keep-13, *NL*-24)
+num(Celsius-3, 66-1)
+
+nn(Celsius-3, degrees-2)
+
+dep(Celsius-3, *NL*-6)
+det(milk-3, the-2)
+
+dobj(Cool-1, milk-3)
+
+num(degrees-6, 40-5)
+
+prep_to(Cool-1, degrees-6)
+
+nsubj(Cool-1, Fahrenheit-7)
+
+nsubj(*NL*-11, 4-9)
+
+rcmod(Fahrenheit-7, *NL*-11)
+num(Celsius-3, 44-1)
+
+nn(Celsius-3, degrees-2)
+
+nn(*NL*-9, stirring-6)
+
+nn(*NL*-9, constantly-7)
+
+appos(Celsius-3, *NL*-9)
+nsubj(take-3, This-1)
+
+aux(take-3, can-2)
+
+advmod(much-5, as-4)
+
+dep(minutes-8, much-5)
+
+advmod(minutes-8, as-6)
+
+num(minutes-8, 40-7)
+
+dep(take-3, minutes-8)
+
+dep(minutes-8, *NL*-10)
+det(milk-2, The-1)
+
+nsubj(cool-4, milk-2)
+
+aux(cool-4, will-3)
+
+advmod(cool-4, slowly-5)
+
+advmod(cool-4, unevenly-7)
+
+mark(do-10, if-8)
+
+nsubj(do-10, you-9)
+
+dep(unevenly-7, do-10)
+
+neg(do-10, not-11)
+
+conj_and(cool-4, stir-12)
+
+dep(cool-4, *NL*-14)
