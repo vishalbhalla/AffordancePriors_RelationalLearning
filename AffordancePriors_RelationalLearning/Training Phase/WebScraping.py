@@ -126,24 +126,24 @@ URLList = [
 
 
 URLList = [
-           'http://www.wikihow.com/Control-Food-Portions', # nsubj(Reach,Person)
-           'http://www.wikihow.com/Arrange-Dishes-in-Kitchen-Cabinets', # dobj(Place,Cup)
-           'http://www.wikihow.com/Dry-Milk', # dobj(Place,Milk)
-            # "http://www.wikihow.com/Open-a-Bottle-of-Water",
+          # 'http://www.wikihow.com/Control-Food-Portions', # nsubj(Reach,Person)
+           # 'http://www.wikihow.com/Arrange-Dishes-in-Kitchen-Cabinets', # dobj(Place,Cup)
+           # 'http://www.wikihow.com/Dry-Milk', # dobj(Place,Milk)
+            #  "http://www.wikihow.com/Open-a-Bottle-of-Water",
             # "http://www.wikihow.com/Open-and-Care-for-a-Book",
             # "http://www.wikihow.com/Move-a-Refrigerator",
             # "http://www.wikihow.com/Dust-Your-Entire-House",
             # "http://www.wikihow.com/Clean-a-Clothes-Dryer-Vent",
             # "http://www.wikihow.com/Clean-Windows",
             # "http://www.wikihow.com/Set-a-Table",
-           "http://www.wikihow.com/Use-a-Microwave",
+           # "http://www.wikihow.com/Use-a-Microwave",
             # "http://www.wikihow.com/Make-Condensed-Milk",
-           "http://www.wikihow.com/Repair-a-Remote-Control",
+           # "http://www.wikihow.com/Repair-a-Remote-Control",
             #  "http://www.wikihow.com/Install-a-Microwave",
-           'http://www.wikihow.com/Make-Popcorn-Boxes', # dobj(Reach,Box)
-           'http://www.wikihow.com/Load-a-Dishwasher', # dobj(Reach,Bowl)
-           'http://www.wikihow.com/Prepare-Cereal', # dobj(Pour,Bowl)
-           'http://www.wikihow.com/Clean-a-Microwave', # dobj(Clean,Microwave)
+           # 'http://www.wikihow.com/Make-Popcorn-Boxes', # dobj(Reach,Box)
+           # 'http://www.wikihow.com/Load-a-Dishwasher', # dobj(Reach,Bowl)
+           # 'http://www.wikihow.com/Prepare-Cereal', # dobj(Pour,Bowl)
+           # 'http://www.wikihow.com/Clean-a-Microwave', # dobj(Clean,Microwave)
             # 'http://www.wikihow.com/Organize-a-Bookshelf', #dobj(Place,Book)
             # 'http://www.wikihow.com/Use-the-Wii-Controller', # dobj(Move,Remote)
            'http://www.wikihow.com/Set-a-Table', #dobj(Place,Plate)
@@ -151,28 +151,28 @@ URLList = [
             # 'http://www.wikihow.com/Play-PangYa', # dobj(Reach,Cup)
             # 'http://www.wikihow.com/Make-a-Gift-Box', # dobj(Place,Box)
             # 'http://www.wikihow.com/Use-Good-Table-Manners', # dobj(Reach,Plate)
-           'http://www.wikihow.com/Cook-Rice', # dobj(Place,Bowl)
+            # 'http://www.wikihow.com/Cook-Rice', # dobj(Place,Bowl)
             # 'http://www.wikihow.com/Close-a-Bank-Account', # nsubj(Close,Person)'
-           'http://www.wikihow.com/Pack-Clothes-for-Moving', # dobj(Move,Cloth)
-           'http://www.wikihow.com/Open-a-Pomegranate', # nsubj(Open,Person)
-           'http://www.wikihow.com/Cool-a-Hot-Drink-Quickly', # dobj(Drink,Cup)
-           'http://www.wikihow.com/Check-a-Microwave-for-Leaks', # dobj(Close,Microwave)
+           # 'http://www.wikihow.com/Pack-Clothes-for-Moving', # dobj(Move,Cloth)
+           # 'http://www.wikihow.com/Open-a-Pomegranate', # nsubj(Open,Person)
+           # 'http://www.wikihow.com/Cool-a-Hot-Drink-Quickly', # dobj(Drink,Cup)
+           # 'http://www.wikihow.com/Check-a-Microwave-for-Leaks', # dobj(Close,Microwave)
             # 'http://www.wikihow.com/Serve-and-Drink-Sake', # nsubj(Drink,Person)
-           'http://www.wikihow.com/Make-a-Coffee-Cup-Using-Blender', # dobj(Move,Cup)
-           'http://www.wikihow.com/Make-a-Cup-of-Tea-Using-the-Microwave', # dobj(Open,Microwave)
+           # 'http://www.wikihow.com/Make-a-Coffee-Cup-Using-Blender', # dobj(Move,Cup)
+           #  'http://www.wikihow.com/Make-a-Cup-of-Tea-Using-the-Microwave', # dobj(Open,Microwave)
             # 'http://www.wikihow.com/Decorate-a-Kitchen', # nsubj(Move,Person)
             # 'http://www.wikihow.com/Catalogue-Your-Books-with-Goodreads', # dobj(Move,Book)
-           'http://www.wikihow.com/Store-Milk', # dobj(Open,Milk)
-            # 'http://www.wikihow.com/Curdle-Milk', #nsubj(Pour,Person)
-           'http://www.wikihow.com/Pasteurize-Milk', # dobj(Move,Milk)
-           'http://www.wikihow.com/Make-a-Pot-of-Lavender-Potpourri', # dobj(Move,Bowl)
+          #  'http://www.wikihow.com/Store-Milk' # dobj(Open,Milk)
+           # 'http://www.wikihow.com/Curdle-Milk', #nsubj(Pour,Person)
+             'http://www.wikihow.com/Pasteurize-Milk' # dobj(Move,Milk)
+           # 'http://www.wikihow.com/Make-a-Pot-of-Lavender-Potpourri', # dobj(Move,Bowl)
             # 'http://www.wikihow.com/Measure-Salinity', # dobj(Move,Plate)
-           'http://www.wikihow.com/Pack-Boxes', # dobj(Move,Box)
+          # 'http://www.wikihow.com/Pack-Boxes', # dobj(Move,Box)
             # 'http://www.wikihow.com/Clean-a-Litter-Box', # dobj(Pour,Box)
-           'http://www.wikihow.com/Keep-Air-Out-of-Your-Baby\'s-Bottle', # dobj(Reach,Milk)
+           # 'http://www.wikihow.com/Keep-Air-Out-of-Your-Baby\'s-Bottle', # dobj(Reach,Milk)
             # 'http://www.wikihow.com/Eat-Healthy', # nsubj(Eat,Person)
-           'http://www.wikihow.com/Make-Cream-Cheese', # dobj(Place,Cloth)
-            # 'http://www.wikihow.com/Make-Your-Bed' # nsubj(Place,Person)
+           # 'http://www.wikihow.com/Make-Cream-Cheese', # dobj(Place,Cloth)
+           # 'http://www.wikihow.com/Make-Your-Bed' # nsubj(Place,Person)
         ]
 
 

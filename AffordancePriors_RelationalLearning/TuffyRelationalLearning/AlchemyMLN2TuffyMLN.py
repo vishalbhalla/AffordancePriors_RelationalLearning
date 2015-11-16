@@ -469,9 +469,9 @@ class LineComment(Comment):
 # Main.
 if __name__ == '__main__':
     sys.argv = ['/home/vishal/Workspace/AffordancePriors_RelationalLearning/TuffyRelationalLearning/AlchemyMLN2TuffyMLN.py',
-                   '/home/vishal/Workspace/AffordancePriors_RelationalLearning/TuffyRelationalLearning/SVOPredicateFormula1.mln',
+                   '/home/vishal/Workspace/AffordancePriors_RelationalLearning/TuffyRelationalLearning/SVOPredicateFormula.mln',
                    '/home/vishal/Workspace/AffordancePriors_RelationalLearning/TuffyRelationalLearning/VOTuples.db',
-                   '/home/vishal/Workspace/AffordancePriors_RelationalLearning/TuffyRelationalLearning/learnwts1.mln']
+                   '/home/vishal/Workspace/AffordancePriors_RelationalLearning/TuffyRelationalLearning/learnwts.mln']
     if len(sys.argv) != 4:
         # The command name.
         cmd_name = sys.argv[0].split('/')[-1].split('\\')[-1]

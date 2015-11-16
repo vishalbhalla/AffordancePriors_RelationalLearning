@@ -93,6 +93,12 @@ print newProbSVOTuplesTest
 
 
 '''
+# for 10 links
+newProbSVOTuplesTrain = [0.98, 0.57, 0.92, 0.9]
+newProbSVOTuplesTest = [1.0, 1.0, 1.0, 1.0]
+newSVOTuples = ['dobj("Place","Box")', 'dobj("Pour","Milk")', 'nsubj("Place","Person")', 'nsubj("Pour","Person")']
+
+
 # for 6 links
 newProbSVOTuplesTrain = [0.04, 0.0, 0.0, 0.12]
 newProbSVOTuplesTest = [1.0, 1.0, 1.0, 1.0]
