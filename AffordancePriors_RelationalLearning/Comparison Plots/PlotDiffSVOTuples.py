@@ -92,6 +92,12 @@ print newProbSVOTuplesTrain
 print newProbSVOTuplesTest
 
 
+'''
+# for 6 links
+newProbSVOTuplesTrain = [0.04, 0.0, 0.0, 0.12]
+newProbSVOTuplesTest = [1.0, 1.0, 1.0, 1.0]
+newSVOTuples = ['dobj("Place","Box")', 'dobj("Pour","Milk")', 'nsubj("Place","Person")', 'nsubj("Pour","Person")']
+'''
 
 # Calculate the probabilities relative to maximum value of the Train & Test datasets.
 arrNewProbSVOTuplesTrain = numpy.array(newProbSVOTuplesTrain)
