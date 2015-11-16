@@ -126,7 +126,8 @@ print newSVOTuples
 # Plot the graph for the common tuples and their probabilities.
 # Scatter Plot
 SVOTupleNo = range(len(newSVOTuples))
-plt.xticks(SVOTupleNo, newSVOTuples)
+# Changes to plot the ticks vertically
+plt.xticks(SVOTupleNo, newSVOTuples, rotation='vertical')
 
 #train = plt.scatter(SVOTupleNo,newProbSVOTuplesTrain,color='k')
 #test = plt.scatter(SVOTupleNo,newProbSVOTuplesTest,color='g')
