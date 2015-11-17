@@ -51,6 +51,11 @@ strVocabSubject = '{' + strVocabSubject + '}'
 strVocabVerb = '{' + strVocabVerb + '}'
 strVocabObject = '{' + strVocabObject + '}'
 
+print strVocabSubject
+print strVocabVerb
+print strVocabObject
+
+
 # SVO Tuple Database
 dbSVO = '~/' + 'Downloads/alchemy-2/exdata/vishal-test/SVOTuples.db'
 #shutil.copy2('FormattedTuples.txt', dbSVO)

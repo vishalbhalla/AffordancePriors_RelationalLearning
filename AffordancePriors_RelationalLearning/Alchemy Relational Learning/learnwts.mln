@@ -1,0 +1,9483 @@
+//predicate declarations
+dobj(verb,object)
+nsubj(verb,subject)
+
+// -0.522921  nsubj(v,Person)
+-0.522921  nsubj(a1,Person)
+
+// -1.36671  nsubj(v,Who)
+-1.36671  nsubj(a1,Who)
+
+// -1.34372  nsubj(v,Which)
+-1.34372  nsubj(a1,Which)
+
+// -1.4279  nsubj(v,Dont)
+-1.4279  nsubj(a1,Dont)
+
+// -0.97087  nsubj(v,It)
+-0.97087  nsubj(a1,It)
+
+// -1.44413  nsubj(v,Placemats)
+-1.44413  nsubj(a1,Placemats)
+
+// -1.4397  nsubj(v,Fork)
+-1.4397  nsubj(a1,Fork)
+
+// -1.44413  nsubj(v,Forks)
+-1.44413  nsubj(a1,Forks)
+
+// -1.22021  nsubj(v,That)
+-1.22021  nsubj(a1,That)
+
+// -1.44265  nsubj(v,Utensil)
+-1.44265  nsubj(a1,Utensil)
+
+// -1.44265  nsubj(v,Spoon)
+-1.44265  nsubj(a1,Spoon)
+
+// -1.43232  nsubj(v,Glass)
+-1.43232  nsubj(a1,Glass)
+
+// -1.44413  nsubj(v,Guests)
+-1.44413  nsubj(a1,Guests)
+
+// -1.42496  nsubj(v,Yourself)
+-1.42496  nsubj(a1,Yourself)
+
+// -1.44265  nsubj(v,Percentage)
+-1.44265  nsubj(a1,Percentage)
+
+// -1.43674  nsubj(v,Day)
+-1.43674  nsubj(a1,Day)
+
+// -1.44413  nsubj(v,Next)
+-1.44413  nsubj(a1,Next)
+
+// -1.42202  nsubj(v,Body)
+-1.42202  nsubj(a1,Body)
+
+// -1.26038  nsubj(v,This)
+-1.26038  nsubj(a1,This)
+
+// -1.44413  nsubj(v,Break)
+-1.44413  nsubj(a1,Break)
+
+// -1.44265  nsubj(v,Ones)
+-1.44265  nsubj(a1,Ones)
+
+// -1.41468  nsubj(v,We)
+-1.41468  nsubj(a1,We)
+
+// -1.4279  nsubj(v,All)
+-1.4279  nsubj(a1,All)
+
+// -1.44117  nsubj(v,Hours)
+-1.44117  nsubj(a1,Hours)
+
+// -1.44265  nsubj(v,Choice)
+-1.44265  nsubj(a1,Choice)
+
+// -1.43822  nsubj(v,Protein)
+-1.43822  nsubj(a1,Protein)
+
+// -1.4397  nsubj(v,Brain)
+-1.4397  nsubj(a1,Brain)
+
+// -1.4397  nsubj(v,Lot)
+-1.4397  nsubj(a1,Lot)
+
+// -1.44413  nsubj(v,Considerations)
+-1.44413  nsubj(a1,Considerations)
+
+// -1.44117  nsubj(v,Thing)
+-1.44117  nsubj(a1,Thing)
+
+// -1.44117  nsubj(v,Studies)
+-1.44117  nsubj(a1,Studies)
+
+// -1.44413  nsubj(v,Ounces)
+-1.44413  nsubj(a1,Ounces)
+
+// -1.4397  nsubj(v,Whites)
+-1.4397  nsubj(a1,Whites)
+
+// -1.44413  nsubj(v,Oatmeallowfat)
+-1.44413  nsubj(a1,Oatmeallowfat)
+
+// -1.44117  nsubj(v,Those)
+-1.44117  nsubj(a1,Those)
+
+// -1.44413  nsubj(v,Minute)
+-1.44413  nsubj(a1,Minute)
+
+// -1.44413  nsubj(v,Monkey)
+-1.44413  nsubj(a1,Monkey)
+
+// -1.43822  nsubj(v,Minutes)
+-1.43822  nsubj(a1,Minutes)
+
+// -1.44117  nsubj(v,Buttons)
+-1.44117  nsubj(a1,Buttons)
+
+// -1.44413  nsubj(v,Advantages)
+-1.44413  nsubj(a1,Advantages)
+
+// -1.44413  nsubj(v,Right)
+-1.44413  nsubj(a1,Right)
+
+// -1.44117  nsubj(v,Levels)
+-1.44117  nsubj(a1,Levels)
+
+// -1.44413  nsubj(v,Spike)
+-1.44413  nsubj(a1,Spike)
+
+// -1.4397  nsubj(v,Many)
+-1.4397  nsubj(a1,Many)
+
+// -1.44265  nsubj(v,Finger)
+-1.44265  nsubj(a1,Finger)
+
+// -1.42202  nsubj(v,Some)
+-1.42202  nsubj(a1,Some)
+
+// -1.4279  nsubj(v,Clothes)
+-1.4279  nsubj(a1,Clothes)
+
+// -1.44117  nsubj(v,Cream)
+-1.44117  nsubj(a1,Cream)
+
+// -1.44413  nsubj(v,Shirt)
+-1.44413  nsubj(a1,Shirt)
+
+// -1.44413  nsubj(v,Fabrics)
+-1.44413  nsubj(a1,Fabrics)
+
+// -1.44413  nsubj(v,Tag)
+-1.44413  nsubj(a1,Tag)
+
+// -1.44413  nsubj(v,Either)
+-1.44413  nsubj(a1,Either)
+
+// -1.42937  nsubj(v,Heat)
+-1.42937  nsubj(a1,Heat)
+
+// -1.36383  nsubj(v,Water)
+-1.36383  nsubj(a1,Water)
+
+// -1.44265  nsubj(v,Cycle)
+-1.44265  nsubj(a1,Cycle)
+
+// -1.43822  nsubj(v,Anything)
+-1.43822  nsubj(a1,Anything)
+
+// -1.44413  nsubj(v,Always)
+-1.44413  nsubj(a1,Always)
+
+// -1.44413  nsubj(v,Delicates)
+-1.44413  nsubj(a1,Delicates)
+
+// -1.44413  nsubj(v,Load)
+-1.44413  nsubj(a1,Load)
+
+// -1.44413  nsubj(v,Lids)
+-1.44413  nsubj(a1,Lids)
+
+// -1.44413  nsubj(v,Detergents)
+-1.44413  nsubj(a1,Detergents)
+
+// -1.4397  nsubj(v,Others)
+-1.4397  nsubj(a1,Others)
+
+// -1.44413  nsubj(v,Kinds)
+-1.44413  nsubj(a1,Kinds)
+
+// -1.44117  nsubj(v,Machines)
+-1.44117  nsubj(a1,Machines)
+
+// -1.4397  nsubj(v,Setting)
+-1.4397  nsubj(a1,Setting)
+
+// -1.44265  nsubj(v,Damage)
+-1.44265  nsubj(a1,Damage)
+
+// -1.44413  nsubj(v,Sink)
+-1.44413  nsubj(a1,Sink)
+
+// -1.44413  nsubj(v,Friend)
+-1.44413  nsubj(a1,Friend)
+
+// -1.41762  nsubj(v,One)
+-1.41762  nsubj(a1,One)
+
+// -1.44265  nsubj(v,Limits)
+-1.44265  nsubj(a1,Limits)
+
+// -1.44117  nsubj(v,Two)
+-1.44117  nsubj(a1,Two)
+
+// -1.41908  nsubj(v,What)
+-1.41908  nsubj(a1,What)
+
+// -1.44265  nsubj(v,There)
+-1.44265  nsubj(a1,There)
+
+// -1.42937  nsubj(v,Someone)
+-1.42937  nsubj(a1,Someone)
+
+// -1.44117  nsubj(v,Alcohol)
+-1.44117  nsubj(a1,Alcohol)
+
+// -1.44265  nsubj(v,Drink)
+-1.44265  nsubj(a1,Drink)
+
+// -1.44413  nsubj(v,Bac)
+-1.44413  nsubj(a1,Bac)
+
+// -1.43379  nsubj(v,Way)
+-1.43379  nsubj(a1,Way)
+
+// -1.44413  nsubj(v,Anger)
+-1.44413  nsubj(a1,Anger)
+
+// -1.44413  nsubj(v,Policy)
+-1.44413  nsubj(a1,Policy)
+
+// -1.44413  nsubj(v,Contents)
+-1.44413  nsubj(a1,Contents)
+
+// -1.44413  nsubj(v,Tolerance)
+-1.44413  nsubj(a1,Tolerance)
+
+// -1.4397  nsubj(v,Beers)
+-1.4397  nsubj(a1,Beers)
+
+// -1.39715  nsubj(v,People)
+-1.39715  nsubj(a1,People)
+
+// -1.43527  nsubj(v,Something)
+-1.43527  nsubj(a1,Something)
+
+// -1.44413  nsubj(v,Selfpreservation)
+-1.44413  nsubj(a1,Selfpreservation)
+
+// -1.43822  nsubj(v,Solution)
+-1.43822  nsubj(a1,Solution)
+
+// -1.44413  nsubj(v,Urge)
+-1.44413  nsubj(a1,Urge)
+
+// -1.44413  nsubj(v,Vomiting)
+-1.44413  nsubj(a1,Vomiting)
+
+// -1.44413  nsubj(v,Headaches)
+-1.44413  nsubj(a1,Headaches)
+
+// -1.44413  nsubj(v,Alternative)
+-1.44413  nsubj(a1,Alternative)
+
+// -1.44413  nsubj(v,Vinegar)
+-1.44413  nsubj(a1,Vinegar)
+
+// -1.44265  nsubj(v,Lemon)
+-1.44265  nsubj(a1,Lemon)
+
+// -1.4397  nsubj(v,Gloves)
+-1.4397  nsubj(a1,Gloves)
+
+// -1.44265  nsubj(v,Muck)
+-1.44265  nsubj(a1,Muck)
+
+// -1.44117  nsubj(v,Dishwasher)
+-1.44117  nsubj(a1,Dishwasher)
+
+// -1.44413  nsubj(v,Dishwashers)
+-1.44413  nsubj(a1,Dishwashers)
+
+// -1.43822  nsubj(v,Dishes)
+-1.43822  nsubj(a1,Dishes)
+
+// -1.44413  nsubj(v,Curd)
+-1.44413  nsubj(a1,Curd)
+
+// -1.43674  nsubj(v,House)
+-1.43674  nsubj(a1,House)
+
+// -1.42937  nsubj(v,Mixture)
+-1.42937  nsubj(a1,Mixture)
+
+// -1.4397  nsubj(v,Vegetables)
+-1.4397  nsubj(a1,Vegetables)
+
+// -1.44117  nsubj(v,Week)
+-1.44117  nsubj(a1,Week)
+
+// -1.4397  nsubj(v,Meals)
+-1.4397  nsubj(a1,Meals)
+
+// -1.44413  nsubj(v,Consuming)
+-1.44413  nsubj(a1,Consuming)
+
+// -1.4397  nsubj(v,Research)
+-1.4397  nsubj(a1,Research)
+
+// -1.44413  nsubj(v,Dieters)
+-1.44413  nsubj(a1,Dieters)
+
+// -1.44413  nsubj(v,Carbs)
+-1.44413  nsubj(a1,Carbs)
+
+// -1.44413  nsubj(v,Vegetarians)
+-1.44413  nsubj(a1,Vegetarians)
+
+// -1.44413  nsubj(v,Lentils)
+-1.44413  nsubj(a1,Lentils)
+
+// -1.44413  nsubj(v,Paleohumans)
+-1.44413  nsubj(a1,Paleohumans)
+
+// -1.4397  nsubj(v,Diet)
+-1.4397  nsubj(a1,Diet)
+
+// -1.44117  nsubj(v,Then)
+-1.44117  nsubj(a1,Then)
+
+// -1.44265  nsubj(v,Lots)
+-1.44265  nsubj(a1,Lots)
+
+// -1.43674  nsubj(v,Foods)
+-1.43674  nsubj(a1,Foods)
+
+// -1.43527  nsubj(v,Walking)
+-1.43527  nsubj(a1,Walking)
+
+// -1.44413  nsubj(v,Resistance)
+-1.44413  nsubj(a1,Resistance)
+
+// -1.44265  nsubj(v,Tools)
+-1.44265  nsubj(a1,Tools)
+
+// -1.44265  nsubj(v,Muscles)
+-1.44265  nsubj(a1,Muscles)
+
+// -1.44413  nsubj(v,Recovery)
+-1.44413  nsubj(a1,Recovery)
+
+// -1.43674  nsubj(v,Snack)
+-1.43674  nsubj(a1,Snack)
+
+// -1.43822  nsubj(v,Table)
+-1.43822  nsubj(a1,Table)
+
+// -1.44413  nsubj(v,Peaks)
+-1.44413  nsubj(a1,Peaks)
+
+// -1.44413  nsubj(v,Timeframe)
+-1.44413  nsubj(a1,Timeframe)
+
+// -1.44265  nsubj(v,Playing)
+-1.44265  nsubj(a1,Playing)
+
+// -1.44265  nsubj(v,Value)
+-1.44265  nsubj(a1,Value)
+
+// -1.43822  nsubj(v,Game)
+-1.43822  nsubj(a1,Game)
+
+// -1.44413  nsubj(v,Tie)
+-1.44413  nsubj(a1,Tie)
+
+// -1.44413  nsubj(v,Rewards)
+-1.44413  nsubj(a1,Rewards)
+
+// -1.38988  nsubj(v,Them)
+-1.38988  nsubj(a1,Them)
+
+// -1.42496  nsubj(v,Amount)
+-1.42496  nsubj(a1,Amount)
+
+// -1.44117  nsubj(v,Drive)
+-1.44117  nsubj(a1,Drive)
+
+// -1.44413  nsubj(v,Percent)
+-1.44413  nsubj(a1,Percent)
+
+// -1.44413  nsubj(v,Factor)
+-1.44413  nsubj(a1,Factor)
+
+// -1.44265  nsubj(v,Activities)
+-1.44265  nsubj(a1,Activities)
+
+// -1.44265  nsubj(v,Plan)
+-1.44265  nsubj(a1,Plan)
+
+// -1.44117  nsubj(v,Times)
+-1.44117  nsubj(a1,Times)
+
+// -1.44413  nsubj(v,Flavorful)
+-1.44413  nsubj(a1,Flavorful)
+
+// -1.44413  nsubj(v,Pitcher)
+-1.44413  nsubj(a1,Pitcher)
+
+// -1.44265  nsubj(v,Thermometer)
+-1.44265  nsubj(a1,Thermometer)
+
+// -1.44117  nsubj(v,Goal)
+-1.44117  nsubj(a1,Goal)
+
+// -1.44413  nsubj(v,Steamers)
+-1.44413  nsubj(a1,Steamers)
+
+// -1.40153  nsubj(v,Milk)
+-1.40153  nsubj(a1,Milk)
+
+// -1.44413  nsubj(v,Grinders)
+-1.44413  nsubj(a1,Grinders)
+
+// -1.44265  nsubj(v,Espresso)
+-1.44265  nsubj(a1,Espresso)
+
+// -1.44413  nsubj(v,Shots)
+-1.44413  nsubj(a1,Shots)
+
+// -1.44413  nsubj(v,Enough)
+-1.44413  nsubj(a1,Enough)
+
+// -1.42055  nsubj(v,Cup)
+-1.42055  nsubj(a1,Cup)
+
+// -1.44265  nsubj(v,Design)
+-1.44265  nsubj(a1,Design)
+
+// -1.44265  nsubj(v,Edges)
+-1.44265  nsubj(a1,Edges)
+
+// -1.44117  nsubj(v,Air)
+-1.44117  nsubj(a1,Air)
+
+// -1.44413  nsubj(v,Stovehow)
+-1.44413  nsubj(a1,Stovehow)
+
+// -1.44413  nsubj(v,Microwavehow)
+-1.44413  nsubj(a1,Microwavehow)
+
+// -1.44413  nsubj(v,Refrigeratorhow)
+-1.44413  nsubj(a1,Refrigeratorhow)
+
+// -1.44413  nsubj(v,Steel)
+-1.44413  nsubj(a1,Steel)
+
+// -1.44117  nsubj(v,Boiling)
+-1.44117  nsubj(a1,Boiling)
+
+// -1.44413  nsubj(v,Fahrenheit)
+-1.44413  nsubj(a1,Fahrenheit)
+
+// -1.44265  nsubj(v,Cleaners)
+-1.44265  nsubj(a1,Cleaners)
+
+// -1.44117  nsubj(v,Amounts)
+-1.44117  nsubj(a1,Amounts)
+
+// -1.4397  nsubj(v,Toilet)
+-1.4397  nsubj(a1,Toilet)
+
+// -1.44117  nsubj(v,Inside)
+-1.44117  nsubj(a1,Inside)
+
+// -1.44413  nsubj(v,Toothbrush)
+-1.44413  nsubj(a1,Toothbrush)
+
+// -1.43085  nsubj(v,Time)
+-1.43085  nsubj(a1,Time)
+
+// -1.44413  nsubj(v,Leftovers)
+-1.44413  nsubj(a1,Leftovers)
+
+// -1.44265  nsubj(v,Freezer)
+-1.44265  nsubj(a1,Freezer)
+
+// -1.40298  nsubj(v,These)
+-1.40298  nsubj(a1,These)
+
+// -1.44413  nsubj(v,Result)
+-1.44413  nsubj(a1,Result)
+
+// -1.43674  nsubj(v,Containers)
+-1.43674  nsubj(a1,Containers)
+
+// -1.44413  nsubj(v,Package)
+-1.44413  nsubj(a1,Package)
+
+// -1.44413  nsubj(v,Bag)
+-1.44413  nsubj(a1,Bag)
+
+// -1.44265  nsubj(v,Idea)
+-1.44265  nsubj(a1,Idea)
+
+// -1.44413  nsubj(v,Mixes)
+-1.44413  nsubj(a1,Mixes)
+
+// -1.44265  nsubj(v,Beans)
+-1.44265  nsubj(a1,Beans)
+
+// -1.44265  nsubj(v,Baking)
+-1.44265  nsubj(a1,Baking)
+
+// -1.44265  nsubj(v,Freeze)
+-1.44265  nsubj(a1,Freeze)
+
+// -1.43822  nsubj(v,Point)
+-1.43822  nsubj(a1,Point)
+
+// -1.44117  nsubj(v,Fruits)
+-1.44117  nsubj(a1,Fruits)
+
+// -1.44265  nsubj(v,Researchers)
+-1.44265  nsubj(a1,Researchers)
+
+// -1.44413  nsubj(v,Cauliflower)
+-1.44413  nsubj(a1,Cauliflower)
+
+// -1.4397  nsubj(v,Color)
+-1.4397  nsubj(a1,Color)
+
+// -1.44117  nsubj(v,Piece)
+-1.44117  nsubj(a1,Piece)
+
+// -1.4397  nsubj(v,Fruit)
+-1.4397  nsubj(a1,Fruit)
+
+// -1.44413  nsubj(v,Act)
+-1.44413  nsubj(a1,Act)
+
+// -1.44413  nsubj(v,Watermelon)
+-1.44413  nsubj(a1,Watermelon)
+
+// -1.44413  nsubj(v,Cucumber)
+-1.44413  nsubj(a1,Cucumber)
+
+// -1.44413  nsubj(v,Quinoa)
+-1.44413  nsubj(a1,Quinoa)
+
+// -1.44413  nsubj(v,Americans)
+-1.44413  nsubj(a1,Americans)
+
+// -1.44117  nsubj(v,Calories)
+-1.44117  nsubj(a1,Calories)
+
+// -1.4397  nsubj(v,Chemicals)
+-1.4397  nsubj(a1,Chemicals)
+
+// -1.44413  nsubj(v,Hunger)
+-1.44413  nsubj(a1,Hunger)
+
+// -1.44413  nsubj(v,Reality)
+-1.44413  nsubj(a1,Reality)
+
+// -1.44413  nsubj(v,Journal)
+-1.44413  nsubj(a1,Journal)
+
+// -1.44413  nsubj(v,Prospect)
+-1.44413  nsubj(a1,Prospect)
+
+// -1.44117  nsubj(v,Types)
+-1.44117  nsubj(a1,Types)
+
+// -1.44265  nsubj(v,Home)
+-1.44265  nsubj(a1,Home)
+
+// -1.43674  nsubj(v,Wax)
+-1.43674  nsubj(a1,Wax)
+
+// -1.4397  nsubj(v,Stick)
+-1.4397  nsubj(a1,Stick)
+
+// -1.44413  nsubj(v,Underarms)
+-1.44413  nsubj(a1,Underarms)
+
+// -1.44265  nsubj(v,Movement)
+-1.44265  nsubj(a1,Movement)
+
+// -1.44117  nsubj(v,Hair)
+-1.44117  nsubj(a1,Hair)
+
+// -1.43674  nsubj(v,Your)
+-1.43674  nsubj(a1,Your)
+
+// -1.43674  nsubj(v,Line)
+-1.43674  nsubj(a1,Line)
+
+// -1.43232  nsubj(v,Skin)
+-1.43232  nsubj(a1,Skin)
+
+// -1.44265  nsubj(v,Tweezers)
+-1.44265  nsubj(a1,Tweezers)
+
+// -1.44413  nsubj(v,Easier)
+-1.44413  nsubj(a1,Easier)
+
+// -1.4397  nsubj(v,Hand)
+-1.4397  nsubj(a1,Hand)
+
+// -1.44413  nsubj(v,Powder)
+-1.44413  nsubj(a1,Powder)
+
+// -1.44413  nsubj(v,Safety)
+-1.44413  nsubj(a1,Safety)
+
+// -1.44117  nsubj(v,Location)
+-1.44117  nsubj(a1,Location)
+
+// -1.44117  nsubj(v,Window)
+-1.44117  nsubj(a1,Window)
+
+// -1.43822  nsubj(v,Side)
+-1.43822  nsubj(a1,Side)
+
+// -1.4397  nsubj(v,Coke)
+-1.4397  nsubj(a1,Coke)
+
+// -1.43822  nsubj(v,Hands)
+-1.43822  nsubj(a1,Hands)
+
+// -1.44413  nsubj(v,Stains)
+-1.44413  nsubj(a1,Stains)
+
+// -1.44117  nsubj(v,Residue)
+-1.44117  nsubj(a1,Residue)
+
+// -1.44413  nsubj(v,Solvents)
+-1.44413  nsubj(a1,Solvents)
+
+// -1.43822  nsubj(v,Steam)
+-1.43822  nsubj(a1,Steam)
+
+// -1.43379  nsubj(v,Seeds)
+-1.43379  nsubj(a1,Seeds)
+
+// -1.44265  nsubj(v,Temperatures)
+-1.44265  nsubj(a1,Temperatures)
+
+// -1.44413  nsubj(v,Molecules)
+-1.44413  nsubj(a1,Molecules)
+
+// -1.44413  nsubj(v,Goat)
+-1.44413  nsubj(a1,Goat)
+
+// -1.43822  nsubj(v,Grains)
+-1.43822  nsubj(a1,Grains)
+
+// -1.44413  nsubj(v,Kefir)
+-1.44413  nsubj(a1,Kefir)
+
+// -1.4397  nsubj(v,Kitty)
+-1.4397  nsubj(a1,Kitty)
+
+// -1.4279  nsubj(v,Cat)
+-1.4279  nsubj(a1,Cat)
+
+// -1.44413  nsubj(v,Critter)
+-1.44413  nsubj(a1,Critter)
+
+// -1.44265  nsubj(v,Cats)
+-1.44265  nsubj(a1,Cats)
+
+// -1.44413  nsubj(v,Fountains)
+-1.44413  nsubj(a1,Fountains)
+
+// -1.43527  nsubj(v,Him)
+-1.43527  nsubj(a1,Him)
+
+// -1.44413  nsubj(v,Job)
+-1.44413  nsubj(a1,Job)
+
+// -1.44413  nsubj(v,Turning)
+-1.44413  nsubj(a1,Turning)
+
+// -1.43085  nsubj(v,Options)
+-1.43085  nsubj(a1,Options)
+
+// -1.44265  nsubj(v,Character)
+-1.44265  nsubj(a1,Character)
+
+// -1.44265  nsubj(v,Trash)
+-1.44265  nsubj(a1,Trash)
+
+// -1.43527  nsubj(v,Items)
+-1.43527  nsubj(a1,Items)
+
+// -1.43674  nsubj(v,The)
+-1.43674  nsubj(a1,The)
+
+// -1.44413  nsubj(v,Tasks)
+-1.44413  nsubj(a1,Tasks)
+
+// -1.44265  nsubj(v,Drawers)
+-1.44265  nsubj(a1,Drawers)
+
+// -1.44413  nsubj(v,Shelves)
+-1.44413  nsubj(a1,Shelves)
+
+// -1.44117  nsubj(v,System)
+-1.44117  nsubj(a1,System)
+
+// -1.43379  nsubj(v,Room)
+-1.43379  nsubj(a1,Room)
+
+// -1.44265  nsubj(v,Wipes)
+-1.44265  nsubj(a1,Wipes)
+
+// -1.4397  nsubj(v,Things)
+-1.4397  nsubj(a1,Things)
+
+// -1.43822  nsubj(v,Microwave)
+-1.43822  nsubj(a1,Microwave)
+
+// -1.43085  nsubj(v,Food)
+-1.43085  nsubj(a1,Food)
+
+// -1.44413  nsubj(v,Spots)
+-1.44413  nsubj(a1,Spots)
+
+// -1.44413  nsubj(v,Particles)
+-1.44413  nsubj(a1,Particles)
+
+// -1.44413  nsubj(v,Hazards)
+-1.44413  nsubj(a1,Hazards)
+
+// -1.44413  nsubj(v,Work)
+-1.44413  nsubj(a1,Work)
+
+// -1.44413  nsubj(v,List)
+-1.44413  nsubj(a1,List)
+
+// -1.44413  nsubj(v,Teenagers)
+-1.44413  nsubj(a1,Teenagers)
+
+// -1.44413  nsubj(v,Youre)
+-1.44413  nsubj(a1,Youre)
+
+// -1.43822  nsubj(v,Drops)
+-1.43822  nsubj(a1,Drops)
+
+// -1.44265  nsubj(v,Brush)
+-1.44265  nsubj(a1,Brush)
+
+// -1.44117  nsubj(v,Cleaner)
+-1.44117  nsubj(a1,Cleaner)
+
+// -1.43822  nsubj(v,Soap)
+-1.43822  nsubj(a1,Soap)
+
+// -1.44265  nsubj(v,China)
+-1.44265  nsubj(a1,China)
+
+// -1.44413  nsubj(v,Racks)
+-1.44413  nsubj(a1,Racks)
+
+// -1.44413  nsubj(v,Gunk)
+-1.44413  nsubj(a1,Gunk)
+
+// -1.44413  nsubj(v,Sinks)
+-1.44413  nsubj(a1,Sinks)
+
+// -1.44117  nsubj(v,Supplies)
+-1.44117  nsubj(a1,Supplies)
+
+// -1.44117  nsubj(v,Most)
+-1.44117  nsubj(a1,Most)
+
+// -1.44413  nsubj(v,Vacuuming)
+-1.44413  nsubj(a1,Vacuuming)
+
+// -1.44413  nsubj(v,Kind)
+-1.44413  nsubj(a1,Kind)
+
+// -1.4397  nsubj(v,Both)
+-1.4397  nsubj(a1,Both)
+
+// -1.43527  nsubj(v,Number)
+-1.43527  nsubj(a1,Number)
+
+// -1.44413  nsubj(v,Rag)
+-1.44413  nsubj(a1,Rag)
+
+// -1.44413  nsubj(v,Floors)
+-1.44413  nsubj(a1,Floors)
+
+// -1.44413  nsubj(v,Furniture)
+-1.44413  nsubj(a1,Furniture)
+
+// -1.43379  nsubj(v,Oil)
+-1.43379  nsubj(a1,Oil)
+
+// -1.44117  nsubj(v,Help)
+-1.44117  nsubj(a1,Help)
+
+// -1.44413  nsubj(v,Lizards)
+-1.44413  nsubj(a1,Lizards)
+
+// -1.44413  nsubj(v,Bait)
+-1.44413  nsubj(a1,Bait)
+
+// -1.44413  nsubj(v,Animals)
+-1.44413  nsubj(a1,Animals)
+
+// -1.44413  nsubj(v,Noose)
+-1.44413  nsubj(a1,Noose)
+
+// -1.44413  nsubj(v,Species)
+-1.44413  nsubj(a1,Species)
+
+// -1.44413  nsubj(v,Behavior)
+-1.44413  nsubj(a1,Behavior)
+
+// -1.44265  nsubj(v,Acid)
+-1.44265  nsubj(a1,Acid)
+
+// -1.44413  nsubj(v,Curdle)
+-1.44413  nsubj(a1,Curdle)
+
+// -1.44413  nsubj(v,Groupings)
+-1.44413  nsubj(a1,Groupings)
+
+// -1.44413  nsubj(v,Proteins)
+-1.44413  nsubj(a1,Proteins)
+
+// -1.44117  nsubj(v,Juice)
+-1.44117  nsubj(a1,Juice)
+
+// -1.43674  nsubj(v,Curds)
+-1.43674  nsubj(a1,Curds)
+
+// -1.44413  nsubj(v,Whey)
+-1.44413  nsubj(a1,Whey)
+
+// -1.44413  nsubj(v,Stirring)
+-1.44413  nsubj(a1,Stirring)
+
+// -1.44413  nsubj(v,Softer)
+-1.44413  nsubj(a1,Softer)
+
+// -1.42937  nsubj(v,Method)
+-1.42937  nsubj(a1,Method)
+
+// -1.43527  nsubj(v,Temperature)
+-1.43527  nsubj(a1,Temperature)
+
+// -1.44413  nsubj(v,Bulb)
+-1.44413  nsubj(a1,Bulb)
+
+// -1.43674  nsubj(v,Coffee)
+-1.43674  nsubj(a1,Coffee)
+
+// -1.44265  nsubj(v,Cool)
+-1.44265  nsubj(a1,Cool)
+
+// -1.44117  nsubj(v,Glasses)
+-1.44117  nsubj(a1,Glasses)
+
+// -1.41029  nsubj(v,Box)
+-1.41029  nsubj(a1,Box)
+
+// -1.43822  nsubj(v,Sides)
+-1.43822  nsubj(a1,Sides)
+
+// -1.44265  nsubj(v,Dog)
+-1.44265  nsubj(a1,Dog)
+
+// -1.44265  nsubj(v,Dogs)
+-1.44265  nsubj(a1,Dogs)
+
+// -1.44413  nsubj(v,Litter)
+-1.44413  nsubj(a1,Litter)
+
+// -1.44265  nsubj(v,Puppy)
+-1.44265  nsubj(a1,Puppy)
+
+// -1.44413  nsubj(v,Puppies)
+-1.44413  nsubj(a1,Puppies)
+
+// -1.44413  nsubj(v,Holes)
+-1.44413  nsubj(a1,Holes)
+
+// -1.44265  nsubj(v,Slits)
+-1.44265  nsubj(a1,Slits)
+
+// -1.44265  nsubj(v,Cut)
+-1.44265  nsubj(a1,Cut)
+
+// -1.44265  nsubj(v,Top)
+-1.44265  nsubj(a1,Top)
+
+// -1.44413  nsubj(v,Chin)
+-1.44413  nsubj(a1,Chin)
+
+// -1.44413  nsubj(v,Illusion)
+-1.44413  nsubj(a1,Illusion)
+
+// -1.44117  nsubj(v,Volume)
+-1.44117  nsubj(a1,Volume)
+
+// -1.44265  nsubj(v,Shape)
+-1.44265  nsubj(a1,Shape)
+
+// -1.43379  nsubj(v,Area)
+-1.43379  nsubj(a1,Area)
+
+// -1.44265  nsubj(v,Mask)
+-1.44265  nsubj(a1,Mask)
+
+// -1.44413  nsubj(v,Section)
+-1.44413  nsubj(a1,Section)
+
+// -1.44413  nsubj(v,Knot)
+-1.44413  nsubj(a1,Knot)
+
+// -1.44413  nsubj(v,Towels)
+-1.44413  nsubj(a1,Towels)
+
+// -1.4397  nsubj(v,Strength)
+-1.4397  nsubj(a1,Strength)
+
+// -1.4397  nsubj(v,Everything)
+-1.4397  nsubj(a1,Everything)
+
+// -1.43527  nsubj(v,Process)
+-1.43527  nsubj(a1,Process)
+
+// -1.44413  nsubj(v,Primer)
+-1.44413  nsubj(a1,Primer)
+
+// -1.44265  nsubj(v,Template)
+-1.44265  nsubj(a1,Template)
+
+// -1.44117  nsubj(v,Wrap)
+-1.44117  nsubj(a1,Wrap)
+
+// -1.4397  nsubj(v,Part)
+-1.4397  nsubj(a1,Part)
+
+// -1.44413  nsubj(v,Brisket)
+-1.44413  nsubj(a1,Brisket)
+
+// -1.4397  nsubj(v,Fat)
+-1.4397  nsubj(a1,Fat)
+
+// -1.44117  nsubj(v,Meat)
+-1.44117  nsubj(a1,Meat)
+
+// -1.44117  nsubj(v,Smoke)
+-1.44117  nsubj(a1,Smoke)
+
+// -1.44413  nsubj(v,Know)
+-1.44413  nsubj(a1,Know)
+
+// -1.44413  nsubj(v,Stomach)
+-1.44413  nsubj(a1,Stomach)
+
+// -1.44413  nsubj(v,Metabolism)
+-1.44413  nsubj(a1,Metabolism)
+
+// -1.44265  nsubj(v,Lipstick)
+-1.44265  nsubj(a1,Lipstick)
+
+// -1.44413  nsubj(v,Powdercocoa)
+-1.44413  nsubj(a1,Powdercocoa)
+
+// -1.44413  nsubj(v,Pigments)
+-1.44413  nsubj(a1,Pigments)
+
+// -1.44413  nsubj(v,Mica)
+-1.44413  nsubj(a1,Mica)
+
+// -1.44265  nsubj(v,Mix)
+-1.44265  nsubj(a1,Mix)
+
+// -1.44413  nsubj(v,Lighter)
+-1.44413  nsubj(a1,Lighter)
+
+// -1.44413  nsubj(v,Eyeliner)
+-1.44413  nsubj(a1,Eyeliner)
+
+// -1.44413  nsubj(v,Instance)
+-1.44413  nsubj(a1,Instance)
+
+// -1.44413  nsubj(v,Mom)
+-1.44413  nsubj(a1,Mom)
+
+// -1.44413  nsubj(v,Driver)
+-1.44413  nsubj(a1,Driver)
+
+// -1.44413  nsubj(v,Vehicle)
+-1.44413  nsubj(a1,Vehicle)
+
+// -1.43527  nsubj(v,Everyone)
+-1.43527  nsubj(a1,Everyone)
+
+// -1.44413  nsubj(v,Anyone)
+-1.44413  nsubj(a1,Anyone)
+
+// -1.44413  nsubj(v,Pedestrian)
+-1.44413  nsubj(a1,Pedestrian)
+
+// -1.44413  nsubj(v,Greeting)
+-1.44413  nsubj(a1,Greeting)
+
+// -1.44413  nsubj(v,Elder)
+-1.44413  nsubj(a1,Elder)
+
+// -1.44413  nsubj(v,Today)
+-1.44413  nsubj(a1,Today)
+
+// -1.44413  nsubj(v,Any)
+-1.44413  nsubj(a1,Any)
+
+// -1.44413  nsubj(v,Jessica)
+-1.44413  nsubj(a1,Jessica)
+
+// -1.44265  nsubj(v,Here)
+-1.44265  nsubj(a1,Here)
+
+// -1.44413  nsubj(v,Jones)
+-1.44413  nsubj(a1,Jones)
+
+// -1.44413  nsubj(v,Conversation)
+-1.44413  nsubj(a1,Conversation)
+
+// -1.44117  nsubj(v,Email)
+-1.44117  nsubj(a1,Email)
+
+// -1.44265  nsubj(v,Knife)
+-1.44265  nsubj(a1,Knife)
+
+// -1.44413  nsubj(v,Prongs)
+-1.44413  nsubj(a1,Prongs)
+
+// -1.44413  nsubj(v,Handles)
+-1.44413  nsubj(a1,Handles)
+
+// -1.44413  nsubj(v,Call)
+-1.44413  nsubj(a1,Call)
+
+// -1.44413  nsubj(v,Moment)
+-1.44413  nsubj(a1,Moment)
+
+// -1.4397  nsubj(v,Her)
+-1.4397  nsubj(a1,Her)
+
+// -1.44413  nsubj(v,Restroom)
+-1.44413  nsubj(a1,Restroom)
+
+// -1.44413  nsubj(v,Back)
+-1.44413  nsubj(a1,Back)
+
+// -1.44413  nsubj(v,Recommendations)
+-1.44413  nsubj(a1,Recommendations)
+
+// -1.4397  nsubj(v,Steps)
+-1.4397  nsubj(a1,Steps)
+
+// -1.44413  nsubj(v,Knee)
+-1.44413  nsubj(a1,Knee)
+
+// -1.44413  nsubj(v,Shin)
+-1.44413  nsubj(a1,Shin)
+
+// -1.44413  nsubj(v,Evidence)
+-1.44413  nsubj(a1,Evidence)
+
+// -1.44413  nsubj(v,Techniques)
+-1.44413  nsubj(a1,Techniques)
+
+// -1.44413  nsubj(v,Legs)
+-1.44413  nsubj(a1,Legs)
+
+// -1.44413  nsubj(v,Twist)
+-1.44413  nsubj(a1,Twist)
+
+// -1.44413  nsubj(v,Injury)
+-1.44413  nsubj(a1,Injury)
+
+// -1.44413  nsubj(v,Flexibility)
+-1.44413  nsubj(a1,Flexibility)
+
+// -1.44265  nsubj(v,Pillows)
+-1.44265  nsubj(a1,Pillows)
+
+// -1.43674  nsubj(v,Type)
+-1.43674  nsubj(a1,Type)
+
+// -1.44413  nsubj(v,Sprays)
+-1.44413  nsubj(a1,Sprays)
+
+// -1.44413  nsubj(v,Mattress)
+-1.44413  nsubj(a1,Mattress)
+
+// -1.44413  nsubj(v,Orange)
+-1.44413  nsubj(a1,Orange)
+
+// -1.44265  nsubj(v,Latter)
+-1.44265  nsubj(a1,Latter)
+
+// -1.44413  nsubj(v,Plant)
+-1.44413  nsubj(a1,Plant)
+
+// -1.44413  nsubj(v,Grapefruit)
+-1.44413  nsubj(a1,Grapefruit)
+
+// -1.44413  nsubj(v,Tsp)
+-1.44413  nsubj(a1,Tsp)
+
+// -1.44413  nsubj(v,Apple)
+-1.44413  nsubj(a1,Apple)
+
+// -1.44413  nsubj(v,Handle)
+-1.44413  nsubj(a1,Handle)
+
+// -1.44413  nsubj(v,Circle)
+-1.44413  nsubj(a1,Circle)
+
+// -1.44413  nsubj(v,Cardboard)
+-1.44413  nsubj(a1,Cardboard)
+
+// -1.44265  nsubj(v,Their)
+-1.44265  nsubj(a1,Their)
+
+// -1.43822  nsubj(v,Paper)
+-1.43822  nsubj(a1,Paper)
+
+// -1.44265  nsubj(v,Flap)
+-1.44265  nsubj(a1,Flap)
+
+// -1.44413  nsubj(v,Knifecolor)
+-1.44413  nsubj(a1,Knifecolor)
+
+// -1.44117  nsubj(v,Size)
+-1.44117  nsubj(a1,Size)
+
+// -1.44413  nsubj(v,Theyre)
+-1.44413  nsubj(a1,Theyre)
+
+// -1.44413  nsubj(v,Thats)
+-1.44413  nsubj(a1,Thats)
+
+// -1.44265  nsubj(v,Deck)
+-1.44265  nsubj(a1,Deck)
+
+// -1.44413  nsubj(v,Test)
+-1.44413  nsubj(a1,Test)
+
+// -1.4397  nsubj(v,Iron)
+-1.4397  nsubj(a1,Iron)
+
+// -1.44265  nsubj(v,Yolk)
+-1.44265  nsubj(a1,Yolk)
+
+// -1.44265  nsubj(v,Lid)
+-1.44265  nsubj(a1,Lid)
+
+// -1.44265  nsubj(v,Waffles)
+-1.44265  nsubj(a1,Waffles)
+
+// -1.44413  nsubj(v,Cue)
+-1.44413  nsubj(a1,Cue)
+
+// -1.44413  nsubj(v,Waffle)
+-1.44413  nsubj(a1,Waffle)
+
+// -1.44413  nsubj(v,Music)
+-1.44413  nsubj(a1,Music)
+
+// -1.44413  nsubj(v,Clerk)
+-1.44413  nsubj(a1,Clerk)
+
+// -1.44413  nsubj(v,Metronome)
+-1.44413  nsubj(a1,Metronome)
+
+// -1.44413  nsubj(v,Shoulders)
+-1.44413  nsubj(a1,Shoulders)
+
+// -1.44265  nsubj(v,Spine)
+-1.44265  nsubj(a1,Spine)
+
+// -1.44265  nsubj(v,C)
+-1.44265  nsubj(a1,C)
+
+// -1.44413  nsubj(v,Anchors)
+-1.44413  nsubj(a1,Anchors)
+
+// -1.4397  nsubj(v,Notes)
+-1.4397  nsubj(a1,Notes)
+
+// -1.44413  nsubj(v,Pianist)
+-1.44413  nsubj(a1,Pianist)
+
+// -1.44265  nsubj(v,Intervals)
+-1.44265  nsubj(a1,Intervals)
+
+// -1.43527  nsubj(v,Head)
+-1.43527  nsubj(a1,Head)
+
+// -1.44413  nsubj(v,Hook)
+-1.44413  nsubj(a1,Hook)
+
+// -1.44413  nsubj(v,Teacher)
+-1.44413  nsubj(a1,Teacher)
+
+// -1.44265  nsubj(v,Bar)
+-1.44265  nsubj(a1,Bar)
+
+// -1.44117  nsubj(v,Signature)
+-1.44117  nsubj(a1,Signature)
+
+// -1.44117  nsubj(v,Length)
+-1.44117  nsubj(a1,Length)
+
+// -1.44413  nsubj(v,Symbols)
+-1.44413  nsubj(a1,Symbols)
+
+// -1.44265  nsubj(v,Pedal)
+-1.44265  nsubj(a1,Pedal)
+
+// -1.43527  nsubj(v,Use)
+-1.43527  nsubj(a1,Use)
+
+// -1.44413  nsubj(v,Sostenuto)
+-1.44413  nsubj(a1,Sostenuto)
+
+// -1.44413  nsubj(v,Washing)
+-1.44413  nsubj(a1,Washing)
+
+// -1.44413  nsubj(v,Basmati)
+-1.44413  nsubj(a1,Basmati)
+
+// -1.44413  nsubj(v,Chefs)
+-1.44413  nsubj(a1,Chefs)
+
+// -1.44413  nsubj(v,Best)
+-1.44413  nsubj(a1,Best)
+
+// -1.44265  nsubj(v,Boil)
+-1.44265  nsubj(a1,Boil)
+
+// -1.43674  nsubj(v,Bubbles)
+-1.43674  nsubj(a1,Bubbles)
+
+// -1.44117  nsubj(v,Pot)
+-1.44117  nsubj(a1,Pot)
+
+// -1.44265  nsubj(v,Lines)
+-1.44265  nsubj(a1,Lines)
+
+// -1.44117  nsubj(v,Measure)
+-1.44117  nsubj(a1,Measure)
+
+// -1.44413  nsubj(v,Mccaffery)
+-1.44413  nsubj(a1,Mccaffery)
+
+// -1.44413  nsubj(v,Blowhole)
+-1.44413  nsubj(a1,Blowhole)
+
+// -1.43822  nsubj(v,Hole)
+-1.43822  nsubj(a1,Hole)
+
+// -1.44265  nsubj(v,Neck)
+-1.44265  nsubj(a1,Neck)
+
+// -1.44413  nsubj(v,Ipas)
+-1.44413  nsubj(a1,Ipas)
+
+// -1.44265  nsubj(v,Category)
+-1.44265  nsubj(a1,Category)
+
+// -1.4397  nsubj(v,Light)
+-1.4397  nsubj(a1,Light)
+
+// -1.44413  nsubj(v,Stout)
+-1.44413  nsubj(a1,Stout)
+
+// -1.44413  nsubj(v,Stouts)
+-1.44413  nsubj(a1,Stouts)
+
+// -1.44413  nsubj(v,Categories)
+-1.44413  nsubj(a1,Categories)
+
+// -1.44413  nsubj(v,Wheat)
+-1.44413  nsubj(a1,Wheat)
+
+// -1.43674  nsubj(v,Beer)
+-1.43674  nsubj(a1,Beer)
+
+// -1.44413  nsubj(v,Plates)
+-1.44413  nsubj(a1,Plates)
+
+// -1.44413  nsubj(v,Ales)
+-1.44413  nsubj(a1,Ales)
+
+// -1.44117  nsubj(v,Content)
+-1.44117  nsubj(a1,Content)
+
+// -1.44117  nsubj(v,More)
+-1.44117  nsubj(a1,More)
+
+// -1.44413  nsubj(v,Carbonation)
+-1.44413  nsubj(a1,Carbonation)
+
+// -1.44265  nsubj(v,Square)
+-1.44265  nsubj(a1,Square)
+
+// -1.44265  nsubj(v,Move)
+-1.44265  nsubj(a1,Move)
+
+// -1.4397  nsubj(v,Pieces)
+-1.4397  nsubj(a1,Pieces)
+
+// -1.44413  nsubj(v,Castling)
+-1.44413  nsubj(a1,Castling)
+
+// -1.44413  nsubj(v,Directions)
+-1.44413  nsubj(a1,Directions)
+
+// -1.43674  nsubj(v,Exercise)
+-1.43674  nsubj(a1,Exercise)
+
+// -1.44413  nsubj(v,X)
+-1.44413  nsubj(a1,X)
+
+// -1.44117  nsubj(v,Queen)
+-1.44117  nsubj(a1,Queen)
+
+// -1.44413  nsubj(v,Board)
+-1.44413  nsubj(a1,Board)
+
+// -1.44413  nsubj(v,Three)
+-1.44413  nsubj(a1,Three)
+
+// -1.44265  nsubj(v,King)
+-1.44265  nsubj(a1,King)
+
+// -1.44117  nsubj(v,White)
+-1.44117  nsubj(a1,White)
+
+// -1.44117  nsubj(v,Problem)
+-1.44117  nsubj(a1,Problem)
+
+// -1.44413  nsubj(v,Upwards)
+-1.44413  nsubj(a1,Upwards)
+
+// -1.44413  nsubj(v,Seal)
+-1.44413  nsubj(a1,Seal)
+
+// -1.43527  nsubj(v,Space)
+-1.43527  nsubj(a1,Space)
+
+// -1.43822  nsubj(v,Bit)
+-1.43822  nsubj(a1,Bit)
+
+// -1.44265  nsubj(v,Its)
+-1.44265  nsubj(a1,Its)
+
+// -1.44413  nsubj(v,Smaller)
+-1.44413  nsubj(a1,Smaller)
+
+// -1.44413  nsubj(v,Keg)
+-1.44413  nsubj(a1,Keg)
+
+// -1.44413  nsubj(v,Bacteria)
+-1.44413  nsubj(a1,Bacteria)
+
+// -1.44413  nsubj(v,Art)
+-1.44413  nsubj(a1,Art)
+
+// -1.44413  nsubj(v,Believers)
+-1.44413  nsubj(a1,Believers)
+
+// -1.44265  nsubj(v,Girls)
+-1.44265  nsubj(a1,Girls)
+
+// -1.44265  nsubj(v,Arms)
+-1.44265  nsubj(a1,Arms)
+
+// -1.44413  nsubj(v,Situation)
+-1.44413  nsubj(a1,Situation)
+
+// -1.44265  nsubj(v,Leg)
+-1.44265  nsubj(a1,Leg)
+
+// -1.44413  nsubj(v,Flask)
+-1.44413  nsubj(a1,Flask)
+
+// -1.44413  nsubj(v,Ochoko)
+-1.44413  nsubj(a1,Ochoko)
+
+// -1.44413  nsubj(v,Oils)
+-1.44413  nsubj(a1,Oils)
+
+// -1.44413  nsubj(v,Distance)
+-1.44413  nsubj(a1,Distance)
+
+// -1.44265  nsubj(v,Only)
+-1.44265  nsubj(a1,Only)
+
+// -1.43527  nsubj(v,Bowl)
+-1.43527  nsubj(a1,Bowl)
+
+// -1.44413  nsubj(v,Ants)
+-1.44413  nsubj(a1,Ants)
+
+// -1.44413  nsubj(v,Block)
+-1.44413  nsubj(a1,Block)
+
+// -1.44413  nsubj(v,Facebook)
+-1.44413  nsubj(a1,Facebook)
+
+// -1.43822  nsubj(v,Youve)
+-1.43822  nsubj(a1,Youve)
+
+// -1.4397  nsubj(v,Friends)
+-1.4397  nsubj(a1,Friends)
+
+// -1.44413  nsubj(v,Hormone)
+-1.44413  nsubj(a1,Hormone)
+
+// -1.44413  nsubj(v,Overheating)
+-1.44413  nsubj(a1,Overheating)
+
+// -1.44413  nsubj(v,Vein)
+-1.44413  nsubj(a1,Vein)
+
+// -1.44413  nsubj(v,Circulation)
+-1.44413  nsubj(a1,Circulation)
+
+// -1.44413  nsubj(v,Morning)
+-1.44413  nsubj(a1,Morning)
+
+// -1.44413  nsubj(v,Fetus)
+-1.44413  nsubj(a1,Fetus)
+
+// -1.44265  nsubj(v,Lack)
+-1.44265  nsubj(a1,Lack)
+
+// -1.44413  nsubj(v,D)
+-1.44413  nsubj(a1,D)
+
+// -1.44117  nsubj(v,Doesnt)
+-1.44117  nsubj(a1,Doesnt)
+
+// -1.44413  nsubj(v,Flames)
+-1.44413  nsubj(a1,Flames)
+
+// -1.44265  nsubj(v,Fumes)
+-1.44265  nsubj(a1,Fumes)
+
+// -1.44413  nsubj(v,Prefixes)
+-1.44413  nsubj(a1,Prefixes)
+
+// -1.44413  nsubj(v,Henry)
+-1.44413  nsubj(a1,Henry)
+
+// -1.44117  nsubj(v,Letter)
+-1.44117  nsubj(a1,Letter)
+
+// -1.44265  nsubj(v,S)
+-1.44265  nsubj(a1,S)
+
+// -1.44413  nsubj(v,Race)
+-1.44413  nsubj(a1,Race)
+
+// -1.44265  nsubj(v,Centi)
+-1.44265  nsubj(a1,Centi)
+
+// -1.44265  nsubj(v,Units)
+-1.44265  nsubj(a1,Units)
+
+// -1.44413  nsubj(v,Arrow)
+-1.44413  nsubj(a1,Arrow)
+
+// -1.44413  nsubj(v,Kilometers)
+-1.44413  nsubj(a1,Kilometers)
+
+// -1.4397  nsubj(v,Centimeters)
+-1.4397  nsubj(a1,Centimeters)
+
+// -1.44413  nsubj(v,Operations)
+-1.44413  nsubj(a1,Operations)
+
+// -1.44117  nsubj(v,Let)
+-1.44117  nsubj(a1,Let)
+
+// -1.44265  nsubj(v,Decameters)
+-1.44265  nsubj(a1,Decameters)
+
+// -1.44413  nsubj(v,Principal)
+-1.44413  nsubj(a1,Principal)
+
+// -1.44413  nsubj(v,Meters)
+-1.44413  nsubj(a1,Meters)
+
+// -1.44413  nsubj(v,Zero)
+-1.44413  nsubj(a1,Zero)
+
+// -1.44413  nsubj(v,Incorrect)
+-1.44413  nsubj(a1,Incorrect)
+
+// -1.44413  nsubj(v,Sealslook)
+-1.44413  nsubj(a1,Sealslook)
+
+// -1.44265  nsubj(v,Door)
+-1.44265  nsubj(a1,Door)
+
+// -1.44413  nsubj(v,Manufacturer)
+-1.44413  nsubj(a1,Manufacturer)
+
+// -1.44413  nsubj(v,Host)
+-1.44413  nsubj(a1,Host)
+
+// -1.44413  nsubj(v,Peeps)
+-1.44413  nsubj(a1,Peeps)
+
+// -1.44413  nsubj(v,Paints)
+-1.44413  nsubj(a1,Paints)
+
+// -1.44413  nsubj(v,Paint)
+-1.44413  nsubj(a1,Paint)
+
+// -1.44413  nsubj(v,Diaper)
+-1.44413  nsubj(a1,Diaper)
+
+// -1.44413  nsubj(v,Stain)
+-1.44413  nsubj(a1,Stain)
+
+// -1.4397  nsubj(v,Surface)
+-1.4397  nsubj(a1,Surface)
+
+// -1.44413  nsubj(v,Pickup)
+-1.44413  nsubj(a1,Pickup)
+
+// -1.44117  nsubj(v,Center)
+-1.44117  nsubj(a1,Center)
+
+// -1.44413  nsubj(v,Silicone)
+-1.44413  nsubj(a1,Silicone)
+
+// -1.44117  nsubj(v,Compress)
+-1.44117  nsubj(a1,Compress)
+
+// -1.44413  nsubj(v,Blisters)
+-1.44413  nsubj(a1,Blisters)
+
+// -1.44265  nsubj(v,Range)
+-1.44265  nsubj(a1,Range)
+
+// -1.44413  nsubj(v,Purplish)
+-1.44413  nsubj(a1,Purplish)
+
+// -1.44413  nsubj(v,Swollen)
+-1.44413  nsubj(a1,Swollen)
+
+// -1.44265  nsubj(v,Ice)
+-1.44265  nsubj(a1,Ice)
+
+// -1.44413  nsubj(v,Cold)
+-1.44413  nsubj(a1,Cold)
+
+// -1.44413  nsubj(v,Grooves)
+-1.44413  nsubj(a1,Grooves)
+
+// -1.43822  nsubj(v,Bath)
+-1.43822  nsubj(a1,Bath)
+
+// -1.44413  nsubj(v,Elbow)
+-1.44413  nsubj(a1,Elbow)
+
+// -1.44413  nsubj(v,Youd)
+-1.44413  nsubj(a1,Youd)
+
+// -1.44413  nsubj(v,Scents)
+-1.44413  nsubj(a1,Scents)
+
+// -1.44413  nsubj(v,Salts)
+-1.44413  nsubj(a1,Salts)
+
+// -1.44413  nsubj(v,Bathtub)
+-1.44413  nsubj(a1,Bathtub)
+
+// -1.44413  nsubj(v,Session)
+-1.44413  nsubj(a1,Session)
+
+// -1.44413  nsubj(v,Stem)
+-1.44413  nsubj(a1,Stem)
+
+// -1.4397  nsubj(v,Smokers)
+-1.4397  nsubj(a1,Smokers)
+
+// -1.44413  nsubj(v,Look)
+-1.44413  nsubj(a1,Look)
+
+// -1.43527  nsubj(v,Tape)
+-1.43527  nsubj(a1,Tape)
+
+// -1.44413  nsubj(v,Tobacco)
+-1.44413  nsubj(a1,Tobacco)
+
+// -1.44265  nsubj(v,Shisha)
+-1.44265  nsubj(a1,Shisha)
+
+// -1.44413  nsubj(v,Several)
+-1.44413  nsubj(a1,Several)
+
+// -1.44265  nsubj(v,Users)
+-1.44265  nsubj(a1,Users)
+
+// -1.44413  nsubj(v,Ash)
+-1.44413  nsubj(a1,Ash)
+
+// -1.44413  nsubj(v,Coal)
+-1.44413  nsubj(a1,Coal)
+
+// -1.43527  nsubj(v,Bank)
+-1.43527  nsubj(a1,Bank)
+
+// -1.43527  nsubj(v,Banks)
+-1.43527  nsubj(a1,Banks)
+
+// -1.44413  nsubj(v,Coverage)
+-1.44413  nsubj(a1,Coverage)
+
+// -1.43822  nsubj(v,Account)
+-1.43822  nsubj(a1,Account)
+
+// -1.44265  nsubj(v,Money)
+-1.44265  nsubj(a1,Money)
+
+// -1.44413  nsubj(v,Name)
+-1.44413  nsubj(a1,Name)
+
+// -1.44265  nsubj(v,Rest)
+-1.44265  nsubj(a1,Rest)
+
+// -1.44413  nsubj(v,Sorts)
+-1.44413  nsubj(a1,Sorts)
+
+// -1.44265  nsubj(v,Rate)
+-1.44265  nsubj(a1,Rate)
+
+// -1.44265  nsubj(v,Interest)
+-1.44265  nsubj(a1,Interest)
+
+// -1.44413  nsubj(v,Limit)
+-1.44413  nsubj(a1,Limit)
+
+// -1.44413  nsubj(v,Fee)
+-1.44413  nsubj(a1,Fee)
+
+// -1.44413  nsubj(v,License)
+-1.44413  nsubj(a1,License)
+
+// -1.44413  nsubj(v,Bill)
+-1.44413  nsubj(a1,Bill)
+
+// -1.44117  nsubj(v,Information)
+-1.44117  nsubj(a1,Information)
+
+// -1.44265  nsubj(v,Check)
+-1.44265  nsubj(a1,Check)
+
+// -1.44413  nsubj(v,Payment)
+-1.44413  nsubj(a1,Payment)
+
+// -1.44413  nsubj(v,Atms)
+-1.44413  nsubj(a1,Atms)
+
+// -1.44413  nsubj(v,Nothing)
+-1.44413  nsubj(a1,Nothing)
+
+// -1.44265  nsubj(v,Holders)
+-1.44265  nsubj(a1,Holders)
+
+// -1.44413  nsubj(v,Accounts)
+-1.44413  nsubj(a1,Accounts)
+
+// -1.44413  nsubj(v,Owner)
+-1.44413  nsubj(a1,Owner)
+
+// -1.44413  nsubj(v,Fees)
+-1.44413  nsubj(a1,Fees)
+
+// -1.44265  nsubj(v,Toilets)
+-1.44265  nsubj(a1,Toilets)
+
+// -1.44413  nsubj(v,Obstruction)
+-1.44413  nsubj(a1,Obstruction)
+
+// -1.44413  nsubj(v,Purpose)
+-1.44413  nsubj(a1,Purpose)
+
+// -1.44413  nsubj(v,Salsa)
+-1.44413  nsubj(a1,Salsa)
+
+// -1.44413  nsubj(v,Lumps)
+-1.44413  nsubj(a1,Lumps)
+
+// -1.44265  nsubj(v,Salt)
+-1.44265  nsubj(a1,Salt)
+
+// -1.44265  nsubj(v,Cheeses)
+-1.44265  nsubj(a1,Cheeses)
+
+// -1.43527  nsubj(v,Sauce)
+-1.43527  nsubj(a1,Sauce)
+
+// -1.44265  nsubj(v,Sodium)
+-1.44265  nsubj(a1,Sodium)
+
+// -1.43527  nsubj(v,Yeast)
+-1.43527  nsubj(a1,Yeast)
+
+// -1.44413  nsubj(v,Zucchini)
+-1.44413  nsubj(a1,Zucchini)
+
+// -1.44265  nsubj(v,Half)
+-1.44265  nsubj(a1,Half)
+
+// -1.44413  nsubj(v,Molasses)
+-1.44413  nsubj(a1,Molasses)
+
+// -1.44413  nsubj(v,Contact)
+-1.44413  nsubj(a1,Contact)
+
+// -1.43379  nsubj(v,Chocolate)
+-1.43379  nsubj(a1,Chocolate)
+
+// -1.44265  nsubj(v,Chips)
+-1.44265  nsubj(a1,Chips)
+
+// -1.44413  nsubj(v,Tissue)
+-1.44413  nsubj(a1,Tissue)
+
+// -1.44265  nsubj(v,Refractometer)
+-1.44265  nsubj(a1,Refractometer)
+
+// -1.44265  nsubj(v,Each)
+-1.44265  nsubj(a1,Each)
+
+// -1.44413  nsubj(v,Charts)
+-1.44413  nsubj(a1,Charts)
+
+// -1.44413  nsubj(v,Hobbyists)
+-1.44413  nsubj(a1,Hobbyists)
+
+// -1.44265  nsubj(v,Meter)
+-1.44265  nsubj(a1,Meter)
+
+// -1.44413  nsubj(v,Mho)
+-1.44413  nsubj(a1,Mho)
+
+// -1.44117  nsubj(v,Numbers)
+-1.44117  nsubj(a1,Numbers)
+
+// -1.44413  nsubj(v,Solutions)
+-1.44413  nsubj(a1,Solutions)
+
+// -1.44413  nsubj(v,Conductivity)
+-1.44413  nsubj(a1,Conductivity)
+
+// -1.44265  nsubj(v,Laser)
+-1.44265  nsubj(a1,Laser)
+
+// -1.44265  nsubj(v,Beam)
+-1.44265  nsubj(a1,Beam)
+
+// -1.44413  nsubj(v,Scale)
+-1.44413  nsubj(a1,Scale)
+
+// -1.44413  nsubj(v,Journaling)
+-1.44413  nsubj(a1,Journaling)
+
+// -1.44413  nsubj(v,Dinner)
+-1.44413  nsubj(a1,Dinner)
+
+// -1.44265  nsubj(v,Combination)
+-1.44265  nsubj(a1,Combination)
+
+// -1.4397  nsubj(v,Breakfast)
+-1.4397  nsubj(a1,Breakfast)
+
+// -1.44413  nsubj(v,Mug)
+-1.44413  nsubj(a1,Mug)
+
+// -1.44413  nsubj(v,Schedules)
+-1.44413  nsubj(a1,Schedules)
+
+// -1.44413  nsubj(v,Satisfaction)
+-1.44413  nsubj(a1,Satisfaction)
+
+// -1.44413  nsubj(v,Meal)
+-1.44413  nsubj(a1,Meal)
+
+// -1.44413  nsubj(v,Quarteror)
+-1.44413  nsubj(a1,Quarteror)
+
+// -1.44413  nsubj(v,Restaurants)
+-1.44413  nsubj(a1,Restaurants)
+
+// -1.44413  nsubj(v,Adult)
+-1.44413  nsubj(a1,Adult)
+
+// -1.44265  nsubj(v,Portions)
+-1.44265  nsubj(a1,Portions)
+
+// -1.44265  nsubj(v,Choices)
+-1.44265  nsubj(a1,Choices)
+
+// -1.44413  nsubj(v,Deposit)
+-1.44413  nsubj(a1,Deposit)
+
+// -1.44413  nsubj(v,Transfer)
+-1.44413  nsubj(a1,Transfer)
+
+// -1.44413  nsubj(v,Dates)
+-1.44413  nsubj(a1,Dates)
+
+// -1.44413  nsubj(v,Funds)
+-1.44413  nsubj(a1,Funds)
+
+// -1.44265  nsubj(v,Pack)
+-1.44265  nsubj(a1,Pack)
+
+// -1.44413  nsubj(v,Just)
+-1.44413  nsubj(a1,Just)
+
+// -1.44413  nsubj(v,Impurities)
+-1.44413  nsubj(a1,Impurities)
+
+// -1.44413  nsubj(v,Fire)
+-1.44413  nsubj(a1,Fire)
+
+// -1.44413  nsubj(v,Shoulder)
+-1.44413  nsubj(a1,Shoulder)
+
+// -1.44413  nsubj(v,Overcooking)
+-1.44413  nsubj(a1,Overcooking)
+
+// -1.44413  nsubj(v,Nutella)
+-1.44413  nsubj(a1,Nutella)
+
+// -1.44265  nsubj(v,Less)
+-1.44265  nsubj(a1,Less)
+
+// -1.44413  nsubj(v,Lemons)
+-1.44413  nsubj(a1,Lemons)
+
+// -1.44413  nsubj(v,Acidity)
+-1.44413  nsubj(a1,Acidity)
+
+// -1.44413  nsubj(v,Pile)
+-1.44413  nsubj(a1,Pile)
+
+// -1.44413  nsubj(v,Stack)
+-1.44413  nsubj(a1,Stack)
+
+// -1.44265  nsubj(v,Spaces)
+-1.44265  nsubj(a1,Spaces)
+
+// -1.44413  nsubj(v,Four)
+-1.44413  nsubj(a1,Four)
+
+// -1.44117  nsubj(v,Row)
+-1.44117  nsubj(a1,Row)
+
+// -1.44413  nsubj(v,Reserve)
+-1.44413  nsubj(a1,Reserve)
+
+// -1.44413  nsubj(v,Kings)
+-1.44413  nsubj(a1,Kings)
+
+// -1.44413  nsubj(v,Face)
+-1.44413  nsubj(a1,Face)
+
+// -1.44117  nsubj(v,Card)
+-1.44117  nsubj(a1,Card)
+
+// -1.44265  nsubj(v,Piles)
+-1.44265  nsubj(a1,Piles)
+
+// -1.44413  nsubj(v,Clutter)
+-1.44413  nsubj(a1,Clutter)
+
+// -1.44413  nsubj(v,Review)
+-1.44413  nsubj(a1,Review)
+
+// -1.44413  nsubj(v,Palm)
+-1.44413  nsubj(a1,Palm)
+
+// -1.44413  nsubj(v,Liar)
+-1.44413  nsubj(a1,Liar)
+
+// -1.44413  nsubj(v,Persons)
+-1.44413  nsubj(a1,Persons)
+
+// -1.44265  nsubj(v,Questions)
+-1.44265  nsubj(a1,Questions)
+
+// -1.44265  nsubj(v,Ways)
+-1.44265  nsubj(a1,Ways)
+
+// -1.44265  nsubj(v,Experts)
+-1.44265  nsubj(a1,Experts)
+
+// -1.44265  nsubj(v,Eating)
+-1.44265  nsubj(a1,Eating)
+
+// -1.44413  nsubj(v,Spatula)
+-1.44413  nsubj(a1,Spatula)
+
+// -1.44413  nsubj(v,Inwards)
+-1.44413  nsubj(a1,Inwards)
+
+// -1.44413  nsubj(v,Tubes)
+-1.44413  nsubj(a1,Tubes)
+
+// -1.44265  nsubj(v,Knives)
+-1.44265  nsubj(a1,Knives)
+
+// -1.44413  nsubj(v,Exception)
+-1.44413  nsubj(a1,Exception)
+
+// -1.44265  nsubj(v,Manufacturers)
+-1.44265  nsubj(a1,Manufacturers)
+
+// -1.44413  nsubj(v,Detergent)
+-1.44413  nsubj(a1,Detergent)
+
+// -1.44413  nsubj(v,Aid)
+-1.44413  nsubj(a1,Aid)
+
+// -1.44413  nsubj(v,Paintbrushrulerpaper)
+-1.44413  nsubj(a1,Paintbrushrulerpaper)
+
+// -1.44413  nsubj(v,Triangle)
+-1.44413  nsubj(a1,Triangle)
+
+// -1.44265  nsubj(v,Flaps)
+-1.44265  nsubj(a1,Flaps)
+
+// -1.4397  nsubj(v,Glue)
+-1.4397  nsubj(a1,Glue)
+
+// -1.4397  nsubj(v,Points)
+-1.4397  nsubj(a1,Points)
+
+// -1.4397  nsubj(v,Youll)
+-1.4397  nsubj(a1,Youll)
+
+// -1.44265  nsubj(v,Tabs)
+-1.44265  nsubj(a1,Tabs)
+
+// -1.44265  nsubj(v,Bottom)
+-1.44265  nsubj(a1,Bottom)
+
+// -1.44413  nsubj(v,Folds)
+-1.44413  nsubj(a1,Folds)
+
+// -1.44265  nsubj(v,Halves)
+-1.44265  nsubj(a1,Halves)
+
+// -1.44413  nsubj(v,Task)
+-1.44413  nsubj(a1,Task)
+
+// -1.43379  nsubj(v,Kitten)
+-1.43379  nsubj(a1,Kitten)
+
+// -1.44413  nsubj(v,Kittens)
+-1.44413  nsubj(a1,Kittens)
+
+// -1.44413  nsubj(v,Feces)
+-1.44413  nsubj(a1,Feces)
+
+// -1.44413  nsubj(v,Not)
+-1.44413  nsubj(a1,Not)
+
+// -1.44413  nsubj(v,Infection)
+-1.44413  nsubj(a1,Infection)
+
+// -1.44117  nsubj(v,Bacon)
+-1.44117  nsubj(a1,Bacon)
+
+// -1.44413  nsubj(v,Pan)
+-1.44413  nsubj(a1,Pan)
+
+// -1.44413  nsubj(v,Ironskillet)
+-1.44413  nsubj(a1,Ironskillet)
+
+// -1.44413  nsubj(v,Skill)
+-1.44413  nsubj(a1,Skill)
+
+// -1.44413  nsubj(v,Sauces)
+-1.44413  nsubj(a1,Sauces)
+
+// -1.44413  nsubj(v,Shrinking)
+-1.44413  nsubj(a1,Shrinking)
+
+// -1.44265  nsubj(v,Groups)
+-1.44265  nsubj(a1,Groups)
+
+// -1.44265  nsubj(v,Key)
+-1.44265  nsubj(a1,Key)
+
+// -1.44413  nsubj(v,Skp)
+-1.44413  nsubj(a1,Skp)
+
+// -1.44413  nsubj(v,Figure)
+-1.44413  nsubj(a1,Figure)
+
+// -1.44117  nsubj(v,Tool)
+-1.44117  nsubj(a1,Tool)
+
+// -1.44413  nsubj(v,Sketchuphow)
+-1.44413  nsubj(a1,Sketchuphow)
+
+// -1.4397  nsubj(v,Flavor)
+-1.4397  nsubj(a1,Flavor)
+
+// -1.44413  nsubj(v,Smoothies)
+-1.44413  nsubj(a1,Smoothies)
+
+// -1.44265  nsubj(v,Varieties)
+-1.44265  nsubj(a1,Varieties)
+
+// -1.44413  nsubj(v,Newspapers)
+-1.44413  nsubj(a1,Newspapers)
+
+// -1.44413  nsubj(v,Drilling)
+-1.44413  nsubj(a1,Drilling)
+
+// -1.44265  nsubj(v,Front)
+-1.44265  nsubj(a1,Front)
+
+// -1.4397  nsubj(v,Edge)
+-1.4397  nsubj(a1,Edge)
+
+// -1.44413  nsubj(v,Outlets)
+-1.44413  nsubj(a1,Outlets)
+
+// -1.44413  nsubj(v,Wings)
+-1.44413  nsubj(a1,Wings)
+
+// -1.44413  nsubj(v,Screw)
+-1.44413  nsubj(a1,Screw)
+
+// -1.44265  nsubj(v,Base)
+-1.44265  nsubj(a1,Base)
+
+// -1.44413  nsubj(v,Models)
+-1.44413  nsubj(a1,Models)
+
+// -1.44413  nsubj(v,Vents)
+-1.44413  nsubj(a1,Vents)
+
+// -1.43379  nsubj(v,Bottle)
+-1.43379  nsubj(a1,Bottle)
+
+// -1.44413  nsubj(v,Santa)
+-1.44413  nsubj(a1,Santa)
+
+// -1.44413  nsubj(v,Fairy)
+-1.44413  nsubj(a1,Fairy)
+
+// -1.44413  nsubj(v,Milks)
+-1.44413  nsubj(a1,Milks)
+
+// -1.44413  nsubj(v,Fun)
+-1.44413  nsubj(a1,Fun)
+
+// -1.44117  nsubj(v,Coin)
+-1.44117  nsubj(a1,Coin)
+
+// -1.4397  nsubj(v,Trick)
+-1.4397  nsubj(a1,Trick)
+
+// -1.44413  nsubj(v,Switch)
+-1.44413  nsubj(a1,Switch)
+
+// -1.44413  nsubj(v,Reappears)
+-1.44413  nsubj(a1,Reappears)
+
+// -1.44413  nsubj(v,Beauty)
+-1.44413  nsubj(a1,Beauty)
+
+// -1.44413  nsubj(v,Penny)
+-1.44413  nsubj(a1,Penny)
+
+// -1.44413  nsubj(v,Magician)
+-1.44413  nsubj(a1,Magician)
+
+// -1.44413  nsubj(v,Sizes)
+-1.44413  nsubj(a1,Sizes)
+
+// -1.44265  nsubj(v,Serving)
+-1.44265  nsubj(a1,Serving)
+
+// -1.43527  nsubj(v,Loss)
+-1.43527  nsubj(a1,Loss)
+
+// -1.44413  nsubj(v,Dietitian)
+-1.44413  nsubj(a1,Dietitian)
+
+// -1.44265  nsubj(v,Recipe)
+-1.44265  nsubj(a1,Recipe)
+
+// -1.44413  nsubj(v,Pantry)
+-1.44413  nsubj(a1,Pantry)
+
+// -1.44413  nsubj(v,Snacking)
+-1.44413  nsubj(a1,Snacking)
+
+// -1.4397  nsubj(v,Snacks)
+-1.4397  nsubj(a1,Snacks)
+
+// -1.44413  nsubj(v,Training)
+-1.44413  nsubj(a1,Training)
+
+// -1.44413  nsubj(v,Lifting)
+-1.44413  nsubj(a1,Lifting)
+
+// -1.44413  nsubj(v,Members)
+-1.44413  nsubj(a1,Members)
+
+// -1.44413  nsubj(v,Picture)
+-1.44413  nsubj(a1,Picture)
+
+// -1.44413  nsubj(v,Fluctuations)
+-1.44413  nsubj(a1,Fluctuations)
+
+// -1.44413  nsubj(v,Weekly)
+-1.44413  nsubj(a1,Weekly)
+
+// -1.44413  nsubj(v,Ins)
+-1.44413  nsubj(a1,Ins)
+
+// -1.44265  nsubj(v,Experience)
+-1.44265  nsubj(a1,Experience)
+
+// -1.44413  nsubj(v,Staff)
+-1.44413  nsubj(a1,Staff)
+
+// -1.44413  nsubj(v,Program)
+-1.44413  nsubj(a1,Program)
+
+// -1.44413  nsubj(v,Me)
+-1.44413  nsubj(a1,Me)
+
+// -1.44413  nsubj(v,Pills)
+-1.44413  nsubj(a1,Pills)
+
+// -1.44413  nsubj(v,Habits)
+-1.44413  nsubj(a1,Habits)
+
+// -1.44265  nsubj(v,Option)
+-1.44265  nsubj(a1,Option)
+
+// -1.44413  nsubj(v,Sound)
+-1.44413  nsubj(a1,Sound)
+
+// -1.44413  nsubj(v,Thoughts)
+-1.44413  nsubj(a1,Thoughts)
+
+// -1.44413  nsubj(v,Sensation)
+-1.44413  nsubj(a1,Sensation)
+
+// -1.44413  nsubj(v,Practice)
+-1.44413  nsubj(a1,Practice)
+
+// -1.44413  nsubj(v,Pelvis)
+-1.44413  nsubj(a1,Pelvis)
+
+// -1.44413  nsubj(v,Placement)
+-1.44413  nsubj(a1,Placement)
+
+// -1.44265  nsubj(v,Eyes)
+-1.44265  nsubj(a1,Eyes)
+
+// -1.44413  nsubj(v,Breath)
+-1.44413  nsubj(a1,Breath)
+
+// -1.44265  nsubj(v,Mind)
+-1.44265  nsubj(a1,Mind)
+
+// -1.44413  nsubj(v,Meditators)
+-1.44413  nsubj(a1,Meditators)
+
+// -1.44265  nsubj(v,Mantra)
+-1.44265  nsubj(a1,Mantra)
+
+// -1.4397  nsubj(v,Object)
+-1.4397  nsubj(a1,Object)
+
+// -1.44265  nsubj(v,Objects)
+-1.44265  nsubj(a1,Objects)
+
+// -1.44413  nsubj(v,Vision)
+-1.44413  nsubj(a1,Vision)
+
+// -1.44265  nsubj(v,Whatever)
+-1.44265  nsubj(a1,Whatever)
+
+// -1.44413  nsubj(v,Need)
+-1.44413  nsubj(a1,Need)
+
+// -1.44413  nsubj(v,Yam)
+-1.44413  nsubj(a1,Yam)
+
+// -1.44413  nsubj(v,Energy)
+-1.44413  nsubj(a1,Energy)
+
+// -1.44413  nsubj(v,Field)
+-1.44413  nsubj(a1,Field)
+
+// -1.44413  nsubj(v,Foot)
+-1.44413  nsubj(a1,Foot)
+
+// -1.44413  nsubj(v,Seconds)
+-1.44413  nsubj(a1,Seconds)
+
+// -1.44413  nsubj(v,Actions)
+-1.44413  nsubj(a1,Actions)
+
+// -1.44413  nsubj(v,Years)
+-1.44413  nsubj(a1,Years)
+
+// -1.44413  nsubj(v,Consciousness)
+-1.44413  nsubj(a1,Consciousness)
+
+// -1.44265  nsubj(v,Meditation)
+-1.44265  nsubj(a1,Meditation)
+
+// -1.44265  nsubj(v,Step)
+-1.44265  nsubj(a1,Step)
+
+// -1.44265  nsubj(v,Nuri)
+-1.44265  nsubj(a1,Nuri)
+
+// -1.43822  nsubj(v,Specialty)
+-1.43822  nsubj(a1,Specialty)
+
+// -1.44413  nsubj(v,Clubsstrength)
+-1.44413  nsubj(a1,Clubsstrength)
+
+// -1.44265  nsubj(v,Specialties)
+-1.44265  nsubj(a1,Specialties)
+
+// -1.44413  nsubj(v,Kaz)
+-1.44413  nsubj(a1,Kaz)
+
+// -1.44265  nsubj(v,Balance)
+-1.44265  nsubj(a1,Balance)
+
+// -1.42937  nsubj(v,Players)
+-1.42937  nsubj(a1,Players)
+
+// -1.44413  nsubj(v,Club)
+-1.44413  nsubj(a1,Club)
+
+// -1.44413  nsubj(v,Spika)
+-1.44413  nsubj(a1,Spika)
+
+// -1.44413  nsubj(v,Wood)
+-1.44413  nsubj(a1,Wood)
+
+// -1.44265  nsubj(v,W)
+-1.44265  nsubj(a1,W)
+
+// -1.44413  nsubj(v,Woods)
+-1.44413  nsubj(a1,Woods)
+
+// -1.44413  nsubj(v,Irons)
+-1.44413  nsubj(a1,Irons)
+
+// -1.44117  nsubj(v,Clubs)
+-1.44117  nsubj(a1,Clubs)
+
+// -1.44413  nsubj(v,Wedge)
+-1.44413  nsubj(a1,Wedge)
+
+// -1.44413  nsubj(v,Pw)
+-1.44413  nsubj(a1,Pw)
+
+// -1.44413  nsubj(v,Sw)
+-1.44413  nsubj(a1,Sw)
+
+// -1.44413  nsubj(v,Putter)
+-1.44413  nsubj(a1,Putter)
+
+// -1.44413  nsubj(v,Control)
+-1.44413  nsubj(a1,Control)
+
+// -1.44265  nsubj(v,Dots)
+-1.44265  nsubj(a1,Dots)
+
+// -1.44413  nsubj(v,Dot)
+-1.44413  nsubj(a1,Dot)
+
+// -1.44413  nsubj(v,Slop)
+-1.44413  nsubj(a1,Slop)
+
+// -1.44413  nsubj(v,Tee)
+-1.44413  nsubj(a1,Tee)
+
+// -1.44117  nsubj(v,Ball)
+-1.44117  nsubj(a1,Ball)
+
+// -1.44413  nsubj(v,A)
+-1.44413  nsubj(a1,A)
+
+// -1.44265  nsubj(v,Member)
+-1.44265  nsubj(a1,Member)
+
+// -1.44413  nsubj(v,Flapper)
+-1.44413  nsubj(a1,Flapper)
+
+// -1.44265  nsubj(v,Clog)
+-1.44265  nsubj(a1,Clog)
+
+// -1.44265  nsubj(v,Pair)
+-1.44265  nsubj(a1,Pair)
+
+// -1.44265  nsubj(v,Plunger)
+-1.44265  nsubj(a1,Plunger)
+
+// -1.44413  nsubj(v,Plunge)
+-1.44413  nsubj(a1,Plunge)
+
+// -1.44413  nsubj(v,Bathroom)
+-1.44413  nsubj(a1,Bathroom)
+
+// -1.4397  nsubj(v,Stone)
+-1.4397  nsubj(a1,Stone)
+
+// -1.44265  nsubj(v,Connection)
+-1.44265  nsubj(a1,Connection)
+
+// -1.44265  nsubj(v,Capturing)
+-1.44265  nsubj(a1,Capturing)
+
+// -1.4397  nsubj(v,Eye)
+-1.4397  nsubj(a1,Eye)
+
+// -1.44413  nsubj(v,Black)
+-1.44413  nsubj(a1,Black)
+
+// -1.41908  nsubj(v,Player)
+-1.41908  nsubj(a1,Player)
+
+// -1.44413  nsubj(v,Desire)
+-1.44413  nsubj(a1,Desire)
+
+// -1.44413  nsubj(v,Ko)
+-1.44413  nsubj(a1,Ko)
+
+// -1.44413  nsubj(v,Score)
+-1.44413  nsubj(a1,Score)
+
+// -1.44265  nsubj(v,Taste)
+-1.44265  nsubj(a1,Taste)
+
+// -1.43822  nsubj(v,Books)
+-1.43822  nsubj(a1,Books)
+
+// -1.44413  nsubj(v,Library)
+-1.44413  nsubj(a1,Library)
+
+// -1.44413  nsubj(v,Illustrations)
+-1.44413  nsubj(a1,Illustrations)
+
+// -1.44413  nsubj(v,Read)
+-1.44413  nsubj(a1,Read)
+
+// -1.43085  nsubj(v,Book)
+-1.43085  nsubj(a1,Book)
+
+// -1.44413  nsubj(v,Readings)
+-1.44413  nsubj(a1,Readings)
+
+// -1.44265  nsubj(v,Pages)
+-1.44265  nsubj(a1,Pages)
+
+// -1.44413  nsubj(v,Story)
+-1.44413  nsubj(a1,Story)
+
+// -1.44413  nsubj(v,Upside)
+-1.44413  nsubj(a1,Upside)
+
+// -1.44413  nsubj(v,Systems)
+-1.44413  nsubj(a1,Systems)
+
+// -1.44413  nsubj(v,Advantage)
+-1.44413  nsubj(a1,Advantage)
+
+// -1.44413  nsubj(v,Downside)
+-1.44413  nsubj(a1,Downside)
+
+// -1.44265  nsubj(v,Editions)
+-1.44265  nsubj(a1,Editions)
+
+// -1.44413  nsubj(v,Ipod)
+-1.44413  nsubj(a1,Ipod)
+
+// -1.44413  nsubj(v,Cost)
+-1.44413  nsubj(a1,Cost)
+
+// -1.44117  nsubj(v,Material)
+-1.44117  nsubj(a1,Material)
+
+// -1.44413  nsubj(v,Foreword)
+-1.44413  nsubj(a1,Foreword)
+
+// -1.44413  nsubj(v,Preface)
+-1.44413  nsubj(a1,Preface)
+
+// -1.44413  nsubj(v,Introduction)
+-1.44413  nsubj(a1,Introduction)
+
+// -1.44413  nsubj(v,Author)
+-1.44413  nsubj(a1,Author)
+
+// -1.44413  nsubj(v,Intent)
+-1.44413  nsubj(a1,Intent)
+
+// -1.44413  nsubj(v,Paragraph)
+-1.44413  nsubj(a1,Paragraph)
+
+// -1.44413  nsubj(v,Phrases)
+-1.44413  nsubj(a1,Phrases)
+
+// -1.44413  nsubj(v,Chapter)
+-1.44413  nsubj(a1,Chapter)
+
+// -1.4397  nsubj(v,Days)
+-1.4397  nsubj(a1,Days)
+
+// -1.44265  nsubj(v,Broccoli)
+-1.44265  nsubj(a1,Broccoli)
+
+// -1.44413  nsubj(v,Successes)
+-1.44413  nsubj(a1,Successes)
+
+// -1.44413  nsubj(v,Places)
+-1.44413  nsubj(a1,Places)
+
+// -1.44117  nsubj(v,Doctor)
+-1.44117  nsubj(a1,Doctor)
+
+// -1.44413  nsubj(v,Resources)
+-1.44413  nsubj(a1,Resources)
+
+// -1.44413  nsubj(v,Rice)
+-1.44413  nsubj(a1,Rice)
+
+// -1.44413  nsubj(v,Lunch)
+-1.44413  nsubj(a1,Lunch)
+
+// -1.44413  nsubj(v,Run)
+-1.44413  nsubj(a1,Run)
+
+// -1.44413  nsubj(v,Setbacks)
+-1.44413  nsubj(a1,Setbacks)
+
+// -1.44413  nsubj(v,Salads)
+-1.44413  nsubj(a1,Salads)
+
+// -1.44413  nsubj(v,Buffets)
+-1.44413  nsubj(a1,Buffets)
+
+// -1.44413  nsubj(v,Envelope)
+-1.44413  nsubj(a1,Envelope)
+
+// -1.44413  nsubj(v,Envelopes)
+-1.44413  nsubj(a1,Envelopes)
+
+// -1.44413  nsubj(v,Ink)
+-1.44413  nsubj(a1,Ink)
+
+// -1.44413  nsubj(v,Motion)
+-1.44413  nsubj(a1,Motion)
+
+// -1.4397  nsubj(v,Kettle)
+-1.4397  nsubj(a1,Kettle)
+
+// -1.44413  nsubj(v,Paste)
+-1.44413  nsubj(a1,Paste)
+
+// -1.44117  nsubj(v,Noodles)
+-1.44117  nsubj(a1,Noodles)
+
+// -1.44413  nsubj(v,Eaters)
+-1.44413  nsubj(a1,Eaters)
+
+// -1.44413  nsubj(v,Instructions)
+-1.44413  nsubj(a1,Instructions)
+
+// -1.44413  nsubj(v,Jury)
+-1.44413  nsubj(a1,Jury)
+
+// -1.44413  nsubj(v,Peas)
+-1.44413  nsubj(a1,Peas)
+
+// -1.44413  nsubj(v,Basil)
+-1.44413  nsubj(a1,Basil)
+
+// -1.44413  nsubj(v,Garbage)
+-1.44413  nsubj(a1,Garbage)
+
+// -1.44413  nsubj(v,Screen)
+-1.44413  nsubj(a1,Screen)
+
+// -1.44265  nsubj(v,Set)
+-1.44265  nsubj(a1,Set)
+
+// -1.44265  nsubj(v,Outside)
+-1.44265  nsubj(a1,Outside)
+
+// -1.44413  nsubj(v,Marshmallow)
+-1.44413  nsubj(a1,Marshmallow)
+
+// -1.4397  nsubj(v,Microwaves)
+-1.4397  nsubj(a1,Microwaves)
+
+// -1.44265  nsubj(v,Methods)
+-1.44265  nsubj(a1,Methods)
+
+// -1.44413  nsubj(v,Conduction)
+-1.44413  nsubj(a1,Conduction)
+
+// -1.44265  nsubj(v,Fluid)
+-1.44265  nsubj(a1,Fluid)
+
+// -1.44413  nsubj(v,Turntable)
+-1.44413  nsubj(a1,Turntable)
+
+// -1.43822  nsubj(v,Risk)
+-1.43822  nsubj(a1,Risk)
+
+// -1.44413  nsubj(v,Thick)
+-1.44413  nsubj(a1,Thick)
+
+// -1.44413  nsubj(v,Zone)
+-1.44413  nsubj(a1,Zone)
+
+// -1.44265  nsubj(v,Study)
+-1.44265  nsubj(a1,Study)
+
+// -1.44413  nsubj(v,Bodies)
+-1.44413  nsubj(a1,Bodies)
+
+// -1.44413  nsubj(v,Distribution)
+-1.44413  nsubj(a1,Distribution)
+
+// -1.44413  nsubj(v,Pedometers)
+-1.44413  nsubj(a1,Pedometers)
+
+// -1.44413  nsubj(v,Weight)
+-1.44413  nsubj(a1,Weight)
+
+// -1.44413  nsubj(v,Dress)
+-1.44413  nsubj(a1,Dress)
+
+// -1.44413  nsubj(v,Shoes)
+-1.44413  nsubj(a1,Shoes)
+
+// -1.44413  nsubj(v,Walk)
+-1.44413  nsubj(a1,Walk)
+
+// -1.44413  nsubj(v,Daily)
+-1.44413  nsubj(a1,Daily)
+
+// -1.44413  nsubj(v,Neighbor)
+-1.44413  nsubj(a1,Neighbor)
+
+// -1.44413  nsubj(v,Office)
+-1.44413  nsubj(a1,Office)
+
+// -1.44413  nsubj(v,Treats)
+-1.44413  nsubj(a1,Treats)
+
+// -1.44413  nsubj(v,Log)
+-1.44413  nsubj(a1,Log)
+
+// -1.44413  nsubj(v,Workplace)
+-1.44413  nsubj(a1,Workplace)
+
+// -1.44413  nsubj(v,Kettles)
+-1.44413  nsubj(a1,Kettles)
+
+// -1.44413  nsubj(v,Saucepan)
+-1.44413  nsubj(a1,Saucepan)
+
+// -1.41175  nsubj(v,Tea)
+-1.41175  nsubj(a1,Tea)
+
+// -1.44265  nsubj(v,Period)
+-1.44265  nsubj(a1,Period)
+
+// -1.44413  nsubj(v,Left)
+-1.44413  nsubj(a1,Left)
+
+// -1.44413  nsubj(v,Denaturation)
+-1.44413  nsubj(a1,Denaturation)
+
+// -1.44413  nsubj(v,Sifter)
+-1.44413  nsubj(a1,Sifter)
+
+// -1.44413  nsubj(v,Form)
+-1.44413  nsubj(a1,Form)
+
+// -1.44265  nsubj(v,Yours)
+-1.44265  nsubj(a1,Yours)
+
+// -1.44413  nsubj(v,Precautions)
+-1.44413  nsubj(a1,Precautions)
+
+// -1.44413  nsubj(v,Purchase)
+-1.44413  nsubj(a1,Purchase)
+
+// -1.43822  nsubj(v,Seller)
+-1.43822  nsubj(a1,Seller)
+
+// -1.43527  nsubj(v,Bid)
+-1.43527  nsubj(a1,Bid)
+
+// -1.44413  nsubj(v,Bidding)
+-1.44413  nsubj(a1,Bidding)
+
+// -1.44413  nsubj(v,Buyers)
+-1.44413  nsubj(a1,Buyers)
+
+// -1.44265  nsubj(v,Ebay)
+-1.44265  nsubj(a1,Ebay)
+
+// -1.44413  nsubj(v,Few)
+-1.44413  nsubj(a1,Few)
+
+// -1.44413  nsubj(v,Description)
+-1.44413  nsubj(a1,Description)
+
+// -1.44413  nsubj(v,Difference)
+-1.44413  nsubj(a1,Difference)
+
+// -1.44413  nsubj(v,Versions)
+-1.44413  nsubj(a1,Versions)
+
+// -1.44413  nsubj(v,Appearance)
+-1.44413  nsubj(a1,Appearance)
+
+// -1.44265  nsubj(v,Technique)
+-1.44265  nsubj(a1,Technique)
+
+// -1.44413  nsubj(v,War)
+-1.44413  nsubj(a1,War)
+
+// -1.44413  nsubj(v,Bids)
+-1.44413  nsubj(a1,Bids)
+
+// -1.44413  nsubj(v,Buyer)
+-1.44413  nsubj(a1,Buyer)
+
+// -1.43822  nsubj(v,Button)
+-1.43822  nsubj(a1,Button)
+
+// -1.44413  nsubj(v,Windows)
+-1.44413  nsubj(a1,Windows)
+
+// -1.44413  nsubj(v,Close)
+-1.44413  nsubj(a1,Close)
+
+// -1.44413  nsubj(v,Auction)
+-1.44413  nsubj(a1,Auction)
+
+// -1.44265  nsubj(v,Plate)
+-1.44265  nsubj(a1,Plate)
+
+// -1.44413  nsubj(v,Grease)
+-1.44413  nsubj(a1,Grease)
+
+// -1.44413  nsubj(v,Crispness)
+-1.44413  nsubj(a1,Crispness)
+
+// -1.43822  nsubj(v,Batter)
+-1.43822  nsubj(a1,Batter)
+
+// -1.44117  nsubj(v,Texture)
+-1.44117  nsubj(a1,Texture)
+
+// -1.44413  nsubj(v,Wipe)
+-1.44413  nsubj(a1,Wipe)
+
+// -1.44265  nsubj(v,Pets)
+-1.44265  nsubj(a1,Pets)
+
+// -1.44413  nsubj(v,Floor)
+-1.44413  nsubj(a1,Floor)
+
+// -1.44413  nsubj(v,Destruction)
+-1.44413  nsubj(a1,Destruction)
+
+// -1.44413  nsubj(v,Platters)
+-1.44413  nsubj(a1,Platters)
+
+// -1.44413  nsubj(v,Broom)
+-1.44413  nsubj(a1,Broom)
+
+// -1.44265  nsubj(v,States)
+-1.44265  nsubj(a1,States)
+
+// -1.44265  nsubj(v,Marijuana)
+-1.44265  nsubj(a1,Marijuana)
+
+// -1.44413  nsubj(v,Cannabis)
+-1.44413  nsubj(a1,Cannabis)
+
+// -1.44117  nsubj(v,Plants)
+-1.44117  nsubj(a1,Plants)
+
+// -1.44413  nsubj(v,Sativa)
+-1.44413  nsubj(a1,Sativa)
+
+// -1.44413  nsubj(v,Season)
+-1.44413  nsubj(a1,Season)
+
+// -1.44413  nsubj(v,Benefit)
+-1.44413  nsubj(a1,Benefit)
+
+// -1.44117  nsubj(v,Ph)
+-1.44117  nsubj(a1,Ph)
+
+// -1.44413  nsubj(v,Seed)
+-1.44413  nsubj(a1,Seed)
+
+// -1.44413  nsubj(v,Soil)
+-1.44413  nsubj(a1,Soil)
+
+// -1.44413  nsubj(v,Sprout)
+-1.44413  nsubj(a1,Sprout)
+
+// -1.44413  nsubj(v,Place)
+-1.44413  nsubj(a1,Place)
+
+// -1.44413  nsubj(v,Leaves)
+-1.44413  nsubj(a1,Leaves)
+
+// -1.44265  nsubj(v,Cover)
+-1.44265  nsubj(a1,Cover)
+
+// -1.44413  nsubj(v,Seedlings)
+-1.44413  nsubj(a1,Seedlings)
+
+// -1.44413  nsubj(v,Seedling)
+-1.44413  nsubj(a1,Seedling)
+
+// -1.44413  nsubj(v,Sprouts)
+-1.44413  nsubj(a1,Sprouts)
+
+// -1.44265  nsubj(v,Cubes)
+-1.44265  nsubj(a1,Cubes)
+
+// -1.44117  nsubj(v,Cube)
+-1.44117  nsubj(a1,Cube)
+
+// -1.44413  nsubj(v,Fluorescent)
+-1.44413  nsubj(a1,Fluorescent)
+
+// -1.44413  nsubj(v,Hold)
+-1.44413  nsubj(a1,Hold)
+
+// -1.44413  nsubj(v,Alvin)
+-1.44413  nsubj(a1,Alvin)
+
+// -1.44265  nsubj(v,Wrappers)
+-1.44265  nsubj(a1,Wrappers)
+
+// -1.4397  nsubj(v,Dough)
+-1.4397  nsubj(a1,Dough)
+
+// -1.44413  nsubj(v,Avoid)
+-1.44413  nsubj(a1,Avoid)
+
+// -1.44413  nsubj(v,Sift)
+-1.44413  nsubj(a1,Sift)
+
+// -1.44413  nsubj(v,Lettuce)
+-1.44413  nsubj(a1,Lettuce)
+
+// -1.44413  nsubj(v,Feeling)
+-1.44413  nsubj(a1,Feeling)
+
+// -1.44413  nsubj(v,Team)
+-1.44413  nsubj(a1,Team)
+
+// -1.44265  nsubj(v,Carrots)
+-1.44265  nsubj(a1,Carrots)
+
+// -1.44265  nsubj(v,Dehydration)
+-1.44265  nsubj(a1,Dehydration)
+
+// -1.44265  nsubj(v,Bags)
+-1.44265  nsubj(a1,Bags)
+
+// -1.44413  nsubj(v,Standing)
+-1.44413  nsubj(a1,Standing)
+
+// -1.44117  nsubj(v,Weather)
+-1.44117  nsubj(a1,Weather)
+
+// -1.44413  nsubj(v,Desks)
+-1.44413  nsubj(a1,Desks)
+
+// -1.44413  nsubj(v,Prize)
+-1.44413  nsubj(a1,Prize)
+
+// -1.44413  nsubj(v,Group)
+-1.44413  nsubj(a1,Group)
+
+// -1.44413  nsubj(v,Ruts)
+-1.44413  nsubj(a1,Ruts)
+
+// -1.44413  nsubj(v,Ctrl)
+-1.44413  nsubj(a1,Ctrl)
+
+// -1.44413  nsubj(v,Jumping)
+-1.44413  nsubj(a1,Jumping)
+
+// -1.44413  nsubj(v,Chat)
+-1.44413  nsubj(a1,Chat)
+
+// -1.44413  nsubj(v,Meats)
+-1.44413  nsubj(a1,Meats)
+
+// -1.44413  nsubj(v,Pots)
+-1.44413  nsubj(a1,Pots)
+
+// -1.44265  nsubj(v,Recipes)
+-1.44265  nsubj(a1,Recipes)
+
+// -1.44413  nsubj(v,Oven)
+-1.44413  nsubj(a1,Oven)
+
+// -1.44265  nsubj(v,Dish)
+-1.44265  nsubj(a1,Dish)
+
+// -1.44413  nsubj(v,Loaf)
+-1.44413  nsubj(a1,Loaf)
+
+// -1.44413  nsubj(v,Goods)
+-1.44413  nsubj(a1,Goods)
+
+// -1.44413  nsubj(v,Pros)
+-1.44413  nsubj(a1,Pros)
+
+// -1.44413  nsubj(v,Cuts)
+-1.44413  nsubj(a1,Cuts)
+
+// -1.44413  nsubj(v,Samples)
+-1.44413  nsubj(a1,Samples)
+
+// -1.44413  nsubj(v,Juices)
+-1.44413  nsubj(a1,Juices)
+
+// -1.44413  nsubj(v,Squashes)
+-1.44413  nsubj(a1,Squashes)
+
+// -1.44413  nsubj(v,Buildup)
+-1.44413  nsubj(a1,Buildup)
+
+// -1.44413  nsubj(v,Wont)
+-1.44413  nsubj(a1,Wont)
+
+// -1.44413  nsubj(v,Shampoo)
+-1.44413  nsubj(a1,Shampoo)
+
+// -1.44265  nsubj(v,Towel)
+-1.44265  nsubj(a1,Towel)
+
+// -1.44265  nsubj(v,Spot)
+-1.44265  nsubj(a1,Spot)
+
+// -1.44413  nsubj(v,Tapemeasure)
+-1.44413  nsubj(a1,Tapemeasure)
+
+// -1.44413  nsubj(v,Inches)
+-1.44413  nsubj(a1,Inches)
+
+// -1.44413  nsubj(v,End)
+-1.44413  nsubj(a1,End)
+
+// -1.44413  nsubj(v,Width)
+-1.44413  nsubj(a1,Width)
+
+// -1.44413  nsubj(v,Tapemeasures)
+-1.44413  nsubj(a1,Tapemeasures)
+
+// -1.44413  nsubj(v,Boxmeasurer)
+-1.44413  nsubj(a1,Boxmeasurer)
+
+// -1.44413  nsubj(v,Height)
+-1.44413  nsubj(a1,Height)
+
+// -1.44413  nsubj(v,Inch)
+-1.44413  nsubj(a1,Inch)
+
+// -1.44265  nsubj(v,Locks)
+-1.44265  nsubj(a1,Locks)
+
+// -1.44265  nsubj(v,Locker)
+-1.44265  nsubj(a1,Locker)
+
+// -1.44413  nsubj(v,Quirks)
+-1.44413  nsubj(a1,Quirks)
+
+// -1.44413  nsubj(v,Lock)
+-1.44413  nsubj(a1,Lock)
+
+// -1.44413  nsubj(v,Rasp)
+-1.44413  nsubj(a1,Rasp)
+
+// -1.44413  nsubj(v,To)
+-1.44413  nsubj(a1,To)
+
+// -1.44413  nsubj(v,Rainwater)
+-1.44413  nsubj(a1,Rainwater)
+
+// -1.44413  nsubj(v,Boxes)
+-1.44413  nsubj(a1,Boxes)
+
+// -1.44413  nsubj(v,But)
+-1.44413  nsubj(a1,But)
+
+// -1.44413  nsubj(v,Habitat)
+-1.44413  nsubj(a1,Habitat)
+
+// -1.44413  nsubj(v,Supply)
+-1.44413  nsubj(a1,Supply)
+
+// -1.44413  nsubj(v,Shavings)
+-1.44413  nsubj(a1,Shavings)
+
+// -1.44413  nsubj(v,Fish)
+-1.44413  nsubj(a1,Fish)
+
+// -1.44413  nsubj(v,Older)
+-1.44413  nsubj(a1,Older)
+
+// -1.44413  nsubj(v,Sunlight)
+-1.44413  nsubj(a1,Sunlight)
+
+// -1.44265  nsubj(v,Odor)
+-1.44265  nsubj(a1,Odor)
+
+// -1.44413  nsubj(v,Paintbrush)
+-1.44413  nsubj(a1,Paintbrush)
+
+// -1.44413  nsubj(v,Sure)
+-1.44413  nsubj(a1,Sure)
+
+// -1.44413  nsubj(v,Condition)
+-1.44413  nsubj(a1,Condition)
+
+// -1.44413  nsubj(v,Approaches)
+-1.44413  nsubj(a1,Approaches)
+
+// -1.44413  nsubj(v,Welljust)
+-1.44413  nsubj(a1,Welljust)
+
+// -1.44413  nsubj(v,Bookcases)
+-1.44413  nsubj(a1,Bookcases)
+
+// -1.44413  nsubj(v,Crusted)
+-1.44413  nsubj(a1,Crusted)
+
+// -1.44413  nsubj(v,Colheita)
+-1.44413  nsubj(a1,Colheita)
+
+// -1.44413  nsubj(v,Vintage)
+-1.44413  nsubj(a1,Vintage)
+
+// -1.44265  nsubj(v,Winemaker)
+-1.44265  nsubj(a1,Winemaker)
+
+// -1.44413  nsubj(v,Harvest)
+-1.44413  nsubj(a1,Harvest)
+
+// -1.44265  nsubj(v,Port)
+-1.44265  nsubj(a1,Port)
+
+// -1.44413  nsubj(v,Blendergloves)
+-1.44413  nsubj(a1,Blendergloves)
+
+// -1.44413  nsubj(v,Reaction)
+-1.44413  nsubj(a1,Reaction)
+
+// -1.44265  nsubj(v,Canners)
+-1.44265  nsubj(a1,Canners)
+
+// -1.44117  nsubj(v,Machine)
+-1.44117  nsubj(a1,Machine)
+
+// -1.44413  nsubj(v,Kids)
+-1.44413  nsubj(a1,Kids)
+
+// -1.44413  nsubj(v,Pressure)
+-1.44413  nsubj(a1,Pressure)
+
+// -1.44413  nsubj(v,Gauge)
+-1.44413  nsubj(a1,Gauge)
+
+// -1.44413  nsubj(v,Loose)
+-1.44413  nsubj(a1,Loose)
+
+// -1.44413  nsubj(v,Canner)
+-1.44413  nsubj(a1,Canner)
+
+// -1.44265  nsubj(v,Agent)
+-1.44265  nsubj(a1,Agent)
+
+// -1.44265  nsubj(v,Chlorine)
+-1.44265  nsubj(a1,Chlorine)
+
+// -1.44265  nsubj(v,Filters)
+-1.44265  nsubj(a1,Filters)
+
+// -1.44413  nsubj(v,Source)
+-1.44413  nsubj(a1,Source)
+
+// -1.44117  nsubj(v,Company)
+-1.44117  nsubj(a1,Company)
+
+// -1.44413  nsubj(v,Quality)
+-1.44413  nsubj(a1,Quality)
+
+// -1.44413  nsubj(v,Or)
+-1.44413  nsubj(a1,Or)
+
+// -1.44413  nsubj(v,For)
+-1.44413  nsubj(a1,For)
+
+// -1.44413  nsubj(v,Waters)
+-1.44413  nsubj(a1,Waters)
+
+// -1.4397  nsubj(v,Plastic)
+-1.4397  nsubj(a1,Plastic)
+
+// -1.44413  nsubj(v,Concerns)
+-1.44413  nsubj(a1,Concerns)
+
+// -1.44413  nsubj(v,Level)
+-1.44413  nsubj(a1,Level)
+
+// -1.44265  nsubj(v,Berries)
+-1.44265  nsubj(a1,Berries)
+
+// -1.44413  nsubj(v,Squeeze)
+-1.44413  nsubj(a1,Squeeze)
+
+// -1.44117  nsubj(v,Thirst)
+-1.44117  nsubj(a1,Thirst)
+
+// -1.44265  nsubj(v,Us)
+-1.44265  nsubj(a1,Us)
+
+// -1.44413  nsubj(v,Kidneys)
+-1.44413  nsubj(a1,Kidneys)
+
+// -1.44413  nsubj(v,Urine)
+-1.44413  nsubj(a1,Urine)
+
+// -1.44413  nsubj(v,Supplements)
+-1.44413  nsubj(a1,Supplements)
+
+// -1.44413  nsubj(v,Vitamins)
+-1.44413  nsubj(a1,Vitamins)
+
+// -1.44413  nsubj(v,Medications)
+-1.44413  nsubj(a1,Medications)
+
+// -1.44117  nsubj(v,Indicators)
+-1.44117  nsubj(a1,Indicators)
+
+// -1.44413  nsubj(v,Neater)
+-1.44413  nsubj(a1,Neater)
+
+// -1.44413  nsubj(v,Vacuum)
+-1.44413  nsubj(a1,Vacuum)
+
+// -1.44413  nsubj(v,Laundry)
+-1.44413  nsubj(a1,Laundry)
+
+// -1.44413  nsubj(v,Siblings)
+-1.44413  nsubj(a1,Siblings)
+
+// -1.44413  nsubj(v,Spinet)
+-1.44413  nsubj(a1,Spinet)
+
+// -1.44413  nsubj(v,Ramps)
+-1.44413  nsubj(a1,Ramps)
+
+// -1.44413  nsubj(v,Plenty)
+-1.44413  nsubj(a1,Plenty)
+
+// -1.44413  nsubj(v,Personnel)
+-1.44413  nsubj(a1,Personnel)
+
+// -1.44413  nsubj(v,Uprights)
+-1.44413  nsubj(a1,Uprights)
+
+// -1.44413  nsubj(v,Vertical)
+-1.44413  nsubj(a1,Vertical)
+
+// -1.44413  nsubj(v,Gravity)
+-1.44413  nsubj(a1,Gravity)
+
+// -1.43674  nsubj(v,Piano)
+-1.43674  nsubj(a1,Piano)
+
+// -1.44265  nsubj(v,Doors)
+-1.44265  nsubj(a1,Doors)
+
+// -1.44413  nsubj(v,Shops)
+-1.44413  nsubj(a1,Shops)
+
+// -1.44413  nsubj(v,Keyboard)
+-1.44413  nsubj(a1,Keyboard)
+
+// -1.44265  nsubj(v,Dolly)
+-1.44265  nsubj(a1,Dolly)
+
+// -1.44413  nsubj(v,Nobody)
+-1.44413  nsubj(a1,Nobody)
+
+// -1.44413  nsubj(v,Slip)
+-1.44413  nsubj(a1,Slip)
+
+// -1.44413  nsubj(v,Chamois)
+-1.44413  nsubj(a1,Chamois)
+
+// -1.44117  nsubj(v,Menu)
+-1.44117  nsubj(a1,Menu)
+
+// -1.44413  nsubj(v,Submenu)
+-1.44413  nsubj(a1,Submenu)
+
+// -1.44413  nsubj(v,Looks)
+-1.44413  nsubj(a1,Looks)
+
+// -1.44265  nsubj(v,Clicking)
+-1.44265  nsubj(a1,Clicking)
+
+// -1.44413  nsubj(v,Hovering)
+-1.44413  nsubj(a1,Hovering)
+
+// -1.44265  nsubj(v,Frame)
+-1.44265  nsubj(a1,Frame)
+
+// -1.44265  nsubj(v,Action)
+-1.44265  nsubj(a1,Action)
+
+// -1.44413  nsubj(v,Website)
+-1.44413  nsubj(a1,Website)
+
+// -1.44265  nsubj(v,Durian)
+-1.44265  nsubj(a1,Durian)
+
+// -1.44413  nsubj(v,Preferences)
+-1.44413  nsubj(a1,Preferences)
+
+// -1.44413  nsubj(v,Durians)
+-1.44413  nsubj(a1,Durians)
+
+// -1.44413  nsubj(v,Husk)
+-1.44413  nsubj(a1,Husk)
+
+// -1.44413  nsubj(v,Flesh)
+-1.44413  nsubj(a1,Flesh)
+
+// -1.44413  nsubj(v,Sock)
+-1.44413  nsubj(a1,Sock)
+
+// -1.44413  nsubj(v,Force)
+-1.44413  nsubj(a1,Force)
+
+// -1.44413  nsubj(v,Careful)
+-1.44413  nsubj(a1,Careful)
+
+// -1.44265  nsubj(v,Refrigerator)
+-1.44265  nsubj(a1,Refrigerator)
+
+// -1.44413  nsubj(v,Changes)
+-1.44413  nsubj(a1,Changes)
+
+// -1.44413  nsubj(v,Heats)
+-1.44413  nsubj(a1,Heats)
+
+// -1.44413  nsubj(v,Genres)
+-1.44413  nsubj(a1,Genres)
+
+// -1.44413  nsubj(v,Topics)
+-1.44413  nsubj(a1,Topics)
+
+// -1.44413  nsubj(v,Needs)
+-1.44413  nsubj(a1,Needs)
+
+// -1.44265  nsubj(v,Cloth)
+-1.44265  nsubj(a1,Cloth)
+
+// -1.44265  nsubj(v,Contraption)
+-1.44265  nsubj(a1,Contraption)
+
+// -1.44413  nsubj(v,Settings)
+-1.44413  nsubj(a1,Settings)
+
+// -1.44413  nsubj(v,Invitation)
+-1.44413  nsubj(a1,Invitation)
+
+// -1.44413  nsubj(v,Views)
+-1.44413  nsubj(a1,Views)
+
+// -1.44413  nsubj(v,Display)
+-1.44413  nsubj(a1,Display)
+
+// -1.44265  nsubj(v,Version)
+-1.44265  nsubj(a1,Version)
+
+// -1.44413  nsubj(v,Programs)
+-1.44413  nsubj(a1,Programs)
+
+// -1.44413  nsubj(v,Show)
+-1.44413  nsubj(a1,Show)
+
+// -1.44413  nsubj(v,Password)
+-1.44413  nsubj(a1,Password)
+
+// -1.44117  nsubj(v,Grounds)
+-1.44117  nsubj(a1,Grounds)
+
+// -1.44413  nsubj(v,Strainer)
+-1.44413  nsubj(a1,Strainer)
+
+// -1.44413  nsubj(v,Bundle)
+-1.44413  nsubj(a1,Bundle)
+
+// -1.4397  nsubj(v,Liquid)
+-1.4397  nsubj(a1,Liquid)
+
+// -1.44413  nsubj(v,Insert)
+-1.44413  nsubj(a1,Insert)
+
+// -1.44413  nsubj(v,Aficionado)
+-1.44413  nsubj(a1,Aficionado)
+
+// -1.44265  nsubj(v,Straps)
+-1.44265  nsubj(a1,Straps)
+
+// -1.44413  nsubj(v,Buying)
+-1.44413  nsubj(a1,Buying)
+
+// -1.44413  nsubj(v,Communicate)
+-1.44413  nsubj(a1,Communicate)
+
+// -1.44413  nsubj(v,Helpers)
+-1.44413  nsubj(a1,Helpers)
+
+// -1.44413  nsubj(v,Fridge)
+-1.44413  nsubj(a1,Fridge)
+
+// -1.44413  nsubj(v,Calorie)
+-1.44413  nsubj(a1,Calorie)
+
+// -1.44413  nsubj(v,Article)
+-1.44413  nsubj(a1,Article)
+
+// -1.44117  nsubj(v,Teas)
+-1.44117  nsubj(a1,Teas)
+
+// -1.44413  nsubj(v,Rooibos)
+-1.44413  nsubj(a1,Rooibos)
+
+// -1.44265  nsubj(v,Processing)
+-1.44265  nsubj(a1,Processing)
+
+// -1.44413  nsubj(v,Concept)
+-1.44413  nsubj(a1,Concept)
+
+// -1.44413  nsubj(v,Teakettles)
+-1.44413  nsubj(a1,Teakettles)
+
+// -1.44117  nsubj(v,Much)
+-1.44117  nsubj(a1,Much)
+
+// -1.44413  nsubj(v,Ritual)
+-1.44413  nsubj(a1,Ritual)
+
+// -1.44117  nsubj(v,Theme)
+-1.44117  nsubj(a1,Theme)
+
+// -1.44413  nsubj(v,Candy)
+-1.44413  nsubj(a1,Candy)
+
+// -1.44413  nsubj(v,Slice)
+-1.44413  nsubj(a1,Slice)
+
+// -1.44265  nsubj(v,Likelihood)
+-1.44265  nsubj(a1,Likelihood)
+
+// -1.44117  nsubj(v,Of)
+-1.44117  nsubj(a1,Of)
+
+// -1.44413  nsubj(v,Researcher)
+-1.44413  nsubj(a1,Researcher)
+
+// -1.44413  nsubj(v,Expert)
+-1.44413  nsubj(a1,Expert)
+
+// -1.44265  nsubj(v,Floss)
+-1.44265  nsubj(a1,Floss)
+
+// -1.44413  nsubj(v,Disease)
+-1.44413  nsubj(a1,Disease)
+
+// -1.44413  nsubj(v,Issues)
+-1.44413  nsubj(a1,Issues)
+
+// -1.44413  nsubj(v,Return)
+-1.44413  nsubj(a1,Return)
+
+// -1.44413  nsubj(v,Structures)
+-1.44413  nsubj(a1,Structures)
+
+// -1.44413  nsubj(v,Moving)
+-1.44413  nsubj(a1,Moving)
+
+// -1.44265  nsubj(v,Uhaul)
+-1.44265  nsubj(a1,Uhaul)
+
+// -1.44413  nsubj(v,Charities)
+-1.44413  nsubj(a1,Charities)
+
+// -1.44413  nsubj(v,Mayflower)
+-1.44413  nsubj(a1,Mayflower)
+
+// -1.44413  nsubj(v,Theres)
+-1.44413  nsubj(a1,Theres)
+
+// -1.44413  nsubj(v,Walls)
+-1.44413  nsubj(a1,Walls)
+
+// -1.44413  nsubj(v,Statue)
+-1.44413  nsubj(a1,Statue)
+
+// -1.44413  nsubj(v,Overtightening)
+-1.44413  nsubj(a1,Overtightening)
+
+// -1.44413  nsubj(v,Insulator)
+-1.44413  nsubj(a1,Insulator)
+
+// -1.44413  nsubj(v,Bottles)
+-1.44413  nsubj(a1,Bottles)
+
+// -1.44117  nsubj(v,Sheet)
+-1.44117  nsubj(a1,Sheet)
+
+// -1.44265  nsubj(v,Foil)
+-1.44265  nsubj(a1,Foil)
+
+// -1.44265  nsubj(v,Layer)
+-1.44265  nsubj(a1,Layer)
+
+// -1.44413  nsubj(v,Cap)
+-1.44413  nsubj(a1,Cap)
+
+// -1.44265  nsubj(v,Metal)
+-1.44265  nsubj(a1,Metal)
+
+// -1.44413  nsubj(v,Traps)
+-1.44413  nsubj(a1,Traps)
+
+// -1.44265  nsubj(v,Foam)
+-1.44265  nsubj(a1,Foam)
+
+// -1.44413  nsubj(v,Openings)
+-1.44413  nsubj(a1,Openings)
+
+// -1.44265  nsubj(v,Thermos)
+-1.44265  nsubj(a1,Thermos)
+
+// -1.44413  nsubj(v,Shelter)
+-1.44413  nsubj(a1,Shelter)
+
+// -1.44413  nsubj(v,Offer)
+-1.44413  nsubj(a1,Offer)
+
+// -1.43822  nsubj(v,Dice)
+-1.43822  nsubj(a1,Dice)
+
+// -1.44413  nsubj(v,Participants)
+-1.44413  nsubj(a1,Participants)
+
+// -1.44413  nsubj(v,Rolling)
+-1.44413  nsubj(a1,Rolling)
+
+// -1.4279  nsubj(v,Shooter)
+-1.4279  nsubj(a1,Shooter)
+
+// -1.4397  nsubj(v,Bets)
+-1.4397  nsubj(a1,Bets)
+
+// -1.44413  nsubj(v,Tempers)
+-1.44413  nsubj(a1,Tempers)
+
+// -1.43379  nsubj(v,Bet)
+-1.43379  nsubj(a1,Bet)
+
+// -1.44413  nsubj(v,Chance)
+-1.44413  nsubj(a1,Chance)
+
+// -1.44413  nsubj(v,Total)
+-1.44413  nsubj(a1,Total)
+
+// -1.44413  nsubj(v,Probability)
+-1.44413  nsubj(a1,Probability)
+
+// -1.44117  nsubj(v,Craps)
+-1.44117  nsubj(a1,Craps)
+
+// -1.44413  nsubj(v,Reroll)
+-1.44413  nsubj(a1,Reroll)
+
+// -1.44413  nsubj(v,Report)
+-1.44413  nsubj(a1,Report)
+
+// -1.44413  nsubj(v,Liars)
+-1.44413  nsubj(a1,Liars)
+
+// -1.44413  nsubj(v,Values)
+-1.44413  nsubj(a1,Values)
+
+// -1.44413  nsubj(v,Guy)
+-1.44413  nsubj(a1,Guy)
+
+// -1.44413  nsubj(v,Products)
+-1.44413  nsubj(a1,Products)
+
+// -1.44413  nsubj(v,Problems)
+-1.44413  nsubj(a1,Problems)
+
+// -1.44413  nsubj(v,Games)
+-1.44413  nsubj(a1,Games)
+
+// -1.44413  nsubj(v,Cloths)
+-1.44413  nsubj(a1,Cloths)
+
+// -1.44413  nsubj(v,Owners)
+-1.44413  nsubj(a1,Owners)
+
+// -1.44265  nsubj(v,Product)
+-1.44265  nsubj(a1,Product)
+
+// -1.44413  nsubj(v,Warnings)
+-1.44413  nsubj(a1,Warnings)
+
+// -1.44413  nsubj(v,Toothpaste)
+-1.44413  nsubj(a1,Toothpaste)
+
+// -1.44413  nsubj(v,Polish)
+-1.44413  nsubj(a1,Polish)
+
+// -1.44413  nsubj(v,Guide)
+-1.44413  nsubj(a1,Guide)
+
+// -1.44265  nsubj(v,Scratches)
+-1.44265  nsubj(a1,Scratches)
+
+// -1.44413  nsubj(v,Dust)
+-1.44413  nsubj(a1,Dust)
+
+// -1.44413  nsubj(v,Link)
+-1.44413  nsubj(a1,Link)
+
+// -1.44413  nsubj(v,Cookers)
+-1.44413  nsubj(a1,Cookers)
+
+// -1.44117  nsubj(v,Toothpick)
+-1.44117  nsubj(a1,Toothpick)
+
+// -1.44265  nsubj(v,Cake)
+-1.44265  nsubj(a1,Cake)
+
+// -1.44413  nsubj(v,Case)
+-1.44413  nsubj(a1,Case)
+
+// -1.44265  nsubj(v,Ricotta)
+-1.44265  nsubj(a1,Ricotta)
+
+// -1.44265  nsubj(v,Formula)
+-1.44265  nsubj(a1,Formula)
+
+// -1.44413  nsubj(v,Flow)
+-1.44413  nsubj(a1,Flow)
+
+// -1.4397  nsubj(v,Baby)
+-1.4397  nsubj(a1,Baby)
+
+// -1.44265  nsubj(v,Ring)
+-1.44265  nsubj(a1,Ring)
+
+// -1.44413  nsubj(v,Ability)
+-1.44413  nsubj(a1,Ability)
+
+// -1.44413  nsubj(v,Strategy)
+-1.44413  nsubj(a1,Strategy)
+
+// -1.44413  nsubj(v,Plans)
+-1.44413  nsubj(a1,Plans)
+
+// -1.44413  nsubj(v,Spicy)
+-1.44413  nsubj(a1,Spicy)
+
+// -1.44413  nsubj(v,Soup)
+-1.44413  nsubj(a1,Soup)
+
+// -1.44413  nsubj(v,Manipulation)
+-1.44413  nsubj(a1,Manipulation)
+
+// -1.44413  nsubj(v,Injections)
+-1.44413  nsubj(a1,Injections)
+
+// -1.44413  nsubj(v,Immunotherapy)
+-1.44413  nsubj(a1,Immunotherapy)
+
+// -1.44413  nsubj(v,Treatment)
+-1.44413  nsubj(a1,Treatment)
+
+// -1.44413  nsubj(v,Symptom)
+-1.44413  nsubj(a1,Symptom)
+
+// -1.44413  nsubj(v,Pop)
+-1.44413  nsubj(a1,Pop)
+
+// -1.44265  nsubj(v,Cheese)
+-1.44265  nsubj(a1,Cheese)
+
+// -1.44413  nsubj(v,Thigh)
+-1.44413  nsubj(a1,Thigh)
+
+// -1.44413  nsubj(v,Fan)
+-1.44413  nsubj(a1,Fan)
+
+// -1.44413  nsubj(v,Cleanser)
+-1.44413  nsubj(a1,Cleanser)
+
+// -1.44413  nsubj(v,Showerhead)
+-1.44413  nsubj(a1,Showerhead)
+
+// -1.44413  nsubj(v,Bleach)
+-1.44413  nsubj(a1,Bleach)
+
+// -1.44413  nsubj(v,Gallon)
+-1.44413  nsubj(a1,Gallon)
+
+// -1.44413  nsubj(v,Betta)
+-1.44413  nsubj(a1,Betta)
+
+// -1.44413  nsubj(v,Sponge)
+-1.44413  nsubj(a1,Sponge)
+
+// -1.44413  nsubj(v,Vegans)
+-1.44413  nsubj(a1,Vegans)
+
+// -1.44413  nsubj(v,Misconceptions)
+-1.44413  nsubj(a1,Misconceptions)
+
+// -1.44265  nsubj(v,Everybody)
+-1.44265  nsubj(a1,Everybody)
+
+// -1.44413  nsubj(v,Calcium)
+-1.44413  nsubj(a1,Calcium)
+
+// -1.44413  nsubj(v,Fiber)
+-1.44413  nsubj(a1,Fiber)
+
+// -1.44413  nsubj(v,Popcorn)
+-1.44413  nsubj(a1,Popcorn)
+
+// -1.44117  nsubj(v,Iodine)
+-1.44117  nsubj(a1,Iodine)
+
+// -1.44413  nsubj(v,Hormones)
+-1.44413  nsubj(a1,Hormones)
+
+// -1.44265  nsubj(v,Eggs)
+-1.44265  nsubj(a1,Eggs)
+
+// -1.44413  nsubj(v,Cells)
+-1.44413  nsubj(a1,Cells)
+
+// -1.44413  nsubj(v,Egg)
+-1.44413  nsubj(a1,Egg)
+
+// -1.44413  nsubj(v,Potassium)
+-1.44413  nsubj(a1,Potassium)
+
+// -1.44265  nsubj(v,Soda)
+-1.44265  nsubj(a1,Soda)
+
+// -1.44265  nsubj(v,Oatmeal)
+-1.44265  nsubj(a1,Oatmeal)
+
+// -1.44413  nsubj(v,Cereal)
+-1.44413  nsubj(a1,Cereal)
+
+// -1.44117  nsubj(v,Carbohydrates)
+-1.44117  nsubj(a1,Carbohydrates)
+
+// -1.44413  nsubj(v,Life)
+-1.44413  nsubj(a1,Life)
+
+// -1.44413  nsubj(v,Builders)
+-1.44413  nsubj(a1,Builders)
+
+// -1.44413  nsubj(v,Substitutes)
+-1.44413  nsubj(a1,Substitutes)
+
+// -1.44413  nsubj(v,Acids)
+-1.44413  nsubj(a1,Acids)
+
+// -1.44413  nsubj(v,Green)
+-1.44413  nsubj(a1,Green)
+
+// -1.44413  nsubj(v,Potatoes)
+-1.44413  nsubj(a1,Potatoes)
+
+// -1.44413  nsubj(v,Math)
+-1.44413  nsubj(a1,Math)
+
+// -1.44413  nsubj(v,Threshold)
+-1.44413  nsubj(a1,Threshold)
+
+// -1.44413  nsubj(v,Belly)
+-1.44413  nsubj(a1,Belly)
+
+// -1.44413  nsubj(v,Redhot)
+-1.44413  nsubj(a1,Redhot)
+
+// -1.44413  nsubj(v,Blood)
+-1.44413  nsubj(a1,Blood)
+
+// -1.44413  nsubj(v,Liners)
+-1.44413  nsubj(a1,Liners)
+
+// -1.44265  nsubj(v,Cabinet)
+-1.44265  nsubj(a1,Cabinet)
+
+// -1.44413  nsubj(v,Pens)
+-1.44413  nsubj(a1,Pens)
+
+// -1.44413  nsubj(v,Tests)
+-1.44413  nsubj(a1,Tests)
+
+// -1.44413  nsubj(v,Chemical)
+-1.44413  nsubj(a1,Chemical)
+
+// -1.44413  nsubj(v,Safe)
+-1.44413  nsubj(a1,Safe)
+
+// -1.44265  nsubj(v,Store)
+-1.44265  nsubj(a1,Store)
+
+// -1.44413  nsubj(v,Fastener)
+-1.44413  nsubj(a1,Fastener)
+
+// -1.44117  nsubj(v,Container)
+-1.44117  nsubj(a1,Container)
+
+// -1.44265  nsubj(v,Sparks)
+-1.44265  nsubj(a1,Sparks)
+
+// -1.44413  nsubj(v,Extent)
+-1.44413  nsubj(a1,Extent)
+
+// -1.44413  nsubj(v,Presbyopia)
+-1.44413  nsubj(a1,Presbyopia)
+
+// -1.44413  nsubj(v,Factors)
+-1.44413  nsubj(a1,Factors)
+
+// -1.44413  nsubj(v,Sensitivity)
+-1.44413  nsubj(a1,Sensitivity)
+
+// -1.44413  nsubj(v,Results)
+-1.44413  nsubj(a1,Results)
+
+// -1.44413  nsubj(v,Ophthalmologists)
+-1.44413  nsubj(a1,Ophthalmologists)
+
+// -1.44413  nsubj(v,Oilmilkcrack)
+-1.44413  nsubj(a1,Oilmilkcrack)
+
+// -1.44413  nsubj(v,Glycerin)
+-1.44413  nsubj(a1,Glycerin)
+
+// -1.44413  nsubj(v,Honey)
+-1.44413  nsubj(a1,Honey)
+
+// -1.44413  nsubj(v,Compliments)
+-1.44413  nsubj(a1,Compliments)
+
+// -1.44265  nsubj(v,Tablespoon)
+-1.44265  nsubj(a1,Tablespoon)
+
+// -1.44413  nsubj(v,Drop)
+-1.44413  nsubj(a1,Drop)
+
+// -1.44413  nsubj(v,Noticeable)
+-1.44413  nsubj(a1,Noticeable)
+
+// -1.44413  nsubj(v,Areas)
+-1.44413  nsubj(a1,Areas)
+
+// -1.44413  nsubj(v,Six)
+-1.44413  nsubj(a1,Six)
+
+// -1.44413  nsubj(v,Superstitious)
+-1.44413  nsubj(a1,Superstitious)
+
+// -1.44413  nsubj(v,Luck)
+-1.44413  nsubj(a1,Luck)
+
+// -1.44265  nsubj(v,Word)
+-1.44265  nsubj(a1,Word)
+
+// -1.44413  nsubj(v,Casino)
+-1.44413  nsubj(a1,Casino)
+
+// -1.44413  nsubj(v,Combinations)
+-1.44413  nsubj(a1,Combinations)
+
+// -1.44117  nsubj(v,Odds)
+-1.44117  nsubj(a1,Odds)
+
+// -1.44265  nsubj(v,Casinos)
+-1.44265  nsubj(a1,Casinos)
+
+// -1.44413  nsubj(v,Roll)
+-1.44413  nsubj(a1,Roll)
+
+// -1.44413  nsubj(v,Own)
+-1.44413  nsubj(a1,Own)
+
+// -1.44413  nsubj(v,Dealer)
+-1.44413  nsubj(a1,Dealer)
+
+// -1.44413  nsubj(v,Additional)
+-1.44413  nsubj(a1,Additional)
+
+// -1.44413  nsubj(v,Guys)
+-1.44413  nsubj(a1,Guys)
+
+// -1.44413  nsubj(v,Pass)
+-1.44413  nsubj(a1,Pass)
+
+// -1.44413  nsubj(v,Bettors)
+-1.44413  nsubj(a1,Bettors)
+
+// -1.44413  nsubj(v,Percentages)
+-1.44413  nsubj(a1,Percentages)
+
+// -1.44413  nsubj(v,Shoeboxes)
+-1.44413  nsubj(a1,Shoeboxes)
+
+// -1.44117  nsubj(v,Fats)
+-1.44117  nsubj(a1,Fats)
+
+// -1.44413  nsubj(v,Blueberries)
+-1.44413  nsubj(a1,Blueberries)
+
+// -1.44413  nsubj(v,Creature)
+-1.44413  nsubj(a1,Creature)
+
+// -1.44413  nsubj(v,Salmon)
+-1.44413  nsubj(a1,Salmon)
+
+// -1.44413  nsubj(v,Quercetin)
+-1.44413  nsubj(a1,Quercetin)
+
+// -1.44413  nsubj(v,Wine)
+-1.44413  nsubj(a1,Wine)
+
+// -1.44265  nsubj(v,Scientists)
+-1.44265  nsubj(a1,Scientists)
+
+// -1.44413  nsubj(v,Intake)
+-1.44413  nsubj(a1,Intake)
+
+// -1.44413  nsubj(v,Mass)
+-1.44413  nsubj(a1,Mass)
+
+// -1.44413  nsubj(v,Effect)
+-1.44413  nsubj(a1,Effect)
+
+// -1.44413  nsubj(v,Sips)
+-1.44413  nsubj(a1,Sips)
+
+// -1.44413  nsubj(v,Hem)
+-1.44413  nsubj(a1,Hem)
+
+// -1.44413  nsubj(v,Duvets)
+-1.44413  nsubj(a1,Duvets)
+
+// -1.44413  nsubj(v,Cases)
+-1.44413  nsubj(a1,Cases)
+
+// -1.44413  nsubj(v,Pillow)
+-1.44413  nsubj(a1,Pillow)
+
+// -1.44413  nsubj(v,Quilt)
+-1.44413  nsubj(a1,Quilt)
+
+// -1.44413  nsubj(v,Bedroom)
+-1.44413  nsubj(a1,Bedroom)
+
+// -1.44413  nsubj(v,Weeks)
+-1.44413  nsubj(a1,Weeks)
+
+// -1.44413  nsubj(v,Corners)
+-1.44413  nsubj(a1,Corners)
+
+// -1.44413  nsubj(v,Advice)
+-1.44413  nsubj(a1,Advice)
+
+// -1.44413  nsubj(v,Pad)
+-1.44413  nsubj(a1,Pad)
+
+// -1.44413  nsubj(v,Wand)
+-1.44413  nsubj(a1,Wand)
+
+// -1.44413  nsubj(v,Medium)
+-1.44413  nsubj(a1,Medium)
+
+// -1.44413  nsubj(v,Portafilter)
+-1.44413  nsubj(a1,Portafilter)
+
+// -1.44413  nsubj(v,Shot)
+-1.44413  nsubj(a1,Shot)
+
+// -1.44413  nsubj(v,Little)
+-1.44413  nsubj(a1,Little)
+
+// -1.44413  nsubj(v,Majority)
+-1.44413  nsubj(a1,Majority)
+
+// -1.44413  nsubj(v,User)
+-1.44413  nsubj(a1,User)
+
+// -1.44265  nsubj(v,Workbench)
+-1.44265  nsubj(a1,Workbench)
+
+// -1.44413  nsubj(v,Trays)
+-1.44413  nsubj(a1,Trays)
+
+// -1.44413  nsubj(v,Planning)
+-1.44413  nsubj(a1,Planning)
+
+// -1.44413  nsubj(v,Plywood)
+-1.44413  nsubj(a1,Plywood)
+
+// -1.44413  nsubj(v,Star)
+-1.44413  nsubj(a1,Star)
+
+// -1.44413  nsubj(v,Opponents)
+-1.44413  nsubj(a1,Opponents)
+
+// -1.44413  nsubj(v,Addition)
+-1.44413  nsubj(a1,Addition)
+
+// -1.44413  nsubj(v,Challenger)
+-1.44413  nsubj(a1,Challenger)
+
+// -1.44413  nsubj(v,Fashioned)
+-1.44413  nsubj(a1,Fashioned)
+
+// -1.44265  nsubj(v,Cravings)
+-1.44265  nsubj(a1,Cravings)
+
+// -1.44413  nsubj(v,Discussion)
+-1.44413  nsubj(a1,Discussion)
+
+// -1.44413  nsubj(v,Batch)
+-1.44413  nsubj(a1,Batch)
+
+// -1.44413  nsubj(v,Fix)
+-1.44413  nsubj(a1,Fix)
+
+// -1.44413  nsubj(v,Beverages)
+-1.44413  nsubj(a1,Beverages)
+
+// -1.44413  nsubj(v,Remote)
+-1.44413  nsubj(a1,Remote)
+
+// -1.44413  nsubj(v,Hues)
+-1.44413  nsubj(a1,Hues)
+
+// -1.4397  nsubj(v,Kitchen)
+-1.4397  nsubj(a1,Kitchen)
+
+// -1.44413  nsubj(v,Flower)
+-1.44413  nsubj(a1,Flower)
+
+// -1.44413  nsubj(v,Kitchens)
+-1.44413  nsubj(a1,Kitchens)
+
+// -1.44413  nsubj(v,Appliances)
+-1.44413  nsubj(a1,Appliances)
+
+// -1.44413  nsubj(v,Mirrors)
+-1.44413  nsubj(a1,Mirrors)
+
+// -1.44413  nsubj(v,Tiles)
+-1.44413  nsubj(a1,Tiles)
+
+// -1.44413  nsubj(v,Unexpected)
+-1.44413  nsubj(a1,Unexpected)
+
+// -1.44413  nsubj(v,Guns)
+-1.44413  nsubj(a1,Guns)
+
+// -1.44413  nsubj(v,Lamp)
+-1.44413  nsubj(a1,Lamp)
+
+// -1.44413  nsubj(v,Sconce)
+-1.44413  nsubj(a1,Sconce)
+
+// -1.44413  nsubj(v,Stores)
+-1.44413  nsubj(a1,Stores)
+
+// -1.2281  dobj(v,Bears)
+-1.2281  dobj(a1,Bears)
+
+// -1.22692  dobj(v,Pets)
+-1.22692  dobj(a1,Pets)
+
+// -1.22574  dobj(v,Drain)
+-1.22574  dobj(a1,Drain)
+
+// -1.2281  dobj(v,Vodka)
+-1.2281  dobj(a1,Vodka)
+
+// -1.22692  dobj(v,Strainer)
+-1.22692  dobj(a1,Strainer)
+
+// -0.93508  dobj(v,It)
+-0.93508  dobj(a1,It)
+
+// -1.22456  dobj(v,Problems)
+-1.22456  dobj(a1,Problems)
+
+// -1.2281  dobj(v,Placemats)
+-1.2281  dobj(a1,Placemats)
+
+// -1.2281  dobj(v,Napkin)
+-1.2281  dobj(a1,Napkin)
+
+// -1.11997  dobj(v,Them)
+-1.11997  dobj(a1,Them)
+
+// -1.21868  dobj(v,Meals)
+-1.21868  dobj(a1,Meals)
+
+// -1.22574  dobj(v,Salad)
+-1.22574  dobj(a1,Salad)
+
+// -1.22574  dobj(v,Utensils)
+-1.22574  dobj(a1,Utensils)
+
+// -1.21632  dobj(v,Way)
+-1.21632  dobj(a1,Way)
+
+// -1.21985  dobj(v,Fork)
+-1.21985  dobj(a1,Fork)
+
+// -1.20224  dobj(v,Something)
+-1.20224  dobj(a1,Something)
+
+// -1.2281  dobj(v,Gesture)
+-1.2281  dobj(a1,Gesture)
+
+// -1.22339  dobj(v,Knife)
+-1.22339  dobj(a1,Knife)
+
+// -1.22221  dobj(v,Inches)
+-1.22221  dobj(a1,Inches)
+
+// -1.22692  dobj(v,Glasses)
+-1.22692  dobj(a1,Glasses)
+
+// -1.20342  dobj(v,This)
+-1.20342  dobj(a1,This)
+
+// -1.22221  dobj(v,Lines)
+-1.22221  dobj(a1,Lines)
+
+// -1.2281  dobj(v,Brown)
+-1.2281  dobj(a1,Brown)
+
+// -1.2281  dobj(v,Depressor)
+-1.2281  dobj(a1,Depressor)
+
+// -1.19055  dobj(v,What)
+-1.19055  dobj(a1,What)
+
+// -1.22221  dobj(v,Diet)
+-1.22221  dobj(a1,Diet)
+
+// -1.2281  dobj(v,Dip)
+-1.2281  dobj(a1,Dip)
+
+// -1.21163  dobj(v,Things)
+-1.21163  dobj(a1,Things)
+
+// -1.22574  dobj(v,Carbs)
+-1.22574  dobj(a1,Carbs)
+
+// -1.2281  dobj(v,Eat)
+-1.2281  dobj(a1,Eat)
+
+// -1.22692  dobj(v,Signal)
+-1.22692  dobj(a1,Signal)
+
+// -1.22221  dobj(v,Which)
+-1.22221  dobj(a1,Which)
+
+// -1.2281  dobj(v,Lunch)
+-1.2281  dobj(a1,Lunch)
+
+// -1.2281  dobj(v,Apple)
+-1.2281  dobj(a1,Apple)
+
+// -1.21868  dobj(v,Body)
+-1.21868  dobj(a1,Body)
+
+// -1.21985  dobj(v,Alcohol)
+-1.21985  dobj(a1,Alcohol)
+
+// -1.20576  dobj(v,Tea)
+-1.20576  dobj(a1,Tea)
+
+// -1.21985  dobj(v,Couple)
+-1.21985  dobj(a1,Couple)
+
+// -1.22456  dobj(v,Amounts)
+-1.22456  dobj(a1,Amounts)
+
+// -1.22574  dobj(v,Advantage)
+-1.22574  dobj(a1,Advantage)
+
+// -1.22339  dobj(v,Intake)
+-1.22339  dobj(a1,Intake)
+
+// -1.2281  dobj(v,Mass)
+-1.2281  dobj(a1,Mass)
+
+// -1.2281  dobj(v,Their)
+-1.2281  dobj(a1,Their)
+
+// -1.2281  dobj(v,Full)
+-1.2281  dobj(a1,Full)
+
+// -1.22221  dobj(v,Variety)
+-1.22221  dobj(a1,Variety)
+
+// -1.22692  dobj(v,Next)
+-1.22692  dobj(a1,Next)
+
+// -1.2281  dobj(v,Wonders)
+-1.2281  dobj(a1,Wonders)
+
+// -1.22692  dobj(v,Em)
+-1.22692  dobj(a1,Em)
+
+// -1.2281  dobj(v,Stairs)
+-1.2281  dobj(a1,Stairs)
+
+// -1.22692  dobj(v,Chair)
+-1.22692  dobj(a1,Chair)
+
+// -1.19055  dobj(v,Yourself)
+-1.19055  dobj(a1,Yourself)
+
+// -1.22339  dobj(v,Light)
+-1.22339  dobj(a1,Light)
+
+// -1.21397  dobj(v,Clothes)
+-1.21397  dobj(a1,Clothes)
+
+// -1.21868  dobj(v,Color)
+-1.21868  dobj(a1,Color)
+
+// -1.2281  dobj(v,Two)
+-1.2281  dobj(a1,Two)
+
+// -1.13376  dobj(v,Person)
+-1.13376  dobj(a1,Person)
+
+// -1.16959  dobj(v,Water)
+-1.16959  dobj(a1,Water)
+
+// -1.22456  dobj(v,Colors)
+-1.22456  dobj(a1,Colors)
+
+// -1.21985  dobj(v,Stains)
+-1.21985  dobj(a1,Stains)
+
+// -1.20459  dobj(v,Amount)
+-1.20459  dobj(a1,Amount)
+
+// -1.22574  dobj(v,Machine)
+-1.22574  dobj(a1,Machine)
+
+// -1.2281  dobj(v,Bright)
+-1.2281  dobj(a1,Bright)
+
+// -1.22692  dobj(v,Shirts)
+-1.22692  dobj(a1,Shirts)
+
+// -1.22692  dobj(v,Detergent)
+-1.22692  dobj(a1,Detergent)
+
+// -1.2081  dobj(v,Bottle)
+-1.2081  dobj(a1,Bottle)
+
+// -1.22574  dobj(v,Whites)
+-1.22574  dobj(a1,Whites)
+
+// -1.22456  dobj(v,Softener)
+-1.22456  dobj(a1,Softener)
+
+// -1.22574  dobj(v,Cycle)
+-1.22574  dobj(a1,Cycle)
+
+// -1.20342  dobj(v,Heat)
+-1.20342  dobj(a1,Heat)
+
+// -1.21985  dobj(v,System)
+-1.21985  dobj(a1,System)
+
+// -1.2281  dobj(v,Press)
+-1.2281  dobj(a1,Press)
+
+// -1.2281  dobj(v,Fade)
+-1.2281  dobj(a1,Fade)
+
+// -1.2281  dobj(v,Bucket)
+-1.2281  dobj(a1,Bucket)
+
+// -1.22574  dobj(v,Sink)
+-1.22574  dobj(a1,Sink)
+
+// -1.2281  dobj(v,Drinking)
+-1.2281  dobj(a1,Drinking)
+
+// -1.2175  dobj(v,Lot)
+-1.2175  dobj(a1,Lot)
+
+// -1.2281  dobj(v,Reputation)
+-1.2281  dobj(a1,Reputation)
+
+// -1.2281  dobj(v,Limits)
+-1.2281  dobj(a1,Limits)
+
+// -1.2281  dobj(v,Night)
+-1.2281  dobj(a1,Night)
+
+// -1.2281  dobj(v,Pace)
+-1.2281  dobj(a1,Pace)
+
+// -1.22103  dobj(v,Someone)
+-1.22103  dobj(a1,Someone)
+
+// -1.22692  dobj(v,Car)
+-1.22692  dobj(a1,Car)
+
+// -1.22339  dobj(v,Access)
+-1.22339  dobj(a1,Access)
+
+// -1.22456  dobj(v,Much)
+-1.22456  dobj(a1,Much)
+
+// -1.2281  dobj(v,Senses)
+-1.2281  dobj(a1,Senses)
+
+// -1.21515  dobj(v,Number)
+-1.21515  dobj(a1,Number)
+
+// -1.22574  dobj(v,Him)
+-1.22574  dobj(a1,Him)
+
+// -1.22339  dobj(v,Home)
+-1.22339  dobj(a1,Home)
+
+// -1.22103  dobj(v,Friend)
+-1.22103  dobj(a1,Friend)
+
+// -1.2281  dobj(v,Otherwise)
+-1.2281  dobj(a1,Otherwise)
+
+// -1.2281  dobj(v,Conflicts)
+-1.2281  dobj(a1,Conflicts)
+
+// -1.19756  dobj(v,Food)
+-1.19756  dobj(a1,Food)
+
+// -1.2281  dobj(v,Bite)
+-1.2281  dobj(a1,Bite)
+
+// -1.2281  dobj(v,Dose)
+-1.2281  dobj(a1,Dose)
+
+// -1.21985  dobj(v,Cups)
+-1.21985  dobj(a1,Cups)
+
+// -1.21985  dobj(v,Drink)
+-1.21985  dobj(a1,Drink)
+
+// -1.19522  dobj(v,One)
+-1.19522  dobj(a1,One)
+
+// -1.22692  dobj(v,Ratio)
+-1.22692  dobj(a1,Ratio)
+
+// -1.22692  dobj(v,Concentration)
+-1.22692  dobj(a1,Concentration)
+
+// -1.2281  dobj(v,Tolerance)
+-1.2281  dobj(a1,Tolerance)
+
+// -1.22456  dobj(v,Content)
+-1.22456  dobj(a1,Content)
+
+// -1.22692  dobj(v,Difference)
+-1.22692  dobj(a1,Difference)
+
+// -1.22692  dobj(v,Games)
+-1.22692  dobj(a1,Games)
+
+// -1.22456  dobj(v,Note)
+-1.22456  dobj(a1,Note)
+
+// -1.21045  dobj(v,Point)
+-1.21045  dobj(a1,Point)
+
+// -1.22692  dobj(v,Strategy)
+-1.22692  dobj(a1,Strategy)
+
+// -1.2281  dobj(v,Memory)
+-1.2281  dobj(a1,Memory)
+
+// -1.2175  dobj(v,More)
+-1.2175  dobj(a1,More)
+
+// -1.22574  dobj(v,Soda)
+-1.22574  dobj(a1,Soda)
+
+// -1.2281  dobj(v,Lime)
+-1.2281  dobj(a1,Lime)
+
+// -1.2175  dobj(v,Pressure)
+-1.2175  dobj(a1,Pressure)
+
+// -1.22692  dobj(v,Excess)
+-1.22692  dobj(a1,Excess)
+
+// -1.22574  dobj(v,Watch)
+-1.22574  dobj(a1,Watch)
+
+// -1.2281  dobj(v,Poisoning)
+-1.2281  dobj(a1,Poisoning)
+
+// -1.2281  dobj(v,Intervention)
+-1.2281  dobj(a1,Intervention)
+
+// -1.22692  dobj(v,Anyone)
+-1.22692  dobj(a1,Anyone)
+
+// -1.21045  dobj(v,Bowl)
+-1.21045  dobj(a1,Bowl)
+
+// -1.2128  dobj(v,Microwave)
+-1.2128  dobj(a1,Microwave)
+
+// -1.22574  dobj(v,Interior)
+-1.22574  dobj(a1,Interior)
+
+// -1.22692  dobj(v,Insides)
+-1.22692  dobj(a1,Insides)
+
+// -1.20928  dobj(v,Cloth)
+-1.20928  dobj(a1,Cloth)
+
+// -1.22692  dobj(v,Lemon)
+-1.22692  dobj(a1,Lemon)
+
+// -1.21515  dobj(v,Hands)
+-1.21515  dobj(a1,Hands)
+
+// -1.2175  dobj(v,Skin)
+-1.2175  dobj(a1,Skin)
+
+// -1.22456  dobj(v,The)
+-1.22456  dobj(a1,The)
+
+// -1.21985  dobj(v,Item)
+-1.21985  dobj(a1,Item)
+
+// -1.22339  dobj(v,Back)
+-1.22339  dobj(a1,Back)
+
+// -1.2281  dobj(v,Morsels)
+-1.2281  dobj(a1,Morsels)
+
+// -1.22574  dobj(v,Set)
+-1.22574  dobj(a1,Set)
+
+// -1.22574  dobj(v,Arm)
+-1.22574  dobj(a1,Arm)
+
+// -1.22456  dobj(v,Bowls)
+-1.22456  dobj(a1,Bowls)
+
+// -1.22692  dobj(v,Cleanser)
+-1.22692  dobj(a1,Cleanser)
+
+// -1.22692  dobj(v,Agent)
+-1.22692  dobj(a1,Agent)
+
+// -1.2281  dobj(v,Cupboard)
+-1.2281  dobj(a1,Cupboard)
+
+// -1.21985  dobj(v,Bag)
+-1.21985  dobj(a1,Bag)
+
+// -1.22456  dobj(v,Spoon)
+-1.22456  dobj(a1,Spoon)
+
+// -1.2281  dobj(v,Period)
+-1.2281  dobj(a1,Period)
+
+// -1.22456  dobj(v,Cheese)
+-1.22456  dobj(a1,Cheese)
+
+// -1.17773  dobj(v,Milk)
+-1.17773  dobj(a1,Milk)
+
+// -1.22339  dobj(v,Thermometer)
+-1.22339  dobj(a1,Thermometer)
+
+// -1.21163  dobj(v,Glass)
+-1.21163  dobj(a1,Glass)
+
+// -1.22221  dobj(v,Sizes)
+-1.22221  dobj(a1,Sizes)
+
+// -1.22221  dobj(v,List)
+-1.22221  dobj(a1,List)
+
+// -1.22456  dobj(v,Journal)
+-1.22456  dobj(a1,Journal)
+
+// -1.22574  dobj(v,App)
+-1.22574  dobj(a1,App)
+
+// -1.21163  dobj(v,Calories)
+-1.21163  dobj(a1,Calories)
+
+// -1.2281  dobj(v,Track)
+-1.2281  dobj(a1,Track)
+
+// -1.22339  dobj(v,Section)
+-1.22339  dobj(a1,Section)
+
+// -1.22692  dobj(v,Pounds)
+-1.22692  dobj(a1,Pounds)
+
+// -1.22339  dobj(v,Snacks)
+-1.22339  dobj(a1,Snacks)
+
+// -1.2281  dobj(v,Liter)
+-1.2281  dobj(a1,Liter)
+
+// -1.2175  dobj(v,Weight)
+-1.2175  dobj(a1,Weight)
+
+// -1.22456  dobj(v,Fruit)
+-1.22456  dobj(a1,Fruit)
+
+// -1.22692  dobj(v,Apples)
+-1.22692  dobj(a1,Apples)
+
+// -1.2281  dobj(v,Celery)
+-1.2281  dobj(a1,Celery)
+
+// -1.2281  dobj(v,Stirfry)
+-1.2281  dobj(a1,Stirfry)
+
+// -1.2281  dobj(v,Ounces)
+-1.2281  dobj(a1,Ounces)
+
+// -1.22221  dobj(v,Flour)
+-1.22221  dobj(a1,Flour)
+
+// -1.22456  dobj(v,Energy)
+-1.22456  dobj(a1,Energy)
+
+// -1.22221  dobj(v,Ingredients)
+-1.22221  dobj(a1,Ingredients)
+
+// -1.22692  dobj(v,Carbohydrates)
+-1.22692  dobj(a1,Carbohydrates)
+
+// -1.20928  dobj(v,Foods)
+-1.20928  dobj(a1,Foods)
+
+// -1.2281  dobj(v,Turkey)
+-1.2281  dobj(a1,Turkey)
+
+// -1.22221  dobj(v,Plenty)
+-1.22221  dobj(a1,Plenty)
+
+// -1.22692  dobj(v,Dairy)
+-1.22692  dobj(a1,Dairy)
+
+// -1.21515  dobj(v,Meat)
+-1.21515  dobj(a1,Meat)
+
+// -1.2281  dobj(v,Sticking)
+-1.2281  dobj(a1,Sticking)
+
+// -1.22692  dobj(v,Percent)
+-1.22692  dobj(a1,Percent)
+
+// -1.22692  dobj(v,Whatever)
+-1.22692  dobj(a1,Whatever)
+
+// -1.2281  dobj(v,Saltier)
+-1.2281  dobj(a1,Saltier)
+
+// -1.22339  dobj(v,Portions)
+-1.22339  dobj(a1,Portions)
+
+// -1.22574  dobj(v,Snack)
+-1.22574  dobj(a1,Snack)
+
+// -1.22692  dobj(v,Burning)
+-1.22692  dobj(a1,Burning)
+
+// -1.22692  dobj(v,Pedometer)
+-1.22692  dobj(a1,Pedometer)
+
+// -1.21632  dobj(v,Steps)
+-1.21632  dobj(a1,Steps)
+
+// -1.22574  dobj(v,Nothing)
+-1.22574  dobj(a1,Nothing)
+
+// -1.22692  dobj(v,Moving)
+-1.22692  dobj(a1,Moving)
+
+// -1.22574  dobj(v,Exercises)
+-1.22574  dobj(a1,Exercises)
+
+// -1.2281  dobj(v,Bike)
+-1.2281  dobj(a1,Bike)
+
+// -1.2281  dobj(v,Trainer)
+-1.2281  dobj(a1,Trainer)
+
+// -1.22339  dobj(v,Form)
+-1.22339  dobj(a1,Form)
+
+// -1.2281  dobj(v,Core)
+-1.2281  dobj(a1,Core)
+
+// -1.2281  dobj(v,Machines)
+-1.2281  dobj(a1,Machines)
+
+// -1.22574  dobj(v,Day)
+-1.22574  dobj(a1,Day)
+
+// -1.2281  dobj(v,Sports)
+-1.2281  dobj(a1,Sports)
+
+// -1.2281  dobj(v,Golf)
+-1.2281  dobj(a1,Golf)
+
+// -1.2281  dobj(v,Hiking)
+-1.2281  dobj(a1,Hiking)
+
+// -1.22103  dobj(v,Game)
+-1.22103  dobj(a1,Game)
+
+// -1.2281  dobj(v,Bicycle)
+-1.2281  dobj(a1,Bicycle)
+
+// -1.20224  dobj(v,Time)
+-1.20224  dobj(a1,Time)
+
+// -1.2281  dobj(v,Bites)
+-1.2281  dobj(a1,Bites)
+
+// -1.22574  dobj(v,Plates)
+-1.22574  dobj(a1,Plates)
+
+// -1.21632  dobj(v,Plate)
+-1.21632  dobj(a1,Plate)
+
+// -1.2281  dobj(v,Tablecloth)
+-1.2281  dobj(a1,Tablecloth)
+
+// -1.2281  dobj(v,Television)
+-1.2281  dobj(a1,Television)
+
+// -1.22221  dobj(v,Any)
+-1.22221  dobj(a1,Any)
+
+// -1.22692  dobj(v,Rewards)
+-1.22692  dobj(a1,Rewards)
+
+// -1.22339  dobj(v,Right)
+-1.22339  dobj(a1,Right)
+
+// -1.2281  dobj(v,Manicure)
+-1.2281  dobj(a1,Manicure)
+
+// -1.22221  dobj(v,Goal)
+-1.22221  dobj(a1,Goal)
+
+// -1.2281  dobj(v,Pound)
+-1.2281  dobj(a1,Pound)
+
+// -1.22574  dobj(v,Groups)
+-1.22574  dobj(a1,Groups)
+
+// -1.20928  dobj(v,Cup)
+-1.20928  dobj(a1,Cup)
+
+// -1.22692  dobj(v,Pyramid)
+-1.22692  dobj(a1,Pyramid)
+
+// -1.2281  dobj(v,Turns)
+-1.2281  dobj(a1,Turns)
+
+// -1.22574  dobj(v,Ball)
+-1.22574  dobj(a1,Ball)
+
+// -1.2281  dobj(v,Tally)
+-1.2281  dobj(a1,Tally)
+
+// -1.22692  dobj(v,Log)
+-1.22692  dobj(a1,Log)
+
+// -1.2281  dobj(v,Who)
+-1.2281  dobj(a1,Who)
+
+// -1.2081  dobj(v,Money)
+-1.2081  dobj(a1,Money)
+
+// -1.21868  dobj(v,Cards)
+-1.21868  dobj(a1,Cards)
+
+// -1.21985  dobj(v,Card)
+-1.21985  dobj(a1,Card)
+
+// -1.22692  dobj(v,Email)
+-1.22692  dobj(a1,Email)
+
+// -1.22221  dobj(v,People)
+-1.22221  dobj(a1,People)
+
+// -1.22103  dobj(v,Length)
+-1.22103  dobj(a1,Length)
+
+// -1.2281  dobj(v,Grid)
+-1.2281  dobj(a1,Grid)
+
+// -1.22574  dobj(v,Progress)
+-1.22574  dobj(a1,Progress)
+
+// -1.2281  dobj(v,Names)
+-1.2281  dobj(a1,Names)
+
+// -1.22339  dobj(v,Place)
+-1.22339  dobj(a1,Place)
+
+// -1.22692  dobj(v,Consumption)
+-1.22692  dobj(a1,Consumption)
+
+// -1.2281  dobj(v,Donation)
+-1.2281  dobj(a1,Donation)
+
+// -1.2175  dobj(v,Some)
+-1.2175  dobj(a1,Some)
+
+// -1.2281  dobj(v,Cue)
+-1.2281  dobj(a1,Cue)
+
+// -1.2281  dobj(v,Call)
+-1.2281  dobj(a1,Call)
+
+// -1.2281  dobj(v,Fountain)
+-1.2281  dobj(a1,Fountain)
+
+// -1.22339  dobj(v,Name)
+-1.22339  dobj(a1,Name)
+
+// -1.2281  dobj(v,Breaks)
+-1.2281  dobj(a1,Breaks)
+
+// -1.2281  dobj(v,Can)
+-1.2281  dobj(a1,Can)
+
+// -1.22692  dobj(v,Case)
+-1.22692  dobj(a1,Case)
+
+// -1.22692  dobj(v,Habit)
+-1.22692  dobj(a1,Habit)
+
+// -1.22221  dobj(v,Legs)
+-1.22221  dobj(a1,Legs)
+
+// -1.22692  dobj(v,Teas)
+-1.22692  dobj(a1,Teas)
+
+// -1.2281  dobj(v,Caloriefree)
+-1.2281  dobj(a1,Caloriefree)
+
+// -1.21985  dobj(v,Pitcher)
+-1.21985  dobj(a1,Pitcher)
+
+// -1.22456  dobj(v,Chances)
+-1.22456  dobj(a1,Chances)
+
+// -1.21868  dobj(v,Cream)
+-1.21868  dobj(a1,Cream)
+
+// -1.22339  dobj(v,Liquid)
+-1.22339  dobj(a1,Liquid)
+
+// -1.22692  dobj(v,Microfoam)
+-1.22692  dobj(a1,Microfoam)
+
+// -1.22456  dobj(v,Foam)
+-1.22456  dobj(a1,Foam)
+
+// -1.2281  dobj(v,Lightness)
+-1.2281  dobj(a1,Lightness)
+
+// -1.22574  dobj(v,Seconds)
+-1.22574  dobj(a1,Seconds)
+
+// -1.2128  dobj(v,Hand)
+-1.2128  dobj(a1,Hand)
+
+// -1.2175  dobj(v,Bit)
+-1.2175  dobj(a1,Bit)
+
+// -1.2281  dobj(v,Revolution)
+-1.2281  dobj(a1,Revolution)
+
+// -1.22692  dobj(v,Stream)
+-1.22692  dobj(a1,Stream)
+
+// -1.2281  dobj(v,Circle)
+-1.2281  dobj(a1,Circle)
+
+// -1.22103  dobj(v,Tip)
+-1.22103  dobj(a1,Tip)
+
+// -1.2175  dobj(v,Word)
+-1.2175  dobj(a1,Word)
+
+// -1.2175  dobj(v,Chocolate)
+-1.2175  dobj(a1,Chocolate)
+
+// -1.22692  dobj(v,Pin)
+-1.22692  dobj(a1,Pin)
+
+// -1.22692  dobj(v,Design)
+-1.22692  dobj(a1,Design)
+
+// -1.22692  dobj(v,Syrup)
+-1.22692  dobj(a1,Syrup)
+
+// -1.2281  dobj(v,Outline)
+-1.2281  dobj(a1,Outline)
+
+// -1.22574  dobj(v,Circles)
+-1.22574  dobj(a1,Circles)
+
+// -1.22339  dobj(v,Drops)
+-1.22339  dobj(a1,Drops)
+
+// -1.22221  dobj(v,Pot)
+-1.22221  dobj(a1,Pot)
+
+// -1.2281  dobj(v,Pans)
+-1.2281  dobj(a1,Pans)
+
+// -1.2281  dobj(v,Stopper)
+-1.2281  dobj(a1,Stopper)
+
+// -1.2281  dobj(v,Procedure)
+-1.2281  dobj(a1,Procedure)
+
+// -1.2281  dobj(v,Scorching)
+-1.2281  dobj(a1,Scorching)
+
+// -1.22692  dobj(v,Burner)
+-1.22692  dobj(a1,Burner)
+
+// -1.21397  dobj(v,Temperature)
+-1.21397  dobj(a1,Temperature)
+
+// -1.22103  dobj(v,Gloves)
+-1.22103  dobj(a1,Gloves)
+
+// -1.22574  dobj(v,Instructions)
+-1.22574  dobj(a1,Instructions)
+
+// -1.22692  dobj(v,Break)
+-1.22692  dobj(a1,Break)
+
+// -1.22456  dobj(v,Most)
+-1.22456  dobj(a1,Most)
+
+// -1.22456  dobj(v,Brush)
+-1.22456  dobj(a1,Brush)
+
+// -1.22692  dobj(v,Suds)
+-1.22692  dobj(a1,Suds)
+
+// -1.22221  dobj(v,Power)
+-1.22221  dobj(a1,Power)
+
+// -1.22456  dobj(v,Cleaner)
+-1.22456  dobj(a1,Cleaner)
+
+// -1.22339  dobj(v,Pair)
+-1.22339  dobj(a1,Pair)
+
+// -1.22692  dobj(v,Toilet)
+-1.22692  dobj(a1,Toilet)
+
+// -1.22456  dobj(v,Cash)
+-1.22456  dobj(a1,Cash)
+
+// -1.22103  dobj(v,Solution)
+-1.22103  dobj(a1,Solution)
+
+// -1.21985  dobj(v,Soap)
+-1.21985  dobj(a1,Soap)
+
+// -1.2281  dobj(v,Drips)
+-1.2281  dobj(a1,Drips)
+
+// -1.22456  dobj(v,Areas)
+-1.22456  dobj(a1,Areas)
+
+// -1.22692  dobj(v,Wall)
+-1.22692  dobj(a1,Wall)
+
+// -1.22692  dobj(v,Cleaners)
+-1.22692  dobj(a1,Cleaners)
+
+// -1.2281  dobj(v,Quick)
+-1.2281  dobj(a1,Quick)
+
+// -1.2281  dobj(v,Success)
+-1.2281  dobj(a1,Success)
+
+// -1.22221  dobj(v,Inside)
+-1.22221  dobj(a1,Inside)
+
+// -1.22692  dobj(v,Cooking)
+-1.22692  dobj(a1,Cooking)
+
+// -1.22456  dobj(v,Idea)
+-1.22456  dobj(a1,Idea)
+
+// -1.2281  dobj(v,Decisions)
+-1.2281  dobj(a1,Decisions)
+
+// -1.21045  dobj(v,Items)
+-1.21045  dobj(a1,Items)
+
+// -1.22574  dobj(v,Ideas)
+-1.22574  dobj(a1,Ideas)
+
+// -1.22221  dobj(v,Dish)
+-1.22221  dobj(a1,Dish)
+
+// -1.2281  dobj(v,Now)
+-1.2281  dobj(a1,Now)
+
+// -1.22692  dobj(v,Cob)
+-1.22692  dobj(a1,Cob)
+
+// -1.22692  dobj(v,Stack)
+-1.22692  dobj(a1,Stack)
+
+// -1.2281  dobj(v,Markets)
+-1.2281  dobj(a1,Markets)
+
+// -1.22339  dobj(v,Pieces)
+-1.22339  dobj(a1,Pieces)
+
+// -1.2281  dobj(v,Ravioli)
+-1.2281  dobj(a1,Ravioli)
+
+// -1.22221  dobj(v,Little)
+-1.22221  dobj(a1,Little)
+
+// -1.22103  dobj(v,Size)
+-1.22103  dobj(a1,Size)
+
+// -1.22692  dobj(v,Less)
+-1.22692  dobj(a1,Less)
+
+// -1.22103  dobj(v,Containers)
+-1.22103  dobj(a1,Containers)
+
+// -1.2281  dobj(v,Trading)
+-1.2281  dobj(a1,Trading)
+
+// -1.22339  dobj(v,Group)
+-1.22339  dobj(a1,Group)
+
+// -1.2281  dobj(v,Mixes)
+-1.2281  dobj(a1,Mixes)
+
+// -1.2281  dobj(v,Soup)
+-1.2281  dobj(a1,Soup)
+
+// -1.22221  dobj(v,Bags)
+-1.22221  dobj(a1,Bags)
+
+// -1.2281  dobj(v,Packets)
+-1.2281  dobj(a1,Packets)
+
+// -1.2281  dobj(v,Processes)
+-1.2281  dobj(a1,Processes)
+
+// -1.2281  dobj(v,Separate)
+-1.2281  dobj(a1,Separate)
+
+// -1.2281  dobj(v,Package)
+-1.2281  dobj(a1,Package)
+
+// -1.22692  dobj(v,Quantity)
+-1.22692  dobj(a1,Quantity)
+
+// -1.2281  dobj(v,Basis)
+-1.2281  dobj(a1,Basis)
+
+// -1.2281  dobj(v,Breasts)
+-1.2281  dobj(a1,Breasts)
+
+// -1.22456  dobj(v,Days)
+-1.22456  dobj(a1,Days)
+
+// -1.2281  dobj(v,Uninspired)
+-1.2281  dobj(a1,Uninspired)
+
+// -1.2281  dobj(v,Article)
+-1.2281  dobj(a1,Article)
+
+// -1.22221  dobj(v,Fruits)
+-1.22221  dobj(a1,Fruits)
+
+// -1.2281  dobj(v,Veggies)
+-1.2281  dobj(a1,Veggies)
+
+// -1.22221  dobj(v,Vegetables)
+-1.22221  dobj(a1,Vegetables)
+
+// -1.2281  dobj(v,Few)
+-1.2281  dobj(a1,Few)
+
+// -1.22574  dobj(v,Lots)
+-1.22574  dobj(a1,Lots)
+
+// -1.2281  dobj(v,Produce)
+-1.2281  dobj(a1,Produce)
+
+// -1.21985  dobj(v,Look)
+-1.21985  dobj(a1,Look)
+
+// -1.2281  dobj(v,Fiber)
+-1.2281  dobj(a1,Fiber)
+
+// -1.22692  dobj(v,Grapefruit)
+-1.22692  dobj(a1,Grapefruit)
+
+// -1.2281  dobj(v,Eight)
+-1.2281  dobj(a1,Eight)
+
+// -1.21868  dobj(v,Protein)
+-1.21868  dobj(a1,Protein)
+
+// -1.2281  dobj(v,Superfoods)
+-1.2281  dobj(a1,Superfoods)
+
+// -1.2281  dobj(v,Cakes)
+-1.2281  dobj(a1,Cakes)
+
+// -1.2281  dobj(v,Soups)
+-1.2281  dobj(a1,Soups)
+
+// -1.22456  dobj(v,Sense)
+-1.22456  dobj(a1,Sense)
+
+// -1.2081  dobj(v,All)
+-1.2081  dobj(a1,All)
+
+// -1.21985  dobj(v,Minutes)
+-1.21985  dobj(a1,Minutes)
+
+// -1.21985  dobj(v,Habits)
+-1.21985  dobj(a1,Habits)
+
+// -1.2281  dobj(v,Behaviors)
+-1.2281  dobj(a1,Behaviors)
+
+// -1.22574  dobj(v,Potatoes)
+-1.22574  dobj(a1,Potatoes)
+
+// -1.2281  dobj(v,Carrots)
+-1.2281  dobj(a1,Carrots)
+
+// -1.22692  dobj(v,Hunger)
+-1.22692  dobj(a1,Hunger)
+
+// -1.2281  dobj(v,Grab)
+-1.2281  dobj(a1,Grab)
+
+// -1.21515  dobj(v,Head)
+-1.21515  dobj(a1,Head)
+
+// -1.22456  dobj(v,Choices)
+-1.22456  dobj(a1,Choices)
+
+// -1.2281  dobj(v,Salads)
+-1.2281  dobj(a1,Salads)
+
+// -1.2281  dobj(v,Optimism)
+-1.2281  dobj(a1,Optimism)
+
+// -1.22339  dobj(v,Goals)
+-1.22339  dobj(a1,Goals)
+
+// -1.2281  dobj(v,Token)
+-1.2281  dobj(a1,Token)
+
+// -1.2281  dobj(v,Kits)
+-1.2281  dobj(a1,Kits)
+
+// -1.2175  dobj(v,Wax)
+-1.2175  dobj(a1,Wax)
+
+// -1.22692  dobj(v,Best)
+-1.22692  dobj(a1,Best)
+
+// -1.22692  dobj(v,Stick)
+-1.22692  dobj(a1,Stick)
+
+// -1.22692  dobj(v,Close)
+-1.22692  dobj(a1,Close)
+
+// -1.22339  dobj(v,Strip)
+-1.22339  dobj(a1,Strip)
+
+// -1.21868  dobj(v,Process)
+-1.21868  dobj(a1,Process)
+
+// -1.22456  dobj(v,Care)
+-1.22456  dobj(a1,Care)
+
+// -1.2281  dobj(v,Traces)
+-1.2281  dobj(a1,Traces)
+
+// -1.2281  dobj(v,Pores)
+-1.2281  dobj(a1,Pores)
+
+// -1.21515  dobj(v,Area)
+-1.21515  dobj(a1,Area)
+
+// -1.22574  dobj(v,Strokes)
+-1.22574  dobj(a1,Strokes)
+
+// -1.2081  dobj(v,Piece)
+-1.2081  dobj(a1,Piece)
+
+// -1.22692  dobj(v,Same)
+-1.22692  dobj(a1,Same)
+
+// -1.2281  dobj(v,Armpit)
+-1.2281  dobj(a1,Armpit)
+
+// -1.2281  dobj(v,Deodorants)
+-1.2281  dobj(a1,Deodorants)
+
+// -1.2281  dobj(v,Brazilian)
+-1.2281  dobj(a1,Brazilian)
+
+// -1.22456  dobj(v,Hair)
+-1.22456  dobj(a1,Hair)
+
+// -1.2281  dobj(v,Waxing)
+-1.2281  dobj(a1,Waxing)
+
+// -1.22574  dobj(v,Towel)
+-1.22574  dobj(a1,Towel)
+
+// -1.2281  dobj(v,Mirror)
+-1.2281  dobj(a1,Mirror)
+
+// -1.2281  dobj(v,Sticks)
+-1.2281  dobj(a1,Sticks)
+
+// -1.22456  dobj(v,Strips)
+-1.22456  dobj(a1,Strips)
+
+// -1.21632  dobj(v,Edge)
+-1.21632  dobj(a1,Edge)
+
+// -1.2281  dobj(v,Irritation)
+-1.2281  dobj(a1,Irritation)
+
+// -1.21868  dobj(v,Oil)
+-1.21868  dobj(a1,Oil)
+
+// -1.22692  dobj(v,Gel)
+-1.22692  dobj(a1,Gel)
+
+// -1.2281  dobj(v,Tongue)
+-1.2281  dobj(a1,Tongue)
+
+// -1.22456  dobj(v,Job)
+-1.22456  dobj(a1,Job)
+
+// -1.2281  dobj(v,Lip)
+-1.2281  dobj(a1,Lip)
+
+// -1.22692  dobj(v,Hairs)
+-1.22692  dobj(a1,Hairs)
+
+// -1.21868  dobj(v,Shape)
+-1.21868  dobj(a1,Shape)
+
+// -1.2281  dobj(v,Eyebrow)
+-1.2281  dobj(a1,Eyebrow)
+
+// -1.2281  dobj(v,Guide)
+-1.2281  dobj(a1,Guide)
+
+// -1.22692  dobj(v,Scrub)
+-1.22692  dobj(a1,Scrub)
+
+// -1.22456  dobj(v,Moisture)
+-1.22456  dobj(a1,Moisture)
+
+// -1.2281  dobj(v,Result)
+-1.2281  dobj(a1,Result)
+
+// -1.2281  dobj(v,Nozzle)
+-1.2281  dobj(a1,Nozzle)
+
+// -1.2281  dobj(v,Scrap)
+-1.2281  dobj(a1,Scrap)
+
+// -1.22456  dobj(v,Window)
+-1.22456  dobj(a1,Window)
+
+// -1.22456  dobj(v,Rag)
+-1.22456  dobj(a1,Rag)
+
+// -1.22692  dobj(v,Coke)
+-1.22692  dobj(a1,Coke)
+
+// -1.2281  dobj(v,Suggestions)
+-1.2281  dobj(a1,Suggestions)
+
+// -1.2281  dobj(v,Splashed)
+-1.2281  dobj(a1,Splashed)
+
+// -1.22339  dobj(v,Hour)
+-1.22339  dobj(a1,Hour)
+
+// -1.22574  dobj(v,Parts)
+-1.22574  dobj(a1,Parts)
+
+// -1.22339  dobj(v,Mix)
+-1.22339  dobj(a1,Mix)
+
+// -1.22456  dobj(v,Germs)
+-1.22456  dobj(a1,Germs)
+
+// -1.22456  dobj(v,Types)
+-1.22456  dobj(a1,Types)
+
+// -1.22692  dobj(v,Microorganisms)
+-1.22692  dobj(a1,Microorganisms)
+
+// -1.21515  dobj(v,Notes)
+-1.21515  dobj(a1,Notes)
+
+// -1.22574  dobj(v,Issues)
+-1.22574  dobj(a1,Issues)
+
+// -1.22692  dobj(v,Stove)
+-1.22692  dobj(a1,Stove)
+
+// -1.22456  dobj(v,Saucepan)
+-1.22456  dobj(a1,Saucepan)
+
+// -1.22103  dobj(v,Container)
+-1.22103  dobj(a1,Container)
+
+// -1.2281  dobj(v,Jar)
+-1.2281  dobj(a1,Jar)
+
+// -1.22692  dobj(v,Benefits)
+-1.22692  dobj(a1,Benefits)
+
+// -1.21868  dobj(v,Chemicals)
+-1.21868  dobj(a1,Chemicals)
+
+// -1.22456  dobj(v,Kefir)
+-1.22456  dobj(a1,Kefir)
+
+// -1.22574  dobj(v,Type)
+-1.22574  dobj(a1,Type)
+
+// -1.22574  dobj(v,Cake)
+-1.22574  dobj(a1,Cake)
+
+// -1.2281  dobj(v,Smoothie)
+-1.2281  dobj(a1,Smoothie)
+
+// -1.2281  dobj(v,Coconut)
+-1.2281  dobj(a1,Coconut)
+
+// -1.2281  dobj(v,Preference)
+-1.2281  dobj(a1,Preference)
+
+// -1.22339  dobj(v,Hours)
+-1.22339  dobj(a1,Hours)
+
+// -1.22339  dobj(v,Part)
+-1.22339  dobj(a1,Part)
+
+// -1.2281  dobj(v,Ipod)
+-1.2281  dobj(a1,Ipod)
+
+// -1.2128  dobj(v,Room)
+-1.2128  dobj(a1,Room)
+
+// -1.2281  dobj(v,Scene)
+-1.2281  dobj(a1,Scene)
+
+// -1.22574  dobj(v,Bed)
+-1.22574  dobj(a1,Bed)
+
+// -1.22339  dobj(v,Sheets)
+-1.22339  dobj(a1,Sheets)
+
+// -1.22456  dobj(v,Pile)
+-1.22456  dobj(a1,Pile)
+
+// -1.2281  dobj(v,Improvement)
+-1.2281  dobj(a1,Improvement)
+
+// -1.2281  dobj(v,Album)
+-1.2281  dobj(a1,Album)
+
+// -1.22692  dobj(v,Laundry)
+-1.22692  dobj(a1,Laundry)
+
+// -1.22456  dobj(v,Sock)
+-1.22456  dobj(a1,Sock)
+
+// -1.22339  dobj(v,Anything)
+-1.22339  dobj(a1,Anything)
+
+// -1.2281  dobj(v,Trash)
+-1.2281  dobj(a1,Trash)
+
+// -1.2281  dobj(v,Piles)
+-1.2281  dobj(a1,Piles)
+
+// -1.22456  dobj(v,Stuff)
+-1.22456  dobj(a1,Stuff)
+
+// -1.2281  dobj(v,Siblings)
+-1.2281  dobj(a1,Siblings)
+
+// -1.22574  dobj(v,Thing)
+-1.22574  dobj(a1,Thing)
+
+// -1.2281  dobj(v,Motivation)
+-1.2281  dobj(a1,Motivation)
+
+// -1.21163  dobj(v,Object)
+-1.21163  dobj(a1,Object)
+
+// -1.22692  dobj(v,Parents)
+-1.22692  dobj(a1,Parents)
+
+// -1.22221  dobj(v,Rack)
+-1.22221  dobj(a1,Rack)
+
+// -1.22221  dobj(v,Space)
+-1.22221  dobj(a1,Space)
+
+// -1.2281  dobj(v,Underwear)
+-1.2281  dobj(a1,Underwear)
+
+// -1.2281  dobj(v,Pants)
+-1.2281  dobj(a1,Pants)
+
+// -1.2281  dobj(v,Dresser)
+-1.2281  dobj(a1,Dresser)
+
+// -1.22692  dobj(v,Mess)
+-1.22692  dobj(a1,Mess)
+
+// -1.22103  dobj(v,Everything)
+-1.22103  dobj(a1,Everything)
+
+// -1.22456  dobj(v,Shelf)
+-1.22456  dobj(a1,Shelf)
+
+// -1.22339  dobj(v,Drawer)
+-1.22339  dobj(a1,Drawer)
+
+// -1.22574  dobj(v,Folders)
+-1.22574  dobj(a1,Folders)
+
+// -1.22692  dobj(v,Papers)
+-1.22692  dobj(a1,Papers)
+
+// -1.22456  dobj(v,Paper)
+-1.22456  dobj(a1,Paper)
+
+// -1.22456  dobj(v,Objects)
+-1.22456  dobj(a1,Objects)
+
+// -1.2281  dobj(v,Organizer)
+-1.2281  dobj(a1,Organizer)
+
+// -1.2281  dobj(v,Duster)
+-1.2281  dobj(a1,Duster)
+
+// -1.22103  dobj(v,Dust)
+-1.22103  dobj(a1,Dust)
+
+// -1.22692  dobj(v,Carpet)
+-1.22692  dobj(a1,Carpet)
+
+// -1.22221  dobj(v,Floor)
+-1.22221  dobj(a1,Floor)
+
+// -1.2281  dobj(v,Cobwebs)
+-1.2281  dobj(a1,Cobwebs)
+
+// -1.2175  dobj(v,Boxes)
+-1.2175  dobj(a1,Boxes)
+
+// -1.22574  dobj(v,Dishes)
+-1.22574  dobj(a1,Dishes)
+
+// -1.2281  dobj(v,Pads)
+-1.2281  dobj(a1,Pads)
+
+// -1.22574  dobj(v,Fire)
+-1.22574  dobj(a1,Fire)
+
+// -1.2281  dobj(v,Unit)
+-1.2281  dobj(a1,Unit)
+
+// -1.22692  dobj(v,Safety)
+-1.22692  dobj(a1,Safety)
+
+// -1.22692  dobj(v,Crumbs)
+-1.22692  dobj(a1,Crumbs)
+
+// -1.2281  dobj(v,Roommates)
+-1.2281  dobj(a1,Roommates)
+
+// -1.22103  dobj(v,Plan)
+-1.22103  dobj(a1,Plan)
+
+// -1.2281  dobj(v,Sweep)
+-1.2281  dobj(a1,Sweep)
+
+// -1.22574  dobj(v,Rooms)
+-1.22574  dobj(a1,Rooms)
+
+// -1.22574  dobj(v,Floors)
+-1.22574  dobj(a1,Floors)
+
+// -1.2281  dobj(v,Garage)
+-1.2281  dobj(a1,Garage)
+
+// -1.22692  dobj(v,Shower)
+-1.22692  dobj(a1,Shower)
+
+// -1.2281  dobj(v,Mirrors)
+-1.2281  dobj(a1,Mirrors)
+
+// -1.22339  dobj(v,Residue)
+-1.22339  dobj(a1,Residue)
+
+// -1.22574  dobj(v,Spots)
+-1.22574  dobj(a1,Spots)
+
+// -1.2281  dobj(v,Streaks)
+-1.2281  dobj(a1,Streaks)
+
+// -1.22692  dobj(v,Newspaper)
+-1.22692  dobj(a1,Newspaper)
+
+// -1.21985  dobj(v,Surface)
+-1.21985  dobj(a1,Surface)
+
+// -1.22456  dobj(v,Method)
+-1.22456  dobj(a1,Method)
+
+// -1.2281  dobj(v,Casserole)
+-1.2281  dobj(a1,Casserole)
+
+// -1.2281  dobj(v,Gunk)
+-1.2281  dobj(a1,Gunk)
+
+// -1.2281  dobj(v,Soaking)
+-1.2281  dobj(a1,Soaking)
+
+// -1.2281  dobj(v,Brunt)
+-1.2281  dobj(a1,Brunt)
+
+// -1.2281  dobj(v,Ashes)
+-1.2281  dobj(a1,Ashes)
+
+// -1.22456  dobj(v,Option)
+-1.22456  dobj(a1,Option)
+
+// -1.22339  dobj(v,Work)
+-1.22339  dobj(a1,Work)
+
+// -1.22574  dobj(v,Picture)
+-1.22574  dobj(a1,Picture)
+
+// -1.22692  dobj(v,Pillowcases)
+-1.22692  dobj(a1,Pillowcases)
+
+// -1.22692  dobj(v,Dryer)
+-1.22692  dobj(a1,Dryer)
+
+// -1.2281  dobj(v,Sweeper)
+-1.2281  dobj(a1,Sweeper)
+
+// -1.22574  dobj(v,Brushes)
+-1.22574  dobj(a1,Brushes)
+
+// -1.2281  dobj(v,Fuss)
+-1.2281  dobj(a1,Fuss)
+
+// -1.2281  dobj(v,Vacuum)
+-1.2281  dobj(a1,Vacuum)
+
+// -1.2281  dobj(v,Sessions)
+-1.2281  dobj(a1,Sessions)
+
+// -1.22692  dobj(v,Grease)
+-1.22692  dobj(a1,Grease)
+
+// -1.2281  dobj(v,Fantastic)
+-1.2281  dobj(a1,Fantastic)
+
+// -1.22692  dobj(v,Fleas)
+-1.22692  dobj(a1,Fleas)
+
+// -1.2281  dobj(v,Poisons)
+-1.2281  dobj(a1,Poisons)
+
+// -1.2281  dobj(v,Borax)
+-1.2281  dobj(a1,Borax)
+
+// -1.22574  dobj(v,Furniture)
+-1.22574  dobj(a1,Furniture)
+
+// -1.22339  dobj(v,Spray)
+-1.22339  dobj(a1,Spray)
+
+// -1.2281  dobj(v,Directions)
+-1.2281  dobj(a1,Directions)
+
+// -1.2281  dobj(v,Rake)
+-1.2281  dobj(a1,Rake)
+
+// -1.22692  dobj(v,Plants)
+-1.22692  dobj(a1,Plants)
+
+// -1.2281  dobj(v,Bushes)
+-1.2281  dobj(a1,Bushes)
+
+// -1.2281  dobj(v,Feeling)
+-1.2281  dobj(a1,Feeling)
+
+// -1.2281  dobj(v,Bins)
+-1.2281  dobj(a1,Bins)
+
+// -1.21868  dobj(v,Information)
+-1.21868  dobj(a1,Information)
+
+// -1.22574  dobj(v,Advice)
+-1.22574  dobj(a1,Advice)
+
+// -1.2281  dobj(v,Lizard)
+-1.2281  dobj(a1,Lizard)
+
+// -1.22339  dobj(v,Curds)
+-1.22339  dobj(a1,Curds)
+
+// -1.22456  dobj(v,Effect)
+-1.22456  dobj(a1,Effect)
+
+// -1.22574  dobj(v,Acid)
+-1.22574  dobj(a1,Acid)
+
+// -1.22103  dobj(v,Step)
+-1.22103  dobj(a1,Step)
+
+// -1.2281  dobj(v,Curdles)
+-1.2281  dobj(a1,Curdles)
+
+// -1.2281  dobj(v,Longer)
+-1.2281  dobj(a1,Longer)
+
+// -1.22456  dobj(v,Portion)
+-1.22456  dobj(a1,Portion)
+
+// -1.22456  dobj(v,That)
+-1.22456  dobj(a1,That)
+
+// -1.2281  dobj(v,Vinegar)
+-1.2281  dobj(a1,Vinegar)
+
+// -1.2281  dobj(v,Curdled)
+-1.2281  dobj(a1,Curdled)
+
+// -1.2281  dobj(v,Tsp)
+-1.2281  dobj(a1,Tsp)
+
+// -1.22339  dobj(v,Practice)
+-1.22339  dobj(a1,Practice)
+
+// -1.2281  dobj(v,Buildup)
+-1.2281  dobj(a1,Buildup)
+
+// -1.22574  dobj(v,Hanger)
+-1.22574  dobj(a1,Hanger)
+
+// -1.22692  dobj(v,Dog)
+-1.22692  dobj(a1,Dog)
+
+// -1.2128  dobj(v,Box)
+-1.2128  dobj(a1,Box)
+
+// -1.21985  dobj(v,Top)
+-1.21985  dobj(a1,Top)
+
+// -1.2281  dobj(v,Tendency)
+-1.2281  dobj(a1,Tendency)
+
+// -1.2281  dobj(v,Pee)
+-1.2281  dobj(a1,Pee)
+
+// -1.2281  dobj(v,Textured)
+-1.2281  dobj(a1,Textured)
+
+// -1.2281  dobj(v,Indentations)
+-1.2281  dobj(a1,Indentations)
+
+// -1.22456  dobj(v,Mask)
+-1.22456  dobj(a1,Mask)
+
+// -1.22221  dobj(v,Line)
+-1.22221  dobj(a1,Line)
+
+// -1.2175  dobj(v,Eyes)
+-1.2175  dobj(a1,Eyes)
+
+// -1.2281  dobj(v,Nose)
+-1.2281  dobj(a1,Nose)
+
+// -1.2281  dobj(v,Slits)
+-1.2281  dobj(a1,Slits)
+
+// -1.22221  dobj(v,Bottom)
+-1.22221  dobj(a1,Bottom)
+
+// -1.2281  dobj(v,Rounded)
+-1.2281  dobj(a1,Rounded)
+
+// -1.2281  dobj(v,Hairdryer)
+-1.2281  dobj(a1,Hairdryer)
+
+// -1.22221  dobj(v,Layers)
+-1.22221  dobj(a1,Layers)
+
+// -1.2281  dobj(v,Mache)
+-1.2281  dobj(a1,Mache)
+
+// -1.22103  dobj(v,Layer)
+-1.22103  dobj(a1,Layer)
+
+// -1.2281  dobj(v,Bumps)
+-1.2281  dobj(a1,Bumps)
+
+// -1.2281  dobj(v,Cement)
+-1.2281  dobj(a1,Cement)
+
+// -1.2281  dobj(v,Fibers)
+-1.2281  dobj(a1,Fibers)
+
+// -1.2281  dobj(v,Plaster)
+-1.2281  dobj(a1,Plaster)
+
+// -1.2281  dobj(v,Eyebrowssculpt)
+-1.2281  dobj(a1,Eyebrowssculpt)
+
+// -1.2281  dobj(v,Guidelines)
+-1.2281  dobj(a1,Guidelines)
+
+// -1.22692  dobj(v,Material)
+-1.22692  dobj(a1,Material)
+
+// -1.2281  dobj(v,Boxcutter)
+-1.2281  dobj(a1,Boxcutter)
+
+// -1.22692  dobj(v,Band)
+-1.22692  dobj(a1,Band)
+
+// -1.22574  dobj(v,Base)
+-1.22574  dobj(a1,Base)
+
+// -1.22692  dobj(v,Brisket)
+-1.22692  dobj(a1,Brisket)
+
+// -1.2281  dobj(v,Stiff)
+-1.2281  dobj(a1,Stiff)
+
+// -1.2281  dobj(v,Rub)
+-1.2281  dobj(a1,Rub)
+
+// -1.22456  dobj(v,Sugar)
+-1.22456  dobj(a1,Sugar)
+
+// -1.22339  dobj(v,Taste)
+-1.22339  dobj(a1,Taste)
+
+// -1.2175  dobj(v,Mixture)
+-1.2175  dobj(a1,Mixture)
+
+// -1.22692  dobj(v,Marinade)
+-1.22692  dobj(a1,Marinade)
+
+// -1.2281  dobj(v,Own)
+-1.2281  dobj(a1,Own)
+
+// -1.22339  dobj(v,Salt)
+-1.22339  dobj(a1,Salt)
+
+// -1.22692  dobj(v,Coals)
+-1.22692  dobj(a1,Coals)
+
+// -1.22103  dobj(v,Side)
+-1.22103  dobj(a1,Side)
+
+// -1.22456  dobj(v,Chips)
+-1.22456  dobj(a1,Chips)
+
+// -1.2281  dobj(v,Smoke)
+-1.2281  dobj(a1,Smoke)
+
+// -1.2281  dobj(v,Drip)
+-1.2281  dobj(a1,Drip)
+
+// -1.2281  dobj(v,Moist)
+-1.2281  dobj(a1,Moist)
+
+// -1.22103  dobj(v,Flavor)
+-1.22103  dobj(a1,Flavor)
+
+// -1.2281  dobj(v,No)
+-1.2281  dobj(a1,No)
+
+// -1.22456  dobj(v,Lid)
+-1.22456  dobj(a1,Lid)
+
+// -1.2281  dobj(v,Juices)
+-1.2281  dobj(a1,Juices)
+
+// -1.2281  dobj(v,Slowly)
+-1.2281  dobj(a1,Slowly)
+
+// -1.22692  dobj(v,Control)
+-1.22692  dobj(a1,Control)
+
+// -1.22574  dobj(v,Butter)
+-1.22574  dobj(a1,Butter)
+
+// -1.2281  dobj(v,Cinnamonuse)
+-1.2281  dobj(a1,Cinnamonuse)
+
+// -1.2281  dobj(v,Tubes)
+-1.2281  dobj(a1,Tubes)
+
+// -1.22574  dobj(v,Tablespoons)
+-1.22574  dobj(a1,Tablespoons)
+
+// -1.22456  dobj(v,Powder)
+-1.22456  dobj(a1,Powder)
+
+// -1.22692  dobj(v,Tones)
+-1.22692  dobj(a1,Tones)
+
+// -1.2281  dobj(v,Dropper)
+-1.2281  dobj(a1,Dropper)
+
+// -1.22692  dobj(v,Funnel)
+-1.22692  dobj(a1,Funnel)
+
+// -1.22692  dobj(v,Lipstick)
+-1.22692  dobj(a1,Lipstick)
+
+// -1.2281  dobj(v,Pigment)
+-1.2281  dobj(a1,Pigment)
+
+// -1.2281  dobj(v,Shadow)
+-1.2281  dobj(a1,Shadow)
+
+// -1.2281  dobj(v,Grinder)
+-1.2281  dobj(a1,Grinder)
+
+// -1.2281  dobj(v,Mixtures)
+-1.2281  dobj(a1,Mixtures)
+
+// -1.2281  dobj(v,Eyeshadow)
+-1.2281  dobj(a1,Eyeshadow)
+
+// -1.2281  dobj(v,Mica)
+-1.2281  dobj(a1,Mica)
+
+// -1.2281  dobj(v,Containerdo)
+-1.2281  dobj(a1,Containerdo)
+
+// -1.2281  dobj(v,Me)
+-1.2281  dobj(a1,Me)
+
+// -1.22692  dobj(v,Setting)
+-1.22692  dobj(a1,Setting)
+
+// -1.22221  dobj(v,Door)
+-1.22221  dobj(a1,Door)
+
+// -1.22692  dobj(v,Opportunity)
+-1.22692  dobj(a1,Opportunity)
+
+// -1.2281  dobj(v,Hangin)
+-1.2281  dobj(a1,Hangin)
+
+// -1.2281  dobj(v,Topics)
+-1.2281  dobj(a1,Topics)
+
+// -1.2281  dobj(v,Crush)
+-1.2281  dobj(a1,Crush)
+
+// -1.2281  dobj(v,Signals)
+-1.2281  dobj(a1,Signals)
+
+// -1.2281  dobj(v,Title)
+-1.2281  dobj(a1,Title)
+
+// -1.2281  dobj(v,Slang)
+-1.2281  dobj(a1,Slang)
+
+// -1.22574  dobj(v,Hug)
+-1.22574  dobj(a1,Hug)
+
+// -1.2281  dobj(v,Handshake)
+-1.2281  dobj(a1,Handshake)
+
+// -1.2281  dobj(v,Introduction)
+-1.2281  dobj(a1,Introduction)
+
+// -1.22692  dobj(v,Other)
+-1.22692  dobj(a1,Other)
+
+// -1.2281  dobj(v,Jessica)
+-1.2281  dobj(a1,Jessica)
+
+// -1.2281  dobj(v,Particulars)
+-1.2281  dobj(a1,Particulars)
+
+// -1.2281  dobj(v,Pat)
+-1.2281  dobj(a1,Pat)
+
+// -1.21985  dobj(v,Coffee)
+-1.21985  dobj(a1,Coffee)
+
+// -1.2281  dobj(v,Course)
+-1.2281  dobj(a1,Course)
+
+// -1.22574  dobj(v,Blade)
+-1.22574  dobj(a1,Blade)
+
+// -1.22574  dobj(v,Eating)
+-1.22574  dobj(a1,Eating)
+
+// -1.22692  dobj(v,Voice)
+-1.22692  dobj(a1,Voice)
+
+// -1.22692  dobj(v,Conversation)
+-1.22692  dobj(a1,Conversation)
+
+// -1.22456  dobj(v,Message)
+-1.22456  dobj(a1,Message)
+
+// -1.22574  dobj(v,While)
+-1.22574  dobj(a1,While)
+
+// -1.2281  dobj(v,Phone)
+-1.2281  dobj(a1,Phone)
+
+// -1.22574  dobj(v,Many)
+-1.22574  dobj(a1,Many)
+
+// -1.2281  dobj(v,Toes)
+-1.2281  dobj(a1,Toes)
+
+// -1.22692  dobj(v,Foot)
+-1.22692  dobj(a1,Foot)
+
+// -1.2281  dobj(v,Calf)
+-1.2281  dobj(a1,Calf)
+
+// -1.2281  dobj(v,Stress)
+-1.2281  dobj(a1,Stress)
+
+// -1.22692  dobj(v,Standing)
+-1.22692  dobj(a1,Standing)
+
+// -1.22692  dobj(v,Leg)
+-1.22692  dobj(a1,Leg)
+
+// -1.22339  dobj(v,Muscles)
+-1.22339  dobj(a1,Muscles)
+
+// -1.2281  dobj(v,Workout)
+-1.2281  dobj(a1,Workout)
+
+// -1.22692  dobj(v,Tension)
+-1.22692  dobj(a1,Tension)
+
+// -1.2281  dobj(v,Split)
+-1.2281  dobj(a1,Split)
+
+// -1.22574  dobj(v,Ability)
+-1.22574  dobj(a1,Ability)
+
+// -1.2281  dobj(v,Stretch)
+-1.2281  dobj(a1,Stretch)
+
+// -1.22692  dobj(v,Angle)
+-1.22692  dobj(a1,Angle)
+
+// -1.22692  dobj(v,Pillows)
+-1.22692  dobj(a1,Pillows)
+
+// -1.2281  dobj(v,Grate)
+-1.2281  dobj(a1,Grate)
+
+// -1.22692  dobj(v,Pad)
+-1.22692  dobj(a1,Pad)
+
+// -1.22692  dobj(v,Hood)
+-1.22692  dobj(a1,Hood)
+
+// -1.2281  dobj(v,Racks)
+-1.2281  dobj(a1,Racks)
+
+// -1.22221  dobj(v,Oven)
+-1.22221  dobj(a1,Oven)
+
+// -1.22456  dobj(v,Sponge)
+-1.22456  dobj(a1,Sponge)
+
+// -1.22456  dobj(v,Surfaces)
+-1.22456  dobj(a1,Surfaces)
+
+// -1.2281  dobj(v,Cabinets)
+-1.2281  dobj(a1,Cabinets)
+
+// -1.22692  dobj(v,Supply)
+-1.22692  dobj(a1,Supply)
+
+// -1.2281  dobj(v,Counters)
+-1.2281  dobj(a1,Counters)
+
+// -1.22574  dobj(v,Supplies)
+-1.22574  dobj(a1,Supplies)
+
+// -1.2281  dobj(v,Bedding)
+-1.2281  dobj(a1,Bedding)
+
+// -1.2281  dobj(v,Life)
+-1.2281  dobj(a1,Life)
+
+// -1.2281  dobj(v,Allergens)
+-1.2281  dobj(a1,Allergens)
+
+// -1.22692  dobj(v,Week)
+-1.22692  dobj(a1,Week)
+
+// -1.2281  dobj(v,Teaspoon)
+-1.2281  dobj(a1,Teaspoon)
+
+// -1.2281  dobj(v,Moths)
+-1.2281  dobj(a1,Moths)
+
+// -1.2281  dobj(v,Cinnamon)
+-1.2281  dobj(a1,Cinnamon)
+
+// -1.2281  dobj(v,Plant)
+-1.2281  dobj(a1,Plant)
+
+// -1.2281  dobj(v,Candles)
+-1.2281  dobj(a1,Candles)
+
+// -1.22692  dobj(v,Key)
+-1.22692  dobj(a1,Key)
+
+// -1.22339  dobj(v,Properties)
+-1.22339  dobj(a1,Properties)
+
+// -1.22692  dobj(v,Camera)
+-1.22692  dobj(a1,Camera)
+
+// -1.22574  dobj(v,Squares)
+-1.22574  dobj(a1,Squares)
+
+// -1.22574  dobj(v,Paint)
+-1.22574  dobj(a1,Paint)
+
+// -1.22692  dobj(v,Glue)
+-1.22692  dobj(a1,Glue)
+
+// -1.22221  dobj(v,Edges)
+-1.22221  dobj(a1,Edges)
+
+// -1.2281  dobj(v,Illusion)
+-1.2281  dobj(a1,Illusion)
+
+// -1.22692  dobj(v,Deal)
+-1.22692  dobj(a1,Deal)
+
+// -1.2281  dobj(v,Theres)
+-1.2281  dobj(a1,Theres)
+
+// -1.22692  dobj(v,Rectangle)
+-1.22692  dobj(a1,Rectangle)
+
+// -1.2281  dobj(v,Photocopy)
+-1.2281  dobj(a1,Photocopy)
+
+// -1.22456  dobj(v,Sort)
+-1.22456  dobj(a1,Sort)
+
+// -1.2281  dobj(v,Photocopies)
+-1.2281  dobj(a1,Photocopies)
+
+// -1.22692  dobj(v,Deck)
+-1.22692  dobj(a1,Deck)
+
+// -1.22692  dobj(v,Upwards)
+-1.22692  dobj(a1,Upwards)
+
+// -1.2281  dobj(v,Audience)
+-1.2281  dobj(a1,Audience)
+
+// -1.2281  dobj(v,Tapping)
+-1.2281  dobj(a1,Tapping)
+
+// -1.22456  dobj(v,Eggs)
+-1.22456  dobj(a1,Eggs)
+
+// -1.22456  dobj(v,Yolk)
+-1.22456  dobj(a1,Yolk)
+
+// -1.22103  dobj(v,Half)
+-1.22103  dobj(a1,Half)
+
+// -1.2281  dobj(v,Drop)
+-1.2281  dobj(a1,Drop)
+
+// -1.2281  dobj(v,Minute)
+-1.2281  dobj(a1,Minute)
+
+// -1.2281  dobj(v,Iron)
+-1.2281  dobj(a1,Iron)
+
+// -1.2281  dobj(v,Waffles)
+-1.2281  dobj(a1,Waffles)
+
+// -1.22456  dobj(v,Piano)
+-1.22456  dobj(a1,Piano)
+
+// -1.2281  dobj(v,Listings)
+-1.2281  dobj(a1,Listings)
+
+// -1.22692  dobj(v,Keyboard)
+-1.22692  dobj(a1,Keyboard)
+
+// -1.2281  dobj(v,Posture)
+-1.2281  dobj(a1,Posture)
+
+// -1.19639  dobj(v,Book)
+-1.19639  dobj(a1,Book)
+
+// -1.2281  dobj(v,Scales)
+-1.2281  dobj(a1,Scales)
+
+// -1.22692  dobj(v,Trouble)
+-1.22692  dobj(a1,Trouble)
+
+// -1.2281  dobj(v,Rhythm)
+-1.2281  dobj(a1,Rhythm)
+
+// -1.22692  dobj(v,Tempo)
+-1.22692  dobj(a1,Tempo)
+
+// -1.22456  dobj(v,Feet)
+-1.22456  dobj(a1,Feet)
+
+// -1.22339  dobj(v,Arms)
+-1.22339  dobj(a1,Arms)
+
+// -1.22574  dobj(v,Bench)
+-1.22574  dobj(a1,Bench)
+
+// -1.22692  dobj(v,Height)
+-1.22692  dobj(a1,Height)
+
+// -1.22574  dobj(v,Players)
+-1.22574  dobj(a1,Players)
+
+// -1.2281  dobj(v,Sticker)
+-1.2281  dobj(a1,Sticker)
+
+// -1.22692  dobj(v,Keys)
+-1.22692  dobj(a1,Keys)
+
+// -1.2281  dobj(v,Sharps)
+-1.2281  dobj(a1,Sharps)
+
+// -1.2281  dobj(v,Tuning)
+-1.2281  dobj(a1,Tuning)
+
+// -1.2281  dobj(v,Pairs)
+-1.2281  dobj(a1,Pairs)
+
+// -1.22103  dobj(v,Finger)
+-1.22103  dobj(a1,Finger)
+
+// -1.2281  dobj(v,Thumb)
+-1.2281  dobj(a1,Thumb)
+
+// -1.22456  dobj(v,Position)
+-1.22456  dobj(a1,Position)
+
+// -1.2281  dobj(v,D)
+-1.2281  dobj(a1,D)
+
+// -1.2281  dobj(v,Examples)
+-1.2281  dobj(a1,Examples)
+
+// -1.2281  dobj(v,Interval)
+-1.2281  dobj(a1,Interval)
+
+// -1.2281  dobj(v,Oneeighth)
+-1.2281  dobj(a1,Oneeighth)
+
+// -1.22574  dobj(v,Structure)
+-1.22574  dobj(a1,Structure)
+
+// -1.2281  dobj(v,Positions)
+-1.2281  dobj(a1,Positions)
+
+// -1.2281  dobj(v,Simple)
+-1.2281  dobj(a1,Simple)
+
+// -1.22456  dobj(v,Volume)
+-1.22456  dobj(a1,Volume)
+
+// -1.2281  dobj(v,Elements)
+-1.2281  dobj(a1,Elements)
+
+// -1.2281  dobj(v,Harmonies)
+-1.2281  dobj(a1,Harmonies)
+
+// -1.2281  dobj(v,Percentage)
+-1.2281  dobj(a1,Percentage)
+
+// -1.21868  dobj(v,Rice)
+-1.21868  dobj(a1,Rice)
+
+// -1.2281  dobj(v,Tender)
+-1.2281  dobj(a1,Tender)
+
+// -1.22221  dobj(v,Center)
+-1.22221  dobj(a1,Center)
+
+// -1.2281  dobj(v,Touch)
+-1.2281  dobj(a1,Touch)
+
+// -1.22456  dobj(v,Walls)
+-1.22456  dobj(a1,Walls)
+
+// -1.21985  dobj(v,Points)
+-1.21985  dobj(a1,Points)
+
+// -1.2281  dobj(v,Hold)
+-1.2281  dobj(a1,Hold)
+
+// -1.2281  dobj(v,Ring)
+-1.2281  dobj(a1,Ring)
+
+// -1.2281  dobj(v,Grommets)
+-1.2281  dobj(a1,Grommets)
+
+// -1.2281  dobj(v,Cover)
+-1.2281  dobj(a1,Cover)
+
+// -1.22574  dobj(v,Pipe)
+-1.22574  dobj(a1,Pipe)
+
+// -1.22103  dobj(v,Hole)
+-1.22103  dobj(a1,Hole)
+
+// -1.22692  dobj(v,Team)
+-1.22692  dobj(a1,Team)
+
+// -1.2281  dobj(v,Clinic)
+-1.2281  dobj(a1,Clinic)
+
+// -1.2281  dobj(v,Feedback)
+-1.2281  dobj(a1,Feedback)
+
+// -1.2281  dobj(v,Technique)
+-1.2281  dobj(a1,Technique)
+
+// -1.22692  dobj(v,Ales)
+-1.22692  dobj(a1,Ales)
+
+// -1.2281  dobj(v,Guinness)
+-1.2281  dobj(a1,Guinness)
+
+// -1.22574  dobj(v,Depth)
+-1.22574  dobj(a1,Depth)
+
+// -1.2281  dobj(v,Bitters)
+-1.2281  dobj(a1,Bitters)
+
+// -1.22456  dobj(v,Banana)
+-1.22456  dobj(a1,Banana)
+
+// -1.2281  dobj(v,Contract)
+-1.2281  dobj(a1,Contract)
+
+// -1.22221  dobj(v,Beer)
+-1.22221  dobj(a1,Beer)
+
+// -1.2281  dobj(v,Stronger)
+-1.2281  dobj(a1,Stronger)
+
+// -1.2281  dobj(v,Headlet)
+-1.2281  dobj(a1,Headlet)
+
+// -1.2281  dobj(v,Slightlypour)
+-1.2281  dobj(a1,Slightlypour)
+
+// -1.22574  dobj(v,Flavors)
+-1.22574  dobj(a1,Flavors)
+
+// -1.22574  dobj(v,Changes)
+-1.22574  dobj(a1,Changes)
+
+// -1.2175  dobj(v,Sides)
+-1.2175  dobj(a1,Sides)
+
+// -1.22456  dobj(v,Square)
+-1.22456  dobj(a1,Square)
+
+// -1.2281  dobj(v,Pawn)
+-1.2281  dobj(a1,Pawn)
+
+// -1.2281  dobj(v,Bxf)
+-1.2281  dobj(a1,Bxf)
+
+// -1.22692  dobj(v,Bishop)
+-1.22692  dobj(a1,Bishop)
+
+// -1.22692  dobj(v,King)
+-1.22692  dobj(a1,King)
+
+// -1.22692  dobj(v,Image)
+-1.22692  dobj(a1,Image)
+
+// -1.22692  dobj(v,Moves)
+-1.22692  dobj(a1,Moves)
+
+// -1.22456  dobj(v,Queen)
+-1.22456  dobj(a1,Queen)
+
+// -1.22692  dobj(v,Rook)
+-1.22692  dobj(a1,Rook)
+
+// -1.22692  dobj(v,Order)
+-1.22692  dobj(a1,Order)
+
+// -1.2281  dobj(v,Opponent)
+-1.2281  dobj(a1,Opponent)
+
+// -1.22692  dobj(v,Flap)
+-1.22692  dobj(a1,Flap)
+
+// -1.2281  dobj(v,Etiquette)
+-1.2281  dobj(a1,Etiquette)
+
+// -1.22574  dobj(v,Inch)
+-1.22574  dobj(a1,Inch)
+
+// -1.22456  dobj(v,Chance)
+-1.22456  dobj(a1,Chance)
+
+// -1.22574  dobj(v,Move)
+-1.22574  dobj(a1,Move)
+
+// -1.2281  dobj(v,Beers)
+-1.2281  dobj(a1,Beers)
+
+// -1.2281  dobj(v,Third)
+-1.2281  dobj(a1,Third)
+
+// -1.2281  dobj(v,Pour)
+-1.2281  dobj(a1,Pour)
+
+// -1.22692  dobj(v,Moment)
+-1.22692  dobj(a1,Moment)
+
+// -1.21868  dobj(v,Her)
+-1.21868  dobj(a1,Her)
+
+// -1.2281  dobj(v,Chest)
+-1.2281  dobj(a1,Chest)
+
+// -1.2281  dobj(v,Massage)
+-1.2281  dobj(a1,Massage)
+
+// -1.22692  dobj(v,Torso)
+-1.22692  dobj(a1,Torso)
+
+// -1.22574  dobj(v,Sake)
+-1.22574  dobj(a1,Sake)
+
+// -1.2281  dobj(v,Drinker)
+-1.2281  dobj(a1,Drinker)
+
+// -1.2281  dobj(v,Facets)
+-1.2281  dobj(a1,Facets)
+
+// -1.2281  dobj(v,Impact)
+-1.2281  dobj(a1,Impact)
+
+// -1.22574  dobj(v,Vessels)
+-1.22574  dobj(a1,Vessels)
+
+// -1.2281  dobj(v,Vibe)
+-1.2281  dobj(a1,Vibe)
+
+// -1.2281  dobj(v,Ants)
+-1.2281  dobj(a1,Ants)
+
+// -1.2281  dobj(v,Moat)
+-1.2281  dobj(a1,Moat)
+
+// -1.22574  dobj(v,Activities)
+-1.22574  dobj(a1,Activities)
+
+// -1.21868  dobj(v,Books)
+-1.21868  dobj(a1,Books)
+
+// -1.22574  dobj(v,Shelves)
+-1.22574  dobj(a1,Shelves)
+
+// -1.22692  dobj(v,Physician)
+-1.22692  dobj(a1,Physician)
+
+// -1.22339  dobj(v,Risk)
+-1.22339  dobj(a1,Risk)
+
+// -1.22574  dobj(v,Flow)
+-1.22574  dobj(a1,Flow)
+
+// -1.2281  dobj(v,Fan)
+-1.2281  dobj(a1,Fan)
+
+// -1.22692  dobj(v,Craving)
+-1.22692  dobj(a1,Craving)
+
+// -1.2281  dobj(v,Complications)
+-1.2281  dobj(a1,Complications)
+
+// -1.2281  dobj(v,Lifestyle)
+-1.2281  dobj(a1,Lifestyle)
+
+// -1.2281  dobj(v,Whiskey)
+-1.2281  dobj(a1,Whiskey)
+
+// -1.22221  dobj(v,Pan)
+-1.22221  dobj(a1,Pan)
+
+// -1.2281  dobj(v,Element)
+-1.2281  dobj(a1,Element)
+
+// -1.2281  dobj(v,Henry)
+-1.2281  dobj(a1,Henry)
+
+// -1.22574  dobj(v,Label)
+-1.22574  dobj(a1,Label)
+
+// -1.22692  dobj(v,Units)
+-1.22692  dobj(a1,Units)
+
+// -1.2281  dobj(v,Factor)
+-1.2281  dobj(a1,Factor)
+
+// -1.22692  dobj(v,Answer)
+-1.22692  dobj(a1,Answer)
+
+// -1.2281  dobj(v,Measurement)
+-1.2281  dobj(a1,Measurement)
+
+// -1.22692  dobj(v,Spaces)
+-1.22692  dobj(a1,Spaces)
+
+// -1.22574  dobj(v,Arrow)
+-1.22574  dobj(a1,Arrow)
+
+// -1.2281  dobj(v,Reverse)
+-1.2281  dobj(a1,Reverse)
+
+// -1.2281  dobj(v,Decimal)
+-1.2281  dobj(a1,Decimal)
+
+// -1.22692  dobj(v,Zeroes)
+-1.22692  dobj(a1,Zeroes)
+
+// -1.2281  dobj(v,Millimeter)
+-1.2281  dobj(a1,Millimeter)
+
+// -1.22692  dobj(v,Zero)
+-1.22692  dobj(a1,Zero)
+
+// -1.22574  dobj(v,Itself)
+-1.22574  dobj(a1,Itself)
+
+// -1.2281  dobj(v,Issue)
+-1.2281  dobj(a1,Issue)
+
+// -1.2281  dobj(v,Host)
+-1.2281  dobj(a1,Host)
+
+// -1.2281  dobj(v,Meaning)
+-1.2281  dobj(a1,Meaning)
+
+// -1.2281  dobj(v,Crackers)
+-1.2281  dobj(a1,Crackers)
+
+// -1.2281  dobj(v,Diaper)
+-1.2281  dobj(a1,Diaper)
+
+// -1.22456  dobj(v,Tape)
+-1.22456  dobj(a1,Tape)
+
+// -1.22692  dobj(v,Slice)
+-1.22692  dobj(a1,Slice)
+
+// -1.2281  dobj(v,Fingerprints)
+-1.2281  dobj(a1,Fingerprints)
+
+// -1.2281  dobj(v,Passes)
+-1.2281  dobj(a1,Passes)
+
+// -1.2281  dobj(v,Bin)
+-1.2281  dobj(a1,Bin)
+
+// -1.22574  dobj(v,Wrap)
+-1.22574  dobj(a1,Wrap)
+
+// -1.2281  dobj(v,Mint)
+-1.2281  dobj(a1,Mint)
+
+// -1.2281  dobj(v,Pinches)
+-1.2281  dobj(a1,Pinches)
+
+// -1.22574  dobj(v,Contents)
+-1.22574  dobj(a1,Contents)
+
+// -1.2281  dobj(v,Looser)
+-1.2281  dobj(a1,Looser)
+
+// -1.22692  dobj(v,Pain)
+-1.22692  dobj(a1,Pain)
+
+// -1.22339  dobj(v,Materials)
+-1.22339  dobj(a1,Materials)
+
+// -1.2281  dobj(v,Red)
+-1.2281  dobj(a1,Red)
+
+// -1.2281  dobj(v,Hives)
+-1.2281  dobj(a1,Hives)
+
+// -1.22692  dobj(v,Damage)
+-1.22692  dobj(a1,Damage)
+
+// -1.2281  dobj(v,Inflammation)
+-1.2281  dobj(a1,Inflammation)
+
+// -1.2281  dobj(v,Tissues)
+-1.2281  dobj(a1,Tissues)
+
+// -1.22692  dobj(v,Range)
+-1.22692  dobj(a1,Range)
+
+// -1.2281  dobj(v,Swimming)
+-1.2281  dobj(a1,Swimming)
+
+// -1.22692  dobj(v,Dirt)
+-1.22692  dobj(a1,Dirt)
+
+// -1.22692  dobj(v,Plug)
+-1.22692  dobj(a1,Plug)
+
+// -1.2281  dobj(v,Grooves)
+-1.2281  dobj(a1,Grooves)
+
+// -1.22456  dobj(v,Bath)
+-1.22456  dobj(a1,Bath)
+
+// -1.2281  dobj(v,Tub)
+-1.2281  dobj(a1,Tub)
+
+// -1.2281  dobj(v,Caution)
+-1.2281  dobj(a1,Caution)
+
+// -1.22574  dobj(v,Smell)
+-1.22574  dobj(a1,Smell)
+
+// -1.22574  dobj(v,Bubbles)
+-1.22574  dobj(a1,Bubbles)
+
+// -1.2281  dobj(v,Lavender)
+-1.2281  dobj(a1,Lavender)
+
+// -1.2281  dobj(v,Salts)
+-1.2281  dobj(a1,Salts)
+
+// -1.2281  dobj(v,Heater)
+-1.2281  dobj(a1,Heater)
+
+// -1.2281  dobj(v,Bathroom)
+-1.2281  dobj(a1,Bathroom)
+
+// -1.2281  dobj(v,Magazine)
+-1.2281  dobj(a1,Magazine)
+
+// -1.2281  dobj(v,Atmosphere)
+-1.2281  dobj(a1,Atmosphere)
+
+// -1.2281  dobj(v,Electronics)
+-1.2281  dobj(a1,Electronics)
+
+// -1.2281  dobj(v,Suit)
+-1.2281  dobj(a1,Suit)
+
+// -1.2281  dobj(v,Drift)
+-1.2281  dobj(a1,Drift)
+
+// -1.2281  dobj(v,Lotion)
+-1.2281  dobj(a1,Lotion)
+
+// -1.2281  dobj(v,Hookahs)
+-1.2281  dobj(a1,Hookahs)
+
+// -1.2281  dobj(v,Shaft)
+-1.2281  dobj(a1,Shaft)
+
+// -1.2281  dobj(v,Hookah)
+-1.2281  dobj(a1,Hookah)
+
+// -1.22456  dobj(v,Seal)
+-1.22456  dobj(a1,Seal)
+
+// -1.2281  dobj(v,Molasses)
+-1.2281  dobj(a1,Molasses)
+
+// -1.2281  dobj(v,Mistake)
+-1.2281  dobj(a1,Mistake)
+
+// -1.22574  dobj(v,Foil)
+-1.22574  dobj(a1,Foil)
+
+// -1.22692  dobj(v,Screen)
+-1.22692  dobj(a1,Screen)
+
+// -1.2281  dobj(v,Channels)
+-1.2281  dobj(a1,Channels)
+
+// -1.2281  dobj(v,Smoking)
+-1.2281  dobj(a1,Smoking)
+
+// -1.2281  dobj(v,Orange)
+-1.2281  dobj(a1,Orange)
+
+// -1.2281  dobj(v,Headaches)
+-1.2281  dobj(a1,Headaches)
+
+// -1.2281  dobj(v,Tobacco)
+-1.2281  dobj(a1,Tobacco)
+
+// -1.21632  dobj(v,Account)
+-1.21632  dobj(a1,Account)
+
+// -1.2281  dobj(v,Parent)
+-1.2281  dobj(a1,Parent)
+
+// -1.2281  dobj(v,Identification)
+-1.2281  dobj(a1,Identification)
+
+// -1.22574  dobj(v,Deposit)
+-1.22574  dobj(a1,Deposit)
+
+// -1.2281  dobj(v,Branches)
+-1.2281  dobj(a1,Branches)
+
+// -1.2281  dobj(v,Service)
+-1.2281  dobj(a1,Service)
+
+// -1.22456  dobj(v,Fees)
+-1.22456  dobj(a1,Fees)
+
+// -1.22574  dobj(v,Services)
+-1.22574  dobj(a1,Services)
+
+// -1.2281  dobj(v,Resources)
+-1.2281  dobj(a1,Resources)
+
+// -1.2281  dobj(v,Difficulties)
+-1.2281  dobj(a1,Difficulties)
+
+// -1.22221  dobj(v,Attention)
+-1.22221  dobj(a1,Attention)
+
+// -1.2281  dobj(v,Checkbook)
+-1.2281  dobj(a1,Checkbook)
+
+// -1.22574  dobj(v,Interest)
+-1.22574  dobj(a1,Interest)
+
+// -1.2281  dobj(v,Checking)
+-1.2281  dobj(a1,Checking)
+
+// -1.22692  dobj(v,Atm)
+-1.22692  dobj(a1,Atm)
+
+// -1.2281  dobj(v,Id)
+-1.2281  dobj(a1,Id)
+
+// -1.2281  dobj(v,Bank)
+-1.2281  dobj(a1,Bank)
+
+// -1.2281  dobj(v,Freeze)
+-1.2281  dobj(a1,Freeze)
+
+// -1.22456  dobj(v,Use)
+-1.22456  dobj(a1,Use)
+
+// -1.2281  dobj(v,Atms)
+-1.2281  dobj(a1,Atms)
+
+// -1.22692  dobj(v,Fee)
+-1.22692  dobj(a1,Fee)
+
+// -1.22692  dobj(v,Limit)
+-1.22692  dobj(a1,Limit)
+
+// -1.2281  dobj(v,Checks)
+-1.2281  dobj(a1,Checks)
+
+// -1.22574  dobj(v,Check)
+-1.22574  dobj(a1,Check)
+
+// -1.22339  dobj(v,Options)
+-1.22339  dobj(a1,Options)
+
+// -1.2281  dobj(v,Record)
+-1.2281  dobj(a1,Record)
+
+// -1.2281  dobj(v,Forms)
+-1.2281  dobj(a1,Forms)
+
+// -1.2281  dobj(v,Owner)
+-1.2281  dobj(a1,Owner)
+
+// -1.22103  dobj(v,Copy)
+-1.22103  dobj(a1,Copy)
+
+// -1.2281  dobj(v,Rights)
+-1.2281  dobj(a1,Rights)
+
+// -1.22574  dobj(v,Balance)
+-1.22574  dobj(a1,Balance)
+
+// -1.22692  dobj(v,Rate)
+-1.22692  dobj(a1,Rate)
+
+// -1.2281  dobj(v,Charge)
+-1.2281  dobj(a1,Charge)
+
+// -1.22692  dobj(v,Talk)
+-1.22692  dobj(a1,Talk)
+
+// -1.22221  dobj(v,Products)
+-1.22221  dobj(a1,Products)
+
+// -1.2281  dobj(v,Siphon)
+-1.2281  dobj(a1,Siphon)
+
+// -1.2281  dobj(v,Suction)
+-1.2281  dobj(a1,Suction)
+
+// -1.22456  dobj(v,Bubble)
+-1.22456  dobj(a1,Bubble)
+
+// -1.2281  dobj(v,Say)
+-1.2281  dobj(a1,Say)
+
+// -1.22339  dobj(v,Sauce)
+-1.22339  dobj(a1,Sauce)
+
+// -1.22692  dobj(v,Lumps)
+-1.22692  dobj(a1,Lumps)
+
+// -1.21868  dobj(v,Level)
+-1.21868  dobj(a1,Level)
+
+// -1.2281  dobj(v,Teaspoons)
+-1.2281  dobj(a1,Teaspoons)
+
+// -1.2281  dobj(v,Grater)
+-1.2281  dobj(a1,Grater)
+
+// -1.22103  dobj(v,Texture)
+-1.22103  dobj(a1,Texture)
+
+// -1.2281  dobj(v,Zucchini)
+-1.2281  dobj(a1,Zucchini)
+
+// -1.2281  dobj(v,Greenyellow)
+-1.2281  dobj(a1,Greenyellow)
+
+// -1.22692  dobj(v,Chicken)
+-1.22692  dobj(a1,Chicken)
+
+// -1.2281  dobj(v,Cabbage)
+-1.2281  dobj(a1,Cabbage)
+
+// -1.22692  dobj(v,Chops)
+-1.22692  dobj(a1,Chops)
+
+// -1.2281  dobj(v,Solids)
+-1.2281  dobj(a1,Solids)
+
+// -1.22692  dobj(v,Fat)
+-1.22692  dobj(a1,Fat)
+
+// -1.2281  dobj(v,Pomegranate)
+-1.2281  dobj(a1,Pomegranate)
+
+// -1.2281  dobj(v,Salinity)
+-1.2281  dobj(a1,Salinity)
+
+// -1.2281  dobj(v,Chloride)
+-1.2281  dobj(a1,Chloride)
+
+// -1.2281  dobj(v,Refractometer)
+-1.2281  dobj(a1,Refractometer)
+
+// -1.2281  dobj(v,Following)
+-1.2281  dobj(a1,Following)
+
+// -1.22574  dobj(v,Device)
+-1.22574  dobj(a1,Device)
+
+// -1.2281  dobj(v,Calibration)
+-1.2281  dobj(a1,Calibration)
+
+// -1.2281  dobj(v,Sample)
+-1.2281  dobj(a1,Sample)
+
+// -1.2281  dobj(v,Gravity)
+-1.2281  dobj(a1,Gravity)
+
+// -1.2281  dobj(v,Hydrometers)
+-1.2281  dobj(a1,Hydrometers)
+
+// -1.22456  dobj(v,Reading)
+-1.22456  dobj(a1,Reading)
+
+// -1.2281  dobj(v,Meniscus)
+-1.2281  dobj(a1,Meniscus)
+
+// -1.2281  dobj(v,Standard)
+-1.2281  dobj(a1,Standard)
+
+// -1.2281  dobj(v,Meter)
+-1.2281  dobj(a1,Meter)
+
+// -1.22103  dobj(v,Outside)
+-1.22103  dobj(a1,Outside)
+
+// -1.2281  dobj(v,Neither)
+-1.2281  dobj(a1,Neither)
+
+// -1.2281  dobj(v,Ranges)
+-1.2281  dobj(a1,Ranges)
+
+// -1.2281  dobj(v,Paste)
+-1.2281  dobj(a1,Paste)
+
+// -1.22574  dobj(v,Lens)
+-1.22574  dobj(a1,Lens)
+
+// -1.2281  dobj(v,Photochemicals)
+-1.2281  dobj(a1,Photochemicals)
+
+// -1.2281  dobj(v,Solutions)
+-1.2281  dobj(a1,Solutions)
+
+// -1.22692  dobj(v,Pattern)
+-1.22692  dobj(a1,Pattern)
+
+// -1.2281  dobj(v,Grains)
+-1.2281  dobj(a1,Grains)
+
+// -1.2281  dobj(v,Enjoyment)
+-1.2281  dobj(a1,Enjoyment)
+
+// -1.22692  dobj(v,Appetizer)
+-1.22692  dobj(a1,Appetizer)
+
+// -1.2281  dobj(v,Decrease)
+-1.2281  dobj(a1,Decrease)
+
+// -1.2281  dobj(v,Insight)
+-1.2281  dobj(a1,Insight)
+
+// -1.22103  dobj(v,Times)
+-1.22103  dobj(a1,Times)
+
+// -1.22456  dobj(v,Scale)
+-1.22456  dobj(a1,Scale)
+
+// -1.22692  dobj(v,Symptoms)
+-1.22692  dobj(a1,Symptoms)
+
+// -1.2281  dobj(v,Oz)
+-1.2281  dobj(a1,Oz)
+
+// -1.2281  dobj(v,Walk)
+-1.2281  dobj(a1,Walk)
+
+// -1.22692  dobj(v,Rule)
+-1.22692  dobj(a1,Rule)
+
+// -1.22692  dobj(v,Computer)
+-1.22692  dobj(a1,Computer)
+
+// -1.2281  dobj(v,Programs)
+-1.2281  dobj(a1,Programs)
+
+// -1.2281  dobj(v,Aspects)
+-1.2281  dobj(a1,Aspects)
+
+// -1.22456  dobj(v,Meal)
+-1.22456  dobj(a1,Meal)
+
+// -1.2281  dobj(v,Small)
+-1.2281  dobj(a1,Small)
+
+// -1.2281  dobj(v,Sip)
+-1.2281  dobj(a1,Sip)
+
+// -1.22692  dobj(v,Breath)
+-1.22692  dobj(a1,Breath)
+
+// -1.22692  dobj(v,Sensation)
+-1.22692  dobj(a1,Sensation)
+
+// -1.22692  dobj(v,Stomach)
+-1.22692  dobj(a1,Stomach)
+
+// -1.2281  dobj(v,Starch)
+-1.2281  dobj(a1,Starch)
+
+// -1.2281  dobj(v,Pasta)
+-1.2281  dobj(a1,Pasta)
+
+// -1.22692  dobj(v,Leftovers)
+-1.22692  dobj(a1,Leftovers)
+
+// -1.22456  dobj(v,Menu)
+-1.22456  dobj(a1,Menu)
+
+// -1.2281  dobj(v,Waiter)
+-1.2281  dobj(a1,Waiter)
+
+// -1.2281  dobj(v,Server)
+-1.2281  dobj(a1,Server)
+
+// -1.22574  dobj(v,Tapas)
+-1.22574  dobj(a1,Tapas)
+
+// -1.2281  dobj(v,Payments)
+-1.2281  dobj(a1,Payments)
+
+// -1.2281  dobj(v,Statements)
+-1.2281  dobj(a1,Statements)
+
+// -1.22574  dobj(v,Product)
+-1.22574  dobj(a1,Product)
+
+// -1.2281  dobj(v,Certificate)
+-1.2281  dobj(a1,Certificate)
+
+// -1.2281  dobj(v,Commitment)
+-1.2281  dobj(a1,Commitment)
+
+// -1.2281  dobj(v,Fargo)
+-1.2281  dobj(a1,Fargo)
+
+// -1.22692  dobj(v,Request)
+-1.22692  dobj(a1,Request)
+
+// -1.22692  dobj(v,Letter)
+-1.22692  dobj(a1,Letter)
+
+// -1.2281  dobj(v,Funds)
+-1.2281  dobj(a1,Funds)
+
+// -1.2281  dobj(v,Plank)
+-1.2281  dobj(a1,Plank)
+
+// -1.22456  dobj(v,Corner)
+-1.22456  dobj(a1,Corner)
+
+// -1.2281  dobj(v,Mushroom)
+-1.2281  dobj(a1,Mushroom)
+
+// -1.2281  dobj(v,Utensil)
+-1.2281  dobj(a1,Utensil)
+
+// -1.22692  dobj(v,Gap)
+-1.22692  dobj(a1,Gap)
+
+// -1.22574  dobj(v,Nutrients)
+-1.22574  dobj(a1,Nutrients)
+
+// -1.22456  dobj(v,Refrigerator)
+-1.22456  dobj(a1,Refrigerator)
+
+// -1.2281  dobj(v,C)
+-1.2281  dobj(a1,C)
+
+// -1.22574  dobj(v,Smoker)
+-1.22574  dobj(a1,Smoker)
+
+// -1.2281  dobj(v,Contaminants)
+-1.2281  dobj(a1,Contaminants)
+
+// -1.22574  dobj(v,Wood)
+-1.22574  dobj(a1,Wood)
+
+// -1.22574  dobj(v,Your)
+-1.22574  dobj(a1,Your)
+
+// -1.2281  dobj(v,Packet)
+-1.2281  dobj(a1,Packet)
+
+// -1.2281  dobj(v,Herbs)
+-1.2281  dobj(a1,Herbs)
+
+// -1.2281  dobj(v,Temperatures)
+-1.2281  dobj(a1,Temperatures)
+
+// -1.22456  dobj(v,Vents)
+-1.22456  dobj(a1,Vents)
+
+// -1.22692  dobj(v,Hotter)
+-1.22692  dobj(a1,Hotter)
+
+// -1.2281  dobj(v,Escape)
+-1.2281  dobj(a1,Escape)
+
+// -1.2281  dobj(v,Cooks)
+-1.2281  dobj(a1,Cooks)
+
+// -1.22692  dobj(v,Flesh)
+-1.22692  dobj(a1,Flesh)
+
+// -1.22692  dobj(v,Consistency)
+-1.22692  dobj(a1,Consistency)
+
+// -1.22692  dobj(v,Lemons)
+-1.22692  dobj(a1,Lemons)
+
+// -1.22574  dobj(v,Towels)
+-1.22574  dobj(a1,Towels)
+
+// -1.22574  dobj(v,Fingers)
+-1.22574  dobj(a1,Fingers)
+
+// -1.2281  dobj(v,Peel)
+-1.2281  dobj(a1,Peel)
+
+// -1.22574  dobj(v,Tbsp)
+-1.22574  dobj(a1,Tbsp)
+
+// -1.2281  dobj(v,Debris)
+-1.2281  dobj(a1,Debris)
+
+// -1.2281  dobj(v,Halfcup)
+-1.2281  dobj(a1,Halfcup)
+
+// -1.22692  dobj(v,Waste)
+-1.22692  dobj(a1,Waste)
+
+// -1.2281  dobj(v,Rows)
+-1.2281  dobj(a1,Rows)
+
+// -1.22456  dobj(v,Face)
+-1.22456  dobj(a1,Face)
+
+// -1.22692  dobj(v,Row)
+-1.22692  dobj(a1,Row)
+
+// -1.22103  dobj(v,Value)
+-1.22103  dobj(a1,Value)
+
+// -1.2281  dobj(v,Sequences)
+-1.2281  dobj(a1,Sequences)
+
+// -1.22692  dobj(v,Stacks)
+-1.22692  dobj(a1,Stacks)
+
+// -1.22692  dobj(v,Palm)
+-1.22692  dobj(a1,Palm)
+
+// -1.22692  dobj(v,Ceiling)
+-1.22692  dobj(a1,Ceiling)
+
+// -1.2281  dobj(v,Purse)
+-1.2281  dobj(a1,Purse)
+
+// -1.2281  dobj(v,Lie)
+-1.2281  dobj(a1,Lie)
+
+// -1.2281  dobj(v,Perform)
+-1.2281  dobj(a1,Perform)
+
+// -1.2281  dobj(v,Answers)
+-1.2281  dobj(a1,Answers)
+
+// -1.2281  dobj(v,Liar)
+-1.2281  dobj(a1,Liar)
+
+// -1.2281  dobj(v,Particles)
+-1.2281  dobj(a1,Particles)
+
+// -1.2281  dobj(v,Outward)
+-1.2281  dobj(a1,Outward)
+
+// -1.2281  dobj(v,Crowd)
+-1.2281  dobj(a1,Crowd)
+
+// -1.2281  dobj(v,Dishwasher)
+-1.2281  dobj(a1,Dishwasher)
+
+// -1.22574  dobj(v,Knives)
+-1.22574  dobj(a1,Knives)
+
+// -1.2281  dobj(v,Cutlery)
+-1.2281  dobj(a1,Cutlery)
+
+// -1.22574  dobj(v,Handles)
+-1.22574  dobj(a1,Handles)
+
+// -1.2281  dobj(v,Pellet)
+-1.2281  dobj(a1,Pellet)
+
+// -1.2281  dobj(v,Prerinsing)
+-1.2281  dobj(a1,Prerinsing)
+
+// -1.2281  dobj(v,Aid)
+-1.2281  dobj(a1,Aid)
+
+// -1.22692  dobj(v,Triangles)
+-1.22692  dobj(a1,Triangles)
+
+// -1.2281  dobj(v,House)
+-1.2281  dobj(a1,House)
+
+// -1.22692  dobj(v,Roof)
+-1.22692  dobj(a1,Roof)
+
+// -1.2281  dobj(v,Podge)
+-1.2281  dobj(a1,Podge)
+
+// -1.22692  dobj(v,Dimensions)
+-1.22692  dobj(a1,Dimensions)
+
+// -1.22692  dobj(v,Cuts)
+-1.22692  dobj(a1,Cuts)
+
+// -1.2281  dobj(v,Flaps)
+-1.2281  dobj(a1,Flaps)
+
+// -1.2281  dobj(v,Cross)
+-1.2281  dobj(a1,Cross)
+
+// -1.22574  dobj(v,Sign)
+-1.22574  dobj(a1,Sign)
+
+// -1.22339  dobj(v,A)
+-1.22339  dobj(a1,A)
+
+// -1.22574  dobj(v,Cut)
+-1.22574  dobj(a1,Cut)
+
+// -1.22456  dobj(v,Tabs)
+-1.22456  dobj(a1,Tabs)
+
+// -1.2281  dobj(v,Cutter)
+-1.2281  dobj(a1,Cutter)
+
+// -1.22692  dobj(v,Bulk)
+-1.22692  dobj(a1,Bulk)
+
+// -1.22692  dobj(v,Washcloth)
+-1.22692  dobj(a1,Washcloth)
+
+// -1.22692  dobj(v,Balls)
+-1.22692  dobj(a1,Balls)
+
+// -1.22692  dobj(v,Formula)
+-1.22692  dobj(a1,Formula)
+
+// -1.2281  dobj(v,Washcloths)
+-1.2281  dobj(a1,Washcloths)
+
+// -1.2281  dobj(v,Cloths)
+-1.2281  dobj(a1,Cloths)
+
+// -1.22339  dobj(v,Kitten)
+-1.22339  dobj(a1,Kitten)
+
+// -1.2281  dobj(v,Hazard)
+-1.2281  dobj(a1,Hazard)
+
+// -1.21397  dobj(v,Bacon)
+-1.21397  dobj(a1,Bacon)
+
+// -1.2281  dobj(v,Skillet)
+-1.2281  dobj(a1,Skillet)
+
+// -1.22692  dobj(v,Places)
+-1.22692  dobj(a1,Places)
+
+// -1.22221  dobj(v,Air)
+-1.22221  dobj(a1,Air)
+
+// -1.22692  dobj(v,Tools)
+-1.22692  dobj(a1,Tools)
+
+// -1.2281  dobj(v,Model)
+-1.2281  dobj(a1,Model)
+
+// -1.2281  dobj(v,Views)
+-1.2281  dobj(a1,Views)
+
+// -1.22221  dobj(v,Button)
+-1.22221  dobj(a1,Button)
+
+// -1.2281  dobj(v,Click)
+-1.2281  dobj(a1,Click)
+
+// -1.2281  dobj(v,Sketchup)
+-1.2281  dobj(a1,Sketchup)
+
+// -1.22692  dobj(v,Sphere)
+-1.22692  dobj(a1,Sphere)
+
+// -1.22574  dobj(v,Cube)
+-1.22574  dobj(a1,Cube)
+
+// -1.22692  dobj(v,Tool)
+-1.22692  dobj(a1,Tool)
+
+// -1.22456  dobj(v,Holes)
+-1.22456  dobj(a1,Holes)
+
+// -1.2281  dobj(v,Shapes)
+-1.2281  dobj(a1,Shapes)
+
+// -1.2281  dobj(v,Arrows)
+-1.2281  dobj(a1,Arrows)
+
+// -1.2281  dobj(v,Colourtexture)
+-1.2281  dobj(a1,Colourtexture)
+
+// -1.2281  dobj(v,Windows)
+-1.2281  dobj(a1,Windows)
+
+// -1.2281  dobj(v,Eraser)
+-1.2281  dobj(a1,Eraser)
+
+// -1.2281  dobj(v,Textures)
+-1.2281  dobj(a1,Textures)
+
+// -1.2281  dobj(v,Articles)
+-1.2281  dobj(a1,Articles)
+
+// -1.2281  dobj(v,Text)
+-1.2281  dobj(a1,Text)
+
+// -1.22692  dobj(v,Sections)
+-1.22692  dobj(a1,Sections)
+
+// -1.2281  dobj(v,Doghouse)
+-1.2281  dobj(a1,Doghouse)
+
+// -1.22692  dobj(v,Building)
+-1.22692  dobj(a1,Building)
+
+// -1.2281  dobj(v,Chiller)
+-1.2281  dobj(a1,Chiller)
+
+// -1.2281  dobj(v,Splash)
+-1.2281  dobj(a1,Splash)
+
+// -1.22574  dobj(v,Oxygen)
+-1.22574  dobj(a1,Oxygen)
+
+// -1.2281  dobj(v,Dioxide)
+-1.2281  dobj(a1,Dioxide)
+
+// -1.22692  dobj(v,Filter)
+-1.22692  dobj(a1,Filter)
+
+// -1.2281  dobj(v,Volatiles)
+-1.2281  dobj(a1,Volatiles)
+
+// -1.2281  dobj(v,Sauces)
+-1.2281  dobj(a1,Sauces)
+
+// -1.2281  dobj(v,Specialities)
+-1.2281  dobj(a1,Specialities)
+
+// -1.2281  dobj(v,Odors)
+-1.2281  dobj(a1,Odors)
+
+// -1.2281  dobj(v,Briquettes)
+-1.2281  dobj(a1,Briquettes)
+
+// -1.2281  dobj(v,Electronic)
+-1.2281  dobj(a1,Electronic)
+
+// -1.2281  dobj(v,Thunk)
+-1.2281  dobj(a1,Thunk)
+
+// -1.22692  dobj(v,Stud)
+-1.22692  dobj(a1,Stud)
+
+// -1.22574  dobj(v,Wire)
+-1.22574  dobj(a1,Wire)
+
+// -1.2281  dobj(v,Nail)
+-1.2281  dobj(a1,Nail)
+
+// -1.2281  dobj(v,Overhang)
+-1.2281  dobj(a1,Overhang)
+
+// -1.2281  dobj(v,Attachments)
+-1.2281  dobj(a1,Attachments)
+
+// -1.2281  dobj(v,Marker)
+-1.2281  dobj(a1,Marker)
+
+// -1.22574  dobj(v,Screws)
+-1.22574  dobj(a1,Screws)
+
+// -1.2281  dobj(v,Cable)
+-1.2281  dobj(a1,Cable)
+
+// -1.2281  dobj(v,Rash)
+-1.2281  dobj(a1,Rash)
+
+// -1.22692  dobj(v,Doctor)
+-1.22692  dobj(a1,Doctor)
+
+// -1.2281  dobj(v,Allergy)
+-1.2281  dobj(a1,Allergy)
+
+// -1.22574  dobj(v,Baby)
+-1.22574  dobj(a1,Baby)
+
+// -1.22339  dobj(v,Bottles)
+-1.22339  dobj(a1,Bottles)
+
+// -1.2281  dobj(v,Comfort)
+-1.2281  dobj(a1,Comfort)
+
+// -1.2281  dobj(v,Gift)
+-1.2281  dobj(a1,Gift)
+
+// -1.2281  dobj(v,Hugs)
+-1.2281  dobj(a1,Hugs)
+
+// -1.2281  dobj(v,Reward)
+-1.2281  dobj(a1,Reward)
+
+// -1.2281  dobj(v,Drinks)
+-1.2281  dobj(a1,Drinks)
+
+// -1.22692  dobj(v,Shots)
+-1.22692  dobj(a1,Shots)
+
+// -1.22456  dobj(v,Juice)
+-1.22456  dobj(a1,Juice)
+
+// -1.22692  dobj(v,Opening)
+-1.22692  dobj(a1,Opening)
+
+// -1.22692  dobj(v,Quarter)
+-1.22692  dobj(a1,Quarter)
+
+// -1.2281  dobj(v,Scratch)
+-1.2281  dobj(a1,Scratch)
+
+// -1.22574  dobj(v,Coin)
+-1.22574  dobj(a1,Coin)
+
+// -1.22692  dobj(v,Setup)
+-1.22692  dobj(a1,Setup)
+
+// -1.2281  dobj(v,Read)
+-1.2281  dobj(a1,Read)
+
+// -1.22692  dobj(v,Contact)
+-1.22692  dobj(a1,Contact)
+
+// -1.22692  dobj(v,Penny)
+-1.22692  dobj(a1,Penny)
+
+// -1.2281  dobj(v,Adhesive)
+-1.2281  dobj(a1,Adhesive)
+
+// -1.2281  dobj(v,Secrets)
+-1.2281  dobj(a1,Secrets)
+
+// -1.2281  dobj(v,Dinner)
+-1.2281  dobj(a1,Dinner)
+
+// -1.2281  dobj(v,Tv)
+-1.2281  dobj(a1,Tv)
+
+// -1.22456  dobj(v,Need)
+-1.22456  dobj(a1,Need)
+
+// -1.22692  dobj(v,Activity)
+-1.22692  dobj(a1,Activity)
+
+// -1.2281  dobj(v,Accountability)
+-1.2281  dobj(a1,Accountability)
+
+// -1.2281  dobj(v,Guesswork)
+-1.2281  dobj(a1,Guesswork)
+
+// -1.2281  dobj(v,Plans)
+-1.2281  dobj(a1,Plans)
+
+// -1.2281  dobj(v,Purchases)
+-1.2281  dobj(a1,Purchases)
+
+// -1.2281  dobj(v,Dinners)
+-1.2281  dobj(a1,Dinners)
+
+// -1.2281  dobj(v,Cookbook)
+-1.2281  dobj(a1,Cookbook)
+
+// -1.22574  dobj(v,Sites)
+-1.22574  dobj(a1,Sites)
+
+// -1.22574  dobj(v,Loss)
+-1.22574  dobj(a1,Loss)
+
+// -1.2281  dobj(v,Class)
+-1.2281  dobj(a1,Class)
+
+// -1.2281  dobj(v,Stroll)
+-1.2281  dobj(a1,Stroll)
+
+// -1.2281  dobj(v,K)
+-1.2281  dobj(a1,K)
+
+// -1.2281  dobj(v,Music)
+-1.2281  dobj(a1,Music)
+
+// -1.2281  dobj(v,Tunes)
+-1.2281  dobj(a1,Tunes)
+
+// -1.22339  dobj(v,Meditation)
+-1.22339  dobj(a1,Meditation)
+
+// -1.22692  dobj(v,Works)
+-1.22692  dobj(a1,Works)
+
+// -1.2281  dobj(v,Peace)
+-1.2281  dobj(a1,Peace)
+
+// -1.2281  dobj(v,Sweater)
+-1.2281  dobj(a1,Sweater)
+
+// -1.2281  dobj(v,Thoughts)
+-1.2281  dobj(a1,Thoughts)
+
+// -1.22221  dobj(v,Shoes)
+-1.22221  dobj(a1,Shoes)
+
+// -1.2281  dobj(v,Collar)
+-1.2281  dobj(a1,Collar)
+
+// -1.2281  dobj(v,Alarm)
+-1.2281  dobj(a1,Alarm)
+
+// -1.22574  dobj(v,Spot)
+-1.22574  dobj(a1,Spot)
+
+// -1.22692  dobj(v,Neck)
+-1.22692  dobj(a1,Neck)
+
+// -1.2281  dobj(v,Pelvis)
+-1.2281  dobj(a1,Pelvis)
+
+// -1.2281  dobj(v,Thick)
+-1.2281  dobj(a1,Thick)
+
+// -1.2281  dobj(v,Vertebrae)
+-1.2281  dobj(a1,Vertebrae)
+
+// -1.2281  dobj(v,Alignment)
+-1.2281  dobj(a1,Alignment)
+
+// -1.22692  dobj(v,Whichever)
+-1.22692  dobj(a1,Whichever)
+
+// -1.2281  dobj(v,Images)
+-1.2281  dobj(a1,Images)
+
+// -1.2281  dobj(v,Buoy)
+-1.2281  dobj(a1,Buoy)
+
+// -1.2281  dobj(v,Flower)
+-1.2281  dobj(a1,Flower)
+
+// -1.2281  dobj(v,Petals)
+-1.2281  dobj(a1,Petals)
+
+// -1.22692  dobj(v,Effort)
+-1.22692  dobj(a1,Effort)
+
+// -1.22456  dobj(v,Mind)
+-1.22456  dobj(a1,Mind)
+
+// -1.2281  dobj(v,Chatter)
+-1.2281  dobj(a1,Chatter)
+
+// -1.2281  dobj(v,Meditate)
+-1.2281  dobj(a1,Meditate)
+
+// -1.2281  dobj(v,Maximumif)
+-1.2281  dobj(a1,Maximumif)
+
+// -1.2281  dobj(v,Minds)
+-1.2281  dobj(a1,Minds)
+
+// -1.22574  dobj(v,Words)
+-1.22574  dobj(a1,Words)
+
+// -1.2281  dobj(v,Mantras)
+-1.2281  dobj(a1,Mantras)
+
+// -1.2281  dobj(v,Om)
+-1.2281  dobj(a1,Om)
+
+// -1.2281  dobj(v,Consciousness)
+-1.2281  dobj(a1,Consciousness)
+
+// -1.2281  dobj(v,Instrument)
+-1.2281  dobj(a1,Instrument)
+
+// -1.2281  dobj(v,Vibrations)
+-1.2281  dobj(a1,Vibrations)
+
+// -1.2281  dobj(v,State)
+-1.2281  dobj(a1,State)
+
+// -1.2281  dobj(v,Mantra)
+-1.2281  dobj(a1,Mantra)
+
+// -1.2281  dobj(v,Flame)
+-1.2281  dobj(a1,Flame)
+
+// -1.2281  dobj(v,Crystals)
+-1.2281  dobj(a1,Crystals)
+
+// -1.2281  dobj(v,Vision)
+-1.2281  dobj(a1,Vision)
+
+// -1.22692  dobj(v,Brain)
+-1.22692  dobj(a1,Brain)
+
+// -1.2281  dobj(v,Sanctuary)
+-1.2281  dobj(a1,Sanctuary)
+
+// -1.2281  dobj(v,Surroundings)
+-1.2281  dobj(a1,Surroundings)
+
+// -1.2281  dobj(v,Breeze)
+-1.2281  dobj(a1,Breeze)
+
+// -1.2281  dobj(v,Breaths)
+-1.2281  dobj(a1,Breaths)
+
+// -1.2281  dobj(v,Relaxation)
+-1.2281  dobj(a1,Relaxation)
+
+// -1.2281  dobj(v,Palms)
+-1.2281  dobj(a1,Palms)
+
+// -1.2281  dobj(v,Warmth)
+-1.2281  dobj(a1,Warmth)
+
+// -1.2281  dobj(v,Love)
+-1.2281  dobj(a1,Love)
+
+// -1.22574  dobj(v,Field)
+-1.22574  dobj(a1,Field)
+
+// -1.22692  dobj(v,Location)
+-1.22692  dobj(a1,Location)
+
+// -1.2281  dobj(v,Paces)
+-1.2281  dobj(a1,Paces)
+
+// -1.22692  dobj(v,End)
+-1.22692  dobj(a1,End)
+
+// -1.2281  dobj(v,Movements)
+-1.2281  dobj(a1,Movements)
+
+// -1.2281  dobj(v,Mindfulness)
+-1.2281  dobj(a1,Mindfulness)
+
+// -1.2281  dobj(v,Nuggets)
+-1.2281  dobj(a1,Nuggets)
+
+// -1.2281  dobj(v,Mountain)
+-1.2281  dobj(a1,Mountain)
+
+// -1.2281  dobj(v,Antibiotics)
+-1.2281  dobj(a1,Antibiotics)
+
+// -1.2281  dobj(v,Ends)
+-1.2281  dobj(a1,Ends)
+
+// -1.2281  dobj(v,Pen)
+-1.2281  dobj(a1,Pen)
+
+// -1.2281  dobj(v,Profile)
+-1.2281  dobj(a1,Profile)
+
+// -1.22692  dobj(v,Personality)
+-1.22692  dobj(a1,Personality)
+
+// -1.2281  dobj(v,Movies)
+-1.2281  dobj(a1,Movies)
+
+// -1.2281  dobj(v,Skills)
+-1.2281  dobj(a1,Skills)
+
+// -1.2281  dobj(v,Clubsuncle)
+-1.2281  dobj(a1,Clubsuncle)
+
+// -1.22103  dobj(v,Distance)
+-1.22103  dobj(a1,Distance)
+
+// -1.2281  dobj(v,Pangya)
+-1.2281  dobj(a1,Pangya)
+
+// -1.2281  dobj(v,Distances)
+-1.2281  dobj(a1,Distances)
+
+// -1.2281  dobj(v,Approach)
+-1.2281  dobj(a1,Approach)
+
+// -1.22692  dobj(v,Kinds)
+-1.22692  dobj(a1,Kinds)
+
+// -1.2281  dobj(v,High)
+-1.2281  dobj(a1,High)
+
+// -1.2281  dobj(v,Club)
+-1.2281  dobj(a1,Club)
+
+// -1.2281  dobj(v,Comet)
+-1.2281  dobj(a1,Comet)
+
+// -1.2281  dobj(v,Mark)
+-1.2281  dobj(a1,Mark)
+
+// -1.2281  dobj(v,Slope)
+-1.2281  dobj(a1,Slope)
+
+// -1.2281  dobj(v,Means)
+-1.2281  dobj(a1,Means)
+
+// -1.2281  dobj(v,Bogey)
+-1.2281  dobj(a1,Bogey)
+
+// -1.2281  dobj(v,Beam)
+-1.2281  dobj(a1,Beam)
+
+// -1.22692  dobj(v,Prices)
+-1.22692  dobj(a1,Prices)
+
+// -1.2281  dobj(v,Clog)
+-1.2281  dobj(a1,Clog)
+
+// -1.22692  dobj(v,Force)
+-1.22692  dobj(a1,Force)
+
+// -1.2281  dobj(v,Porcelain)
+-1.2281  dobj(a1,Porcelain)
+
+// -1.2281  dobj(v,Obstruction)
+-1.2281  dobj(a1,Obstruction)
+
+// -1.2281  dobj(v,Snake)
+-1.2281  dobj(a1,Snake)
+
+// -1.2281  dobj(v,Chemical)
+-1.2281  dobj(a1,Chemical)
+
+// -1.2281  dobj(v,Pipes)
+-1.2281  dobj(a1,Pipes)
+
+// -1.22692  dobj(v,Stones)
+-1.22692  dobj(a1,Stones)
+
+// -1.22574  dobj(v,Stone)
+-1.22574  dobj(a1,Stone)
+
+// -1.2281  dobj(v,Battle)
+-1.2281  dobj(a1,Battle)
+
+// -1.2281  dobj(v,Territory)
+-1.2281  dobj(a1,Territory)
+
+// -1.2281  dobj(v,Capture)
+-1.2281  dobj(a1,Capture)
+
+// -1.2281  dobj(v,Situation)
+-1.2281  dobj(a1,Situation)
+
+// -1.2281  dobj(v,Komi)
+-1.2281  dobj(a1,Komi)
+
+// -1.2281  dobj(v,Ties)
+-1.2281  dobj(a1,Ties)
+
+// -1.22692  dobj(v,Benefit)
+-1.22692  dobj(a1,Benefit)
+
+// -1.2281  dobj(v,Liberty)
+-1.2281  dobj(a1,Liberty)
+
+// -1.2281  dobj(v,Novels)
+-1.2281  dobj(a1,Novels)
+
+// -1.2281  dobj(v,Tale)
+-1.2281  dobj(a1,Tale)
+
+// -1.2281  dobj(v,Magic)
+-1.2281  dobj(a1,Magic)
+
+// -1.2281  dobj(v,Librarian)
+-1.2281  dobj(a1,Librarian)
+
+// -1.2281  dobj(v,Wisely)
+-1.2281  dobj(a1,Wisely)
+
+// -1.2281  dobj(v,Those)
+-1.2281  dobj(a1,Those)
+
+// -1.2281  dobj(v,Stories)
+-1.2281  dobj(a1,Stories)
+
+// -1.2281  dobj(v,Science)
+-1.2281  dobj(a1,Science)
+
+// -1.2281  dobj(v,Opinions)
+-1.2281  dobj(a1,Opinions)
+
+// -1.2281  dobj(v,Community)
+-1.2281  dobj(a1,Community)
+
+// -1.2281  dobj(v,Reviews)
+-1.2281  dobj(a1,Reviews)
+
+// -1.2281  dobj(v,Readings)
+-1.2281  dobj(a1,Readings)
+
+// -1.2281  dobj(v,Lectures)
+-1.2281  dobj(a1,Lectures)
+
+// -1.2281  dobj(v,Lesson)
+-1.2281  dobj(a1,Lesson)
+
+// -1.2281  dobj(v,Membership)
+-1.2281  dobj(a1,Membership)
+
+// -1.2281  dobj(v,Bookstore)
+-1.2281  dobj(a1,Bookstore)
+
+// -1.22692  dobj(v,Pages)
+-1.22692  dobj(a1,Pages)
+
+// -1.2281  dobj(v,Style)
+-1.2281  dobj(a1,Style)
+
+// -1.2281  dobj(v,Reader)
+-1.2281  dobj(a1,Reader)
+
+// -1.22692  dobj(v,Version)
+-1.22692  dobj(a1,Version)
+
+// -1.2281  dobj(v,Author)
+-1.2281  dobj(a1,Author)
+
+// -1.22692  dobj(v,Excitement)
+-1.22692  dobj(a1,Excitement)
+
+// -1.2281  dobj(v,Prelude)
+-1.2281  dobj(a1,Prelude)
+
+// -1.2281  dobj(v,Importance)
+-1.2281  dobj(a1,Importance)
+
+// -1.2281  dobj(v,Context)
+-1.2281  dobj(a1,Context)
+
+// -1.22692  dobj(v,Numbers)
+-1.22692  dobj(a1,Numbers)
+
+// -1.2281  dobj(v,Paragraph)
+-1.2281  dobj(a1,Paragraph)
+
+// -1.2281  dobj(v,Textbook)
+-1.2281  dobj(a1,Textbook)
+
+// -1.2281  dobj(v,Diary)
+-1.2281  dobj(a1,Diary)
+
+// -1.2281  dobj(v,Whole)
+-1.2281  dobj(a1,Whole)
+
+// -1.2281  dobj(v,Unclean)
+-1.2281  dobj(a1,Unclean)
+
+// -1.22692  dobj(v,Health)
+-1.22692  dobj(a1,Health)
+
+// -1.2281  dobj(v,Youre)
+-1.2281  dobj(a1,Youre)
+
+// -1.2281  dobj(v,Dietitian)
+-1.2281  dobj(a1,Dietitian)
+
+// -1.2281  dobj(v,Academy)
+-1.2281  dobj(a1,Academy)
+
+// -1.2281  dobj(v,Nutrition)
+-1.2281  dobj(a1,Nutrition)
+
+// -1.22574  dobj(v,Berries)
+-1.22574  dobj(a1,Berries)
+
+// -1.2281  dobj(v,Breakfasts)
+-1.2281  dobj(a1,Breakfasts)
+
+// -1.2281  dobj(v,Meetings)
+-1.2281  dobj(a1,Meetings)
+
+// -1.2281  dobj(v,Meeting)
+-1.2281  dobj(a1,Meeting)
+
+// -1.22692  dobj(v,Evidence)
+-1.22692  dobj(a1,Evidence)
+
+// -1.2281  dobj(v,Mistakes)
+-1.2281  dobj(a1,Mistakes)
+
+// -1.2281  dobj(v,Envelope)
+-1.2281  dobj(a1,Envelope)
+
+// -1.22456  dobj(v,Results)
+-1.22456  dobj(a1,Results)
+
+// -1.2281  dobj(v,Dabs)
+-1.2281  dobj(a1,Dabs)
+
+// -1.2281  dobj(v,Spread)
+-1.2281  dobj(a1,Spread)
+
+// -1.2281  dobj(v,Wrinkles)
+-1.2281  dobj(a1,Wrinkles)
+
+// -1.2281  dobj(v,Jet)
+-1.2281  dobj(a1,Jet)
+
+// -1.2281  dobj(v,Papiermch)
+-1.2281  dobj(a1,Papiermch)
+
+// -1.22574  dobj(v,Cook)
+-1.22574  dobj(a1,Cook)
+
+// -1.2281  dobj(v,Brick)
+-1.2281  dobj(a1,Brick)
+
+// -1.22339  dobj(v,Noodles)
+-1.22339  dobj(a1,Noodles)
+
+// -1.2281  dobj(v,Mitts)
+-1.2281  dobj(a1,Mitts)
+
+// -1.2281  dobj(v,Flavoring)
+-1.2281  dobj(a1,Flavoring)
+
+// -1.2281  dobj(v,Ant)
+-1.2281  dobj(a1,Ant)
+
+// -1.22456  dobj(v,Plastic)
+-1.22456  dobj(a1,Plastic)
+
+// -1.2281  dobj(v,Carrot)
+-1.2281  dobj(a1,Carrot)
+
+// -1.22692  dobj(v,Greens)
+-1.22692  dobj(a1,Greens)
+
+// -1.21985  dobj(v,Egg)
+-1.21985  dobj(a1,Egg)
+
+// -1.2281  dobj(v,Density)
+-1.2281  dobj(a1,Density)
+
+// -1.22692  dobj(v,Tablespoon)
+-1.22692  dobj(a1,Tablespoon)
+
+// -1.2281  dobj(v,Ginger)
+-1.2281  dobj(a1,Ginger)
+
+// -1.2281  dobj(v,Lids)
+-1.2281  dobj(a1,Lids)
+
+// -1.2281  dobj(v,Odours)
+-1.2281  dobj(a1,Odours)
+
+// -1.2281  dobj(v,Basket)
+-1.2281  dobj(a1,Basket)
+
+// -1.2281  dobj(v,Garbage)
+-1.2281  dobj(a1,Garbage)
+
+// -1.22339  dobj(v,Dial)
+-1.22339  dobj(a1,Dial)
+
+// -1.22692  dobj(v,Popcorn)
+-1.22692  dobj(a1,Popcorn)
+
+// -1.2281  dobj(v,Steam)
+-1.2281  dobj(a1,Steam)
+
+// -1.2281  dobj(v,Kernels)
+-1.2281  dobj(a1,Kernels)
+
+// -1.22692  dobj(v,Microwaves)
+-1.22692  dobj(a1,Microwaves)
+
+// -1.2281  dobj(v,Recipe)
+-1.2281  dobj(a1,Recipe)
+
+// -1.2281  dobj(v,Problem)
+-1.2281  dobj(a1,Problem)
+
+// -1.22692  dobj(v,Reactions)
+-1.22692  dobj(a1,Reactions)
+
+// -1.2281  dobj(v,Exterior)
+-1.2281  dobj(a1,Exterior)
+
+// -1.2281  dobj(v,Warmer)
+-1.2281  dobj(a1,Warmer)
+
+// -1.2281  dobj(v,Conservatively)
+-1.2281  dobj(a1,Conservatively)
+
+// -1.2281  dobj(v,Vitamins)
+-1.2281  dobj(a1,Vitamins)
+
+// -1.2281  dobj(v,Risks)
+-1.2281  dobj(a1,Risks)
+
+// -1.2281  dobj(v,Cardiovascular)
+-1.2281  dobj(a1,Cardiovascular)
+
+// -1.2281  dobj(v,Strength)
+-1.2281  dobj(a1,Strength)
+
+// -1.2281  dobj(v,Bones)
+-1.2281  dobj(a1,Bones)
+
+// -1.2281  dobj(v,Elevators)
+-1.2281  dobj(a1,Elevators)
+
+// -1.2281  dobj(v,Sugars)
+-1.2281  dobj(a1,Sugars)
+
+// -1.22692  dobj(v,Pedometers)
+-1.22692  dobj(a1,Pedometers)
+
+// -1.22692  dobj(v,Devices)
+-1.22692  dobj(a1,Devices)
+
+// -1.2281  dobj(v,Everywhere)
+-1.2281  dobj(a1,Everywhere)
+
+// -1.2281  dobj(v,Cabtaking)
+-1.2281  dobj(a1,Cabtaking)
+
+// -1.2281  dobj(v,Fitness)
+-1.2281  dobj(a1,Fitness)
+
+// -1.2281  dobj(v,Stretches)
+-1.2281  dobj(a1,Stretches)
+
+// -1.22692  dobj(v,Movement)
+-1.22692  dobj(a1,Movement)
+
+// -1.2281  dobj(v,Fitthis)
+-1.2281  dobj(a1,Fitthis)
+
+// -1.2281  dobj(v,Happenings)
+-1.2281  dobj(a1,Happenings)
+
+// -1.22692  dobj(v,Kids)
+-1.22692  dobj(a1,Kids)
+
+// -1.2281  dobj(v,Concept)
+-1.2281  dobj(a1,Concept)
+
+// -1.22692  dobj(v,Needs)
+-1.22692  dobj(a1,Needs)
+
+// -1.22692  dobj(v,Friends)
+-1.22692  dobj(a1,Friends)
+
+// -1.2281  dobj(v,Fun)
+-1.2281  dobj(a1,Fun)
+
+// -1.22692  dobj(v,Stores)
+-1.22692  dobj(a1,Stores)
+
+// -1.22692  dobj(v,Weekly)
+-1.22692  dobj(a1,Weekly)
+
+// -1.2281  dobj(v,Movie)
+-1.2281  dobj(a1,Movie)
+
+// -1.22456  dobj(v,Leaves)
+-1.22456  dobj(a1,Leaves)
+
+// -1.2281  dobj(v,Teapot)
+-1.2281  dobj(a1,Teapot)
+
+// -1.2281  dobj(v,Kettle)
+-1.2281  dobj(a1,Kettle)
+
+// -1.2281  dobj(v,Pearls)
+-1.2281  dobj(a1,Pearls)
+
+// -1.2281  dobj(v,Vanilla)
+-1.2281  dobj(a1,Vanilla)
+
+// -1.2281  dobj(v,Rating)
+-1.2281  dobj(a1,Rating)
+
+// -1.22692  dobj(v,Bids)
+-1.22692  dobj(a1,Bids)
+
+// -1.22103  dobj(v,Bid)
+-1.22103  dobj(a1,Bid)
+
+// -1.22692  dobj(v,Maximum)
+-1.22692  dobj(a1,Maximum)
+
+// -1.2281  dobj(v,Listing)
+-1.2281  dobj(a1,Listing)
+
+// -1.2281  dobj(v,Seller)
+-1.2281  dobj(a1,Seller)
+
+// -1.22574  dobj(v,Page)
+-1.22574  dobj(a1,Page)
+
+// -1.2281  dobj(v,Crisp)
+-1.2281  dobj(a1,Crisp)
+
+// -1.2281  dobj(v,Topping)
+-1.2281  dobj(a1,Topping)
+
+// -1.2281  dobj(v,Slices)
+-1.2281  dobj(a1,Slices)
+
+// -1.2281  dobj(v,Peach)
+-1.2281  dobj(a1,Peach)
+
+// -1.2281  dobj(v,Trick)
+-1.2281  dobj(a1,Trick)
+
+// -1.22692  dobj(v,Data)
+-1.22692  dobj(a1,Data)
+
+// -1.22574  dobj(v,Drive)
+-1.22574  dobj(a1,Drive)
+
+// -1.22692  dobj(v,Platters)
+-1.22692  dobj(a1,Platters)
+
+// -1.2281  dobj(v,Task)
+-1.2281  dobj(a1,Task)
+
+// -1.2281  dobj(v,Reaction)
+-1.2281  dobj(a1,Reaction)
+
+// -1.2281  dobj(v,Cars)
+-1.2281  dobj(a1,Cars)
+
+// -1.2281  dobj(v,Very)
+-1.2281  dobj(a1,Very)
+
+// -1.22692  dobj(v,String)
+-1.22692  dobj(a1,String)
+
+// -1.2281  dobj(v,Disk)
+-1.2281  dobj(a1,Disk)
+
+// -1.2281  dobj(v,Melt)
+-1.2281  dobj(a1,Melt)
+
+// -1.2281  dobj(v,Pictures)
+-1.2281  dobj(a1,Pictures)
+
+// -1.2281  dobj(v,Diameter)
+-1.2281  dobj(a1,Diameter)
+
+// -1.2281  dobj(v,Headstart)
+-1.2281  dobj(a1,Headstart)
+
+// -1.22692  dobj(v,Germination)
+-1.22692  dobj(a1,Germination)
+
+// -1.22574  dobj(v,Soil)
+-1.22574  dobj(a1,Soil)
+
+// -1.2281  dobj(v,Timer)
+-1.2281  dobj(a1,Timer)
+
+// -1.2281  dobj(v,Tap)
+-1.2281  dobj(a1,Tap)
+
+// -1.22692  dobj(v,Seed)
+-1.22692  dobj(a1,Seed)
+
+// -1.22692  dobj(v,Seeds)
+-1.22692  dobj(a1,Seeds)
+
+// -1.2281  dobj(v,Ph)
+-1.2281  dobj(a1,Ph)
+
+// -1.22456  dobj(v,Levels)
+-1.22456  dobj(a1,Levels)
+
+// -1.22692  dobj(v,Toothpick)
+-1.22692  dobj(a1,Toothpick)
+
+// -1.2281  dobj(v,Dark)
+-1.2281  dobj(a1,Dark)
+
+// -1.2281  dobj(v,Stem)
+-1.2281  dobj(a1,Stem)
+
+// -1.2281  dobj(v,Pearlite)
+-1.2281  dobj(a1,Pearlite)
+
+// -1.2281  dobj(v,Dome)
+-1.2281  dobj(a1,Dome)
+
+// -1.22692  dobj(v,Tray)
+-1.22692  dobj(a1,Tray)
+
+// -1.22574  dobj(v,Insects)
+-1.22574  dobj(a1,Insects)
+
+// -1.2281  dobj(v,Infestation)
+-1.2281  dobj(a1,Infestation)
+
+// -1.2281  dobj(v,Wrist)
+-1.2281  dobj(a1,Wrist)
+
+// -1.2281  dobj(v,Zone)
+-1.2281  dobj(a1,Zone)
+
+// -1.2281  dobj(v,Wrists)
+-1.2281  dobj(a1,Wrists)
+
+// -1.2281  dobj(v,Cold)
+-1.2281  dobj(a1,Cold)
+
+// -1.22692  dobj(v,Dough)
+-1.22692  dobj(a1,Dough)
+
+// -1.22692  dobj(v,Columns)
+-1.22692  dobj(a1,Columns)
+
+// -1.22456  dobj(v,Batter)
+-1.22456  dobj(a1,Batter)
+
+// -1.22692  dobj(v,Wrapper)
+-1.22692  dobj(a1,Wrapper)
+
+// -1.22574  dobj(v,Wrappers)
+-1.22574  dobj(a1,Wrappers)
+
+// -1.2281  dobj(v,Film)
+-1.2281  dobj(a1,Film)
+
+// -1.22692  dobj(v,Batch)
+-1.22692  dobj(a1,Batch)
+
+// -1.2281  dobj(v,Lunches)
+-1.2281  dobj(a1,Lunches)
+
+// -1.2281  dobj(v,Entree)
+-1.2281  dobj(a1,Entree)
+
+// -1.2281  dobj(v,Slump)
+-1.2281  dobj(a1,Slump)
+
+// -1.2281  dobj(v,Route)
+-1.2281  dobj(a1,Route)
+
+// -1.22574  dobj(v,Caffeine)
+-1.22574  dobj(a1,Caffeine)
+
+// -1.22692  dobj(v,Worth)
+-1.22692  dobj(a1,Worth)
+
+// -1.22692  dobj(v,Ways)
+-1.22692  dobj(a1,Ways)
+
+// -1.2281  dobj(v,Minigoals)
+-1.2281  dobj(a1,Minigoals)
+
+// -1.2281  dobj(v,Schedule)
+-1.2281  dobj(a1,Schedule)
+
+// -1.2281  dobj(v,Destress)
+-1.2281  dobj(a1,Destress)
+
+// -1.2281  dobj(v,Sweaty)
+-1.2281  dobj(a1,Sweaty)
+
+// -1.2281  dobj(v,Walks)
+-1.2281  dobj(a1,Walks)
+
+// -1.2281  dobj(v,Sunlight)
+-1.2281  dobj(a1,Sunlight)
+
+// -1.2281  dobj(v,Stairwell)
+-1.2281  dobj(a1,Stairwell)
+
+// -1.2281  dobj(v,Knee)
+-1.2281  dobj(a1,Knee)
+
+// -1.2281  dobj(v,Jacks)
+-1.2281  dobj(a1,Jacks)
+
+// -1.2281  dobj(v,Desk)
+-1.2281  dobj(a1,Desk)
+
+// -1.2281  dobj(v,Manager)
+-1.2281  dobj(a1,Manager)
+
+// -1.2281  dobj(v,Cost)
+-1.2281  dobj(a1,Cost)
+
+// -1.2281  dobj(v,Get)
+-1.2281  dobj(a1,Get)
+
+// -1.2281  dobj(v,Swap)
+-1.2281  dobj(a1,Swap)
+
+// -1.22692  dobj(v,Member)
+-1.22692  dobj(a1,Member)
+
+// -1.2281  dobj(v,Accountable)
+-1.2281  dobj(a1,Accountable)
+
+// -1.2281  dobj(v,These)
+-1.2281  dobj(a1,These)
+
+// -1.22692  dobj(v,Chart)
+-1.22692  dobj(a1,Chart)
+
+// -1.2281  dobj(v,Each)
+-1.2281  dobj(a1,Each)
+
+// -1.2281  dobj(v,Successes)
+-1.2281  dobj(a1,Successes)
+
+// -1.2281  dobj(v,Fps)
+-1.2281  dobj(a1,Fps)
+
+// -1.2281  dobj(v,Barracks)
+-1.2281  dobj(a1,Barracks)
+
+// -1.2281  dobj(v,Autosayings)
+-1.2281  dobj(a1,Autosayings)
+
+// -1.2281  dobj(v,Messages)
+-1.2281  dobj(a1,Messages)
+
+// -1.2281  dobj(v,Enemy)
+-1.2281  dobj(a1,Enemy)
+
+// -1.22692  dobj(v,Goods)
+-1.22692  dobj(a1,Goods)
+
+// -1.22692  dobj(v,Project)
+-1.22692  dobj(a1,Project)
+
+// -1.22574  dobj(v,Bacteria)
+-1.22574  dobj(a1,Bacteria)
+
+// -1.2281  dobj(v,Dirty)
+-1.2281  dobj(a1,Dirty)
+
+// -1.2281  dobj(v,Preparation)
+-1.2281  dobj(a1,Preparation)
+
+// -1.22692  dobj(v,Liquids)
+-1.22692  dobj(a1,Liquids)
+
+// -1.2281  dobj(v,Creation)
+-1.2281  dobj(a1,Creation)
+
+// -1.2281  dobj(v,Gas)
+-1.2281  dobj(a1,Gas)
+
+// -1.2281  dobj(v,Bone)
+-1.2281  dobj(a1,Bone)
+
+// -1.2281  dobj(v,Stuffing)
+-1.2281  dobj(a1,Stuffing)
+
+// -1.22692  dobj(v,Vegetable)
+-1.22692  dobj(a1,Vegetable)
+
+// -1.21985  dobj(v,Cat)
+-1.21985  dobj(a1,Cat)
+
+// -1.2281  dobj(v,Praise)
+-1.2281  dobj(a1,Praise)
+
+// -1.2281  dobj(v,Behavior)
+-1.2281  dobj(a1,Behavior)
+
+// -1.2281  dobj(v,Mat)
+-1.2281  dobj(a1,Mat)
+
+// -1.22692  dobj(v,Shampoo)
+-1.22692  dobj(a1,Shampoo)
+
+// -1.2281  dobj(v,Baths)
+-1.2281  dobj(a1,Baths)
+
+// -1.2281  dobj(v,Mother)
+-1.2281  dobj(a1,Mother)
+
+// -1.2281  dobj(v,Calmer)
+-1.2281  dobj(a1,Calmer)
+
+// -1.22692  dobj(v,Blowdryer)
+-1.22692  dobj(a1,Blowdryer)
+
+// -1.2281  dobj(v,Melting)
+-1.2281  dobj(a1,Melting)
+
+// -1.2281  dobj(v,Dot)
+-1.2281  dobj(a1,Dot)
+
+// -1.2281  dobj(v,Tempers)
+-1.2281  dobj(a1,Tempers)
+
+// -1.2281  dobj(v,Reference)
+-1.2281  dobj(a1,Reference)
+
+// -1.2281  dobj(v,Width)
+-1.2281  dobj(a1,Width)
+
+// -1.2281  dobj(v,Axes)
+-1.2281  dobj(a1,Axes)
+
+// -1.2281  dobj(v,Tapemeasure)
+-1.2281  dobj(a1,Tapemeasure)
+
+// -1.2281  dobj(v,Converter)
+-1.2281  dobj(a1,Converter)
+
+// -1.2281  dobj(v,Calculator)
+-1.2281  dobj(a1,Calculator)
+
+// -1.22692  dobj(v,Lock)
+-1.22692  dobj(a1,Lock)
+
+// -1.2281  dobj(v,Classmates)
+-1.2281  dobj(a1,Classmates)
+
+// -1.2281  dobj(v,Teacher)
+-1.2281  dobj(a1,Teacher)
+
+// -1.22339  dobj(v,Eye)
+-1.22339  dobj(a1,Eye)
+
+// -1.2281  dobj(v,F)
+-1.2281  dobj(a1,F)
+
+// -1.2281  dobj(v,Fancy)
+-1.2281  dobj(a1,Fancy)
+
+// -1.2281  dobj(v,Net)
+-1.2281  dobj(a1,Net)
+
+// -1.22574  dobj(v,Fish)
+-1.22574  dobj(a1,Fish)
+
+// -1.2281  dobj(v,Others)
+-1.2281  dobj(a1,Others)
+
+// -1.22692  dobj(v,Tightly)
+-1.22692  dobj(a1,Tightly)
+
+// -1.22692  dobj(v,Marks)
+-1.22692  dobj(a1,Marks)
+
+// -1.2281  dobj(v,Yellowing)
+-1.2281  dobj(a1,Yellowing)
+
+// -1.22456  dobj(v,Bunch)
+-1.22456  dobj(a1,Bunch)
+
+// -1.2281  dobj(v,Jackets)
+-1.2281  dobj(a1,Jackets)
+
+// -1.2281  dobj(v,Harvests)
+-1.2281  dobj(a1,Harvests)
+
+// -1.2281  dobj(v,Crust)
+-1.2281  dobj(a1,Crust)
+
+// -1.2281  dobj(v,Grapes)
+-1.2281  dobj(a1,Grapes)
+
+// -1.22574  dobj(v,Bar)
+-1.22574  dobj(a1,Bar)
+
+// -1.22692  dobj(v,Scent)
+-1.22692  dobj(a1,Scent)
+
+// -1.2281  dobj(v,Flakes)
+-1.2281  dobj(a1,Flakes)
+
+// -1.2281  dobj(v,Coloring)
+-1.2281  dobj(a1,Coloring)
+
+// -1.2281  dobj(v,Lye)
+-1.2281  dobj(a1,Lye)
+
+// -1.2281  dobj(v,Trace)
+-1.2281  dobj(a1,Trace)
+
+// -1.22574  dobj(v,Template)
+-1.22574  dobj(a1,Template)
+
+// -1.22692  dobj(v,Cardstock)
+-1.22692  dobj(a1,Cardstock)
+
+// -1.2281  dobj(v,Ink)
+-1.2281  dobj(a1,Ink)
+
+// -1.2281  dobj(v,Pencil)
+-1.2281  dobj(a1,Pencil)
+
+// -1.2281  dobj(v,Folder)
+-1.2281  dobj(a1,Folder)
+
+// -1.2281  dobj(v,Lifter)
+-1.2281  dobj(a1,Lifter)
+
+// -1.22339  dobj(v,Kitchen)
+-1.22339  dobj(a1,Kitchen)
+
+// -1.2281  dobj(v,Canner)
+-1.2281  dobj(a1,Canner)
+
+// -1.22574  dobj(v,Jars)
+-1.22574  dobj(a1,Jars)
+
+// -1.2281  dobj(v,Aftertaste)
+-1.2281  dobj(a1,Aftertaste)
+
+// -1.22456  dobj(v,Minerals)
+-1.22456  dobj(a1,Minerals)
+
+// -1.22692  dobj(v,Choice)
+-1.22692  dobj(a1,Choice)
+
+// -1.2281  dobj(v,Matter)
+-1.2281  dobj(a1,Matter)
+
+// -1.2281  dobj(v,Purity)
+-1.2281  dobj(a1,Purity)
+
+// -1.22692  dobj(v,Collection)
+-1.22692  dobj(a1,Collection)
+
+// -1.2281  dobj(v,Combination)
+-1.2281  dobj(a1,Combination)
+
+// -1.2281  dobj(v,Source)
+-1.2281  dobj(a1,Source)
+
+// -1.2281  dobj(v,Dent)
+-1.2281  dobj(a1,Dent)
+
+// -1.2281  dobj(v,Costs)
+-1.2281  dobj(a1,Costs)
+
+// -1.22692  dobj(v,Odor)
+-1.22692  dobj(a1,Odor)
+
+// -1.2281  dobj(v,Shampoos)
+-1.2281  dobj(a1,Shampoos)
+
+// -1.2281  dobj(v,Squirt)
+-1.2281  dobj(a1,Squirt)
+
+// -1.22221  dobj(v,Halves)
+-1.22221  dobj(a1,Halves)
+
+// -1.2281  dobj(v,Dissonance)
+-1.2281  dobj(a1,Dissonance)
+
+// -1.2281  dobj(v,Aids)
+-1.2281  dobj(a1,Aids)
+
+// -1.2281  dobj(v,Hydrated)
+-1.2281  dobj(a1,Hydrated)
+
+// -1.2281  dobj(v,Mucous)
+-1.2281  dobj(a1,Mucous)
+
+// -1.2281  dobj(v,Kidney)
+-1.2281  dobj(a1,Kidney)
+
+// -1.2281  dobj(v,Function)
+-1.2281  dobj(a1,Function)
+
+// -1.2281  dobj(v,Fluids)
+-1.2281  dobj(a1,Fluids)
+
+// -1.2281  dobj(v,Weakness)
+-1.2281  dobj(a1,Weakness)
+
+// -1.2281  dobj(v,Urine)
+-1.2281  dobj(a1,Urine)
+
+// -1.2281  dobj(v,Condition)
+-1.2281  dobj(a1,Condition)
+
+// -1.2281  dobj(v,Enough)
+-1.2281  dobj(a1,Enough)
+
+// -1.2281  dobj(v,Apparel)
+-1.2281  dobj(a1,Apparel)
+
+// -1.22574  dobj(v,Rest)
+-1.22574  dobj(a1,Rest)
+
+// -1.22692  dobj(v,Corners)
+-1.22692  dobj(a1,Corners)
+
+// -1.22692  dobj(v,Long)
+-1.22692  dobj(a1,Long)
+
+// -1.2281  dobj(v,Theme)
+-1.2281  dobj(a1,Theme)
+
+// -1.2281  dobj(v,Mom)
+-1.2281  dobj(a1,Mom)
+
+// -1.2281  dobj(v,Rope)
+-1.2281  dobj(a1,Rope)
+
+// -1.2281  dobj(v,Brother)
+-1.2281  dobj(a1,Brother)
+
+// -1.2281  dobj(v,Share)
+-1.2281  dobj(a1,Share)
+
+// -1.2281  dobj(v,Exhausted)
+-1.2281  dobj(a1,Exhausted)
+
+// -1.2281  dobj(v,Measure)
+-1.2281  dobj(a1,Measure)
+
+// -1.22692  dobj(v,Truck)
+-1.22692  dobj(a1,Truck)
+
+// -1.2281  dobj(v,Tall)
+-1.2281  dobj(a1,Tall)
+
+// -1.2281  dobj(v,Strain)
+-1.2281  dobj(a1,Strain)
+
+// -1.2281  dobj(v,Manpower)
+-1.2281  dobj(a1,Manpower)
+
+// -1.2281  dobj(v,Adjustments)
+-1.2281  dobj(a1,Adjustments)
+
+// -1.2281  dobj(v,Downwards)
+-1.2281  dobj(a1,Downwards)
+
+// -1.22692  dobj(v,Squeegee)
+-1.22692  dobj(a1,Squeegee)
+
+// -1.22339  dobj(v,Cookies)
+-1.22339  dobj(a1,Cookies)
+
+// -1.2281  dobj(v,Xp)
+-1.2281  dobj(a1,Xp)
+
+// -1.2281  dobj(v,Dialogue)
+-1.2281  dobj(a1,Dialogue)
+
+// -1.22692  dobj(v,History)
+-1.22692  dobj(a1,History)
+
+// -1.2281  dobj(v,Clear)
+-1.2281  dobj(a1,Clear)
+
+// -1.2281  dobj(v,Mac)
+-1.2281  dobj(a1,Mac)
+
+// -1.22692  dobj(v,Settings)
+-1.22692  dobj(a1,Settings)
+
+// -1.22692  dobj(v,Durian)
+-1.22692  dobj(a1,Durian)
+
+// -1.2281  dobj(v,Freshness)
+-1.2281  dobj(a1,Freshness)
+
+// -1.2281  dobj(v,Durians)
+-1.2281  dobj(a1,Durians)
+
+// -1.2281  dobj(v,Former)
+-1.2281  dobj(a1,Former)
+
+// -1.2281  dobj(v,Shoe)
+-1.2281  dobj(a1,Shoe)
+
+// -1.2281  dobj(v,Sole)
+-1.2281  dobj(a1,Sole)
+
+// -1.2281  dobj(v,Planning)
+-1.2281  dobj(a1,Planning)
+
+// -1.2281  dobj(v,Mystery)
+-1.2281  dobj(a1,Mystery)
+
+// -1.2281  dobj(v,Nonfiction)
+-1.2281  dobj(a1,Nonfiction)
+
+// -1.2281  dobj(v,Flag)
+-1.2281  dobj(a1,Flag)
+
+// -1.2281  dobj(v,Bookcases)
+-1.2281  dobj(a1,Bookcases)
+
+// -1.2281  dobj(v,Bookcase)
+-1.2281  dobj(a1,Bookcase)
+
+// -1.2281  dobj(v,Austere)
+-1.2281  dobj(a1,Austere)
+
+// -1.22692  dobj(v,Yeast)
+-1.22692  dobj(a1,Yeast)
+
+// -1.22692  dobj(v,View)
+-1.22692  dobj(a1,View)
+
+// -1.2281  dobj(v,Perspective)
+-1.2281  dobj(a1,Perspective)
+
+// -1.2281  dobj(v,X)
+-1.2281  dobj(a1,X)
+
+// -1.2281  dobj(v,Enter)
+-1.2281  dobj(a1,Enter)
+
+// -1.2281  dobj(v,Selection)
+-1.2281  dobj(a1,Selection)
+
+// -1.2281  dobj(v,New)
+-1.2281  dobj(a1,New)
+
+// -1.2281  dobj(v,Modifier)
+-1.2281  dobj(a1,Modifier)
+
+// -1.2281  dobj(v,Bsdf)
+-1.2281  dobj(a1,Bsdf)
+
+// -1.2281  dobj(v,Roughness)
+-1.2281  dobj(a1,Roughness)
+
+// -1.2281  dobj(v,Wrench)
+-1.2281  dobj(a1,Wrench)
+
+// -1.2281  dobj(v,Lamp)
+-1.2281  dobj(a1,Lamp)
+
+// -1.22692  dobj(v,Wand)
+-1.22692  dobj(a1,Wand)
+
+// -1.2281  dobj(v,Cornstarch)
+-1.2281  dobj(a1,Cornstarch)
+
+// -1.2281  dobj(v,Thicker)
+-1.2281  dobj(a1,Thicker)
+
+// -1.2281  dobj(v,Fabric)
+-1.2281  dobj(a1,Fabric)
+
+// -1.2281  dobj(v,Experiment)
+-1.2281  dobj(a1,Experiment)
+
+// -1.2281  dobj(v,Litter)
+-1.2281  dobj(a1,Litter)
+
+// -1.2281  dobj(v,Panel)
+-1.2281  dobj(a1,Panel)
+
+// -1.22692  dobj(v,Sleep)
+-1.22692  dobj(a1,Sleep)
+
+// -1.2281  dobj(v,Connection)
+-1.2281  dobj(a1,Connection)
+
+// -1.22692  dobj(v,Performance)
+-1.22692  dobj(a1,Performance)
+
+// -1.2281  dobj(v,Sound)
+-1.2281  dobj(a1,Sound)
+
+// -1.2281  dobj(v,Ports)
+-1.2281  dobj(a1,Ports)
+
+// -1.2281  dobj(v,Ip)
+-1.2281  dobj(a1,Ip)
+
+// -1.22692  dobj(v,Address)
+-1.22692  dobj(a1,Address)
+
+// -1.2281  dobj(v,Download)
+-1.2281  dobj(a1,Download)
+
+// -1.2281  dobj(v,Intruders)
+-1.2281  dobj(a1,Intruders)
+
+// -1.2281  dobj(v,Extension)
+-1.2281  dobj(a1,Extension)
+
+// -1.2281  dobj(v,Computers)
+-1.2281  dobj(a1,Computers)
+
+// -1.2281  dobj(v,Commands)
+-1.2281  dobj(a1,Commands)
+
+// -1.2281  dobj(v,Cookware)
+-1.2281  dobj(a1,Cookware)
+
+// -1.22339  dobj(v,Grounds)
+-1.22339  dobj(a1,Grounds)
+
+// -1.2281  dobj(v,Medium)
+-1.2281  dobj(a1,Medium)
+
+// -1.2281  dobj(v,Boil)
+-1.2281  dobj(a1,Boil)
+
+// -1.2281  dobj(v,Equivalent)
+-1.2281  dobj(a1,Equivalent)
+
+// -1.2281  dobj(v,Twine)
+-1.2281  dobj(a1,Twine)
+
+// -1.2281  dobj(v,Bundle)
+-1.2281  dobj(a1,Bundle)
+
+// -1.2281  dobj(v,Mugs)
+-1.2281  dobj(a1,Mugs)
+
+// -1.2281  dobj(v,Bundles)
+-1.2281  dobj(a1,Bundles)
+
+// -1.2281  dobj(v,Filters)
+-1.2281  dobj(a1,Filters)
+
+// -1.22692  dobj(v,Squeeze)
+-1.22692  dobj(a1,Squeeze)
+
+// -1.22692  dobj(v,Mug)
+-1.22692  dobj(a1,Mug)
+
+// -1.2281  dobj(v,Ground)
+-1.2281  dobj(a1,Ground)
+
+// -1.22692  dobj(v,Bloom)
+-1.22692  dobj(a1,Bloom)
+
+// -1.22692  dobj(v,Chopstick)
+-1.22692  dobj(a1,Chopstick)
+
+// -1.2281  dobj(v,Slurry)
+-1.2281  dobj(a1,Slurry)
+
+// -1.2281  dobj(v,Plunger)
+-1.2281  dobj(a1,Plunger)
+
+// -1.2281  dobj(v,Put)
+-1.2281  dobj(a1,Put)
+
+// -1.2281  dobj(v,Granules)
+-1.2281  dobj(a1,Granules)
+
+// -1.2281  dobj(v,Rollers)
+-1.2281  dobj(a1,Rollers)
+
+// -1.2281  dobj(v,Cleaning)
+-1.2281  dobj(a1,Cleaning)
+
+// -1.22692  dobj(v,Mold)
+-1.22692  dobj(a1,Mold)
+
+// -1.2281  dobj(v,Upright)
+-1.2281  dobj(a1,Upright)
+
+// -1.2281  dobj(v,Coolant)
+-1.2281  dobj(a1,Coolant)
+
+// -1.2281  dobj(v,Dolly)
+-1.2281  dobj(a1,Dolly)
+
+// -1.22692  dobj(v,Fridge)
+-1.22692  dobj(a1,Fridge)
+
+// -1.2281  dobj(v,Straps)
+-1.2281  dobj(a1,Straps)
+
+// -1.2281  dobj(v,Properly)
+-1.2281  dobj(a1,Properly)
+
+// -1.2281  dobj(v,Assistant)
+-1.2281  dobj(a1,Assistant)
+
+// -1.2281  dobj(v,Helper)
+-1.2281  dobj(a1,Helper)
+
+// -1.2281  dobj(v,Security)
+-1.2281  dobj(a1,Security)
+
+// -1.2281  dobj(v,Rundown)
+-1.2281  dobj(a1,Rundown)
+
+// -1.22574  dobj(v,Metabolism)
+-1.22574  dobj(a1,Metabolism)
+
+// -1.22574  dobj(v,Thermos)
+-1.22574  dobj(a1,Thermos)
+
+// -1.2281  dobj(v,Maker)
+-1.2281  dobj(a1,Maker)
+
+// -1.22692  dobj(v,Ice)
+-1.22692  dobj(a1,Ice)
+
+// -1.2281  dobj(v,Sodas)
+-1.2281  dobj(a1,Sodas)
+
+// -1.2281  dobj(v,There)
+-1.2281  dobj(a1,There)
+
+// -1.2281  dobj(v,Brit)
+-1.2281  dobj(a1,Brit)
+
+// -1.2281  dobj(v,Familyroommates)
+-1.2281  dobj(a1,Familyroommates)
+
+// -1.2281  dobj(v,Plain)
+-1.2281  dobj(a1,Plain)
+
+// -1.22692  dobj(v,Soy)
+-1.22692  dobj(a1,Soy)
+
+// -1.2281  dobj(v,Coins)
+-1.2281  dobj(a1,Coins)
+
+// -1.2281  dobj(v,Trips)
+-1.2281  dobj(a1,Trips)
+
+// -1.2281  dobj(v,Absorption)
+-1.2281  dobj(a1,Absorption)
+
+// -1.2281  dobj(v,Digestion)
+-1.2281  dobj(a1,Digestion)
+
+// -1.2281  dobj(v,Appetite)
+-1.2281  dobj(a1,Appetite)
+
+// -1.2281  dobj(v,Constipation)
+-1.2281  dobj(a1,Constipation)
+
+// -1.2281  dobj(v,Loads)
+-1.2281  dobj(a1,Loads)
+
+// -1.2281  dobj(v,Cells)
+-1.2281  dobj(a1,Cells)
+
+// -1.2281  dobj(v,Bloating)
+-1.2281  dobj(a1,Bloating)
+
+// -1.2281  dobj(v,Toothbrush)
+-1.2281  dobj(a1,Toothbrush)
+
+// -1.2281  dobj(v,Stringy)
+-1.2281  dobj(a1,Stringy)
+
+// -1.2281  dobj(v,Molars)
+-1.2281  dobj(a1,Molars)
+
+// -1.2281  dobj(v,Floss)
+-1.2281  dobj(a1,Floss)
+
+// -1.2281  dobj(v,Gaps)
+-1.2281  dobj(a1,Gaps)
+
+// -1.2281  dobj(v,Difficulty)
+-1.2281  dobj(a1,Difficulty)
+
+// -1.2281  dobj(v,Refund)
+-1.2281  dobj(a1,Refund)
+
+// -1.2281  dobj(v,Link)
+-1.2281  dobj(a1,Link)
+
+// -1.2281  dobj(v,Closure)
+-1.2281  dobj(a1,Closure)
+
+// -1.2281  dobj(v,Youve)
+-1.2281  dobj(a1,Youve)
+
+// -1.22456  dobj(v,Clothing)
+-1.22456  dobj(a1,Clothing)
+
+// -1.2281  dobj(v,Websites)
+-1.2281  dobj(a1,Websites)
+
+// -1.2281  dobj(v,Reservation)
+-1.2281  dobj(a1,Reservation)
+
+// -1.2281  dobj(v,Print)
+-1.2281  dobj(a1,Print)
+
+// -1.2281  dobj(v,Company)
+-1.2281  dobj(a1,Company)
+
+// -1.2281  dobj(v,Companies)
+-1.2281  dobj(a1,Companies)
+
+// -1.2281  dobj(v,Pack)
+-1.2281  dobj(a1,Pack)
+
+// -1.2281  dobj(v,Division)
+-1.2281  dobj(a1,Division)
+
+// -1.2281  dobj(v,Tips)
+-1.2281  dobj(a1,Tips)
+
+// -1.22692  dobj(v,Apartment)
+-1.22692  dobj(a1,Apartment)
+
+// -1.2281  dobj(v,Hammer)
+-1.2281  dobj(a1,Hammer)
+
+// -1.2281  dobj(v,Gun)
+-1.2281  dobj(a1,Gun)
+
+// -1.2281  dobj(v,Bead)
+-1.2281  dobj(a1,Bead)
+
+// -1.2281  dobj(v,Rubber)
+-1.2281  dobj(a1,Rubber)
+
+// -1.2281  dobj(v,Caulk)
+-1.2281  dobj(a1,Caulk)
+
+// -1.2281  dobj(v,Molds)
+-1.2281  dobj(a1,Molds)
+
+// -1.22692  dobj(v,Statue)
+-1.22692  dobj(a1,Statue)
+
+// -1.2281  dobj(v,Compound)
+-1.2281  dobj(a1,Compound)
+
+// -1.2281  dobj(v,Caps)
+-1.2281  dobj(a1,Caps)
+
+// -1.22692  dobj(v,Cotton)
+-1.22692  dobj(a1,Cotton)
+
+// -1.2281  dobj(v,Beads)
+-1.2281  dobj(a1,Beads)
+
+// -1.2281  dobj(v,Purposes)
+-1.2281  dobj(a1,Purposes)
+
+// -1.2281  dobj(v,Guts)
+-1.2281  dobj(a1,Guts)
+
+// -1.2281  dobj(v,Whisk)
+-1.2281  dobj(a1,Whisk)
+
+// -1.2281  dobj(v,Rise)
+-1.2281  dobj(a1,Rise)
+
+// -1.2281  dobj(v,Puffs)
+-1.2281  dobj(a1,Puffs)
+
+// -1.2281  dobj(v,Opportunities)
+-1.2281  dobj(a1,Opportunities)
+
+// -1.2281  dobj(v,Protection)
+-1.2281  dobj(a1,Protection)
+
+// -1.21868  dobj(v,Bets)
+-1.21868  dobj(a1,Bets)
+
+// -1.2175  dobj(v,Dice)
+-1.2175  dobj(a1,Dice)
+
+// -1.22103  dobj(v,Bet)
+-1.22103  dobj(a1,Bet)
+
+// -1.2281  dobj(v,Outto)
+-1.2281  dobj(a1,Outto)
+
+// -1.22692  dobj(v,Seven)
+-1.22692  dobj(a1,Seven)
+
+// -1.2281  dobj(v,Pointbecause)
+-1.2281  dobj(a1,Pointbecause)
+
+// -1.22692  dobj(v,Action)
+-1.22692  dobj(a1,Action)
+
+// -1.22692  dobj(v,Crap)
+-1.22692  dobj(a1,Crap)
+
+// -1.2281  dobj(v,Pass)
+-1.2281  dobj(a1,Pass)
+
+// -1.2281  dobj(v,Values)
+-1.2281  dobj(a1,Values)
+
+// -1.22692  dobj(v,Craps)
+-1.22692  dobj(a1,Craps)
+
+// -1.22692  dobj(v,Ones)
+-1.22692  dobj(a1,Ones)
+
+// -1.2281  dobj(v,Twos)
+-1.2281  dobj(a1,Twos)
+
+// -1.2281  dobj(v,Sixes)
+-1.2281  dobj(a1,Sixes)
+
+// -1.2281  dobj(v,Truth)
+-1.2281  dobj(a1,Truth)
+
+// -1.2281  dobj(v,Guess)
+-1.2281  dobj(a1,Guess)
+
+// -1.2281  dobj(v,S)
+-1.2281  dobj(a1,S)
+
+// -1.22692  dobj(v,Hoodie)
+-1.22692  dobj(a1,Hoodie)
+
+// -1.2281  dobj(v,Household)
+-1.2281  dobj(a1,Household)
+
+// -1.2281  dobj(v,Scratches)
+-1.2281  dobj(a1,Scratches)
+
+// -1.2281  dobj(v,Disassembly)
+-1.2281  dobj(a1,Disassembly)
+
+// -1.2281  dobj(v,Treatment)
+-1.2281  dobj(a1,Treatment)
+
+// -1.2281  dobj(v,Spatula)
+-1.2281  dobj(a1,Spatula)
+
+// -1.22692  dobj(v,Spices)
+-1.22692  dobj(a1,Spices)
+
+// -1.2281  dobj(v,Rainwater)
+-1.2281  dobj(a1,Rainwater)
+
+// -1.2281  dobj(v,On)
+-1.2281  dobj(a1,On)
+
+// -1.2281  dobj(v,Change)
+-1.2281  dobj(a1,Change)
+
+// -1.22692  dobj(v,Betta)
+-1.22692  dobj(a1,Betta)
+
+// -1.2281  dobj(v,Cheesecloth)
+-1.2281  dobj(a1,Cheesecloth)
+
+// -1.2281  dobj(v,Substances)
+-1.2281  dobj(a1,Substances)
+
+// -1.2281  dobj(v,Rennet)
+-1.2281  dobj(a1,Rennet)
+
+// -1.2281  dobj(v,Acts)
+-1.2281  dobj(a1,Acts)
+
+// -1.2281  dobj(v,Simethicone)
+-1.2281  dobj(a1,Simethicone)
+
+// -1.2281  dobj(v,Breakdown)
+-1.2281  dobj(a1,Breakdown)
+
+// -1.2281  dobj(v,Gases)
+-1.2281  dobj(a1,Gases)
+
+// -1.2281  dobj(v,Constantly)
+-1.2281  dobj(a1,Constantly)
+
+// -1.2281  dobj(v,Mindset)
+-1.2281  dobj(a1,Mindset)
+
+// -1.2281  dobj(v,Seat)
+-1.2281  dobj(a1,Seat)
+
+// -1.2281  dobj(v,Oils)
+-1.2281  dobj(a1,Oils)
+
+// -1.2281  dobj(v,Promise)
+-1.2281  dobj(a1,Promise)
+
+// -1.2281  dobj(v,Decongestant)
+-1.2281  dobj(a1,Decongestant)
+
+// -1.22692  dobj(v,Sinuses)
+-1.22692  dobj(a1,Sinuses)
+
+// -1.2281  dobj(v,Antimicrobial)
+-1.2281  dobj(a1,Antimicrobial)
+
+// -1.2281  dobj(v,Store)
+-1.2281  dobj(a1,Store)
+
+// -1.2281  dobj(v,Impurities)
+-1.2281  dobj(a1,Impurities)
+
+// -1.2281  dobj(v,Salsa)
+-1.2281  dobj(a1,Salsa)
+
+// -1.22692  dobj(v,Exposure)
+-1.22692  dobj(a1,Exposure)
+
+// -1.2281  dobj(v,Secretions)
+-1.2281  dobj(a1,Secretions)
+
+// -1.2281  dobj(v,Congestion)
+-1.2281  dobj(a1,Congestion)
+
+// -1.2281  dobj(v,Cork)
+-1.2281  dobj(a1,Cork)
+
+// -1.2281  dobj(v,Wine)
+-1.2281  dobj(a1,Wine)
+
+// -1.2281  dobj(v,Champagne)
+-1.2281  dobj(a1,Champagne)
+
+// -1.2281  dobj(v,Microwaving)
+-1.2281  dobj(a1,Microwaving)
+
+// -1.2281  dobj(v,Ventilation)
+-1.2281  dobj(a1,Ventilation)
+
+// -1.2281  dobj(v,Wallpaper)
+-1.2281  dobj(a1,Wallpaper)
+
+// -1.2281  dobj(v,Calcium)
+-1.2281  dobj(a1,Calcium)
+
+// -1.2281  dobj(v,Faucet)
+-1.2281  dobj(a1,Faucet)
+
+// -1.2281  dobj(v,Curtain)
+-1.2281  dobj(a1,Curtain)
+
+// -1.2281  dobj(v,Fronts)
+-1.2281  dobj(a1,Fronts)
+
+// -1.22692  dobj(v,Tasks)
+-1.22692  dobj(a1,Tasks)
+
+// -1.2281  dobj(v,Above)
+-1.2281  dobj(a1,Above)
+
+// -1.2281  dobj(v,Rocks)
+-1.2281  dobj(a1,Rocks)
+
+// -1.2281  dobj(v,Measurements)
+-1.2281  dobj(a1,Measurements)
+
+// -1.2281  dobj(v,Extract)
+-1.2281  dobj(a1,Extract)
+
+// -1.2281  dobj(v,Possibility)
+-1.2281  dobj(a1,Possibility)
+
+// -1.2281  dobj(v,Hormones)
+-1.2281  dobj(a1,Hormones)
+
+// -1.2281  dobj(v,Heart)
+-1.2281  dobj(a1,Heart)
+
+// -1.22692  dobj(v,Growth)
+-1.22692  dobj(a1,Growth)
+
+// -1.2281  dobj(v,Impulses)
+-1.2281  dobj(a1,Impulses)
+
+// -1.2281  dobj(v,Sizesnumber)
+-1.2281  dobj(a1,Sizesnumber)
+
+// -1.2281  dobj(v,Sport)
+-1.2281  dobj(a1,Sport)
+
+// -1.2281  dobj(v,Yolks)
+-1.2281  dobj(a1,Yolks)
+
+// -1.2281  dobj(v,Breakfast)
+-1.2281  dobj(a1,Breakfast)
+
+// -1.2281  dobj(v,Glycogen)
+-1.2281  dobj(a1,Glycogen)
+
+// -1.2281  dobj(v,Cravings)
+-1.2281  dobj(a1,Cravings)
+
+// -1.22692  dobj(v,Fats)
+-1.22692  dobj(a1,Fats)
+
+// -1.2281  dobj(v,Cooler)
+-1.2281  dobj(a1,Cooler)
+
+// -1.2281  dobj(v,Steak)
+-1.2281  dobj(a1,Steak)
+
+// -1.2281  dobj(v,Proteins)
+-1.2281  dobj(a1,Proteins)
+
+// -1.2281  dobj(v,Labels)
+-1.2281  dobj(a1,Labels)
+
+// -1.2281  dobj(v,Medications)
+-1.2281  dobj(a1,Medications)
+
+// -1.2281  dobj(v,Ibuprofen)
+-1.2281  dobj(a1,Ibuprofen)
+
+// -1.2281  dobj(v,Acetaminophen)
+-1.2281  dobj(a1,Acetaminophen)
+
+// -1.2281  dobj(v,Release)
+-1.2281  dobj(a1,Release)
+
+// -1.2281  dobj(v,Blood)
+-1.2281  dobj(a1,Blood)
+
+// -1.2281  dobj(v,Bonedirt)
+-1.2281  dobj(a1,Bonedirt)
+
+// -1.2281  dobj(v,Sale)
+-1.2281  dobj(a1,Sale)
+
+// -1.2281  dobj(v,Liners)
+-1.2281  dobj(a1,Liners)
+
+// -1.2281  dobj(v,Pests)
+-1.2281  dobj(a1,Pests)
+
+// -1.2281  dobj(v,Fragrance)
+-1.2281  dobj(a1,Fragrance)
+
+// -1.2281  dobj(v,Organizers)
+-1.2281  dobj(a1,Organizers)
+
+// -1.2281  dobj(v,Pantry)
+-1.2281  dobj(a1,Pantry)
+
+// -1.2281  dobj(v,Tumblers)
+-1.2281  dobj(a1,Tumblers)
+
+// -1.2281  dobj(v,Pots)
+-1.2281  dobj(a1,Pots)
+
+// -1.2281  dobj(v,Else)
+-1.2281  dobj(a1,Else)
+
+// -1.2281  dobj(v,Standards)
+-1.2281  dobj(a1,Standards)
+
+// -1.2281  dobj(v,Test)
+-1.2281  dobj(a1,Test)
+
+// -1.2281  dobj(v,Hot)
+-1.2281  dobj(a1,Hot)
+
+// -1.2281  dobj(v,Gold)
+-1.2281  dobj(a1,Gold)
+
+// -1.2281  dobj(v,Presbyopia)
+-1.2281  dobj(a1,Presbyopia)
+
+// -1.2281  dobj(v,Myopia)
+-1.2281  dobj(a1,Myopia)
+
+// -1.2281  dobj(v,Lack)
+-1.2281  dobj(a1,Lack)
+
+// -1.2281  dobj(v,Appointment)
+-1.2281  dobj(a1,Appointment)
+
+// -1.2281  dobj(v,Stars)
+-1.2281  dobj(a1,Stars)
+
+// -1.2281  dobj(v,Tenfeet)
+-1.2281  dobj(a1,Tenfeet)
+
+// -1.2281  dobj(v,Majority)
+-1.2281  dobj(a1,Majority)
+
+// -1.22692  dobj(v,Lights)
+-1.22692  dobj(a1,Lights)
+
+// -1.2281  dobj(v,Letters)
+-1.2281  dobj(a1,Letters)
+
+// -1.2281  dobj(v,Frames)
+-1.2281  dobj(a1,Frames)
+
+// -1.2281  dobj(v,Shake)
+-1.2281  dobj(a1,Shake)
+
+// -1.2281  dobj(v,Geranium)
+-1.2281  dobj(a1,Geranium)
+
+// -1.2281  dobj(v,Absolute)
+-1.2281  dobj(a1,Absolute)
+
+// -1.2281  dobj(v,Geraniumcool)
+-1.2281  dobj(a1,Geraniumcool)
+
+// -1.2281  dobj(v,Rose)
+-1.2281  dobj(a1,Rose)
+
+// -1.22456  dobj(v,Table)
+-1.22456  dobj(a1,Table)
+
+// -1.2281  dobj(v,Winners)
+-1.2281  dobj(a1,Winners)
+
+// -1.2281  dobj(v,Roll)
+-1.2281  dobj(a1,Roll)
+
+// -1.2281  dobj(v,Big)
+-1.2281  dobj(a1,Big)
+
+// -1.2281  dobj(v,Macbeth)
+-1.2281  dobj(a1,Macbeth)
+
+// -1.2281  dobj(v,Both)
+-1.2281  dobj(a1,Both)
+
+// -1.2281  dobj(v,Nts)
+-1.2281  dobj(a1,Nts)
+
+// -1.21985  dobj(v,Odds)
+-1.21985  dobj(a1,Odds)
+
+// -1.2281  dobj(v,Tables)
+-1.2281  dobj(a1,Tables)
+
+// -1.2281  dobj(v,Rules)
+-1.2281  dobj(a1,Rules)
+
+// -1.22692  dobj(v,Six)
+-1.22692  dobj(a1,Six)
+
+// -1.2281  dobj(v,Wagers)
+-1.2281  dobj(a1,Wagers)
+
+// -1.2281  dobj(v,Play)
+-1.2281  dobj(a1,Play)
+
+// -1.22692  dobj(v,Dealer)
+-1.22692  dobj(a1,Dealer)
+
+// -1.2281  dobj(v,Player)
+-1.2281  dobj(a1,Player)
+
+// -1.2281  dobj(v,Chip)
+-1.2281  dobj(a1,Chip)
+
+// -1.2281  dobj(v,Welcome)
+-1.2281  dobj(a1,Welcome)
+
+// -1.2281  dobj(v,Camaraderie)
+-1.2281  dobj(a1,Camaraderie)
+
+// -1.22692  dobj(v,Bettors)
+-1.22692  dobj(a1,Bettors)
+
+// -1.2281  dobj(v,T)
+-1.2281  dobj(a1,T)
+
+// -1.2281  dobj(v,Bettor)
+-1.2281  dobj(a1,Bettor)
+
+// -1.2281  dobj(v,Outfit)
+-1.2281  dobj(a1,Outfit)
+
+// -1.2281  dobj(v,Undergarments)
+-1.2281  dobj(a1,Undergarments)
+
+// -1.2281  dobj(v,Saut)
+-1.2281  dobj(a1,Saut)
+
+// -1.2281  dobj(v,Cholesterol)
+-1.2281  dobj(a1,Cholesterol)
+
+// -1.2281  dobj(v,Flora)
+-1.2281  dobj(a1,Flora)
+
+// -1.2281  dobj(v,Cheats)
+-1.2281  dobj(a1,Cheats)
+
+// -1.2281  dobj(v,Dessert)
+-1.2281  dobj(a1,Dessert)
+
+// -1.2281  dobj(v,Thirst)
+-1.2281  dobj(a1,Thirst)
+
+// -1.2281  dobj(v,Boredom)
+-1.2281  dobj(a1,Boredom)
+
+// -1.2281  dobj(v,Disorder)
+-1.2281  dobj(a1,Disorder)
+
+// -1.2281  dobj(v,Practitioner)
+-1.2281  dobj(a1,Practitioner)
+
+// -1.2281  dobj(v,Response)
+-1.2281  dobj(a1,Response)
+
+// -1.2281  dobj(v,Bang)
+-1.2281  dobj(a1,Bang)
+
+// -1.22692  dobj(v,Toy)
+-1.22692  dobj(a1,Toy)
+
+// -1.2281  dobj(v,Duvetblanket)
+-1.2281  dobj(a1,Duvetblanket)
+
+// -1.22692  dobj(v,Sheet)
+-1.22692  dobj(a1,Sheet)
+
+// -1.22692  dobj(v,Mattress)
+-1.22692  dobj(a1,Mattress)
+
+// -1.22574  dobj(v,Blanket)
+-1.22574  dobj(a1,Blanket)
+
+// -1.2281  dobj(v,Pillow)
+-1.2281  dobj(a1,Pillow)
+
+// -1.2281  dobj(v,Cushions)
+-1.2281  dobj(a1,Cushions)
+
+// -1.2281  dobj(v,Neater)
+-1.2281  dobj(a1,Neater)
+
+// -1.2281  dobj(v,Duvet)
+-1.2281  dobj(a1,Duvet)
+
+// -1.2281  dobj(v,Help)
+-1.2281  dobj(a1,Help)
+
+// -1.2281  dobj(v,Tinier)
+-1.2281  dobj(a1,Tinier)
+
+// -1.2281  dobj(v,Spin)
+-1.2281  dobj(a1,Spin)
+
+// -1.2281  dobj(v,Froth)
+-1.2281  dobj(a1,Froth)
+
+// -1.2281  dobj(v,Smooth)
+-1.2281  dobj(a1,Smooth)
+
+// -1.22692  dobj(v,Portafilter)
+-1.22692  dobj(a1,Portafilter)
+
+// -1.2281  dobj(v,Handle)
+-1.2281  dobj(a1,Handle)
+
+// -1.2281  dobj(v,Temper)
+-1.2281  dobj(a1,Temper)
+
+// -1.2281  dobj(v,Beans)
+-1.2281  dobj(a1,Beans)
+
+// -1.2281  dobj(v,Roast)
+-1.2281  dobj(a1,Roast)
+
+// -1.22692  dobj(v,Tank)
+-1.22692  dobj(a1,Tank)
+
+// -1.2281  dobj(v,Knob)
+-1.2281  dobj(a1,Knob)
+
+// -1.2281  dobj(v,Art)
+-1.2281  dobj(a1,Art)
+
+// -1.22692  dobj(v,Dogs)
+-1.22692  dobj(a1,Dogs)
+
+// -1.2281  dobj(v,Fasts)
+-1.2281  dobj(a1,Fasts)
+
+// -1.2281  dobj(v,Clamp)
+-1.2281  dobj(a1,Clamp)
+
+// -1.2281  dobj(v,Workbench)
+-1.2281  dobj(a1,Workbench)
+
+// -1.2281  dobj(v,Boards)
+-1.2281  dobj(a1,Boards)
+
+// -1.2281  dobj(v,Tight)
+-1.2281  dobj(a1,Tight)
+
+// -1.22574  dobj(v,Score)
+-1.22574  dobj(a1,Score)
+
+// -1.22692  dobj(v,Tile)
+-1.22692  dobj(a1,Tile)
+
+// -1.2281  dobj(v,Turn)
+-1.2281  dobj(a1,Turn)
+
+// -1.22692  dobj(v,Bonuses)
+-1.22692  dobj(a1,Bonuses)
+
+// -1.22692  dobj(v,Bonus)
+-1.22692  dobj(a1,Bonus)
+
+// -1.2281  dobj(v,Total)
+-1.2281  dobj(a1,Total)
+
+// -1.2281  dobj(v,Parfait)
+-1.2281  dobj(a1,Parfait)
+
+// -1.2281  dobj(v,Try)
+-1.2281  dobj(a1,Try)
+
+// -1.2281  dobj(v,Chore)
+-1.2281  dobj(a1,Chore)
+
+// -1.2281  dobj(v,Pills)
+-1.2281  dobj(a1,Pills)
+
+// -1.2281  dobj(v,Bedtime)
+-1.2281  dobj(a1,Bedtime)
+
+// -1.2281  dobj(v,Mouth)
+-1.2281  dobj(a1,Mouth)
+
+// -1.2281  dobj(v,Alternative)
+-1.2281  dobj(a1,Alternative)
+
+// -1.2281  dobj(v,Wii)
+-1.2281  dobj(a1,Wii)
+
+// -1.2281  dobj(v,Shot)
+-1.2281  dobj(a1,Shot)
+
+// -1.2281  dobj(v,Mii)
+-1.2281  dobj(a1,Mii)
+
+// -1.2281  dobj(v,Cans)
+-1.2281  dobj(a1,Cans)
+
+// -1.2281  dobj(v,Cart)
+-1.2281  dobj(a1,Cart)
+
+// -1.2281  dobj(v,Tone)
+-1.2281  dobj(a1,Tone)
+
+// -1.2281  dobj(v,Birds)
+-1.2281  dobj(a1,Birds)
+
+// -1.2281  dobj(v,Magnets)
+-1.2281  dobj(a1,Magnets)
+
+// -1.2281  dobj(v,Bookshelves)
+-1.2281  dobj(a1,Bookshelves)
+
+// -1.2281  dobj(v,Dirtiest)
+-1.2281  dobj(a1,Dirtiest)
+
+// -1.2281  dobj(v,Overhauls)
+-1.2281  dobj(a1,Overhauls)
+
+// -1.2281  dobj(v,White)
+-1.2281  dobj(a1,White)
+
+// -1.2281  dobj(v,Accent)
+-1.2281  dobj(a1,Accent)
+
+// -1.2281  dobj(v,Tiles)
+-1.2281  dobj(a1,Tiles)
+
+// -1.2281  dobj(v,Homey)
+-1.2281  dobj(a1,Homey)
+
+// -1.2281  dobj(v,Dishware)
+-1.2281  dobj(a1,Dishware)
+
+// -1.2281  dobj(v,Twist)
+-1.2281  dobj(a1,Twist)
+
+// -1.2281  dobj(v,Decorations)
+-1.2281  dobj(a1,Decorations)
+
+// -1.2281  dobj(v,Sets)
+-1.2281  dobj(a1,Sets)
+
+// -1.2281  dobj(v,Authority)
+-1.2281  dobj(a1,Authority)
