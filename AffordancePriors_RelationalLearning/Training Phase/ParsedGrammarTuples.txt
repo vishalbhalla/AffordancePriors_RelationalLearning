@@ -349,323 +349,146 @@ nn(grinder-13, coffee-12)
 conj_and(blender-9, grinder-13)
 
 dep(blender-9, *NL*-15)
-det(pot-6, a-2)
+det(set-2, A-1)
 
-amod(pot-6, large-3)
+dep(radiate-5, set-2)
 
-amod(pot-6, stainless-4)
+prep_of(set-2, sections-4)
 
-nn(pot-6, steel-5)
+det(calyx-8, the-7)
 
-dobj(Fill-1, pot-6)
+prep_from(radiate-5, calyx-8)
 
-quantmod(4-11, about-8)
+nn(end-13, top-10)
 
-number(4-11, 3-9)
+conj_or(top-10, blossom-12)
 
-dep(4-11, to-10)
+appos(calyx-8, end-13)
 
-num(inches-12, 4-11)
+det(set-18, a-16)
 
-prep_with(pot-6, inches-12)
+amod(set-18, second-17)
 
-nsubj(*NL*-16, 7-14)
+conj_and(radiate-5, set-18)
 
-rcmod(pot-6, *NL*-16)
-num(10-3, 62-1)
+det(end-22, the-20)
 
-dep(10-3, to-2)
+nn(end-22, stem-21)
 
-dep(10-3, *NL*-5)
-dep(of-4, 16-1)
+prep_from(set-18, end-22)
 
-prep(16-1, cm-2)
+dep(radiate-5, *NL*-24)
+det(sets-3, The-1)
 
-dep(of-4, water-5)
+num(sets-3, two-2)
 
-dep(of-4, *NL*-7)
-det(steel-6, a-2)
+nsubjpass(divided-5, sets-3)
 
-advmod(smaller-4, slightly-3)
+auxpass(divided-5, are-4)
 
-amod(steel-6, smaller-4)
+det(ridge-8, a-7)
 
-amod(steel-6, stainless-5)
+agent(divided-5, ridge-8)
 
-nsubj(pan-7, steel-6)
+partmod(ridge-8, running-9)
 
-ccomp(Place-1, pan-7)
+det(pomegranate-12, the-11)
 
-det(water-10, the-9)
+prep_around(running-9, pomegranate-12)
 
-prep_into(pan-7, water-10)
+num(thirds-15, two-14)
 
-det(pan-14, the-12)
+prep_about(pomegranate-12, thirds-15)
 
-amod(pan-14, first-13)
+prep_of(thirds-15, way-17)
 
-prep_of(water-10, pan-14)
+advmod(running-9, down-18)
 
-nsubj(Place-1, *NL*-16)
-det(pans-3, the-2)
+dep(down-18, from-19)
 
-dobj(Set-1, pans-3)
+det(*NL*-23, the-20)
 
-det(*NL*-8, the-5)
+nn(*NL*-23, calyx-21)
 
-nn(*NL*-8, stove-6)
+pobj(from-19, *NL*-23)
+nsubj(want-3, You-1)
 
-prep_onto(Set-1, *NL*-8)
-poss(milk-4, your-2)
+aux(want-3, may-2)
 
-amod(milk-4, raw-3)
+aux(put-5, to-4)
 
-dobj(Pour-1, milk-4)
+xcomp(want-3, put-5)
 
-det(*NL*-10, the-6)
+nn(gloves-7, rubber-6)
 
-amod(*NL*-10, second-7)
+dobj(put-5, gloves-7)
 
-nn(*NL*-10, pan-8)
+prt(put-5, on-8)
 
-prep_into(Pour-1, *NL*-10)
-det(thermometer-3, a-2)
+det(stain-12, the-10)
 
-dep(Clip-1, thermometer-3)
+nn(stain-12, pomegranate-11)
 
-det(side-6, the-5)
+nsubj(fierce-16, stain-12)
 
-prep_to(thermometer-3, side-6)
+aux(fierce-16, can-13)
 
-det(*NL*-15, the-8)
+cop(fierce-16, be-14)
 
-amod(*NL*-15, second-9)
+advmod(fierce-16, pretty-15)
 
-dep(*NL*-15, pan-10)
+parataxis(want-3, fierce-16)
 
-det(milk-13, the-12)
+det(top-20, the-19)
 
-prep_into(pan-10, milk-13)
+prep_on(lodged-30, top-20)
 
-prep_of(side-6, *NL*-15)
-det(stopper-3, a-2)
+det(bit-23, a-22)
 
-dobj(Put-1, stopper-3)
+nsubjpass(lodged-30, bit-23)
 
-det(drain-6, the-5)
+det(calyx-26, the-25)
 
-prep_in(Put-1, drain-6)
+prep_of(bit-23, calyx-26)
 
-poss(*NL*-11, your-8)
+aux(lodged-30, may-27)
 
-nn(*NL*-11, sink-9)
+advmod(lodged-30, still-28)
 
-prep_of(drain-6, *NL*-11)
-det(sink-3, the-2)
+auxpass(lodged-30, be-29)
 
-dep(Fill-1, sink-3)
+dep(want-3, lodged-30)
 
-amod(water-6, cold-5)
+det(fruit-33, the-32)
 
-prep_with(sink-3, water-6)
+prep_into(lodged-30, fruit-33)
 
-conj_and(water-6, ice-8)
+det(fruit-38, the-37)
 
-dep(sink-3, *NL*-10)
-mark(*NL*-24, Because-1)
+nn(*NL*-46, fruit-38)
 
-det(process-3, the-2)
+advmod(made-42, where-40)
 
-nsubj(*NL*-24, process-3)
+nsubj(made-42, you-41)
 
-prepc_of(process-3, heating-5)
+conj_and(fruit-38, made-42)
 
-det(milk-7, the-6)
+poss(slice-44, your-43)
 
-nsubj(quick-10, milk-7)
+dobj(made-42, slice-44)
 
-cop(quick-10, is-8)
+prep_depending_on(lodged-30, *NL*-46)
+mark(is-3, If-1)
 
-advmod(quick-10, fairly-9)
+nsubj(is-3, it-2)
 
-ccomp(heating-5, quick-10)
+advcl(remove-5, is-3)
 
-dep(heating-5, preparing-12)
+nsubj(*NL*-9, it-6)
 
-det(procedure-15, the-13)
+nn(*NL*-9, gently-7)
 
-amod(procedure-15, cooling-14)
-
-dobj(preparing-12, procedure-15)
-
-advmod(preparing-12, ahead-16)
-
-dep(ahead-16, of-17)
-
-dep(of-17, time-18)
-
-rcmod(time-18, prevents-19)
-
-xcomp(prevents-19, overheating-20)
-
-det(milk-22, the-21)
-
-dobj(overheating-20, milk-22)
-det(heat-3, the-2)
-
-dobj(Crank-1, heat-3)
-
-dep(*NL*-7, high-5)
-
-prep_to(Crank-1, *NL*-7)
-advmod(Stir-1, repeatedly-2)
-
-aux(prevent-4, to-3)
-
-xcomp(Stir-1, prevent-4)
-
-xcomp(prevent-4, burning-5)
-
-det(*NL*-9, the-6)
-
-nn(*NL*-9, milk-7)
-
-dobj(burning-5, *NL*-9)
-nsubj(*NL*-12, Milk-1)
-
-nsubj(reaches-3, that-2)
-
-rcmod(Milk-1, reaches-3)
-
-nsubj(cause-9, boiling-4)
-
-amod(temperatures-7, higher-6)
-
-conj_or(boiling-4, temperatures-7)
-
-aux(cause-9, can-8)
-
-ccomp(reaches-3, cause-9)
-
-dobj(cause-9, scorching-10)
-det(milk-3, the-2)
-
-dobj(Keep-1, milk-3)
-
-num(*NL*-11, 161-5)
-
-nn(*NL*-11, degrees-6)
-
-nn(*NL*-11, Fahrenheit-7)
-
-nn(*NL*-11, 71-9)
-
-prep_at(Keep-1, *NL*-11)
-num(Celsius-3, 66-1)
-
-nn(Celsius-3, degrees-2)
-
-num(seconds-7, 30-6)
-
-prep_for(Celsius-3, seconds-7)
-
-partmod(Celsius-3, *NL*-9)
-nsubj(need-3, You-1)
-
-aux(need-3, might-2)
-
-aux(decrease-5, to-4)
-
-xcomp(need-3, decrease-5)
-
-conj_or(decrease-5, increase-7)
-
-det(burner-9, the-8)
-
-dobj(decrease-5, burner-9)
-
-prep_in(burner-9, order-11)
-
-aux(keep-13, to-12)
-
-xcomp(decrease-5, keep-13)
-
-det(temperature-16, a-14)
-
-amod(temperature-16, steady-15)
-
-dobj(keep-13, temperature-16)
-
-num(degrees-19, 161-18)
-
-prep_of(temperature-16, degrees-19)
-
-nn(*NL*-24, 71-22)
-
-prep_fahrenheit(keep-13, *NL*-24)
-num(Celsius-3, 66-1)
-
-nn(Celsius-3, degrees-2)
-
-dep(Celsius-3, *NL*-6)
-det(milk-3, the-2)
-
-dobj(Cool-1, milk-3)
-
-num(degrees-6, 40-5)
-
-prep_to(Cool-1, degrees-6)
-
-nsubj(Cool-1, Fahrenheit-7)
-
-nsubj(*NL*-11, 4-9)
-
-rcmod(Fahrenheit-7, *NL*-11)
-num(Celsius-3, 44-1)
-
-nn(Celsius-3, degrees-2)
-
-nn(*NL*-9, stirring-6)
-
-nn(*NL*-9, constantly-7)
-
-appos(Celsius-3, *NL*-9)
-nsubj(take-3, This-1)
-
-aux(take-3, can-2)
-
-advmod(much-5, as-4)
-
-dep(minutes-8, much-5)
-
-advmod(minutes-8, as-6)
-
-num(minutes-8, 40-7)
-
-dep(take-3, minutes-8)
-
-dep(minutes-8, *NL*-10)
-det(milk-2, The-1)
-
-nsubj(cool-4, milk-2)
-
-aux(cool-4, will-3)
-
-advmod(cool-4, slowly-5)
-
-advmod(cool-4, unevenly-7)
-
-mark(do-10, if-8)
-
-nsubj(do-10, you-9)
-
-dep(unevenly-7, do-10)
-
-neg(do-10, not-11)
-
-conj_and(cool-4, stir-12)
-
-dep(cool-4, *NL*-14)
+xcomp(remove-5, *NL*-9)
 det(setting-6, a-2)
 
 amod(setting-6, true-3)
@@ -1266,3 +1089,320 @@ amod(wine-13, red-12)
 prep_to(white-10, wine-13)
 
 advmod(move-8, *NL*-15)
+det(pot-6, a-2)
+
+amod(pot-6, large-3)
+
+amod(pot-6, stainless-4)
+
+nn(pot-6, steel-5)
+
+dobj(Fill-1, pot-6)
+
+quantmod(4-11, about-8)
+
+number(4-11, 3-9)
+
+dep(4-11, to-10)
+
+num(inches-12, 4-11)
+
+prep_with(pot-6, inches-12)
+
+nsubj(*NL*-16, 7-14)
+
+rcmod(pot-6, *NL*-16)
+num(10-3, 62-1)
+
+dep(10-3, to-2)
+
+dep(10-3, *NL*-5)
+dep(of-4, 16-1)
+
+prep(16-1, cm-2)
+
+dep(of-4, water-5)
+
+dep(of-4, *NL*-7)
+det(steel-6, a-2)
+
+advmod(smaller-4, slightly-3)
+
+amod(steel-6, smaller-4)
+
+amod(steel-6, stainless-5)
+
+nsubj(pan-7, steel-6)
+
+ccomp(Place-1, pan-7)
+
+det(water-10, the-9)
+
+prep_into(pan-7, water-10)
+
+det(pan-14, the-12)
+
+amod(pan-14, first-13)
+
+prep_of(water-10, pan-14)
+
+nsubj(Place-1, *NL*-16)
+det(pans-3, the-2)
+
+dobj(Set-1, pans-3)
+
+det(*NL*-8, the-5)
+
+nn(*NL*-8, stove-6)
+
+prep_onto(Set-1, *NL*-8)
+poss(milk-4, your-2)
+
+amod(milk-4, raw-3)
+
+dobj(Pour-1, milk-4)
+
+det(*NL*-10, the-6)
+
+amod(*NL*-10, second-7)
+
+nn(*NL*-10, pan-8)
+
+prep_into(Pour-1, *NL*-10)
+det(thermometer-3, a-2)
+
+dep(Clip-1, thermometer-3)
+
+det(side-6, the-5)
+
+prep_to(thermometer-3, side-6)
+
+det(*NL*-15, the-8)
+
+amod(*NL*-15, second-9)
+
+dep(*NL*-15, pan-10)
+
+det(milk-13, the-12)
+
+prep_into(pan-10, milk-13)
+
+prep_of(side-6, *NL*-15)
+det(stopper-3, a-2)
+
+dobj(Put-1, stopper-3)
+
+det(drain-6, the-5)
+
+prep_in(Put-1, drain-6)
+
+poss(*NL*-11, your-8)
+
+nn(*NL*-11, sink-9)
+
+prep_of(drain-6, *NL*-11)
+det(sink-3, the-2)
+
+dep(Fill-1, sink-3)
+
+amod(water-6, cold-5)
+
+prep_with(sink-3, water-6)
+
+conj_and(water-6, ice-8)
+
+dep(sink-3, *NL*-10)
+mark(*NL*-24, Because-1)
+
+det(process-3, the-2)
+
+nsubj(*NL*-24, process-3)
+
+prepc_of(process-3, heating-5)
+
+det(milk-7, the-6)
+
+nsubj(quick-10, milk-7)
+
+cop(quick-10, is-8)
+
+advmod(quick-10, fairly-9)
+
+ccomp(heating-5, quick-10)
+
+dep(heating-5, preparing-12)
+
+det(procedure-15, the-13)
+
+amod(procedure-15, cooling-14)
+
+dobj(preparing-12, procedure-15)
+
+advmod(preparing-12, ahead-16)
+
+dep(ahead-16, of-17)
+
+dep(of-17, time-18)
+
+rcmod(time-18, prevents-19)
+
+xcomp(prevents-19, overheating-20)
+
+det(milk-22, the-21)
+
+dobj(overheating-20, milk-22)
+det(heat-3, the-2)
+
+dobj(Crank-1, heat-3)
+
+dep(*NL*-7, high-5)
+
+prep_to(Crank-1, *NL*-7)
+advmod(Stir-1, repeatedly-2)
+
+aux(prevent-4, to-3)
+
+xcomp(Stir-1, prevent-4)
+
+xcomp(prevent-4, burning-5)
+
+det(*NL*-9, the-6)
+
+nn(*NL*-9, milk-7)
+
+dobj(burning-5, *NL*-9)
+nsubj(*NL*-12, Milk-1)
+
+nsubj(reaches-3, that-2)
+
+rcmod(Milk-1, reaches-3)
+
+nsubj(cause-9, boiling-4)
+
+amod(temperatures-7, higher-6)
+
+conj_or(boiling-4, temperatures-7)
+
+aux(cause-9, can-8)
+
+ccomp(reaches-3, cause-9)
+
+dobj(cause-9, scorching-10)
+det(milk-3, the-2)
+
+dobj(Keep-1, milk-3)
+
+num(*NL*-11, 161-5)
+
+nn(*NL*-11, degrees-6)
+
+nn(*NL*-11, Fahrenheit-7)
+
+nn(*NL*-11, 71-9)
+
+prep_at(Keep-1, *NL*-11)
+num(Celsius-3, 66-1)
+
+nn(Celsius-3, degrees-2)
+
+num(seconds-7, 30-6)
+
+prep_for(Celsius-3, seconds-7)
+
+partmod(Celsius-3, *NL*-9)
+nsubj(need-3, You-1)
+
+aux(need-3, might-2)
+
+aux(decrease-5, to-4)
+
+xcomp(need-3, decrease-5)
+
+conj_or(decrease-5, increase-7)
+
+det(burner-9, the-8)
+
+dobj(decrease-5, burner-9)
+
+prep_in(burner-9, order-11)
+
+aux(keep-13, to-12)
+
+xcomp(decrease-5, keep-13)
+
+det(temperature-16, a-14)
+
+amod(temperature-16, steady-15)
+
+dobj(keep-13, temperature-16)
+
+num(degrees-19, 161-18)
+
+prep_of(temperature-16, degrees-19)
+
+nn(*NL*-24, 71-22)
+
+prep_fahrenheit(keep-13, *NL*-24)
+num(Celsius-3, 66-1)
+
+nn(Celsius-3, degrees-2)
+
+dep(Celsius-3, *NL*-6)
+det(milk-3, the-2)
+
+dobj(Cool-1, milk-3)
+
+num(degrees-6, 40-5)
+
+prep_to(Cool-1, degrees-6)
+
+nsubj(Cool-1, Fahrenheit-7)
+
+nsubj(*NL*-11, 4-9)
+
+rcmod(Fahrenheit-7, *NL*-11)
+num(Celsius-3, 44-1)
+
+nn(Celsius-3, degrees-2)
+
+nn(*NL*-9, stirring-6)
+
+nn(*NL*-9, constantly-7)
+
+appos(Celsius-3, *NL*-9)
+nsubj(take-3, This-1)
+
+aux(take-3, can-2)
+
+advmod(much-5, as-4)
+
+dep(minutes-8, much-5)
+
+advmod(minutes-8, as-6)
+
+num(minutes-8, 40-7)
+
+dep(take-3, minutes-8)
+
+dep(minutes-8, *NL*-10)
+det(milk-2, The-1)
+
+nsubj(cool-4, milk-2)
+
+aux(cool-4, will-3)
+
+advmod(cool-4, slowly-5)
+
+advmod(cool-4, unevenly-7)
+
+mark(do-10, if-8)
+
+nsubj(do-10, you-9)
+
+dep(unevenly-7, do-10)
+
+neg(do-10, not-11)
+
+conj_and(cool-4, stir-12)
+
+dep(cool-4, *NL*-14)
