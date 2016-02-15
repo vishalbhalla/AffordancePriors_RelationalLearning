@@ -2,9 +2,8 @@
 //nsubj(verb,subject)
 dobj(verb,object)
 
-// Learn weight for each verb subject
-//nsubj(v, +s) ^ nsubj(+v, s)
-//!nsubj(v,+s) v !nsubj(+v,s)
-
+// Learn weight for each verb object
 //dobj(v, +o) ^ dobj(+v, o)
-1 !dobj(ve,+ob) v !dobj(+ve,ob)
+// 1 !dobj(ve,+ob) v !dobj(+ve,ob)
+1 dobj(ve,+ob)
+1 dobj(+ve,ob)

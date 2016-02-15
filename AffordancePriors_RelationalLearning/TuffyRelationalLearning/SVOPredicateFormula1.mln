@@ -1,3 +1,8 @@
 
+//nsubj(verb,subject)
+//1 !nsubj(ve,+sb) v !nsubj(+ve,sb)
+
+
 nsubj(verb,subject)
-1 !nsubj(ve,+sb) v !nsubj(+ve,sb)
+1 nsubj(+ve,person)
+
