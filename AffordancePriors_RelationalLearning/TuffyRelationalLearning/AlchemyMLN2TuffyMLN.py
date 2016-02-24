@@ -486,6 +486,12 @@ if __name__ == '__main__':
                 'VOTuples.db',
                 'learnwts.mln']
 
+    # sys.argv = ['AlchemyMLN2TuffyMLN.py',
+    #             'SVOPredicateFormulaTest.mln',
+    #             'SVOTuples.db',
+    #             'learnwtsSVO.mln']
+
+
     if len(sys.argv) != 4:
         # The command name.
         cmd_name = sys.argv[0].split('/')[-1].split('\\')[-1]
